@@ -12,6 +12,7 @@ Contributions are always welcome!
 ## Contents
 * [Introduction](#introduction)
 * [General](#general)
+* [Demos](#demos)
 * [Sample Projects](#sample-projects)
 * [Videos](#videos)
 * [Articles](#articles)
@@ -29,7 +30,10 @@ Please note that if you want to open Blazor projects in Visual Studio, you must 
 * [FAQ](https://github.com/aspnet/Blazor/wiki/FAQ) - FAQ
 * [Learn Blazor](https://learn-blazor.com) - An unofficial documentation website
 * [Introduction to ASP.NET Core](https://docs.microsoft.com/en-us/aspnet/core/) - Introduction to ASP.NET Core
+
+## Demos
 * [Demo](https://blazor-demo.github.io/) - Official demo website
+* [RealWorld demo](https://blazor-realworld.azurewebsites.net/) - RealWorld demo website
 
 ## Sample Projects
 * [Flight Finder](https://github.com/aspnet/samples/tree/master/samples/aspnetcore/blazor) - Flight Finder
