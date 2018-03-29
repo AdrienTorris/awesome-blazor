@@ -45,6 +45,7 @@ Please note that if you want to open Blazor projects in Visual Studio, you must 
 
 ## Videos
 * [ASP.NET Community Standup](https://www.youtube.com/watch?v=Ta_qXpXQqGQ) - ASP.NET Community Standup - Feb 6, 2018 - Blazor Update
+* [Web Apps can’t really do that, can they? - Steve Sanderson](https://www.youtube.com/watch?v=MiLAE6HMr10&feature=youtu.be&t=31m45s) - July 10, 2017 - Web Apps can’t really do that, can they? - Steve Sanderson
 
 ## Articles
 * Basic knowledge
