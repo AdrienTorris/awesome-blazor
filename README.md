@@ -10,10 +10,15 @@ Inspired by [awesome](https://github.com/sindresorhus/awesome), [awesome-dotnet]
 Contributions are always welcome! 
 
 ## Contents
+* [Introduction](#introduction)
 * [General](#general)
 * [Sample Projects](#sample-projects)
 * [Articles](#articles)
 * [Community](#community)
+
+## Introduction
+### What is Blazor ?
+Blazor is an experimental .NET web framework using C#/Razor and HTML that runs in the browser with WebAssembly.
 
 ## General
 * [Blazor Documentation](https://docs.microsoft.com/en-us/aspnet/core/client-side/blazor) - The official Blazor documentation site. (404 error for the moment)
