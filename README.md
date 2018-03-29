@@ -30,6 +30,7 @@ Blazor is an experimental .NET web framework using C#/Razor and HTML that runs i
 * [Demo](https://blazor-demo.github.io/) - Official demo website
 
 ## Sample Projects
+* [Flight Finder](https://github.com/aspnet/samples/tree/master/samples/aspnetcore/blazor) - Flight Finder
 * [Blazor realworld example app](https://github.com/torhovland/blazor-realworld-example-app) - Blazor realworld example app
 
 ## Videos
