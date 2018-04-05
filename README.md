@@ -36,10 +36,12 @@ Please note that if you want to open Blazor projects in Visual Studio, you must 
 ## Demos
 * [Demo](https://blazor-demo.github.io/) - Official demo website
 * [RealWorld demo](https://blazor-realworld.azurewebsites.net/) - RealWorld demo website
+* [VocaDB lyrics display](https://lyrics-proto.vocadb.net/) - VocaDB lyrics display
 
 ## Sample Projects
 * [Flight Finder](https://github.com/aspnet/samples/tree/master/samples/aspnetcore/blazor) - Flight Finder
 * [Blazor realworld example app](https://github.com/torhovland/blazor-realworld-example-app) - Blazor realworld example app
+* [VocaDB lyrics display Blazor proto](https://github.com/riipah/vocadb-lyrics-blazor-proto) - VocaDB lyrics display Blazor proto
 
 ## Videos
 * [ASP.NET Community Standup - Blazor Update with Dan Roth and Steve Sanderson](https://www.youtube.com/watch?v=_b_fUq5DU0U) - April 3, 2018 - ASP.NET Community Standup - Blazor Update with Dan Roth and Steve Sanderson
@@ -54,9 +56,11 @@ Please note that if you want to open Blazor projects in Visual Studio, you must 
   * [A new experiment: Browser-based web apps with .NET and Blazor](https://blogs.msdn.microsoft.com/webdev/2018/02/06/blazor-experimental-project/) February 6, 2018 - A new experiment: Browser-based web apps with .NET and Blazor
   * [Blazor: a technical introduction](http://blog.stevensanderson.com/2018/02/06/blazor-intro/) February 6, 2018 - Blazor: a technical introduction
   * [Running Blazor on Mono in the browser](http://blog.stevensanderson.com/2017/11/05/blazor-on-mono/) - November 5, 2017 - Running Blazor on Mono in the browser
+  * [.NET and WebAssembly - Is this the future of the front-end?](https://www.hanselman.com/blog/NETAndWebAssemblyIsThisTheFutureOfTheFrontend.aspx) - August 12, 2017 - .NET and WebAssembly - Is this the future of the front-end?
   
 ## Podcasts
 * [.NET Rocks 1455, WebAssembly and Blazor with Steve Sanderson](https://www.dotnetrocks.com/?show=1455) - July 4, 2017 - .NET Rocks, WebAssembly and Blazor with Steve Sanderson
+* [Inside WebAssembly with Mozilla Fellow David Bryant](https://hanselminutes.com/581/inside-webassembly-with-mozilla-fellow-david-bryant) - May 25, 2017 - Inside WebAssembly with Mozilla Fellow David Bryant
   
 ## Community
 * [Gitter](https://gitter.im/aspnet/Blazor) - Blazor discussion on Gitter
