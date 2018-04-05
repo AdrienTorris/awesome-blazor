@@ -13,6 +13,7 @@ Contributions are always welcome!
 * [Sample Projects](#sample-projects)
 * [Videos](#videos)
 * [Articles](#articles)
+* [Podcasts](#podcasts)
 * [Community](#community)
 
 ## Introduction
@@ -41,7 +42,9 @@ Please note that if you want to open Blazor projects in Visual Studio, you must 
 * [Blazor realworld example app](https://github.com/torhovland/blazor-realworld-example-app) - Blazor realworld example app
 
 ## Videos
-* [ASP.NET Community Standup](https://www.youtube.com/watch?v=Ta_qXpXQqGQ) - ASP.NET Community Standup - Feb 6, 2018 - Blazor Update
+* [ASP.NET Community Standup - Blazor Update with Dan Roth and Steve Sanderson](https://www.youtube.com/watch?v=_b_fUq5DU0U) - April 3, 2018 - ASP.NET Community Standup - Blazor Update with Dan Roth and Steve Sanderson
+* [WebAssembly and Blazor - .NET Concept of the Week - Episode 9](https://www.youtube.com/watch?v=5HSKDGHijdI) - March 4, 2018 - WebAssembly and Blazor - .NET Concept of the Week - Episode 9
+* [ASP.NET Community Standup](https://www.youtube.com/watch?v=Ta_qXpXQqGQ) - Feb 6, 2018 - ASP.NET Community Standup - Blazor Update
 * [Web Apps can’t really do that, can they? - Steve Sanderson](https://www.youtube.com/watch?v=MiLAE6HMr10&feature=youtu.be&t=31m45s) - July 10, 2017 - Web Apps can’t really do that, can they? - Steve Sanderson
 
 ## Articles
@@ -50,6 +53,10 @@ Please note that if you want to open Blazor projects in Visual Studio, you must 
   * [Get started building .NET web apps that run in the browser with Blazor](https://blogs.msdn.microsoft.com/webdev/2018/03/22/get-started-building-net-web-apps-in-the-browser-with-blazor/) March 22, 2018 - Get started building .NET web apps that run in the browser with Blazor
   * [A new experiment: Browser-based web apps with .NET and Blazor](https://blogs.msdn.microsoft.com/webdev/2018/02/06/blazor-experimental-project/) February 6, 2018 - A new experiment: Browser-based web apps with .NET and Blazor
   * [Blazor: a technical introduction](http://blog.stevensanderson.com/2018/02/06/blazor-intro/) February 6, 2018 - Blazor: a technical introduction
+  * [Running Blazor on Mono in the browser](http://blog.stevensanderson.com/2017/11/05/blazor-on-mono/) - November 5, 2017 - Running Blazor on Mono in the browser
+  
+## Podcasts
+* [.NET Rocks 1455, WebAssembly and Blazor with Steve Sanderson](https://www.dotnetrocks.com/?show=1455) - July 4, 2017 - .NET Rocks, WebAssembly and Blazor with Steve Sanderson
   
 ## Community
 * [Gitter](https://gitter.im/aspnet/Blazor) - Blazor discussion on Gitter
