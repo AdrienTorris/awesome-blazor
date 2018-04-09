@@ -47,6 +47,7 @@ Please note that if you want to open Blazor projects in Visual Studio, you must 
 
 ## Libraries
 * [Blazor-Redux](https://github.com/torhovland/blazor-redux) - Connecting a Redux state store with Blazor
+* [Trail](https://nuget.org/packages/Trail) - DSL for writing Blazor markup in F# (with an [adapter](https://nuget.org/packages/Trail.BlazorRedux) for working with BlazorRedux)
 
 ## Videos
 * [ASP.NET Community Standup - Blazor Update with Dan Roth and Steve Sanderson](https://www.youtube.com/watch?v=_b_fUq5DU0U) - April 3, 2018 - ASP.NET Community Standup - Blazor Update with Dan Roth and Steve Sanderson
