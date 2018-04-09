@@ -11,6 +11,7 @@ Contributions are always welcome!
 * [General](#general)
 * [Demos](#demos)
 * [Sample Projects](#sample-projects)
+* [Libraries](#libraries)
 * [Videos](#videos)
 * [Articles](#articles)
 * [Podcasts](#podcasts)
@@ -43,6 +44,9 @@ Please note that if you want to open Blazor projects in Visual Studio, you must 
 * [Flight Finder](https://github.com/aspnet/samples/tree/master/samples/aspnetcore/blazor) - Flight Finder
 * [Blazor realworld example app](https://github.com/torhovland/blazor-realworld-example-app) - Blazor realworld example app
 * [VocaDB lyrics display Blazor proto](https://github.com/riipah/vocadb-lyrics-blazor-proto) - VocaDB lyrics display Blazor proto
+
+## Libraries
+* [Blazor-Redux](https://github.com/torhovland/blazor-redux) - Connecting a Redux state store with Blazor
 
 ## Videos
 * [ASP.NET Community Standup - Blazor Update with Dan Roth and Steve Sanderson](https://www.youtube.com/watch?v=_b_fUq5DU0U) - April 3, 2018 - ASP.NET Community Standup - Blazor Update with Dan Roth and Steve Sanderson
