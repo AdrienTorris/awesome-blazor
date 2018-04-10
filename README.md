@@ -39,11 +39,13 @@ Please note that if you want to open Blazor projects in Visual Studio, you must 
 * [Flight Finder](http://blazor-flight-finder.azurewebsites.net/) - Flight Finder
 * [RealWorld demo](https://blazor-realworld.azurewebsites.net/) - RealWorld demo website
 * [VocaDB lyrics display](https://lyrics-proto.vocadb.net/) - VocaDB lyrics display
+* [Money demo](http://money.neptuo.com) - Money
 
 ## Sample Projects
 * [Flight Finder](https://github.com/aspnet/samples/tree/master/samples/aspnetcore/blazor) - Flight Finder
 * [Blazor realworld example app](https://github.com/torhovland/blazor-realworld-example-app) - Blazor realworld example app
 * [VocaDB lyrics display Blazor proto](https://github.com/riipah/vocadb-lyrics-blazor-proto) - VocaDB lyrics display Blazor proto
+* [Money sample](https://github.com/maraf/Money) - Money
 
 ## Libraries
 * [Blazor-Redux](https://github.com/torhovland/blazor-redux) - Connecting a Redux state store with Blazor
