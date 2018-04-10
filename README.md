@@ -39,14 +39,14 @@ Please note that if you want to open Blazor projects in Visual Studio, you must 
 * [Flight Finder](http://blazor-flight-finder.azurewebsites.net/) - Flight Finder
 * [RealWorld demo](https://blazor-realworld.azurewebsites.net/) - RealWorld demo website
 * [VocaDB lyrics display](https://lyrics-proto.vocadb.net/) - VocaDB lyrics display
-* [Money demo](http://money.neptuo.com) - Money
+* [Money](http://money.neptuo.com) - Money
 
 ## Sample Projects
 * [Flight Finder](https://github.com/aspnet/samples/tree/master/samples/aspnetcore/blazor) - Flight Finder
-* [Blazor realworld example app](https://github.com/torhovland/blazor-realworld-example-app) - Blazor realworld example app
-* [VocaDB lyrics display Blazor proto](https://github.com/riipah/vocadb-lyrics-blazor-proto) - VocaDB lyrics display Blazor proto
-* [Money sample](https://github.com/maraf/Money) - Money
-* [Blazor implementation of Angular Tour of Heroes](https://github.com/lohithgn/blazor-tour-of-heroes) - Tour of Heroes
+* [Blazor realworld](https://github.com/torhovland/blazor-realworld-example-app) - Blazor realworld example app
+* [VocaDB lyrics](https://github.com/riipah/vocadb-lyrics-blazor-proto) - VocaDB lyrics display Blazor proto
+* [Money](https://github.com/maraf/Money) - Money
+* [Tour of Heroes](https://github.com/lohithgn/blazor-tour-of-heroes) - Blazor implementation of Angular Tour of Heroes
 
 ## Libraries
 * [Blazor-Redux](https://github.com/torhovland/blazor-redux) - Connecting a Redux state store with Blazor
@@ -67,7 +67,7 @@ Please note that if you want to open Blazor projects in Visual Studio, you must 
 * [.NET and WebAssembly - Is this the future of the front-end?](https://www.hanselman.com/blog/NETAndWebAssemblyIsThisTheFutureOfTheFrontend.aspx) - August 12, 2017 - .NET and WebAssembly - Is this the future of the front-end?
   
 ## Podcasts
-* [.NET Rocks 1455, WebAssembly and Blazor with Steve Sanderson](https://www.dotnetrocks.com/?show=1455) - July 4, 2017 - .NET Rocks, WebAssembly and Blazor with Steve Sanderson
+* [.NET Rocks, WebAssembly and Blazor with Steve Sanderson](https://www.dotnetrocks.com/?show=1455) - July 4, 2017 - .NET Rocks 1455, WebAssembly and Blazor with Steve Sanderson
 * [Inside WebAssembly with Mozilla Fellow David Bryant](https://hanselminutes.com/581/inside-webassembly-with-mozilla-fellow-david-bryant) - May 25, 2017 - Inside WebAssembly with Mozilla Fellow David Bryant
   
 ## Community
