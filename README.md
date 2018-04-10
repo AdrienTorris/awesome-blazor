@@ -46,6 +46,7 @@ Please note that if you want to open Blazor projects in Visual Studio, you must 
 * [Blazor realworld example app](https://github.com/torhovland/blazor-realworld-example-app) - Blazor realworld example app
 * [VocaDB lyrics display Blazor proto](https://github.com/riipah/vocadb-lyrics-blazor-proto) - VocaDB lyrics display Blazor proto
 * [Money sample](https://github.com/maraf/Money) - Money
+* [Blazor implementation of Angular Tour of Heroes](https://github.com/lohithgn/blazor-tour-of-heroes) - Tour of Heroes
 
 ## Libraries
 * [Blazor-Redux](https://github.com/torhovland/blazor-redux) - Connecting a Redux state store with Blazor
