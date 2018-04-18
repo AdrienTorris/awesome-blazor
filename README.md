@@ -33,6 +33,9 @@ Please note that if you want to open Blazor projects in Visual Studio, you must 
 * [FAQ](https://github.com/aspnet/Blazor/wiki/FAQ) - FAQ
 * [Learn Blazor](https://learn-blazor.com) - An unofficial documentation website
 * [Introduction to ASP.NET Core](https://docs.microsoft.com/en-us/aspnet/core/) - Introduction to ASP.NET Core
+* [ASP.NET Blog](https://blogs.msdn.microsoft.com/webdev/category/blazor/) - Blazor topic on the ASP.NET blog
+* [Blazor.net](http://blazor.net/) - Blazor.net (Official ?)
+* [Blazor bites](https://codedaze.io/tag/blazor-bites/) - Blazor bites serie on codedaze.io
 
 ## Demos
 * [Demo](https://blazor-demo.github.io/) - Official demo website
@@ -60,6 +63,7 @@ Please note that if you want to open Blazor projects in Visual Studio, you must 
 * [Web Apps can’t really do that, can they? - Steve Sanderson](https://www.youtube.com/watch?v=MiLAE6HMr10&feature=youtu.be&t=31m45s) - July 10, 2017 - Web Apps can’t really do that, can they? - Steve Sanderson
 
 ## Articles
+* [Blazor 0.2.0 release now available](https://blogs.msdn.microsoft.com/webdev/2018/04/17/blazor-0-2-0-release-now-available/) April 18, 2018 - Blazor 0.2.0 release now available
 * ['Death to JavaScript!' Blazor, for .NET Web Apps Using WebAssembly, Goes Alpha](https://visualstudiomagazine.com/articles/2018/03/23/blazor-alpha.aspx) March 23, 2018 - 'Death to JavaScript!' Blazor, for .NET Web Apps Using WebAssembly, Goes Alpha
 * [Get started building .NET web apps that run in the browser with Blazor](https://blogs.msdn.microsoft.com/webdev/2018/03/22/get-started-building-net-web-apps-in-the-browser-with-blazor/) March 22, 2018 - Get started building .NET web apps that run in the browser with Blazor
 * [A new experiment: Browser-based web apps with .NET and Blazor](https://blogs.msdn.microsoft.com/webdev/2018/02/06/blazor-experimental-project/) February 6, 2018 - A new experiment: Browser-based web apps with .NET and Blazor
