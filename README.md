@@ -43,6 +43,7 @@ Please note that if you want to open Blazor projects in Visual Studio, you must 
 * [RealWorld demo](https://blazor-realworld.azurewebsites.net/) - RealWorld demo website
 * [VocaDB lyrics display](https://lyrics-proto.vocadb.net/) - VocaDB lyrics display
 * [Money](http://money.neptuo.com) - Money
+* [BlazeDown](http://edcharbeneau.com/BlazeDown) - BlazeDown, online Markdown editor
 
 ## Sample Projects
 * [Flight Finder](https://github.com/aspnet/samples/tree/master/samples/aspnetcore/blazor) - Flight Finder
@@ -50,6 +51,7 @@ Please note that if you want to open Blazor projects in Visual Studio, you must 
 * [VocaDB lyrics](https://github.com/riipah/vocadb-lyrics-blazor-proto) - VocaDB lyrics display Blazor proto
 * [Money](https://github.com/maraf/Money) - Money
 * [Tour of Heroes](https://github.com/lohithgn/blazor-tour-of-heroes) - Blazor implementation of Angular Tour of Heroes
+* [BlazeDown](https://github.com/EdCharbeneau/BlazeDown) - BlazeDown, online Markdown editor
 
 ## Libraries
 * [Blazor-Redux](https://github.com/torhovland/blazor-redux) - Connecting a Redux state store with Blazor
