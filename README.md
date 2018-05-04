@@ -56,6 +56,7 @@ Please note that if you want to open Blazor projects in Visual Studio, you must 
 ## Libraries
 * [Blazor-Redux](https://github.com/torhovland/blazor-redux) - Connecting a Redux state store with Blazor
 * [Trail](https://nuget.org/packages/Trail) - DSL for writing Blazor markup in F# (with an [adapter](https://nuget.org/packages/Trail.BlazorRedux) for working with BlazorRedux)
+* [BlazorComponents](https://github.com/muqeet-khan/BlazorComponents) - Reusable components for Blazor. Starting with ChartJS interop.
 
 ## Videos
 * [Develop ASP.NET Blazor Apps in a Docker Container](https://www.youtube.com/watch?v=jGyFKH5y6LA) April 26, 2018 - Develop ASP.NET Blazor Apps in a Docker Container, from Coding Blocks
