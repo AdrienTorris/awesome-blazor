@@ -18,7 +18,7 @@ Contributions are always welcome!
 * [Community](#community)
 
 ## Introduction
-### What is Blazor ?
+### What is Blazor?
 Blazor is an experimental .NET web framework using C#/Razor and HTML that runs in the browser with WebAssembly.
 
 ### Warning
