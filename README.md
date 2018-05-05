@@ -29,35 +29,35 @@ Blazor is a really early-stage project, it's not a mature technology and it's ab
 Please note that if you want to open Blazor projects in Visual Studio, you must have [Visual Studio 15.7 Preview 1](https://www.visualstudio.com/vs/preview/) or later and the [.NET Core 2.1 Preview 1 SDK](https://www.microsoft.com/net/download/dotnet-core/sdk-2.1.300-preview1).
 
 ## General
-* [Blazor Documentation](https://docs.microsoft.com/en-us/aspnet/core/client-side/blazor) - The official Blazor documentation site. (404 error for the moment).
-* [Blazor GitHub repository](https://github.com/aspnet/Blazor) - The official Blazor repository.
-* [FAQ](https://github.com/aspnet/Blazor/wiki/FAQ) - FAQ.
-* [Learn Blazor](https://learn-blazor.com) - An unofficial documentation website.
-* [Introduction to ASP.NET Core](https://docs.microsoft.com/en-us/aspnet/core/) - Introduction to ASP.NET Core.
 * [ASP.NET Blog](https://blogs.msdn.microsoft.com/webdev/category/blazor/) - Blazor topic on the ASP.NET blog.
 * [Blazor.net](http://blazor.net/) - Blazor.net.
 * [Blazor bites](https://codedaze.io/tag/blazor-bites/) - Blazor bites serie on codedaze.io.
+* [Documentation](https://docs.microsoft.com/en-us/aspnet/core/client-side/blazor) - The official Blazor documentation site. (404 error for the moment).
+* [FAQ](https://github.com/aspnet/Blazor/wiki/FAQ) - FAQ.
+* [GitHub repository](https://github.com/aspnet/Blazor) - The official Blazor repository.
+* [Introduction to ASP.NET Core](https://docs.microsoft.com/en-us/aspnet/core/) - Introduction to ASP.NET Core.
+* [Learn Blazor](https://learn-blazor.com) - An unofficial documentation website.
 
 ## Demos
+* [BlazeDown](http://edcharbeneau.com/BlazeDown) - BlazeDown, online Markdown editor.
 * [Demo](https://blazor-demo.github.io/) - Official demo website.
 * [Flight Finder](http://blazor-flight-finder.azurewebsites.net/) - Flight Finder.
+* [Money](http://money.neptuo.com) - Money.
 * [RealWorld demo](https://blazor-realworld.azurewebsites.net/) - RealWorld demo website.
 * [VocaDB lyrics display](https://lyrics-proto.vocadb.net/) - VocaDB lyrics display.
-* [Money](http://money.neptuo.com) - Money.
-* [BlazeDown](http://edcharbeneau.com/BlazeDown) - BlazeDown, online Markdown editor.
 
 ## Sample Projects
-* [Flight Finder](https://github.com/aspnet/samples/tree/master/samples/aspnetcore/blazor) - Flight Finder.
-* [Blazor realworld](https://github.com/torhovland/blazor-realworld-example-app) - Blazor realworld example app.
-* [VocaDB lyrics](https://github.com/riipah/vocadb-lyrics-blazor-proto) - VocaDB lyrics display Blazor proto.
-* [Money](https://github.com/maraf/Money) - Money.
-* [Tour of Heroes](https://github.com/lohithgn/blazor-tour-of-heroes) - Blazor implementation of Angular Tour of Heroes.
 * [BlazeDown](https://github.com/EdCharbeneau/BlazeDown) - BlazeDown, online Markdown editor.
+* [Flight Finder](https://github.com/aspnet/samples/tree/master/samples/aspnetcore/blazor) - Flight Finder.
+* [Money](https://github.com/maraf/Money) - Money.
+* [Realworld](https://github.com/torhovland/blazor-realworld-example-app) - Blazor realworld example app.
+* [Tour of Heroes](https://github.com/lohithgn/blazor-tour-of-heroes) - Blazor implementation of Angular Tour of Heroes.
+* [VocaDB lyrics](https://github.com/riipah/vocadb-lyrics-blazor-proto) - VocaDB lyrics display Blazor proto.
 
 ## Libraries
+* [BlazorComponents](https://github.com/muqeet-khan/BlazorComponents) - Reusable components for Blazor. Starting with ChartJS interop.
 * [Blazor-Redux](https://github.com/torhovland/blazor-redux) - Connecting a Redux state store with Blazor.
 * [Trail](https://nuget.org/packages/Trail) - DSL for writing Blazor markup in F# (with an [adapter](https://nuget.org/packages/Trail.BlazorRedux) for working with BlazorRedux).
-* [BlazorComponents](https://github.com/muqeet-khan/BlazorComponents) - Reusable components for Blazor. Starting with ChartJS interop.
 
 ## Videos
 * [Develop ASP.NET Blazor Apps in a Docker Container](https://www.youtube.com/watch?v=jGyFKH5y6LA) April 26, 2018 - Develop ASP.NET Blazor Apps in a Docker Container, from Coding Blocks.
