@@ -16,6 +16,7 @@ Contributions are always welcome!
 * [Articles](#articles)
 * [Podcasts](#podcasts)
 * [Community](#community)
+* [Contributing](#contributing)
 
 ## Introduction
 ### What is Blazor?
@@ -89,3 +90,6 @@ Please note that if you want to open Blazor projects in Visual Studio, you must 
 * [Gitter](https://gitter.im/aspnet/Blazor) - Blazor discussion on Gitter.
 * [Stack Overflow](https://stackoverflow.com/questions/tagged/blazor) - Blazor questions feed on Stack Overflow.
 * [Twitter](https://twitter.com/hashtag/blazor) - Hashtag on Twitter.
+
+## Contributing
+Please see [CONTRIBUTING](https://github.com/AdrienTorris/awesome-blazor/blob/master/CONTRIBUTING.md) for details.
