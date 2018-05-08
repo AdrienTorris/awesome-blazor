@@ -29,35 +29,37 @@ Blazor is a really early-stage project, it's not a mature technology and it's ab
 Please note that if you want to open Blazor projects in Visual Studio, you must have [Visual Studio 15.7 Preview 1](https://www.visualstudio.com/vs/preview/) or later and the [.NET Core 2.1 Preview 1 SDK](https://www.microsoft.com/net/download/dotnet-core/sdk-2.1.300-preview1).
 
 ## General
-* [ASP.NET Blog](https://blogs.msdn.microsoft.com/webdev/category/blazor/) - Blazor topic on the ASP.NET blog.
-* [Blazor.net](http://blazor.net/) - Blazor.net.
-* [Blazor bites](https://codedaze.io/tag/blazor-bites/) - Blazor bites serie on codedaze.io.
-* [Documentation](https://docs.microsoft.com/en-us/aspnet/core/client-side/blazor) - The official Blazor documentation site. (404 error for the moment).
-* [FAQ](https://github.com/aspnet/Blazor/wiki/FAQ) - FAQ.
-* [GitHub repository](https://github.com/aspnet/Blazor) - The official Blazor repository.
-* [Introduction to ASP.NET Core](https://docs.microsoft.com/en-us/aspnet/core/) - Introduction to ASP.NET Core.
-* [Learn Blazor](https://learn-blazor.com) - An unofficial documentation website.
+* [ASP.NET Blog](https://blogs.msdn.microsoft.com/webdev/category/blazor/) Blazor topic on the ASP.NET blog.
+* [Blazor.net](http://blazor.net/) Blazor.net.
+* [Blazor bites](https://codedaze.io/tag/blazor-bites/) Blazor bites serie on codedaze.io.
+* [Documentation](https://docs.microsoft.com/en-us/aspnet/core/client-side/blazor) The official Blazor documentation site. (404 error for the moment).
+* [FAQ](https://github.com/aspnet/Blazor/wiki/FAQ) FAQ.
+* [GitHub repository](https://github.com/aspnet/Blazor) The official Blazor repository.
+* [Introduction to ASP.NET Core](https://docs.microsoft.com/en-us/aspnet/core/) Introduction to ASP.NET Core.
+* [Learn Blazor](https://learn-blazor.com) An unofficial documentation website.
 
 ## Demos
-* [BlazeDown](http://edcharbeneau.com/BlazeDown) - BlazeDown, online Markdown editor.
-* [Demo](https://blazor-demo.github.io/) - Official demo website.
-* [Flight Finder](http://blazor-flight-finder.azurewebsites.net/) - Flight Finder.
-* [Money](http://money.neptuo.com) - Money.
-* [RealWorld demo](https://blazor-realworld.azurewebsites.net/) - RealWorld demo website.
-* [VocaDB lyrics display](https://lyrics-proto.vocadb.net/) - VocaDB lyrics display.
+* [BlazeDown](http://edcharbeneau.com/BlazeDown) BlazeDown, online Markdown editor.
+* [Blazorships](http://blazorships.azurewebsites.net) Blazorships, a Blazor implementation of Battleship using SignalR.
+* [Demo](https://blazor-demo.github.io/) Official demo website.
+* [Flight Finder](http://blazor-flight-finder.azurewebsites.net/) Flight Finder.
+* [Money](http://money.neptuo.com) Money.
+* [RealWorld demo](https://blazor-realworld.azurewebsites.net/) RealWorld demo website.
+* [VocaDB lyrics display](https://lyrics-proto.vocadb.net/) VocaDB lyrics display.
 
 ## Sample Projects
-* [BlazeDown](https://github.com/EdCharbeneau/BlazeDown) - BlazeDown, online Markdown editor.
-* [Flight Finder](https://github.com/aspnet/samples/tree/master/samples/aspnetcore/blazor) - Flight Finder.
-* [Money](https://github.com/maraf/Money) - Money.
-* [Realworld](https://github.com/torhovland/blazor-realworld-example-app) - Blazor realworld example app.
-* [Tour of Heroes](https://github.com/lohithgn/blazor-tour-of-heroes) - Blazor implementation of Angular Tour of Heroes.
-* [VocaDB lyrics](https://github.com/riipah/vocadb-lyrics-blazor-proto) - VocaDB lyrics display Blazor proto.
+* [BlazeDown](https://github.com/EdCharbeneau/BlazeDown) BlazeDown, online Markdown editor.
+* [Blazorships](https://github.com/bjorndaniel/Blazorships) Blazorships, a Blazor implementation of Battleship using SignalR.
+* [Flight Finder](https://github.com/aspnet/samples/tree/master/samples/aspnetcore/blazor) Flight Finder.
+* [Money](https://github.com/maraf/Money) Money.
+* [Realworld](https://github.com/torhovland/blazor-realworld-example-app) Blazor realworld example app.
+* [Tour of Heroes](https://github.com/lohithgn/blazor-tour-of-heroes) Blazor implementation of Angular Tour of Heroes.
+* [VocaDB lyrics](https://github.com/riipah/vocadb-lyrics-blazor-proto) VocaDB lyrics display Blazor proto.
 
 ## Libraries
-* [BlazorComponents](https://github.com/muqeet-khan/BlazorComponents) - Reusable components for Blazor. Starting with ChartJS interop.
-* [Blazor-Redux](https://github.com/torhovland/blazor-redux) - Connecting a Redux state store with Blazor.
-* [Trail](https://nuget.org/packages/Trail) - DSL for writing Blazor markup in F# (with an [adapter](https://nuget.org/packages/Trail.BlazorRedux) for working with BlazorRedux).
+* [BlazorComponents](https://github.com/muqeet-khan/BlazorComponents) Reusable components for Blazor. Starting with ChartJS interop.
+* [Blazor-Redux](https://github.com/torhovland/blazor-redux) Connecting a Redux state store with Blazor.
+* [Trail](https://nuget.org/packages/Trail) DSL for writing Blazor markup in F# (with an [adapter](https://nuget.org/packages/Trail.BlazorRedux) for working with BlazorRedux).
 
 ## Videos
 * [Develop ASP.NET Blazor Apps in a Docker Container](https://www.youtube.com/watch?v=jGyFKH5y6LA) April 26, 2018 - Develop ASP.NET Blazor Apps in a Docker Container, from Coding Blocks.
@@ -82,14 +84,14 @@ Please note that if you want to open Blazor projects in Visual Studio, you must 
   
 ## Podcasts
 * [Episode 037 – Blazor with Daniel Roth](https://6figuredev.com/podcast/episode-037-blazor-with-daniel-roth/) April 30, 2018 - Episode 037 – Blazor with Daniel Roth.
-* [MS Dev Show : Blazor](https://www.youtube.com/watch?v=xJtpYsVRggE) - March 19, 2018 - MS Dev Show Episode 184: Blazor (.NET in WebAssembly) with Dan Roth & Steve Sanderson.
-* [.NET Rocks, WebAssembly and Blazor with Steve Sanderson](https://www.dotnetrocks.com/?show=1455) - July 4, 2017 - .NET Rocks 1455, WebAssembly and Blazor with Steve Sanderson.
-* [Inside WebAssembly with Mozilla Fellow David Bryant](https://hanselminutes.com/581/inside-webassembly-with-mozilla-fellow-david-bryant) - May 25, 2017 - Inside WebAssembly with Mozilla Fellow David Bryant.
+* [MS Dev Show : Blazor](https://www.youtube.com/watch?v=xJtpYsVRggE) March 19, 2018 - MS Dev Show Episode 184: Blazor (.NET in WebAssembly) with Dan Roth & Steve Sanderson.
+* [.NET Rocks, WebAssembly and Blazor with Steve Sanderson](https://www.dotnetrocks.com/?show=1455) July 4, 2017 - .NET Rocks 1455, WebAssembly and Blazor with Steve Sanderson.
+* [Inside WebAssembly with Mozilla Fellow David Bryant](https://hanselminutes.com/581/inside-webassembly-with-mozilla-fellow-david-bryant) May 25, 2017 - Inside WebAssembly with Mozilla Fellow David Bryant.
   
 ## Community
-* [Gitter](https://gitter.im/aspnet/Blazor) - Blazor discussion on Gitter.
-* [Stack Overflow](https://stackoverflow.com/questions/tagged/blazor) - Blazor questions feed on Stack Overflow.
-* [Twitter](https://twitter.com/hashtag/blazor) - Hashtag on Twitter.
+* [Gitter](https://gitter.im/aspnet/Blazor) Blazor discussion on Gitter.
+* [Stack Overflow](https://stackoverflow.com/questions/tagged/blazor) Blazor questions feed on Stack Overflow.
+* [Twitter](https://twitter.com/hashtag/blazor) Hashtag on Twitter.
 
 ## Contributing
 Please see [CONTRIBUTING](https://github.com/AdrienTorris/awesome-blazor/blob/master/CONTRIBUTING.md) for details.
