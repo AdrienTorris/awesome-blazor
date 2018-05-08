@@ -70,6 +70,7 @@ Please note that if you want to open Blazor projects in Visual Studio, you must 
 * [Web Apps can’t really do that, can they? - Steve Sanderson](https://www.youtube.com/watch?v=MiLAE6HMr10&feature=youtu.be&t=31m45s) - July 10, 2017 - Web Apps can’t really do that, can they? - Steve Sanderson.
 
 ## Articles
+* [Blazor Steals the Show in VSLive!](https://visualstudiomagazine.com/articles/2018/05/03/vslive-austin.aspx) May 3, 2018 - Blazor Steals the Show in VSLive! .NET Keynote
 * [Blazor 0.3.0 experimental release now available](https://blogs.msdn.microsoft.com/webdev/2018/05/02/blazor-0-3-0-experimental-release-now-available/) May 2, 2018 - Blazor 0.3.0 experimental release now available.
 * [Blazor, Razor, WebAssembly, and Mono](https://daveaglick.com/posts/blazor-razor-webassembly-and-mono) April 24, 2018 - Blazor, Razor, WebAssembly, and Mono, How the pieces fit together.
 * [BlazeDown with Blazor](http://edcharbeneau.com/blazedown-with-blazor) April 20, 2018 - BlazeDown with Blazor (Blazor + Markdown = BlazeDown!).
