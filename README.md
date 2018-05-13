@@ -11,6 +11,7 @@ Contributions are always welcome!
 * [General](#general)
 * [Demos](#demos)
 * [Sample Projects](#sample-projects)
+* [Extensions](#extensions)
 * [Libraries](#libraries)
 * [Videos](#videos)
 * [Articles](#articles)
@@ -32,6 +33,7 @@ Please note that if you want to open Blazor projects in Visual Studio, you must 
 * [ASP.NET Blog](https://blogs.msdn.microsoft.com/webdev/category/blazor/) Blazor topic on the ASP.NET blog.
 * [Blazor.net](http://blazor.net/) Blazor.net.
 * [Blazor bites](https://codedaze.io/tag/blazor-bites/) Blazor bites serie on codedaze.io.
+* [Blazor Extensions](https://github.com/BlazorExtensions) Curated extensions for Microsoft ASP.Net Core Blazor.
 * [Documentation](https://docs.microsoft.com/en-us/aspnet/core/client-side/blazor) The official Blazor documentation site. (404 error for the moment).
 * [FAQ](https://github.com/aspnet/Blazor/wiki/FAQ) FAQ.
 * [GitHub repository](https://github.com/aspnet/Blazor) The official Blazor repository.
@@ -56,6 +58,12 @@ Please note that if you want to open Blazor projects in Visual Studio, you must 
 * [Realworld](https://github.com/torhovland/blazor-realworld-example-app) Blazor realworld example app.
 * [Tour of Heroes](https://github.com/lohithgn/blazor-tour-of-heroes) Blazor implementation of Angular Tour of Heroes.
 * [VocaDB lyrics](https://github.com/riipah/vocadb-lyrics-blazor-proto) VocaDB lyrics display Blazor proto.
+
+## Extensions
+* [BlazorMaterial](https://github.com/BlazorExtensions/BlazorMaterial) Blazor components implementing Google's Material components for web.
+* [Canvas](https://github.com/BlazorExtensions/Canvas) HTML5 Canvas API implementation for Microsoft Blazor.
+* [Logging](https://github.com/BlazorExtensions/Logging) Microsoft Extension Logging implementation for Blazor.
+* [Storage](https://github.com/BlazorExtensions/Storage) HTML5 Storage API implementation for Microsoft Blazor.
 
 ## Libraries
 * [BlazorComponents](https://github.com/muqeet-khan/BlazorComponents) Reusable components for Blazor. Starting with ChartJS interop.
