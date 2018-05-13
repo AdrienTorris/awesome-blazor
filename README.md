@@ -48,6 +48,7 @@ Please note that if you want to open Blazor projects in Visual Studio, you must 
 * [VocaDB lyrics display](https://lyrics-proto.vocadb.net/) VocaDB lyrics display.
 
 ## Sample Projects
+* [BlazorBricks](https://www.codeproject.com/Articles/1241210/WebAssembly-with-Blazor) BlazorBricks, a Blazor implementation of the game Tetris.
 * [BlazeDown](https://github.com/EdCharbeneau/BlazeDown) BlazeDown, online Markdown editor.
 * [Blazorships](https://github.com/bjorndaniel/Blazorships) Blazorships, a Blazor implementation of Battleship using SignalR.
 * [Flight Finder](https://github.com/aspnet/samples/tree/master/samples/aspnetcore/blazor) Flight Finder.
