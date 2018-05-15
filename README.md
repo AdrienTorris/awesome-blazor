@@ -53,6 +53,7 @@ Please note that if you want to open Blazor projects in Visual Studio, you must 
 * [BlazorBricks](https://www.codeproject.com/Articles/1241210/WebAssembly-with-Blazor) BlazorBricks, a Blazor implementation of the game Tetris.
 * [BlazeDown](https://github.com/EdCharbeneau/BlazeDown) BlazeDown, online Markdown editor.
 * [Blazorships](https://github.com/bjorndaniel/Blazorships) Blazorships, a Blazor implementation of Battleship using SignalR.
+* [Demo](https://github.com/blazor-demo/blazor-demo.github.io) Code of the official demo website.
 * [Flight Finder](https://github.com/aspnet/samples/tree/master/samples/aspnetcore/blazor) Flight Finder.
 * [Money](https://github.com/maraf/Money) Money.
 * [Realworld](https://github.com/torhovland/blazor-realworld-example-app) Blazor realworld example app.
