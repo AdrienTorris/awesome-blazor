@@ -68,7 +68,7 @@ Please note that if you want to open Blazor projects in Visual Studio, you must 
 
 ## Libraries
 * [BlazorComponents](https://github.com/muqeet-khan/BlazorComponents) Reusable components for Blazor. Starting with ChartJS interop.
-* [BlazorContextMenu](https://github.com/stavroskasidis/BlazorContextMenu) A context menu component for Blazor. [Demo](https://blazor-context-menu-demo.azurewebsites.net/).
+* [BlazorContextMenu](https://github.com/stavroskasidis/BlazorContextMenu) A context menu component for Blazor ([Demo](https://blazor-context-menu-demo.azurewebsites.net/)).
 * [Blazor-Fluxor](https://github.com/mrpmorris/blazor-fluxor) A low-boilerplate Flux/Redux state library for Blazor.
 * [Blazor-Redux](https://github.com/torhovland/blazor-redux) Connecting a Redux state store with Blazor.
 * [Blazorous](https://github.com/chanan/Blazorous) Maintainable CSS with Blazor.
