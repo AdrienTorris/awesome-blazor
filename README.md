@@ -38,7 +38,7 @@ Please note that if you want to open Blazor projects in Visual Studio, you must 
 * [FAQ](https://github.com/aspnet/Blazor/wiki/FAQ) FAQ.
 * [GitHub repository](https://github.com/aspnet/Blazor) The official Blazor repository.
 * [Introduction to ASP.NET Core](https://docs.microsoft.com/en-us/aspnet/core/) Introduction to ASP.NET Core.
-* [Learn Blazor](https://learn-blazor.com) An unofficial documentation website.
+* [Learn Blazor](https://learn-blazor.com) An unofficial documentation website ([source code here](https://github.com/software-architects/learn-blazor)).
 
 ## Demos
 * [BlazeDown](http://edcharbeneau.com/BlazeDown) BlazeDown, online Markdown editor.
