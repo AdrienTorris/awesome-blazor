@@ -93,6 +93,7 @@ Please note that if you want to open Blazor projects in Visual Studio, you must 
 * [BlazeDown with Blazor](http://edcharbeneau.com/blazedown-with-blazor) April 20, 2018 - BlazeDown with Blazor (Blazor + Markdown = BlazeDown!).
 * [Blazor 0.2.0 release now available](https://blogs.msdn.microsoft.com/webdev/2018/04/17/blazor-0-2-0-release-now-available/) April 18, 2018 - Blazor 0.2.0 release now available.
 * [Using C# await against JS Promises in Blazor](https://joonasw.net/view/csharp-await-and-js-promises-in-blazor) April 7, 2018 - Using C# await against JS Promises in Blazor.
+* [Create a CRUD App using Blazor and ASP.NET Core](http://www.talkingdotnet.com/create-a-crud-app-using-blazor-and-asp-net-core/) April 5, 2018 - Create a CRUD App using Blazor and ASP.NET Core.
 * ['Death to JavaScript!' Blazor, for .NET Web Apps Using WebAssembly, Goes Alpha](https://visualstudiomagazine.com/articles/2018/03/23/blazor-alpha.aspx) March 23, 2018 - 'Death to JavaScript!' Blazor, for .NET Web Apps Using WebAssembly, Goes Alpha.
 * [Get started building .NET web apps that run in the browser with Blazor](https://blogs.msdn.microsoft.com/webdev/2018/03/22/get-started-building-net-web-apps-in-the-browser-with-blazor/) March 22, 2018 - Get started building .NET web apps that run in the browser with Blazor.
 * [A new experiment: Browser-based web apps with .NET and Blazor](https://blogs.msdn.microsoft.com/webdev/2018/02/06/blazor-experimental-project/) February 6, 2018 - A new experiment: Browser-based web apps with .NET and Blazor.
