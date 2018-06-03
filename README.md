@@ -60,6 +60,7 @@ Please note that if you want to open Blazor projects in Visual Studio, you must 
 * [Realworld](https://github.com/torhovland/blazor-realworld-example-app) Blazor realworld example app.
 * [Tour of Heroes](https://github.com/lohithgn/blazor-tour-of-heroes) Blazor implementation of Angular Tour of Heroes.
 * [VocaDB lyrics](https://github.com/riipah/vocadb-lyrics-blazor-proto) VocaDB lyrics display Blazor proto.
+* [Hacker News Clone](https://github.com/lohithgn/blazor-hackernews-clone) Blazor Hacker NewsClone
 
 ## Extensions
 * [BlazorMaterial](https://github.com/BlazorExtensions/BlazorMaterial) Blazor components implementing Google's Material components for web.
