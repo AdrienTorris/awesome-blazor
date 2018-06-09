@@ -31,10 +31,9 @@ Please note that if you want to open Blazor projects in Visual Studio, you must 
 
 ## General
 * [ASP.NET Blog](https://blogs.msdn.microsoft.com/webdev/category/blazor/) Blazor topic on the ASP.NET blog.
-* [Blazor.net](http://blazor.net/) Blazor.net.
+* [Blazor.net](http://blazor.net/) Blazor.net, official documentation website.
 * [Blazor bites](https://codedaze.io/tag/blazor-bites/) Blazor bites serie on codedaze.io.
 * [Blazor Extensions](https://github.com/BlazorExtensions) Curated extensions for Microsoft ASP.Net Core Blazor.
-* [Documentation](https://docs.microsoft.com/en-us/aspnet/core/client-side/blazor) The official Blazor documentation site. (404 error for the moment).
 * [FAQ](https://github.com/aspnet/Blazor/wiki/FAQ) FAQ.
 * [GitHub repository](https://github.com/aspnet/Blazor) The official Blazor repository.
 * [Introduction to ASP.NET Core](https://docs.microsoft.com/en-us/aspnet/core/) Introduction to ASP.NET Core.
@@ -80,6 +79,7 @@ Please note that if you want to open Blazor projects in Visual Studio, you must 
 ## Videos
 * [Blazor, a new .NET SPA framework](https://www.youtube.com/watch?v=JU-6pAxqAa4) May 7, 2018 - Presentation of Blazor by Steve Sanderson at the NDC Minnesota.
 * [.NET Overview & Roadmap](https://channel9.msdn.com/Events/Build/2018/BRK2100) May 7, 2018 - .NET Overview & Roadmap (at 1:14:00).
+* [What's new in Web Development with ASP.NET Core 2.1](https://channel9.msdn.com/Events/Build/2018/BRK2151) May 6, 2018 - What's new in Web Development with ASP.NET Core 2.1 (Blazor part starts at 1:08:57).
 * [Develop ASP.NET Blazor Apps in a Docker Container](https://www.youtube.com/watch?v=jGyFKH5y6LA) April 26, 2018 - Develop ASP.NET Blazor Apps in a Docker Container, from Coding Blocks.
 * [ASP.NET Community Standup - Blazor Update with Dan Roth and Steve Sanderson](https://www.youtube.com/watch?v=_b_fUq5DU0U) - April 3, 2018 - ASP.NET Community Standup - Blazor Update with Dan Roth and Steve Sanderson.
 * [WebAssembly and Blazor - .NET Concept of the Week - Episode 9](https://www.youtube.com/watch?v=5HSKDGHijdI) - March 4, 2018 - WebAssembly and Blazor - .NET Concept of the Week - Episode 9.
