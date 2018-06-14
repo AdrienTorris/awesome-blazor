@@ -57,6 +57,7 @@ Please note that if you want to open Blazor projects in Visual Studio, you must 
 * [Flight Finder](https://github.com/aspnet/samples/tree/master/samples/aspnetcore/blazor) Flight Finder.
 * [Hacker News Clone](https://github.com/lohithgn/blazor-hackernews-clone) Hacker News Clone.
 * [Money](https://github.com/maraf/Money) Money.
+* [Randify](https://github.com/tinyioda/Randify) Spotify Playlist randomizer.
 * [Realworld](https://github.com/torhovland/blazor-realworld-example-app) Blazor realworld example app.
 * [Tour of Heroes](https://github.com/lohithgn/blazor-tour-of-heroes) Blazor implementation of Angular Tour of Heroes.
 * [VocaDB lyrics](https://github.com/riipah/vocadb-lyrics-blazor-proto) VocaDB lyrics display Blazor proto.
