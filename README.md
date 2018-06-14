@@ -77,14 +77,14 @@ Please note that if you want to open Blazor projects in Visual Studio, you must 
 * [BlazorDB](https://github.com/chanan/BlazorDB) In-memory, persisted to local storage, database for Blazor.
 * [Blazor-Fluxor](https://github.com/mrpmorris/blazor-fluxor) A low-boilerplate Flux/Redux state library for Blazor.
 * [BlazoredLocalStorage](https://github.com/chrissainty/BlazoredLocalStorage) Local storage for Blazor applications.
+* [Blazorous](https://github.com/chanan/Blazorous) Maintainable CSS with Blazor ([Demo](https://chanan.github.io/Blazorous)).
 * [Blazor.Polyfill](https://github.com/Daddoon/Blazor.Polyfill) Polyfills for Blazor (for Internet Explorer 11 support and some other browsers).
 * [Blazor-Redux](https://github.com/torhovland/blazor-redux) Connecting a Redux state store with Blazor.
-* [Blazorous](https://github.com/chanan/Blazorous) Maintainable CSS with Blazor ([Demo](https://chanan.github.io/Blazorous)).
 * [Blazor-State](https://github.com/TimeWarpEngineering/blazor-state) Manage client side state in Blazor using MediatR pipeline.
 * [BlazorStorage](https://github.com/cloudcrate/BlazorStorage) Local and session storage support for Blazor.
 * [BlazorStrap](https://github.com/chanan/BlazorStrap) Bootstrap 4 components for Blazor ([Demo](https://chanan.github.io/BlazorStrap/)).
-* [Trail](https://nuget.org/packages/Trail) DSL for writing Blazor markup in F# (with an [adapter](https://nuget.org/packages/Trail.BlazorRedux) for working with BlazorRedux).
 * [Blazor.Xamarin](https://github.com/Daddoon/Blazor.Xamarin) A Xamarin template for launch and interop a Blazor app on mobile.
+* [Trail](https://nuget.org/packages/Trail) DSL for writing Blazor markup in F# (with an [adapter](https://nuget.org/packages/Trail.BlazorRedux) for working with BlazorRedux).
 
 ## Videos
 * [ASP.NET Community Standup - Meet the Blazor team!](https://www.youtube.com/watch?v=CWuIz9khK-o) June 12, 2018 - ASP.NET Community Standup - June 12, 2018 - Meet the Blazor team.
