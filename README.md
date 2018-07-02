@@ -100,6 +100,7 @@ Please note that if you want to open Blazor projects in Visual Studio, you must 
 * [Web Apps can’t really do that, can they? - Steve Sanderson](https://www.youtube.com/watch?v=MiLAE6HMr10&feature=youtu.be&t=31m45s) - July 10, 2017 - Web Apps can’t really do that, can they? - Steve Sanderson.
 
 ## Articles
+* [Hosting a Blazor App in Azure Storage Static Websites](https://anthonychu.ca/post/blazor-azure-storage-static-websites/) June 28, 2018 - Hosting a Blazor App in Azure Storage Static Websites.
 * [Blazor 0.4.0 experimental release now available](https://blogs.msdn.microsoft.com/webdev/2018/06/07/blazor-0-4-0-experimental-release-now-available/) June 7, 2018 - Blazor 0.4.0 experimental release now available.
 * [Blazor Steals the Show in VSLive!](https://visualstudiomagazine.com/articles/2018/05/03/vslive-austin.aspx) May 3, 2018 - Blazor Steals the Show in VSLive! .NET Keynote.
 * [Blazor 0.3.0 experimental release now available](https://blogs.msdn.microsoft.com/webdev/2018/05/02/blazor-0-3-0-experimental-release-now-available/) May 2, 2018 - Blazor 0.3.0 experimental release now available.
