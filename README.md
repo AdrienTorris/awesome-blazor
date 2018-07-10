@@ -58,6 +58,7 @@ Please note that if you want to open Blazor projects in Visual Studio, you must 
 * [Blazorships](https://github.com/bjorndaniel/Blazorships) Blazorships, a Blazor implementation of Battleship using SignalR.
 * [Blazor Survey](https://github.com/nutshellit/Blazor-Survey) A hybrid F#/C# blazor sample app to kick the tyres of blazor.
 * [BlazorTasks](https://github.com/BorowskiKamil/blazor-tasks) To-Do App.
+* [Blazor.Xamarin](https://github.com/Appizeo/Blazor.Xamarin) A Xamarin template for launch and interop a Blazor app on mobile.
 * [Demo](https://github.com/blazor-demo/blazor-demo.github.io) Code of the official demo website.
 * [Flight Finder](https://github.com/aspnet/samples/tree/master/samples/aspnetcore/blazor) Flight Finder.
 * [Hacker News Clone](https://github.com/lohithgn/blazor-hackernews-clone) Hacker News Clone.
