@@ -106,7 +106,10 @@ Please note that if you want to open Blazor projects in Visual Studio, you must 
 
 ## Articles
 * [Hosting a Blazor App in Azure Storage Static Websites](https://anthonychu.ca/post/blazor-azure-storage-static-websites/) June 28, 2018 - Hosting a Blazor App in Azure Storage Static Websites.
+* [Web Assembly, Blazor and the future of Web Development](https://medium.com/@ZombieCodeKill/web-assembly-blazor-and-the-future-of-web-development-c240fbe5e5be) June 25, 208 - Web Assembly, Blazor and the future of Web Development.
+* [Who is Blazor for Exactly?](https://wildermuth.com/2018/06/13/Who-is-Blazor-for-Exactly) June 13, 208 - Who is Blazor for Exactly?
 * [Blazor 0.4.0 experimental release now available](https://blogs.msdn.microsoft.com/webdev/2018/06/07/blazor-0-4-0-experimental-release-now-available/) June 7, 2018 - Blazor 0.4.0 experimental release now available.
+* [Creating an SPA Using Razor Pages With Blazor](https://medium.freecodecamp.org/how-to-create-a-single-page-application-using-razor-pages-with-blazor-9d010fd6be45) June 4, 2018 - Creating an SPA Using Razor Pages With Blazor ([Article on FreeCodeCamp](https://medium.freecodecamp.org/how-to-create-a-single-page-application-using-razor-pages-with-blazor-9d010fd6be45) - [Article on DZone](https://dzone.com/articles/creating-an-spa-using-razor-pages-with-blazor)).
 * [Blazor Steals the Show in VSLive!](https://visualstudiomagazine.com/articles/2018/05/03/vslive-austin.aspx) May 3, 2018 - Blazor Steals the Show in VSLive! .NET Keynote.
 * [Blazor 0.3.0 experimental release now available](https://blogs.msdn.microsoft.com/webdev/2018/05/02/blazor-0-3-0-experimental-release-now-available/) May 2, 2018 - Blazor 0.3.0 experimental release now available.
 * [Blazor, Razor, WebAssembly, and Mono](https://daveaglick.com/posts/blazor-razor-webassembly-and-mono) April 24, 2018 - Blazor, Razor, WebAssembly, and Mono, How the pieces fit together.
@@ -117,6 +120,7 @@ Please note that if you want to open Blazor projects in Visual Studio, you must 
 * ['Death to JavaScript!' Blazor, for .NET Web Apps Using WebAssembly, Goes Alpha](https://visualstudiomagazine.com/articles/2018/03/23/blazor-alpha.aspx) March 23, 2018 - 'Death to JavaScript!' Blazor, for .NET Web Apps Using WebAssembly, Goes Alpha.
 * [Get started building .NET web apps that run in the browser with Blazor](https://blogs.msdn.microsoft.com/webdev/2018/03/22/get-started-building-net-web-apps-in-the-browser-with-blazor/) March 22, 2018 - Get started building .NET web apps that run in the browser with Blazor.
 * [Blazor and .NET Core hosting – the future’s bright](http://blog.tdwright.co.uk/2018/03/05/blazor-and-net-core-hosting-the-futures-bright) March 5, 2018 - Blazor and .NET Core hosting – the future’s bright.
+* [Blazor: a web UI framework running C# and .NET in the browser](https://www.oxfordcc.co.uk/blog/blazor-a-web-ui-framework-running-csharp-and-dotnet-in-the-browser) February 8, 2018 - Blazor: a web UI framework running C# and .NET in the browser.
 * [A new experiment: Browser-based web apps with .NET and Blazor](https://blogs.msdn.microsoft.com/webdev/2018/02/06/blazor-experimental-project/) February 6, 2018 - A new experiment: Browser-based web apps with .NET and Blazor.
 * [Blazor: a technical introduction](http://blog.stevensanderson.com/2018/02/06/blazor-intro/) February 6, 2018 - Blazor: a technical introduction.
 * [Running Blazor on Mono in the browser](http://blog.stevensanderson.com/2017/11/05/blazor-on-mono/) - November 5, 2017 - Running Blazor on Mono in the browser.
