@@ -105,6 +105,7 @@ Please note that if you want to open Blazor projects in Visual Studio, you must 
 * [Web Apps can’t really do that, can they? - Steve Sanderson](https://www.youtube.com/watch?v=MiLAE6HMr10&feature=youtu.be&t=31m45s) - July 10, 2017 - Web Apps can’t really do that, can they? - Steve Sanderson.
 
 ## Articles
+* [Improved Cascading Dropdowns With Blazor](https://www.mikesdotnetting.com/article/320/improved-cascading-dropdowns-with-blazor) July 5, 2018 - Improved Cascading Dropdowns With Blazor.
 * [Hosting a Blazor App in Azure Storage Static Websites](https://anthonychu.ca/post/blazor-azure-storage-static-websites/) June 28, 2018 - Hosting a Blazor App in Azure Storage Static Websites.
 * [Web Assembly, Blazor and the future of Web Development](https://medium.com/@ZombieCodeKill/web-assembly-blazor-and-the-future-of-web-development-c240fbe5e5be) June 25, 208 - Web Assembly, Blazor and the future of Web Development.
 * [Who is Blazor for Exactly?](https://wildermuth.com/2018/06/13/Who-is-Blazor-for-Exactly) June 13, 208 - Who is Blazor for Exactly?
