@@ -52,8 +52,8 @@ Please note that if you want to open Blazor projects in Visual Studio, you must 
 
 ## Sample Projects
 * [BlazeDown](https://github.com/EdCharbeneau/BlazeDown) BlazeDown, online Markdown editor.
-* [BlazorChatSample](https://github.com/conficient/blazorchatsample) Blazor chat demo using SignalR JS client with interop [demo](https://blazorchatsample.azurewebsites.net)
 * [BlazorBricks](https://www.codeproject.com/Articles/1241210/WebAssembly-with-Blazor) BlazorBricks, a Blazor implementation of the game Tetris.
+* [BlazorChatSample](https://github.com/conficient/blazorchatsample) Blazor chat demo using SignalR JS client with interop.
 * [BlazorNasaImages](https://github.com/ncarandini/BlazorNasaImages) A sample Blazor app that fetches the Nasa Astronomy Picture of the Day.
 * [BlazorPong](https://github.com/ctrl-alt-d/blazorpong) 8 bits pong with blazor and signalR.
 * [Blazorships](https://github.com/bjorndaniel/Blazorships) Blazorships, a Blazor implementation of Battleship using SignalR.
