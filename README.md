@@ -145,6 +145,7 @@ Please note that if you want to open Blazor projects in Visual Studio, you must 
 * [Running Blazor on Mono in the browser](http://blog.stevensanderson.com/2017/11/05/blazor-on-mono/) - November 5, 2017 - Running Blazor on Mono in the browser.
 * [.NET and WebAssembly - Is this the future of the front-end?](https://www.hanselman.com/blog/NETAndWebAssemblyIsThisTheFutureOfTheFrontend.aspx) - August 12, 2017 - .NET and WebAssembly - Is this the future of the front-end?
 * [Deploying a Blazor Application on IIS]-(http://ankitsharmablogs.com/deploying-a-blazor-application-on-iis/) Deploying an ASP.NET Core hosted Blazor application with the help of IIS 10 on a Windows 10 machine.
+* [Cascading DropDownList in Blazor Using EF Core](http://ankitsharmablogs.com/cascading-dropdownlist-in-blazor-using-ef-core/)  Creating a cascading dropdown list in Blazor using Entity Framework Core database first approach
   
 ## Podcasts
 * [Episode 037 – Blazor with Daniel Roth](https://6figuredev.com/podcast/episode-037-blazor-with-daniel-roth/) April 30, 2018 - Episode 037 – Blazor with Daniel Roth.
