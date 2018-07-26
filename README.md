@@ -109,6 +109,7 @@ Please note that if you want to open Blazor projects in Visual Studio, you must 
 * [Web Apps can’t really do that, can they? - Steve Sanderson](https://www.youtube.com/watch?v=MiLAE6HMr10&feature=youtu.be&t=31m45s) - July 10, 2017 - Web Apps can’t really do that, can they? - Steve Sanderson.
 
 ## Articles
+* [Blazor 0.5.0 experimental release now available](https://blogs.msdn.microsoft.com/webdev/2018/07/25/blazor-0-5-0-experimental-release-now-available/) Blazor 0.5.0 experimental release now available.
 * [Adding search to Blazor applications](https://gunnarpeipman.com/search2/blazor-search/) July 11, 2018 - Adding search to Blazor applications.
 * [SPA framework on .Net via WebAssembly](https://koukia.ca/blazor-spa-framework-on-net-via-webassembly-b7a0046e7f21) July 10, 2018 - SPA framework on .Net via WebAssembly.
 * [Improved Cascading Dropdowns With Blazor](https://www.mikesdotnetting.com/article/320/improved-cascading-dropdowns-with-blazor) July 5, 2018 - Improved Cascading Dropdowns With Blazor.
