@@ -112,6 +112,7 @@ Please note that if you want to open Blazor projects in Visual Studio, you must 
 ## Articles
 * [Blazor 0.5.0 experimental release now available](https://blogs.msdn.microsoft.com/webdev/2018/07/25/blazor-0-5-0-experimental-release-now-available/) July 25, 2018 - Blazor 0.5.0 experimental release now available.
 * [CSRF protection with ASPNET Core and Blazor](https://remibou.github.io/CSRF-protection-with-ASPNET-Core-and-Blazor-Week-29/) July 22, 2018 - CSRF protection with ASPNET Core and Blazor.
+* [Blazor for Knockout.js Developers](https://blog.usejournal.com/blazor-for-knockout-js-developers-bfeefaacffc3) July 20, 2018 - A brief comparison between two of Steve Sanderson’s Creations.
 * [Uploading a file in a Blazor app](https://remibou.github.io/Upload-file-with-Blazor/) July 12, 2018 - Uploading a file in a Blazor app.
 * [Adding search to Blazor applications](https://gunnarpeipman.com/search2/blazor-search/) July 11, 2018 - Adding search to Blazor applications.
 * [SPA framework on .Net via WebAssembly](https://koukia.ca/blazor-spa-framework-on-net-via-webassembly-b7a0046e7f21) July 10, 2018 - SPA framework on .Net via WebAssembly.
