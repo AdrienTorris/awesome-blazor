@@ -119,6 +119,7 @@ Please note that if you want to open Blazor projects in Visual Studio, you must 
 * [Hosting a Blazor App in Azure Storage Static Websites](https://anthonychu.ca/post/blazor-azure-storage-static-websites/) June 28, 2018 - Hosting a Blazor App in Azure Storage Static Websites.
 * [Implementing Google OAuth with Blazor](https://remibou.github.io/Google-OAuth-with-Blazor-ASPNET-Core-Week-26/) June 28, 2018 - Implementing Google OAuth with Blazor (0.4) and ASPNET Core 2.1.1.
 * [Web Assembly, Blazor and the future of Web Development](https://medium.com/@ZombieCodeKill/web-assembly-blazor-and-the-future-of-web-development-c240fbe5e5be) June 25, 208 - Web Assembly, Blazor and the future of Web Development.
+* [Hosting Blazor on Netlify](https://mattferderer.com/host-blazor-on-netlify) Hosting Blazor on Netlify.
 * [Who is Blazor for Exactly?](https://wildermuth.com/2018/06/13/Who-is-Blazor-for-Exactly) June 13, 208 - Who is Blazor for Exactly?
 * [Blazor 0.4.0 experimental release now available](https://blogs.msdn.microsoft.com/webdev/2018/06/07/blazor-0-4-0-experimental-release-now-available/) June 7, 2018 - Blazor 0.4.0 experimental release now available.
 * [An Introduction to Blazor](https://remibou.github.io/An-Introduction-to-Blazor-Week-22/) June 5, 2018 - An Introduction to Blazor.
