@@ -127,11 +127,14 @@ Please note that if you want to open Blazor projects in Visual Studio, you must 
 * [Blazor 0.4.0 experimental release now available](https://blogs.msdn.microsoft.com/webdev/2018/06/07/blazor-0-4-0-experimental-release-now-available/) June 7, 2018 - Blazor 0.4.0 experimental release now available.
 * [An Introduction to Blazor](https://remibou.github.io/An-Introduction-to-Blazor-Week-22/) June 5, 2018 - An Introduction to Blazor.
 * [Creating an SPA Using Razor Pages With Blazor](https://medium.freecodecamp.org/how-to-create-a-single-page-application-using-razor-pages-with-blazor-9d010fd6be45) June 4, 2018 - Creating an SPA Using Razor Pages With Blazor ([Article on FreeCodeCamp](https://medium.freecodecamp.org/how-to-create-a-single-page-application-using-razor-pages-with-blazor-9d010fd6be45) - [Article on DZone](https://dzone.com/articles/creating-an-spa-using-razor-pages-with-blazor)).
+* [Cascading DropDownList in Blazor Using EF Core](http://ankitsharmablogs.com/cascading-dropdownlist-in-blazor-using-ef-core/) May 14, 2018 - Creating a cascading dropdown list in Blazor using Entity Framework Core database first approach.
+* [Deploying a Blazor Application on IIS](http://ankitsharmablogs.com/deploying-a-blazor-application-on-iis/) May 14, 2018 - Deploying an ASP.NET Core hosted Blazor application with the help of IIS 10 on a Windows 10 machine.
 * [Blazor Steals the Show in VSLive!](https://visualstudiomagazine.com/articles/2018/05/03/vslive-austin.aspx) May 3, 2018 - Blazor Steals the Show in VSLive! .NET Keynote.
 * [Blazor 0.3.0 experimental release now available](https://blogs.msdn.microsoft.com/webdev/2018/05/02/blazor-0-3-0-experimental-release-now-available/) May 2, 2018 - Blazor 0.3.0 experimental release now available.
 * [Blazor, Razor, WebAssembly, and Mono](https://daveaglick.com/posts/blazor-razor-webassembly-and-mono) April 24, 2018 - Blazor, Razor, WebAssembly, and Mono, How the pieces fit together.
 * [BlazeDown with Blazor](http://edcharbeneau.com/blazedown-with-blazor) April 20, 2018 - BlazeDown with Blazor (Blazor + Markdown = BlazeDown!).
 * [Blazor 0.2.0 release now available](https://blogs.msdn.microsoft.com/webdev/2018/04/17/blazor-0-2-0-release-now-available/) April 18, 2018 - Blazor 0.2.0 release now available.
+* [ASP.NET Core – CRUD Using Blazor And Entity Framework Core](http://ankitsharmablogs.com/asp-net-core-crud-using-blazor-and-entity-framework-core/) April 9, 2018 - Creating a web application using Blazor with the help of Entity Framework Core.
 * [Using C# await against JS Promises in Blazor](https://joonasw.net/view/csharp-await-and-js-promises-in-blazor) April 7, 2018 - Using C# await against JS Promises in Blazor.
 * [Create a CRUD App using Blazor and ASP.NET Core](http://www.talkingdotnet.com/create-a-crud-app-using-blazor-and-asp-net-core/) April 5, 2018 - Create a CRUD App using Blazor and ASP.NET Core.
 * [Blazor – You Want To Run .NET Where?!](https://dotnetcore.gaprogman.com/2018/04/05/blazor-you-want-to-run-net-where/) April 5, 2018 - Blazor – You Want To Run .NET Where?!
@@ -144,8 +147,6 @@ Please note that if you want to open Blazor projects in Visual Studio, you must 
 * [Blazor: a technical introduction](http://blog.stevensanderson.com/2018/02/06/blazor-intro/) February 6, 2018 - Blazor: a technical introduction.
 * [Running Blazor on Mono in the browser](http://blog.stevensanderson.com/2017/11/05/blazor-on-mono/) - November 5, 2017 - Running Blazor on Mono in the browser.
 * [.NET and WebAssembly - Is this the future of the front-end?](https://www.hanselman.com/blog/NETAndWebAssemblyIsThisTheFutureOfTheFrontend.aspx) - August 12, 2017 - .NET and WebAssembly - Is this the future of the front-end?
-* [Deploying a Blazor Application on IIS](http://ankitsharmablogs.com/deploying-a-blazor-application-on-iis/) Deploying an ASP.NET Core hosted Blazor application with the help of IIS 10 on a Windows 10 machine.
-* [Cascading DropDownList in Blazor Using EF Core](http://ankitsharmablogs.com/cascading-dropdownlist-in-blazor-using-ef-core/)  Creating a cascading dropdown list in Blazor using Entity Framework Core database first approach
   
 ## Podcasts
 * [Episode 037 – Blazor with Daniel Roth](https://6figuredev.com/podcast/episode-037-blazor-with-daniel-roth/) April 30, 2018 - Episode 037 – Blazor with Daniel Roth.
