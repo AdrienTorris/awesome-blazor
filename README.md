@@ -72,6 +72,7 @@ Please note that if you want to open Blazor projects in Visual Studio, you must 
 * [SitecoreBlazor](https://github.com/GoranHalvarsson/SitecoreBlazor) Sitecore + Blazor.
 * [Tour of Heroes](https://github.com/lohithgn/blazor-tour-of-heroes) Blazor implementation of Angular Tour of Heroes.
 * [Toss.Blazor](https://github.com/RemiBou/Toss.Blazor) Twitter-like web application using Blazor.
+* [TrendTv](https://github.com/MattMarked/TrendTv) Fetch video list from youtube and "zap" in real time between trending videos, filtered by country or category.
 * [VocaDB lyrics](https://github.com/riipah/vocadb-lyrics-blazor-proto) VocaDB lyrics display Blazor proto.
 
 ## Extensions
