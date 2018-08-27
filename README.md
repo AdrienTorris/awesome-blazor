@@ -100,6 +100,7 @@ Please note that if you want to open Blazor projects in Visual Studio, you must 
 * [Trail](https://nuget.org/packages/Trail) DSL for writing Blazor markup in F# (with an [adapter](https://nuget.org/packages/Trail.BlazorRedux) for working with BlazorRedux).
 
 ## Videos
+* [ASP.NET Community Standup - Aug 7, 2018 - Meet the MVC Team!](https://youtu.be/7Eh_l7jEcCo?t=47m35s) August 7, 2018 - ASP.NET Community Standup - Aug 7, 2018 - Meet the MVC Team!
 * [Bionic - Ionic CLI clone for Blazor](https://www.youtube.com/watch?v=_YRR6L2Pzks) July 8, 2018 - Bionic - Ionic CLI clone for Blazor ([NuGet package](https://www.nuget.org/packages/Bionic)).
 * [ASP.NET Community Standup - Meet the Blazor team!](https://www.youtube.com/watch?v=CWuIz9khK-o) June 12, 2018 - ASP.NET Community Standup - June 12, 2018 - Meet the Blazor team.
 * [Blazor, a new .NET SPA framework](https://www.youtube.com/watch?v=JU-6pAxqAa4) May 7, 2018 - Presentation of Blazor by Steve Sanderson at the NDC Minnesota.
@@ -113,6 +114,10 @@ Please note that if you want to open Blazor projects in Visual Studio, you must 
 * [Web Apps can’t really do that, can they? - Steve Sanderson](https://www.youtube.com/watch?v=MiLAE6HMr10&feature=youtu.be&t=31m45s) - July 10, 2017 - Web Apps can’t really do that, can they? - Steve Sanderson.
 
 ## Articles
+* [Client side validation with Blazor and System.DataAnnotation](https://remibou.github.io/Client-side-validation-with-Blazor-and-Data-Annotations/) August 23, 2018 - Client side validation with Blazor and System.DataAnnotation.
+* [Localizing DateTime (and numbers) in Blazor](https://remibou.github.io/Localizing-DateTime-in-Blazor/) August 17, 2018 - Localizing DateTime (and numbers) in Blazor.
+* [Introduction to Server-side Blazor aka Razor Components](https://codedaze.io/introduction-to-server-side-blazor-aka-razor-components/) August 11, 2018 - Introduction to Server-side Blazor aka Razor Components.
+* [I18n With Blazor And Aspnet Core](https://remibou.github.io/I18n-with-Blazor-and-ASPNET-Core/) August 11, 2018 - Internationalizing a Blazor App with ASPNET Core as backend service.
 * [Web Assembly and Blazor: Re-assembling the Web](https://weblog.west-wind.com/posts/2018/Jul/31/Web-Assembly-and-Blazor-Reassembling-the-Web) July 31, 2018 - Web Assembly and Blazor: Re-assembling the Web.
 * [Understanding Server-Side Blazor](https://www.c-sharpcorner.com/article/understanding-server-side-blazor/) July 29, 2018 - Understanding Server-Side Blazor.
 * [Blazor 0.5.0 experimental release now available](https://blogs.msdn.microsoft.com/webdev/2018/07/25/blazor-0-5-0-experimental-release-now-available/) July 25, 2018 - Blazor 0.5.0 experimental release now available.
