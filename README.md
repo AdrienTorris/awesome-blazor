@@ -97,6 +97,7 @@ Please note that if you want to open Blazor projects in Visual Studio, you must 
 * [Blazor-State](https://github.com/TimeWarpEngineering/blazor-state) Manage client side state in Blazor using MediatR pipeline.
 * [BlazorStorage](https://github.com/cloudcrate/BlazorStorage) Local and session storage support for Blazor.
 * [BlazorStrap](https://github.com/chanan/BlazorStrap) Bootstrap 4 components for Blazor ([Demo](https://chanan.github.io/BlazorStrap/)).
+* [Blazor Svg Helper](https://github.com/Lupusa87/BlazorSvgHelper) SVG classes for using in Blazor.
 * [Blazor.Xamarin](https://github.com/Daddoon/Blazor.Xamarin) A Xamarin template for launch and interop a Blazor app on mobile.
 * [Trail](https://nuget.org/packages/Trail) DSL for writing Blazor markup in F# (with an [adapter](https://nuget.org/packages/Trail.BlazorRedux) for working with BlazorRedux).
 
