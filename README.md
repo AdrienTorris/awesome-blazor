@@ -117,6 +117,7 @@ Please note that if you want to open Blazor projects in Visual Studio, you must 
 * [Web Apps can’t really do that, can they? - Steve Sanderson](https://www.youtube.com/watch?v=MiLAE6HMr10&feature=youtu.be&t=31m45s) - July 10, 2017 - Web Apps can’t really do that, can they? - Steve Sanderson.
 
 ## Articles
+* [Building a blogging app with Blazor: Getting Setup](https://codedaze.io/building-a-blogging-app-with-blazor-getting-setup/) August 27, 2018 - Building a blogging app with Blazor: Getting Setup.
 * [Client side validation with Blazor and System.DataAnnotation](https://remibou.github.io/Client-side-validation-with-Blazor-and-Data-Annotations/) August 23, 2018 - Client side validation with Blazor and System.DataAnnotation.
 * [Localizing DateTime (and numbers) in Blazor](https://remibou.github.io/Localizing-DateTime-in-Blazor/) August 17, 2018 - Localizing DateTime (and numbers) in Blazor.
 * [Introduction to Server-side Blazor aka Razor Components](https://codedaze.io/introduction-to-server-side-blazor-aka-razor-components/) August 11, 2018 - Introduction to Server-side Blazor aka Razor Components.
