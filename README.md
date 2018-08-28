@@ -76,6 +76,7 @@ Please note that if you want to open Blazor projects in Visual Studio, you must 
 * [Toss.Blazor](https://github.com/RemiBou/Toss.Blazor) Twitter-like web application using Blazor.
 * [TrendTv](https://github.com/MattMarked/TrendTv) Fetch video list from youtube and "zap" in real time between trending videos, filtered by country or category.
 * [VocaDB lyrics](https://github.com/riipah/vocadb-lyrics-blazor-proto) VocaDB lyrics display Blazor proto.
+* [WordDaze](https://github.com/chrissainty/worddaze) Blogging application written using Blazor with a WebAPI backend.
 
 ## Extensions
 * [BlazorMaterial](https://github.com/BlazorExtensions/BlazorMaterial) Blazor components implementing Google's Material components for web.
