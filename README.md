@@ -120,9 +120,11 @@ Please note that if you want to open Blazor projects in Visual Studio, you must 
 ## Articles
 * [Building a blogging app with Blazor: Getting Setup](https://codedaze.io/building-a-blogging-app-with-blazor-getting-setup/) August 27, 2018 - Building a blogging app with Blazor: Getting Setup.
 * [Client side validation with Blazor and System.DataAnnotation](https://remibou.github.io/Client-side-validation-with-Blazor-and-Data-Annotations/) August 23, 2018 - Client side validation with Blazor and System.DataAnnotation.
+* [Writing a Blazor app](https://davidpine.net/blog/blazing-chuck/) August 20, 2018 - Writing a Blazor app.
 * [Localizing DateTime (and numbers) in Blazor](https://remibou.github.io/Localizing-DateTime-in-Blazor/) August 17, 2018 - Localizing DateTime (and numbers) in Blazor.
 * [Introduction to Server-side Blazor aka Razor Components](https://codedaze.io/introduction-to-server-side-blazor-aka-razor-components/) August 11, 2018 - Introduction to Server-side Blazor aka Razor Components.
 * [I18n With Blazor And Aspnet Core](https://remibou.github.io/I18n-with-Blazor-and-ASPNET-Core/) August 11, 2018 - Internationalizing a Blazor App with ASPNET Core as backend service.
+* [WebAssembly](https://davidpine.net/blog/webassembly-interview/) August 5, 2018 - Interview with Steve Sanderson (Talking Blazor).
 * [Web Assembly and Blazor: Re-assembling the Web](https://weblog.west-wind.com/posts/2018/Jul/31/Web-Assembly-and-Blazor-Reassembling-the-Web) July 31, 2018 - Web Assembly and Blazor: Re-assembling the Web.
 * [Understanding Server-Side Blazor](https://www.c-sharpcorner.com/article/understanding-server-side-blazor/) July 29, 2018 - Understanding Server-Side Blazor.
 * [Blazor 0.5.0 experimental release now available](https://blogs.msdn.microsoft.com/webdev/2018/07/25/blazor-0-5-0-experimental-release-now-available/) July 25, 2018 - Blazor 0.5.0 experimental release now available.
