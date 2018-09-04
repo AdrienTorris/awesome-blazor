@@ -59,6 +59,7 @@ Please note that if you want to open Blazor projects in Visual Studio, you must 
 * [BlazorGeolocation](https://github.com/EdCharbeneau/BlazorGeolocation) An example of using Geolocation with Blazor.
 * [BlazorNasaImages](https://github.com/ncarandini/BlazorNasaImages) A sample Blazor app that fetches the Nasa Astronomy Picture of the Day.
 * [BlazorPong](https://github.com/ctrl-alt-d/blazorpong) 8 bits pong with blazor and signalR. Warning: Blazor Pong is not finished and is stopped with a knowed SignalR issue with blazor.
+* [BlazorQuiz](https://github.com/Amine-Smahi/BlazorQuiz) Simple quiz using Blazor.NET and Webassembly.
 * [BlazorServerTree](https://github.com/ctrl-alt-d/BlazorServerTree) A simple Server-Side Blazor sample app to deal with hierarchical data.
 * [Blazorships](https://github.com/bjorndaniel/Blazorships) Blazorships, a Blazor implementation of Battleship using SignalR.
 * [Blazor Survey](https://github.com/nutshellit/Blazor-Survey) A hybrid F#/C# blazor sample app to kick the tyres of blazor.
