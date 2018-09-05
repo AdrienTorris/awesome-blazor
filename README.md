@@ -17,6 +17,7 @@ Contributions are always welcome!
 * [Articles](#articles)
 * [Podcasts](#podcasts)
 * [Tooling](#tooling)
+* [Courses](#courses)
 * [Community](#community)
 * [Contributing](#contributing)
 
@@ -197,6 +198,9 @@ Please note that if you want to open Blazor projects in Visual Studio, you must 
 * [Razor+](https://marketplace.visualstudio.com/items?itemName=austincummings.razor-plus) Improved Razor support for VS Code with a mind towards Blazor.
 * [Visual Studio](https://www.visualstudio.com/vs/preview) Latest preview of Visual Studio.
 * [Visual Studio Code](https://code.visualstudio.com/) Visual Studio Code, free, open source and cross-platform code editor.
+
+## Courses
+* [Blazor First Look on LinkedIn Learning](https://www.linkedin.com/learning/blazor-first-look) Blazor First Look on LinkedIn Learning.
   
 ## Community
 * [Gitter](https://gitter.im/aspnet/Blazor) Blazor discussion on Gitter.
