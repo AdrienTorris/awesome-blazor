@@ -51,13 +51,20 @@ Please note that if you want to open Blazor projects in Visual Studio, you must 
 * [VocaDB lyrics display](https://lyrics-proto.vocadb.net/) VocaDB lyrics display.
 
 ## Sample Projects
+* [ASP.NET Core Blazor CRUD](https://code.msdn.microsoft.com/vstudio/ASPNET-Core-Blazor-122b108a) ASP.NET Core Blazor Master/Detail CRUD with Filtering and Sorting using EF
 * [BlazeDown](https://github.com/EdCharbeneau/BlazeDown) BlazeDown, online Markdown editor.
 * [BlazorBricks](https://www.codeproject.com/Articles/1241210/WebAssembly-with-Blazor) BlazorBricks, a Blazor implementation of the game Tetris.
+* [BlazorCalculator](https://github.com/Lupusa87/BlazorCalculator) Simple calculator with history and ability to use previous results in new calculations.
 * [BlazorChatSample](https://github.com/conficient/blazorchatsample) Blazor chat demo using SignalR JS client with interop.
 * [BlazorChess](https://github.com/Lupusa87/BlazorChess) Chess engine implemented with Blazor.
+* [BlazorClockCanvas](https://github.com/Lupusa87/BlazorClockCanvas) Complex clock based on Canvas.
+* [BlazorClockSVG](https://github.com/Lupusa87/BlazorClockSVG) Complex clock based on SVG.
 * [BlazorElectronExperiment](https://github.com/SteveSandersonMS/BlazorElectronExperiment.Sample) Exploring how a Blazor could be used to build a cross-platform desktop application using [Electron](https://electronjs.org/).
+* [BlazorGameSnake](https://github.com/Lupusa87/BlazorGameSnake) 2D game snake with customizations, path finding algorithm, and sound effects using SVG.
 * [BlazorGeolocation](https://github.com/EdCharbeneau/BlazorGeolocation) An example of using Geolocation with Blazor.
+* [BlazorGraphExample](https://github.com/jburman/BlazorGraphExample) Example application for connecting to Graph API from Blazor.
 * [BlazorNasaImages](https://github.com/ncarandini/BlazorNasaImages) A sample Blazor app that fetches the Nasa Astronomy Picture of the Day.
+* [BlazorPasswordPattern](https://github.com/Lupusa87/BlazorPasswordPattern) Password pattern based on SVG.
 * [BlazorPong](https://github.com/ctrl-alt-d/blazorpong) 8 bits pong with blazor and signalR. Warning: Blazor Pong is not finished and is stopped with a knowed SignalR issue with blazor.
 * [BlazorQuiz](https://github.com/Amine-Smahi/BlazorQuiz) Simple quiz using Blazor.NET and Webassembly.
 * [BlazorServerTree](https://github.com/ctrl-alt-d/BlazorServerTree) A simple Server-Side Blazor sample app to deal with hierarchical data.
@@ -65,6 +72,7 @@ Please note that if you want to open Blazor projects in Visual Studio, you must 
 * [Blazor Survey](https://github.com/nutshellit/Blazor-Survey) A hybrid F#/C# blazor sample app to kick the tyres of blazor.
 * [BlazorTasks](https://github.com/BorowskiKamil/blazor-tasks) To-Do App.
 * [Blazor.Toaster](https://github.com/sotsera/sotsera.blazor.toaster) A Blazor port of Toastr.js.
+* [Blazor.Universal](https://github.com/pushqrdx/Blazor.Universal) Example of using Blazor to build Xamarin based UWP application without WebAssembly.
 * [Blazor.Xamarin](https://github.com/Appizeo/Blazor.Xamarin) A Xamarin template for launch and interop a Blazor app on mobile.
 * [CRUD sample with EF](https://code.msdn.microsoft.com/vstudio/ASPNET-Core-Blazor-122b108a) ASP.NET Core Blazor Master/Detail CRUD with Filtering and Sorting using EF.
 * [Demo](https://github.com/blazor-demo/blazor-demo.github.io) Code of the official demo website.
@@ -73,6 +81,7 @@ Please note that if you want to open Blazor projects in Visual Studio, you must 
 * [Money](https://github.com/maraf/Money) Money.
 * [Randify](https://github.com/tinyioda/Randify) Spotify Playlist randomizer.
 * [Realworld](https://github.com/torhovland/blazor-realworld-example-app) Blazor realworld example app.
+* [RxBlazor](https://github.com/bmsantos/RxBlazor) Rx.NET based MessageService demo for Blazor Framework.
 * [SitecoreBlazor](https://github.com/GoranHalvarsson/SitecoreBlazor) Sitecore + Blazor.
 * [Tour of Heroes](https://github.com/lohithgn/blazor-tour-of-heroes) Blazor implementation of Angular Tour of Heroes.
 * [Toss.Blazor](https://github.com/RemiBou/Toss.Blazor) Twitter-like web application using Blazor.
@@ -137,6 +146,7 @@ Please note that if you want to open Blazor projects in Visual Studio, you must 
 * [Uploading a file in a Blazor app](https://remibou.github.io/Upload-file-with-Blazor/) July 12, 2018 - Uploading a file in a Blazor app.
 * [Adding search to Blazor applications](https://gunnarpeipman.com/search2/blazor-search/) July 11, 2018 - Adding search to Blazor applications.
 * [SPA framework on .Net via WebAssembly](https://koukia.ca/blazor-spa-framework-on-net-via-webassembly-b7a0046e7f21) July 10, 2018 - SPA framework on .Net via WebAssembly.
+* [ASP.NET Core Blazor CRUD](https://code.msdn.microsoft.com/vstudio/ASPNET-Core-Blazor-122b108a) July 9, 2018 - ASP.NET Core Blazor Master/Detail CRUD with Filtering and Sorting using EF.
 * [Improved Cascading Dropdowns With Blazor](https://www.mikesdotnetting.com/article/320/improved-cascading-dropdowns-with-blazor) July 5, 2018 - Improved Cascading Dropdowns With Blazor.
 * [Hosting a Blazor App in Azure Storage Static Websites](https://anthonychu.ca/post/blazor-azure-storage-static-websites/) June 28, 2018 - Hosting a Blazor App in Azure Storage Static Websites.
 * [Implementing Google OAuth with Blazor](https://remibou.github.io/Google-OAuth-with-Blazor-ASPNET-Core-Week-26/) June 28, 2018 - Implementing Google OAuth with Blazor (0.4) and ASPNET Core 2.1.1.
