@@ -73,7 +73,7 @@ Please note that if you want to open Blazor projects in Visual Studio, you must 
 * [BlazorGraphExample](https://github.com/jburman/BlazorGraphExample) Example application for connecting to Graph API from Blazor.
 * [BlazorNasaImages](https://github.com/ncarandini/BlazorNasaImages) A sample Blazor app that fetches the Nasa Astronomy Picture of the Day.
 * [BlazorPasswordPattern](https://github.com/Lupusa87/BlazorPasswordPattern) Password pattern based on SVG.
-* [BlazorPong](https://github.com/ctrl-alt-d/blazorpong) 8 bits pong with blazor and signalR. Warning: Blazor Pong is not finished and is stopped with a knowed SignalR issue with blazor.
+* [BlazorPong](https://github.com/ctrl-alt-d/blazorpong) 8 bits pong with blazor and signalR. Warning: Blazor Pong is not finished and is stopped with a knowed SignalR issue with Blazor, more info [here](https://github.com/AdrienTorris/awesome-blazor/pull/19).
 * [BlazorQuiz](https://github.com/Amine-Smahi/BlazorQuiz) Simple quiz using Blazor.NET and Webassembly.
 * [BlazorRawHtmlRenderer](https://github.com/Lupusa87/BlazorRawHtmlRenderer) Raw HTML rendering with Blazor.
 * [BlazorServerTree](https://github.com/ctrl-alt-d/BlazorServerTree) A simple Server-Side Blazor sample app to deal with hierarchical data.
