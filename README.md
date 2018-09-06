@@ -94,6 +94,7 @@ Please note that if you want to open Blazor projects in Visual Studio, you must 
 ## Extensions
 * [BlazorMaterial](https://github.com/BlazorExtensions/BlazorMaterial) Blazor components implementing Google's Material components for web.
 * [BlazorOfficeUIFabric](https://github.com/BlazorExtensions/BlazorOfficeUIFabric) Microsoft Office Fabric UI port for Blazor.
+* [BlazorSignalR](https://github.com/csnewman/BlazorSignalR) SignalR Core .NET client library for Blazor.
 * [Canvas](https://github.com/BlazorExtensions/Canvas) HTML5 Canvas API implementation for Microsoft Blazor.
 * [Logging](https://github.com/BlazorExtensions/Logging) Microsoft Extension Logging implementation for Blazor.
 * [Notifications](https://github.com/BlazorExtensions/Notifications) HTML5 Notifications API implementation for Microsoft Blazor.
