@@ -43,7 +43,14 @@ Please note that if you want to open Blazor projects in Visual Studio, you must 
 * [Learn Blazor](https://learn-blazor.com) An unofficial documentation website ([source code here](https://github.com/software-architects/learn-blazor)).
 
 ## Demos
+* [BlazorCalculator](https://lupusablazordemos.azurewebsites.net/CalculatorPage) Simple calculator with history and ability to use previous results in new calculations.
+* [BlazorChess](https://lupusablazordemos.azurewebsites.net/ChessPage) Chess engine implemented with Blazor.
+* [BlazorClockCanvas](https://lupusablazordemos.azurewebsites.net/ClockCanvas) Password pattern based on SVG.
+* [BlazorClockSVG](https://lupusablazordemos.azurewebsites.net/) Complex clock based on SVG.
 * [BlazeDown](http://edcharbeneau.com/BlazeDown) BlazeDown, online Markdown editor.
+* [BlazorGameSnake](https://lupusablazordemos.azurewebsites.net/GameSnakePage) 2D game snake with customizations, path finding algorithm, and sound effects using SVG.
+* [BlazorPasswordPattern](https://lupusablazordemos.azurewebsites.net/PasswordPatternPage) Password pattern based on SVG.
+* [BlazorRawHtmlRenderer](https://lupusablazordemos.azurewebsites.net/RawHTML) Raw HTML rendering with Blazor.
 * [Blazorships](http://blazorships.azurewebsites.net) Blazorships, a Blazor implementation of Battleship using SignalR.
 * [Demo](https://blazor-demo.github.io/) Official demo website.
 * [Flight Finder](http://blazor-flight-finder.azurewebsites.net/) Flight Finder.
@@ -68,6 +75,7 @@ Please note that if you want to open Blazor projects in Visual Studio, you must 
 * [BlazorPasswordPattern](https://github.com/Lupusa87/BlazorPasswordPattern) Password pattern based on SVG.
 * [BlazorPong](https://github.com/ctrl-alt-d/blazorpong) 8 bits pong with blazor and signalR. Warning: Blazor Pong is not finished and is stopped with a knowed SignalR issue with blazor.
 * [BlazorQuiz](https://github.com/Amine-Smahi/BlazorQuiz) Simple quiz using Blazor.NET and Webassembly.
+* [BlazorRawHtmlRenderer](https://github.com/Lupusa87/BlazorRawHtmlRenderer) Raw HTML rendering with Blazor.
 * [BlazorServerTree](https://github.com/ctrl-alt-d/BlazorServerTree) A simple Server-Side Blazor sample app to deal with hierarchical data.
 * [Blazorships](https://github.com/bjorndaniel/Blazorships) Blazorships, a Blazor implementation of Battleship using SignalR.
 * [Blazor Survey](https://github.com/nutshellit/Blazor-Survey) A hybrid F#/C# blazor sample app to kick the tyres of blazor.
