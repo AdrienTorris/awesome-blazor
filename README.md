@@ -146,6 +146,7 @@ Please note that if you want to open Blazor projects in Visual Studio, you must 
 * [Web Apps can’t really do that, can they? - Steve Sanderson](https://www.youtube.com/watch?v=MiLAE6HMr10&feature=youtu.be&t=31m45s) - July 10, 2017 - Web Apps can’t really do that, can they? - Steve Sanderson.
 
 ## Articles
+* [Working with the Blazor JavaScript Interop](https://blog.logrocket.com/working-with-the-blazor-javascript-interop-3c2a8d0eb56c) September 5, 2018 - Working with the Blazor JavaScript Interop.
 * [Building a blogging app with Blazor: Listing Posts](https://codedaze.io/building-a-blogging-app-with-blazor-listing-posts/) September 3, 2018 - Building a blogging app with Blazor: Listing Posts.
 * [Integrating Blazor and JavaScript Code](https://visualstudiomagazine.com/articles/2018/08/01/integrating-blazor-javascript.aspx) August 27, 2018 - Integrating Blazor and JavaScript Code.
 * [Building a blogging app with Blazor: Getting Setup](https://codedaze.io/building-a-blogging-app-with-blazor-getting-setup/) August 27, 2018 - Building a blogging app with Blazor: Getting Setup.
