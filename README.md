@@ -60,6 +60,7 @@ Please note that if you want to open Blazor projects in Visual Studio, you must 
 
 ## Sample Projects
 * [ASP.NET Core Blazor CRUD](https://code.msdn.microsoft.com/vstudio/ASPNET-Core-Blazor-122b108a) ASP.NET Core Blazor Master/Detail CRUD with Filtering and Sorting using EF
+* [BlazorAzureSignalRService](https://github.com/danroth27/BlazorAzureSignalRService) Blazor + Azure SignalR Service.
 * [BlazeDown](https://github.com/EdCharbeneau/BlazeDown) BlazeDown, online Markdown editor.
 * [BlazorBricks](https://www.codeproject.com/Articles/1241210/WebAssembly-with-Blazor) BlazorBricks, a Blazor implementation of the game Tetris.
 * [BlazorCalculator](https://github.com/Lupusa87/BlazorCalculator) Simple calculator with history and ability to use previous results in new calculations.
@@ -78,6 +79,7 @@ Please note that if you want to open Blazor projects in Visual Studio, you must 
 * [BlazorRawHtmlRenderer](https://github.com/Lupusa87/BlazorRawHtmlRenderer) Raw HTML rendering with Blazor.
 * [BlazorServerTree](https://github.com/ctrl-alt-d/BlazorServerTree) A simple Server-Side Blazor sample app to deal with hierarchical data.
 * [Blazorships](https://github.com/bjorndaniel/Blazorships) Blazorships, a Blazor implementation of Battleship using SignalR.
+* [BlazorSignalRTest](https://github.com/danroth27/BlazorSignalRTest) Test with Blazor and SignalR.
 * [Blazor Survey](https://github.com/nutshellit/Blazor-Survey) A hybrid F#/C# blazor sample app to kick the tyres of blazor.
 * [BlazorTasks](https://github.com/BorowskiKamil/blazor-tasks) To-Do App.
 * [Blazor.Toaster](https://github.com/sotsera/sotsera.blazor.toaster) A Blazor port of Toastr.js.
