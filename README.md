@@ -112,6 +112,8 @@ Please note that if you want to open Blazor projects in Visual Studio, you must 
 * [Web Apps can’t really do that, can they? - Steve Sanderson](https://www.youtube.com/watch?v=MiLAE6HMr10&feature=youtu.be&t=31m45s) - July 10, 2017 - Web Apps can’t really do that, can they? - Steve Sanderson.
 
 ## Articles
+* [CRUD Using Blazor with MongoDB](http://ankitsharmablogs.com/crud-using-blazor-with-mongodb/) September 9, 2018 - CRUD With Blazor using MongoDB as Database provider
+* [Single Page Application Using Server-Side Blazor](http://ankitsharmablogs.com/single-page-application-using-server-side-blazor/) August 10, 2018 -  SPA using the server-side Blazor concepts with the help of Entity Framework Core database first approach.
 * [Blazor 0.5.0 experimental release now available](https://blogs.msdn.microsoft.com/webdev/2018/07/25/blazor-0-5-0-experimental-release-now-available/) July 25, 2018 - Blazor 0.5.0 experimental release now available.
 * [CSRF protection with ASPNET Core and Blazor](https://remibou.github.io/CSRF-protection-with-ASPNET-Core-and-Blazor-Week-29/) July 22, 2018 - CSRF protection with ASPNET Core and Blazor.
 * [Blazor for Knockout.js Developers](https://blog.usejournal.com/blazor-for-knockout-js-developers-bfeefaacffc3) July 20, 2018 - A brief comparison between two of Steve Sanderson’s Creations.
