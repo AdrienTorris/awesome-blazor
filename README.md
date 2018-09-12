@@ -59,7 +59,8 @@ Please note that if you want to open Blazor projects in Visual Studio, you must 
 * [VocaDB lyrics display](https://lyrics-proto.vocadb.net/) VocaDB lyrics display.
 
 ## Sample Projects
-* [ASP.NET Core Blazor CRUD](https://code.msdn.microsoft.com/vstudio/ASPNET-Core-Blazor-122b108a) ASP.NET Core Blazor Master/Detail CRUD with Filtering and Sorting using EF
+* [ASP.NET Core Blazor CRUD](https://code.msdn.microsoft.com/vstudio/ASPNET-Core-Blazor-122b108a) ASP.NET Core Blazor Master/Detail CRUD with Filtering and Sorting using EF.
+* [Beam](https://github.com/Dedac/Beam) A social network demo application. This is the source code of the LinkedIn course "Blazor First Look".
 * [BlazorAzureSignalRService](https://github.com/danroth27/BlazorAzureSignalRService) Blazor + Azure SignalR Service.
 * [BlazeDown](https://github.com/EdCharbeneau/BlazeDown) BlazeDown, online Markdown editor.
 * [BlazorBricks](https://www.codeproject.com/Articles/1241210/WebAssembly-with-Blazor) BlazorBricks, a Blazor implementation of the game Tetris.
@@ -218,7 +219,7 @@ Please note that if you want to open Blazor projects in Visual Studio, you must 
 * [Visual Studio Code](https://code.visualstudio.com/) Visual Studio Code, free, open source and cross-platform code editor.
 
 ## Courses
-* [Blazor First Look on LinkedIn Learning](https://www.linkedin.com/learning/blazor-first-look) Blazor First Look on LinkedIn Learning.
+* [Blazor First Look on LinkedIn Learning](https://www.linkedin.com/learning/blazor-first-look) Blazor First Look on LinkedIn Learning. [Source code](https://github.com/Dedac/Beam).
   
 ## Community
 * [Gitter](https://gitter.im/aspnet/Blazor) Blazor discussion on Gitter.
