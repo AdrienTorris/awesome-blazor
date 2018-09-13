@@ -137,6 +137,7 @@ Please note that if you want to open Blazor projects in Visual Studio, you must 
 * [Trail](https://nuget.org/packages/Trail) DSL for writing Blazor markup in F# (with an [adapter](https://nuget.org/packages/Trail.BlazorRedux) for working with BlazorRedux).
 
 ## Videos
+* [Blazor: Modern Web development with .NET and WebAssembly](https://channel9.msdn.com/Events/dotnetConf/2018/S207) September 13, 2018 - Blazor: Modern Web development with .NET and WebAssembly during the .NET Conf 2018.
 * [ASP.NET Community Standup - Aug 7, 2018 - Meet the MVC Team!](https://youtu.be/7Eh_l7jEcCo?t=47m35s) August 7, 2018 - ASP.NET Community Standup - Aug 7, 2018 - Meet the MVC Team!
 * [Bionic - Ionic CLI clone for Blazor](https://www.youtube.com/watch?v=_YRR6L2Pzks) July 8, 2018 - Bionic - Ionic CLI clone for Blazor ([NuGet package](https://www.nuget.org/packages/Bionic)).
 * [ASP.NET Community Standup - Meet the Blazor team!](https://www.youtube.com/watch?v=CWuIz9khK-o) June 12, 2018 - ASP.NET Community Standup - June 12, 2018 - Meet the Blazor team.
