@@ -122,6 +122,7 @@ Please note that if you want to open Blazor projects in Visual Studio, you must 
 * [BlazorDB](https://github.com/chanan/BlazorDB) In-memory, persisted to local storage, database for Blazor.
 * [Blazor.FlexGrid](https://github.com/Mewriick/Blazor.FlexGrid) GridView component for Blazor.
 * [Blazor-Fluxor](https://github.com/mrpmorris/blazor-fluxor) A low-boilerplate Flux/Redux state library for Blazor.
+* [Blazor LoadingBar](https://github.com/jsakamoto/Toolbelt.Blazor.LoadingBar) Loading bar UI for Client-Side Blazor application.
 * [BlazoredLocalStorage](https://github.com/chrissainty/BlazoredLocalStorage) Local storage for Blazor applications.
 * [Blazor.Notifications](https://github.com/vertonghenb/Blazor.Notifications) Implementation of the Notification API in C# for Blazor via Interop.
 * [Blazorous](https://github.com/chanan/Blazorous) Maintainable CSS with Blazor ([Demo](https://chanan.github.io/Blazorous)).
