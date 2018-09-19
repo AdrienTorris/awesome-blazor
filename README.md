@@ -154,6 +154,7 @@ Please note that if you want to open Blazor projects in Visual Studio, you must 
 * [Web Apps can’t really do that, can they? - Steve Sanderson](https://www.youtube.com/watch?v=MiLAE6HMr10&feature=youtu.be&t=31m45s) - July 10, 2017 - Web Apps can’t really do that, can they? - Steve Sanderson.
 
 ## Articles
+* [Building a blogging app with Blazor: add post](https://codedaze.io/building-a-blogging-app-with-blazor-add-post/) September 18, 2018 - Building a blogging app with Blazor: add post.
 * [How to Consume Web APIs in Blazor](https://visualstudiomagazine.com/articles/2018/09/07/blazor-apis.aspx) September 13, 2018 - How to Consume Web APIs in Blazor.
 * [Integrating Stripe Payment In With Blazor And Aspnet Core](https://remibou.github.io/Integrating-Stripe-payment-in-with-Blazor-and-ASPNET-Core/) September 11, 2018 - Integrating Stripe Payment In With Blazor And Aspnet Core.
 * [Working with the Blazor JavaScript Interop](https://blog.logrocket.com/working-with-the-blazor-javascript-interop-3c2a8d0eb56c) September 5, 2018 - Working with the Blazor JavaScript Interop.
