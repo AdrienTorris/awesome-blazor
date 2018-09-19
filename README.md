@@ -160,6 +160,7 @@ Please note that if you want to open Blazor projects in Visual Studio, you must 
 * [Cutting Edge - Never Mind JavaScript, Here’s Blazor](https://msdn.microsoft.com/magazine/mt829756) September 4, 2018 - Cutting Edge - Never Mind JavaScript, Here’s Blazor, published on Microsoft Magazine.
 * [Web Development - C# in the Browser with Blazor](https://msdn.microsoft.com/fr-fr/magazine/mt829752) September 4, 2018 - Web Development - C# in the Browser with Blazor, published on Microsoft Magazine.
 * [Building a blogging app with Blazor: Listing Posts](https://codedaze.io/building-a-blogging-app-with-blazor-listing-posts/) September 3, 2018 - Building a blogging app with Blazor: Listing Posts.
+* [Blazor: .NET in the browser](https://dncmagazine.blob.core.windows.net/edition38/DNCMag-Issue38.pdf) September 1, 2018 - Blazor: .NET in the browser, from DNC Magazine.
 * [Integrating Blazor and JavaScript Code](https://visualstudiomagazine.com/articles/2018/08/01/integrating-blazor-javascript.aspx) August 27, 2018 - Integrating Blazor and JavaScript Code.
 * [Building a blogging app with Blazor: Getting Setup](https://codedaze.io/building-a-blogging-app-with-blazor-getting-setup/) August 27, 2018 - Building a blogging app with Blazor: Getting Setup.
 * [Client side validation with Blazor and System.DataAnnotation](https://remibou.github.io/Client-side-validation-with-Blazor-and-Data-Annotations/) August 23, 2018 - Client side validation with Blazor and System.DataAnnotation.
