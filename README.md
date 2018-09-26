@@ -69,6 +69,7 @@ Please note that if you want to open Blazor projects in Visual Studio, you must 
 * [BlazorChess](https://github.com/Lupusa87/BlazorChess) Chess engine implemented with Blazor.
 * [BlazorClockCanvas](https://github.com/Lupusa87/BlazorClockCanvas) Complex clock based on Canvas.
 * [BlazorClockSVG](https://github.com/Lupusa87/BlazorClockSVG) Complex clock based on SVG.
+* [Blazor.DataDrivenLayout](https://github.com/hutchcodes/Blazor.DataDrivenLayout) Two example of how to do data driven layouts in Server-side Blazor.
 * [BlazorElectronExperiment](https://github.com/SteveSandersonMS/BlazorElectronExperiment.Sample) Exploring how a Blazor could be used to build a cross-platform desktop application using [Electron](https://electronjs.org/).
 * [BlazorFileReader](https://github.com/Tewr/BlazorFileReader) Read-only File streams in Blazor. [Demo](https://tewr.github.io/BlazorFileReader/).
 * [BlazorGameSnake](https://github.com/Lupusa87/BlazorGameSnake) 2D game snake with customizations, path finding algorithm, and sound effects using SVG.
@@ -156,7 +157,9 @@ Please note that if you want to open Blazor projects in Visual Studio, you must 
 
 ## Articles
 * [Building a blogging app with Blazor: Editing & Deleting Posts](https://codedaze.io/building-a-blogging-app-with-blazor-editing-deleting-posts/) September 24, 2018 - Building a blogging app with Blazor: Editing & Deleting Posts.
+* [Data Driven Layout in Server-side Blazor](https://hutchcodes.net/2018/09/data-driven-layout-in-razor-components/) September 24, 2018 - Data Driven Layout in Server-side Blazor.
 * [Building a blogging app with Blazor: add post](https://codedaze.io/building-a-blogging-app-with-blazor-add-post/) September 18, 2018 - Building a blogging app with Blazor: add post.
+* [Dependency Injection Lifetimes in Blazor](https://hutchcodes.net/2018/09/dependency-injection-lifetimes-in-razor-components/) September 17, 2018 - Dependency Injection Lifetimes in Blazor.
 * [How to Consume Web APIs in Blazor](https://visualstudiomagazine.com/articles/2018/09/07/blazor-apis.aspx) September 13, 2018 - How to Consume Web APIs in Blazor.
 * [Integrating Stripe Payment In With Blazor And Aspnet Core](https://remibou.github.io/Integrating-Stripe-payment-in-with-Blazor-and-ASPNET-Core/) September 11, 2018 - Integrating Stripe Payment In With Blazor And Aspnet Core.
 * [Working with the Blazor JavaScript Interop](https://blog.logrocket.com/working-with-the-blazor-javascript-interop-3c2a8d0eb56c) September 5, 2018 - Working with the Blazor JavaScript Interop.
