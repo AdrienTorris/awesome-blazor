@@ -162,6 +162,7 @@ Please note that if you want to open Blazor projects in Visual Studio, you must 
 
 ## Articles
 * [Blazor 0.6.0 experimental release now available](https://blogs.msdn.microsoft.com/webdev/2018/10/02/blazor-0-6-0-experimental-release-now-available/) October 2, 2018 - Blazor 0.6.0 experimental release now available.
+* [Work with Cassandra API in Cosmos DB](https://www.c-sharpcorner.com/article/blazor-work-with-cassandra-api-in-cosmos-db/) October 1, 2018 - Work with Cassandra API in Cosmos DB.
 * [Building a blogging app with Blazor: Editing & Deleting Posts](https://codedaze.io/building-a-blogging-app-with-blazor-editing-deleting-posts/) September 24, 2018 - Building a blogging app with Blazor: Editing & Deleting Posts.
 * [Data Driven Layout in Server-side Blazor](https://hutchcodes.net/2018/09/data-driven-layout-in-razor-components/) September 24, 2018 - Data Driven Layout in Server-side Blazor.
 * [Building a blogging app with Blazor: add post](https://codedaze.io/building-a-blogging-app-with-blazor-add-post/) September 18, 2018 - Building a blogging app with Blazor: add post.
