@@ -161,6 +161,7 @@ Please note that if you want to open Blazor projects in Visual Studio, you must 
 * [Web Apps can’t really do that, can they? - Steve Sanderson](https://www.youtube.com/watch?v=MiLAE6HMr10&feature=youtu.be&t=31m45s) - July 10, 2017 - Web Apps can’t really do that, can they? - Steve Sanderson.
 
 ## Articles
+* [Server-Side Blazor to ship in .NET Core 3.0](https://visualstudiomagazine.com/articles/2018/10/03/blazor-update.aspx) October 3, 2018 - Server-Side Blazor to ship in .NET Core 3.0.
 * [Blazor 0.6.0 experimental release now available](https://blogs.msdn.microsoft.com/webdev/2018/10/02/blazor-0-6-0-experimental-release-now-available/) October 2, 2018 - Blazor 0.6.0 experimental release now available.
 * [Integrating JavaScript and C# in the Browser: Beyond the Basics with Blazor](https://visualstudiomagazine.com/articles/2018/09/01/integrating-javascript-csharp.aspx) October 1, 2018 - Integrating JavaScript and C# in the Browser: Beyond the Basics with Blazor.
 * [Work with Cassandra API in Cosmos DB](https://www.c-sharpcorner.com/article/blazor-work-with-cassandra-api-in-cosmos-db/) October 1, 2018 - Work with Cassandra API in Cosmos DB.
