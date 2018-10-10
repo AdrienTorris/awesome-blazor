@@ -142,6 +142,7 @@ Please note that if you want to open Blazor projects in Visual Studio, you must 
 * [Trail](https://nuget.org/packages/Trail) DSL for writing Blazor markup in F# (with an [adapter](https://nuget.org/packages/Trail.BlazorRedux) for working with BlazorRedux).
 
 ## Videos
+* [The Blazor Show](https://www.youtube.com/watch?v=wwi55L6Qb18&list=PL1rZQsJPBU2StolNg0aqvQswETPcYnNKL&index=0) October 9, 2018 - ASP.NET Community Standup - The Blazor Show!
 * [Developing amazing web apps with ASP.NET Core](https://myignite.techcommunity.microsoft.com/sessions/65901) September 28, 2018 - Microsoft Ignite 2018: Developing amazing web apps with ASP.NET Core, by Daniel Roth.
 * [Blazor StateHasChanged](https://www.twitch.tv/videos/315855936) September 28, 2018 - Blazor-Fluxor, Bionic and some live demos of building Blazor Component Templates with Blazor 0.6.0.
 * [Blazor StateHasChanged](https://www.twitch.tv/videos/313447722) September 22, 2018 - Blazor 0.6.0 Templates, Razor Components, Hosting with Azure Static Websites, and some live demos using Blazor Interop and Geolocaiton services.
