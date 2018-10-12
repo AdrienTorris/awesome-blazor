@@ -60,6 +60,7 @@ Please note that if you want to open Blazor projects in Visual Studio, you must 
 
 ## Sample Projects
 * [ASP.NET Core Blazor CRUD](https://code.msdn.microsoft.com/vstudio/ASPNET-Core-Blazor-122b108a) ASP.NET Core Blazor Master/Detail CRUD with Filtering and Sorting using EF.
+* [AsteroidsWasm](https://github.com/aesalazar/AsteroidsWasm) A mixed bag of C# projects to see if a single .NET Standard base can run across all common platforms include WebAssembly.
 * [Beam](https://github.com/Dedac/Beam) A social network demo application. This is the source code of the LinkedIn course "Blazor First Look".
 * [Blangular](https://github.com/danroth27/Blangular) Blazor + Angular, by Daniel Roth.
 * [BlazorAzureSignalRService](https://github.com/danroth27/BlazorAzureSignalRService) Blazor + Azure SignalR Service.
