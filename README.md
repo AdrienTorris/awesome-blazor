@@ -169,6 +169,8 @@ Please note that if you want to open Blazor projects in Visual Studio, you must 
 
 ## Articles
 * [Building a blogging app with Blazor: adding authentication](https://codedaze.io/building-a-blogging-app-with-blazor-adding-authentication/) October 15, 2018 - Building a blogging app with Blazor: adding authentication.
+* [Get Started with Blazor and WebAssembly](https://developer.okta.com/blog/2018/10/15/blazor-and-web-assembly) October 15, 2018 - Get Started with Blazor and WebAssembly.
+* [Deploying a Blazor Application on Azure](https://dzone.com/articles/deploying-a-blazor-application-on-azure) October 12, 2018 - Deploying a Blazor Application on Azure.
 * [Building Blazor apps with SignalR Core](https://dotnetthoughts.net/building-blazor-apps-with-signalr/) October 3, 2018 - Building Blazor apps with SignalR Core.
 * [Server-Side Blazor to ship in .NET Core 3.0](https://visualstudiomagazine.com/articles/2018/10/03/blazor-update.aspx) October 3, 2018 - Server-Side Blazor to ship in .NET Core 3.0.
 * [Blazor 0.6.0 experimental release now available](https://blogs.msdn.microsoft.com/webdev/2018/10/02/blazor-0-6-0-experimental-release-now-available/) October 2, 2018 - Blazor 0.6.0 experimental release now available.
