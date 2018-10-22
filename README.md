@@ -169,6 +169,7 @@ Please note that if you want to open Blazor projects in Visual Studio, you must 
 * [Web Apps can’t really do that, can they? - Steve Sanderson](https://www.youtube.com/watch?v=MiLAE6HMr10&feature=youtu.be&t=31m45s) - July 10, 2017 - Web Apps can’t really do that, can they? - Steve Sanderson.
 
 ## Articles
+* [Service lifetimes in Blazor](https://codedaze.io/service-lifetimes-in-blazor/) October 22, 2018 - Service lifetimes in Blazor.
 * [Building a blogging app with Blazor: adding authentication](https://codedaze.io/building-a-blogging-app-with-blazor-adding-authentication/) October 15, 2018 - Building a blogging app with Blazor: adding authentication.
 * [Get Started with Blazor and WebAssembly](https://developer.okta.com/blog/2018/10/15/blazor-and-web-assembly) October 15, 2018 - Get Started with Blazor and WebAssembly.
 * [A nicer looking Blazor loading page](http://lightswitchhelpwebsite.com/Blog/tabid/61/EntryId/4315/A-Nicer-Looking-Blazor-Loading-Page.aspx) October 14, 2018 - A nicer looking Blazor loading page.
