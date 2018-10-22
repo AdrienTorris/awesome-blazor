@@ -151,7 +151,8 @@ Please note that if you want to open Blazor projects in Visual Studio, you must 
 * [The Blazor Show](https://www.youtube.com/watch?v=wwi55L6Qb18&list=PL1rZQsJPBU2StolNg0aqvQswETPcYnNKL&index=0) October 9, 2018 - ASP.NET Community Standup - The Blazor Show!
 * [Developing amazing web apps with ASP.NET Core](https://myignite.techcommunity.microsoft.com/sessions/65901) September 28, 2018 - Microsoft Ignite 2018: Developing amazing web apps with ASP.NET Core, by Daniel Roth.
 * [Blazor StateHasChanged](https://www.twitch.tv/videos/315855936) September 28, 2018 - Blazor-Fluxor, Bionic and some live demos of building Blazor Component Templates with Blazor 0.6.0.
-* [Blazor StateHasChanged](https://www.twitch.tv/videos/313447722) September 22, 2018 - Blazor 0.6.0 Templates, Razor Components, Hosting with Azure Static Websites, and some live demos using Blazor Interop and Geolocaiton services.
+* [Blazor StateHasChanged](https://www.twitch.tv/videos/313447722) September 22, 2018 - Blazor 0.6.0 Templates, Razor Components, Hosting with Azure Static Websites, and some live demos using Blazor Interop and Geolocation services.
+* [A fistful of Blazor; Its .NET in the browser](https://www.youtube.com/watch?v=5ztMNdCZrRY) September 21, 2018 - A fistful of Blazor; Its .NET in the browser by William Tulloch at the NDC Sydney.
 * [Blazor: Modern Web development with .NET and WebAssembly](https://channel9.msdn.com/Events/dotnetConf/2018/S207) September 13, 2018 - Blazor: Modern Web development with .NET and WebAssembly during the .NET Conf 2018.
 * [What's New in ASP.NET Core?](https://channel9.msdn.com/Events/dotnetConf/2018/S104) August 11, 2018 - What's New in ASP.NET Core? (31:30).
 * [ASP.NET Community Standup - Aug 7, 2018 - Meet the MVC Team!](https://youtu.be/7Eh_l7jEcCo?t=47m35s) August 7, 2018 - ASP.NET Community Standup - Aug 7, 2018 - Meet the MVC Team!
