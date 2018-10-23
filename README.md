@@ -146,6 +146,7 @@ Please note that if you want to open Blazor projects in Visual Studio, you must 
 * [ChartJs.Blazor](https://github.com/mariusmuntean/ChartJs.Blazor) Blazor Component that wraps ChartJS.
 * [Sotsera.Blazor.Toaster](https://github.com/sotsera/sotsera.blazor.toaster) A Blazor port of Toastr.js.
 * [Trail](https://nuget.org/packages/Trail) DSL for writing Blazor markup in F# (with an [adapter](https://nuget.org/packages/Trail.BlazorRedux) for working with BlazorRedux).
+* [BlazorSplit](https://github.com/BlazorComponents/BlazorSplit) Resizeable split views ([Demo](https://blazorcomponents.github.io/BlazorSplit/)).
 
 ## Videos
 * [The Blazor Show](https://www.youtube.com/watch?v=wwi55L6Qb18&list=PL1rZQsJPBU2StolNg0aqvQswETPcYnNKL&index=0) October 9, 2018 - ASP.NET Community Standup - The Blazor Show!
