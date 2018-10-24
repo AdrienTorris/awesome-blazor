@@ -109,6 +109,7 @@ Please note that if you want to open Blazor projects in Visual Studio, you must 
 * [WordDaze](https://github.com/chrissainty/worddaze) Blogging application written using Blazor with a WebAPI backend.
 
 ## Extensions
+* [BlazorConfirm](https://github.com/ctrl-alt-d/BlazorConfirm) A Blazor Wrapper for JS's `Window.confirm()` as .Net Blazor Component. Online [demo](https://ctrl-alt-d.github.io/BlazorConfirm/) available.
 * [BlazorMaterial](https://github.com/BlazorExtensions/BlazorMaterial) Blazor components implementing Google's Material components for web.
 * [BlazorOfficeUIFabric](https://github.com/BlazorExtensions/BlazorOfficeUIFabric) Microsoft Office Fabric UI port for Blazor.
 * [BlazorSignalR](https://github.com/csnewman/BlazorSignalR) SignalR Core .NET client library for Blazor. It uses the C# client.
