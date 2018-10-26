@@ -138,6 +138,7 @@ Please note that if you want to open Blazor projects in Visual Studio, you must 
 * [BlazorRealm](https://dworthen.github.io/BlazorRealm/docs/quickstart.html) Redux state management for Blazor.
 * [Blazor-Redux](https://github.com/torhovland/blazor-redux) Connecting a Redux state store with Blazor.
 * [Blazor.Sensors](https://github.com/AspNetMonsters/Blazor.Sensors) Blazor interop for browers sensor apis.
+* [BlazorSplit](https://github.com/BlazorComponents/BlazorSplit) Resizeable split views ([Demo](https://blazorcomponents.github.io/BlazorSplit/)).
 * [Blazor-State](https://github.com/TimeWarpEngineering/blazor-state) Manage client side state in Blazor using MediatR pipeline.
 * [BlazorStorage](https://github.com/cloudcrate/BlazorStorage) Local and session storage support for Blazor.
 * [BlazorStrap](https://github.com/chanan/BlazorStrap) Bootstrap 4 components for Blazor ([Demo](https://chanan.github.io/BlazorStrap/)).
