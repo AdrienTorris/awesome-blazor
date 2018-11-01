@@ -109,7 +109,9 @@ Please note that if you want to open Blazor projects in Visual Studio, you must 
 * [WordDaze](https://github.com/chrissainty/worddaze) Blogging application written using Blazor with a WebAPI backend.
 
 ## Extensions
+
 * [MatBlazor](https://github.com/BlazorComponents/MatBlazor) Google's Material components for web in Blazor. ([Demo](https://blazorcomponents.github.io/MatBlazor/)).
+* [BlazorConfirm](https://github.com/ctrl-alt-d/BlazorConfirm) A Blazor Wrapper for JS's `Window.confirm()` and `onbeforeunload` as .Net Blazor Component ([Demo](https://ctrl-alt-d.github.io/BlazorConfirm/))
 * [BlazorMaterial](https://github.com/BlazorExtensions/BlazorMaterial) Blazor components implementing Google's Material components for web.
 * [BlazorOfficeUIFabric](https://github.com/BlazorExtensions/BlazorOfficeUIFabric) Microsoft Office Fabric UI port for Blazor.
 * [BlazorSignalR](https://github.com/csnewman/BlazorSignalR) SignalR Core .NET client library for Blazor. It uses the C# client.
@@ -171,7 +173,10 @@ Please note that if you want to open Blazor projects in Visual Studio, you must 
 * [Web Apps can’t really do that, can they? - Steve Sanderson](https://www.youtube.com/watch?v=MiLAE6HMr10&feature=youtu.be&t=31m45s) - July 10, 2017 - Web Apps can’t really do that, can they? - Steve Sanderson.
 
 ## Articles
+* [Building offline Blazor application](https://gunnarpeipman.com/aspnet/offline-blazor-application) October 24, 2018 - Building offline Blazor application.
 * [Service lifetimes in Blazor](https://codedaze.io/service-lifetimes-in-blazor/) October 22, 2018 - Service lifetimes in Blazor.
+* [Pages in ASP .NET Core: Razor, Blazor and MVC Views](https://wakeupandcode.com/pages-in-asp-net-core-razor-blazor-and-mvc-views/) October 21, 2018 - Pages in ASP .NET Core: Razor, Blazor and MVC Views.
+* [Server-side Blazor applications](https://gunnarpeipman.com/aspnet/server-side-blazor/) October 19, 2018 - Server-side Blazor applications.
 * [Building a blogging app with Blazor: adding authentication](https://codedaze.io/building-a-blogging-app-with-blazor-adding-authentication/) October 15, 2018 - Building a blogging app with Blazor: adding authentication.
 * [Get Started with Blazor and WebAssembly](https://developer.okta.com/blog/2018/10/15/blazor-and-web-assembly) October 15, 2018 - Get Started with Blazor and WebAssembly.
 * [A nicer looking Blazor loading page](http://lightswitchhelpwebsite.com/Blog/tabid/61/EntryId/4315/A-Nicer-Looking-Blazor-Loading-Page.aspx) October 14, 2018 - A nicer looking Blazor loading page.
