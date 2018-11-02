@@ -171,6 +171,7 @@ Please note that if you want to open Blazor projects in Visual Studio, you must 
 * [Web Apps can’t really do that, can they? - Steve Sanderson](https://www.youtube.com/watch?v=MiLAE6HMr10&feature=youtu.be&t=31m45s) - July 10, 2017 - Web Apps can’t really do that, can they? - Steve Sanderson.
 
 ## Articles
+* [Implementing server side CosmosDB pagination in a Blazor Web App](https://chapsas.com/implementing-skiptake-server-side-cosmosdb-pagination-in-a-blazor-web-app/) October 31, 2018 - Implementing server side CosmosDB pagination in a Blazor Web App (Part 1: Page Number and Page Size).
 * [Building offline Blazor application](https://gunnarpeipman.com/aspnet/offline-blazor-application) October 24, 2018 - Building offline Blazor application.
 * [Service lifetimes in Blazor](https://codedaze.io/service-lifetimes-in-blazor/) October 22, 2018 - Service lifetimes in Blazor.
 * [Pages in ASP .NET Core: Razor, Blazor and MVC Views](https://wakeupandcode.com/pages-in-asp-net-core-razor-blazor-and-mvc-views/) October 21, 2018 - Pages in ASP .NET Core: Razor, Blazor and MVC Views.
