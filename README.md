@@ -171,7 +171,9 @@ Please note that if you want to open Blazor projects in Visual Studio, you must 
 * [Web Apps can’t really do that, can they? - Steve Sanderson](https://www.youtube.com/watch?v=MiLAE6HMr10&feature=youtu.be&t=31m45s) - July 10, 2017 - Web Apps can’t really do that, can they? - Steve Sanderson.
 
 ## Articles
+* [Blazor: Working with Events](https://visualstudiomagazine.com/articles/2018/10/01/blazor-event-handling.aspx) October 31, 2018 - Blazor: Working with Events, by Visual Studio Magazine.
 * [Implementing server side CosmosDB pagination in a Blazor Web App](https://chapsas.com/implementing-skiptake-server-side-cosmosdb-pagination-in-a-blazor-web-app/) October 31, 2018 - Implementing server side CosmosDB pagination in a Blazor Web App (Part 1: Page Number and Page Size).
+* [Blazor Q&A with Microsoft's Daniel Roth](https://www.telerik.com/blogs/blazor-qa-with-microsofts-daniel-roth) October 25, 2018 - Blazor Q&A with Microsoft's Daniel Roth.
 * [Building offline Blazor application](https://gunnarpeipman.com/aspnet/offline-blazor-application) October 24, 2018 - Building offline Blazor application.
 * [Service lifetimes in Blazor](https://codedaze.io/service-lifetimes-in-blazor/) October 22, 2018 - Service lifetimes in Blazor.
 * [Pages in ASP .NET Core: Razor, Blazor and MVC Views](https://wakeupandcode.com/pages-in-asp-net-core-razor-blazor-and-mvc-views/) October 21, 2018 - Pages in ASP .NET Core: Razor, Blazor and MVC Views.
@@ -180,6 +182,7 @@ Please note that if you want to open Blazor projects in Visual Studio, you must 
 * [Get Started with Blazor and WebAssembly](https://developer.okta.com/blog/2018/10/15/blazor-and-web-assembly) October 15, 2018 - Get Started with Blazor and WebAssembly.
 * [A nicer looking Blazor loading page](http://lightswitchhelpwebsite.com/Blog/tabid/61/EntryId/4315/A-Nicer-Looking-Blazor-Loading-Page.aspx) October 14, 2018 - A nicer looking Blazor loading page.
 * [Deploying a Blazor Application on Azure](https://dzone.com/articles/deploying-a-blazor-application-on-azure) October 12, 2018 - Deploying a Blazor Application on Azure.
+* [A Blazor Tip You Should Almost Certainly Ignore](https://visualstudiomagazine.com/blogs/tool-tracker/2018/10/blazor-tip.aspx) October 10, 2018 - A Blazor Tip You Should Almost Certainly Ignore.
 * [Building Blazor apps with SignalR Core](https://dotnetthoughts.net/building-blazor-apps-with-signalr/) October 3, 2018 - Building Blazor apps with SignalR Core.
 * [Server-Side Blazor to ship in .NET Core 3.0](https://visualstudiomagazine.com/articles/2018/10/03/blazor-update.aspx) October 3, 2018 - Server-Side Blazor to ship in .NET Core 3.0.
 * [Blazor 0.6.0 experimental release now available](https://blogs.msdn.microsoft.com/webdev/2018/10/02/blazor-0-6-0-experimental-release-now-available/) October 2, 2018 - Blazor 0.6.0 experimental release now available.
