@@ -43,14 +43,14 @@ Please note that if you want to open Blazor projects in Visual Studio, you must 
 * [Learn Blazor](https://learn-blazor.com) An unofficial documentation website ([source code here](https://github.com/software-architects/learn-blazor)).
 
 ## Demos
-* [BlazorCalculator](https://lupusablazordemos.azurewebsites.net/CalculatorPage) Simple calculator with history and ability to use previous results in new calculations.
-* [BlazorChess](https://lupusablazordemos.azurewebsites.net/ChessPage) Chess engine implemented with Blazor.
-* [BlazorClockCanvas](https://lupusablazordemos.azurewebsites.net/ClockCanvas) Password pattern based on SVG.
-* [BlazorClockSVG](https://lupusablazordemos.azurewebsites.net/) Complex clock based on SVG.
+* [BlazorCalculator](https://lupblazordemos.z13.web.core.windows.net/CalculatorPage) Simple calculator with history and ability to use previous results in new calculations.
+* [BlazorChess](https://lupblazordemos.z13.web.core.windows.net/ChessPage) Chess engine implemented with Blazor.
+* [BlazorClockCanvas](https://lupblazordemos.z13.web.core.windows.net/ClockCanvas) Password pattern based on SVG.
+* [BlazorClockSVG](https://lupblazordemos.z13.web.core.windows.net/) Complex clock based on SVG.
 * [BlazeDown](http://edcharbeneau.com/BlazeDown) BlazeDown, online Markdown editor.
-* [BlazorGameSnake](https://lupusablazordemos.azurewebsites.net/GameSnakePage) 2D game snake with customizations, path finding algorithm, and sound effects using SVG.
-* [BlazorPasswordPattern](https://lupusablazordemos.azurewebsites.net/PasswordPatternPage) Password pattern based on SVG.
-* [BlazorRawHtmlRenderer](https://lupusablazordemos.azurewebsites.net/RawHTML) Raw HTML rendering with Blazor.
+* [BlazorGameSnake](https://lupblazordemos.z13.web.core.windows.net/GameSnakePage) 2D game snake with customizations, path finding algorithm, and sound effects using SVG.
+* [BlazorPasswordPattern](https://lupblazordemos.z13.web.core.windows.net/PasswordPatternPage) Password pattern based on SVG.
+* [BlazorRawHtmlRenderer](https://lupblazordemos.z13.web.core.windows.net/RawHTML) Raw HTML rendering with Blazor.
 * [Blazorships](http://blazorships.azurewebsites.net) Blazorships, a Blazor implementation of Battleship using SignalR.
 * [Demo](https://blazor-demo.github.io/) Official demo website.
 * [Flight Finder](http://blazor-flight-finder.azurewebsites.net/) Flight Finder.
