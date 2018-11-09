@@ -109,6 +109,7 @@ Please note that if you want to open Blazor projects in Visual Studio, you must 
 * [WordDaze](https://github.com/chrissainty/worddaze) Blogging application written using Blazor with a WebAPI backend.
 
 ## Extensions
+
 * [BlazorConfirm](https://github.com/ctrl-alt-d/BlazorConfirm) A Blazor Wrapper for JS's `Window.confirm()` and `onbeforeunload` as .Net Blazor Component ([Demo](https://ctrl-alt-d.github.io/BlazorConfirm/))
 * [BlazorMaterial](https://github.com/BlazorExtensions/BlazorMaterial) Blazor components implementing Google's Material components for web.
 * [BlazorOfficeUIFabric](https://github.com/BlazorExtensions/BlazorOfficeUIFabric) Microsoft Office Fabric UI port for Blazor.
@@ -149,6 +150,7 @@ Please note that if you want to open Blazor projects in Visual Studio, you must 
 * [Blazor Time Zone Kit](https://github.com/jsakamoto/Toolbelt.Blazor.TimeZoneKit) A system time zones set, and local time zone initialization for Blazor.
 * [Blazor.Xamarin](https://github.com/Daddoon/Blazor.Xamarin) A Xamarin template for launch and interop a Blazor app on mobile.
 * [ChartJs.Blazor](https://github.com/mariusmuntean/ChartJs.Blazor) Blazor Component that wraps ChartJS.
+* [MatBlazor](https://github.com/BlazorComponents/MatBlazor) Material Design components for Blazor. ([Demo](https://blazorcomponents.github.io/MatBlazor/)).
 * [Sotsera.Blazor.Toaster](https://github.com/sotsera/sotsera.blazor.toaster) A Blazor port of Toastr.js.
 * [Trail](https://nuget.org/packages/Trail) DSL for writing Blazor markup in F# (with an [adapter](https://nuget.org/packages/Trail.BlazorRedux) for working with BlazorRedux).
 
