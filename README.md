@@ -155,6 +155,8 @@ Please note that if you want to open Blazor projects in Visual Studio, you must 
 * [Trail](https://nuget.org/packages/Trail) DSL for writing Blazor markup in F# (with an [adapter](https://nuget.org/packages/Trail.BlazorRedux) for working with BlazorRedux).
 
 ## Videos
+* [Visual Studio Toolbox: Blazor Part 2](https://channel9.msdn.com/Shows/Visual-Studio-Toolbox/Blazor-Part-2) November 8, 2018 - Visual Studio Toolbox: Blazor Part 2.
+* [Visual Studio Toolbox: Blazor Part 1](https://blogs.msdn.microsoft.com/robertgreen/2018/11/06/visual-studio-toolbox-blazor-part-1/) November 6, 2018 - Visual Studio Toolbox: Blazor Part 1.
 * [The Blazor Show](https://www.youtube.com/watch?v=wwi55L6Qb18&list=PL1rZQsJPBU2StolNg0aqvQswETPcYnNKL&index=0) October 9, 2018 - ASP.NET Community Standup - The Blazor Show!
 * [Developing amazing web apps with ASP.NET Core](https://myignite.techcommunity.microsoft.com/sessions/65901) September 28, 2018 - Microsoft Ignite 2018: Developing amazing web apps with ASP.NET Core, by Daniel Roth.
 * [Blazor StateHasChanged](https://www.twitch.tv/videos/315855936) September 28, 2018 - Blazor-Fluxor, Bionic and some live demos of building Blazor Component Templates with Blazor 0.6.0.
@@ -254,13 +256,13 @@ Please note that if you want to open Blazor projects in Visual Studio, you must 
 * [.NET and WebAssembly - Is this the future of the front-end?](https://www.hanselman.com/blog/NETAndWebAssemblyIsThisTheFutureOfTheFrontend.aspx) - August 12, 2017 - .NET and WebAssembly - Is this the future of the front-end?
   
 ## Podcasts
+* [SDN Cast #118 - With Rainer Stropek and Serverside Blazor!](https://www.youtube.com/watch?v=S66mK_30gPE) November 8, 2018 - Weekly SDN Cast with special gues Rainer Stropek talking about and showing off Blazor!
 * [Ed Charbeneau on Blazor](https://crosscuttingconcerns.com/Podcast-099-Ed-Charbeneau-Blazor) September 17, 2018 - Ed Charbeneau on Blazor.
 * [Blazor brings .NET to Web Assembly with Steve Sanderson](https://hanselminutes.com/642/blazor-brings-net-to-web-assembly-with-steve-sanderson) July 26, 2018 - Blazor brings .NET to Web Assembly with Steve Sanderson.
 * [Episode 037 – Blazor with Daniel Roth](https://6figuredev.com/podcast/episode-037-blazor-with-daniel-roth/) April 30, 2018 - Episode 037 – Blazor with Daniel Roth.
 * [MS Dev Show : Blazor](https://www.youtube.com/watch?v=xJtpYsVRggE) March 19, 2018 - MS Dev Show Episode 184: Blazor (.NET in WebAssembly) with Dan Roth & Steve Sanderson.
 * [.NET Rocks, WebAssembly and Blazor with Steve Sanderson](https://www.dotnetrocks.com/?show=1455) July 4, 2017 - .NET Rocks 1455, WebAssembly and Blazor with Steve Sanderson.
 * [Inside WebAssembly with Mozilla Fellow David Bryant](https://hanselminutes.com/581/inside-webassembly-with-mozilla-fellow-david-bryant) May 25, 2017 - Inside WebAssembly with Mozilla Fellow David Bryant.
-* [SDN Cast #118 - With Rainer Stropek and Serverside Blazor!](https://www.youtube.com/watch?v=S66mK_30gPE) November 8, 2018 - Weekly SDN Cast with special gues Rainer Stropek talking about and showing off Blazor!
 
 ## Tooling
 * [ASP.NET Core Blazor Language Services](https://marketplace.visualstudio.com/items?itemName=aspnet.blazor) Provides Visual Studio support for ASP.NET Core Blazor.
