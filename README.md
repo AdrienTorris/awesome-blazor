@@ -260,6 +260,7 @@ Please note that if you want to open Blazor projects in Visual Studio, you must 
 * [MS Dev Show : Blazor](https://www.youtube.com/watch?v=xJtpYsVRggE) March 19, 2018 - MS Dev Show Episode 184: Blazor (.NET in WebAssembly) with Dan Roth & Steve Sanderson.
 * [.NET Rocks, WebAssembly and Blazor with Steve Sanderson](https://www.dotnetrocks.com/?show=1455) July 4, 2017 - .NET Rocks 1455, WebAssembly and Blazor with Steve Sanderson.
 * [Inside WebAssembly with Mozilla Fellow David Bryant](https://hanselminutes.com/581/inside-webassembly-with-mozilla-fellow-david-bryant) May 25, 2017 - Inside WebAssembly with Mozilla Fellow David Bryant.
+* [SDN Cast #118 - With Rainer Stropek and Serverside Blazor!](https://www.youtube.com/watch?v=S66mK_30gPE) November 8, 2018 - Weekly SDN Cast with special gues Rainer Stropek talking about and showing off Blazor!
 
 ## Tooling
 * [ASP.NET Core Blazor Language Services](https://marketplace.visualstudio.com/items?itemName=aspnet.blazor) Provides Visual Studio support for ASP.NET Core Blazor.
