@@ -181,6 +181,7 @@ Please note that if you want to open Blazor projects in Visual Studio, you must 
 * [Web Apps can’t really do that, can they? - Steve Sanderson](https://www.youtube.com/watch?v=MiLAE6HMr10&feature=youtu.be&t=31m45s) - July 10, 2017 - Web Apps can’t really do that, can they? - Steve Sanderson.
 
 ## Articles
+* [Validation Controls using Blazor - Basic Validation Controls](http://www.hishambinateya.com/part1-validation-controls-using-blazor-basic-validation-controls) November 20, 2018 - Part I: Validation Controls using Blazor - Basic Validation Controls.
 * [Share Blazor Components with Shared Class Libraries](https://daveabrock.com/2018/11/11/using-blazor-shared-libraries/) November 11, 2018 - Share Blazor Components with Shared Class Libraries.
 * [Blazor: Working with Events](https://visualstudiomagazine.com/articles/2018/10/01/blazor-event-handling.aspx) October 31, 2018 - Blazor: Working with Events, by Visual Studio Magazine.
 * [Implementing server side CosmosDB pagination in a Blazor Web App](https://chapsas.com/implementing-skiptake-server-side-cosmosdb-pagination-in-a-blazor-web-app/) October 31, 2018 - Implementing server side CosmosDB pagination in a Blazor Web App (Part 1: Page Number and Page Size).
