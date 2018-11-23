@@ -87,6 +87,7 @@ Please note that if you want to open Blazor projects in Visual Studio, you must 
 * [BlazorServerTree](https://github.com/ctrl-alt-d/BlazorServerTree) A simple Server-Side Blazor sample app to deal with hierarchical data.
 * [Blazorships](https://github.com/bjorndaniel/Blazorships) Blazorships, a Blazor implementation of Battleship using SignalR.
 * [BlazorSignalRTest](https://github.com/danroth27/BlazorSignalRTest) Test with Blazor and SignalR.
+* [Blazor Summernote](https://github.com/shawty/blazor.summernote) Wrapper for the new MS Blazor framework, allowing the use of the Summernote Wysiwyg editor in a form.
 * [Blazor Survey](https://github.com/nutshellit/Blazor-Survey) A hybrid F#/C# blazor sample app to kick the tyres of blazor.
 * [BlazorTasks](https://github.com/BorowskiKamil/blazor-tasks) To-Do App.
 * [Blazor.Toaster](https://github.com/sotsera/sotsera.blazor.toaster) A Blazor port of Toastr.js.
@@ -98,6 +99,7 @@ Please note that if you want to open Blazor projects in Visual Studio, you must 
 * [Demo](https://github.com/blazor-demo/blazor-demo.github.io) Code of the official demo website.
 * [Flight Finder](https://github.com/aspnet/samples/tree/master/samples/aspnetcore/blazor) Flight Finder.
 * [Hacker News Clone](https://github.com/lohithgn/blazor-hackernews-clone) Hacker News Clone.
+* [KendoBlazorPoc](https://github.com/ivanchev/KendoBlazorPoc) Kendo UI wrapped inside Blazor components.
 * [Money](https://github.com/maraf/Money) Money.
 * [Randify](https://github.com/tinyioda/Randify) Spotify Playlist randomizer.
 * [Realworld](https://github.com/torhovland/blazor-realworld-example-app) Blazor realworld example app.
