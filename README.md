@@ -97,6 +97,7 @@ Please note that if you want to open Blazor projects in Visual Studio, you must 
 * [Blazume](https://github.com/Amine-Smahi/Blazume) A simple portfolio/Resume template using Blazor.
 * [CRUD sample with EF](https://code.msdn.microsoft.com/vstudio/ASPNET-Core-Blazor-122b108a) ASP.NET Core Blazor Master/Detail CRUD with Filtering and Sorting using EF.
 * [Demo](https://github.com/blazor-demo/blazor-demo.github.io) Code of the official demo website.
+* [Do](https://github.com/jamie-lord/do) To Do app.
 * [Flight Finder](https://github.com/aspnet/samples/tree/master/samples/aspnetcore/blazor) Flight Finder.
 * [Hacker News Clone](https://github.com/lohithgn/blazor-hackernews-clone) Hacker News Clone.
 * [KendoBlazorPoc](https://github.com/ivanchev/KendoBlazorPoc) Kendo UI wrapped inside Blazor components.
@@ -112,7 +113,6 @@ Please note that if you want to open Blazor projects in Visual Studio, you must 
 * [WordDaze](https://github.com/chrissainty/worddaze) Blogging application written using Blazor with a WebAPI backend.
 
 ## Extensions
-
 * [BlazorConfirm](https://github.com/ctrl-alt-d/BlazorConfirm) A Blazor Wrapper for JS's `Window.confirm()` and `onbeforeunload` as .Net Blazor Component ([Demo](https://ctrl-alt-d.github.io/BlazorConfirm/))
 * [BlazorMaterial](https://github.com/BlazorExtensions/BlazorMaterial) Blazor components implementing Google's Material components for web.
 * [BlazorOfficeUIFabric](https://github.com/BlazorExtensions/BlazorOfficeUIFabric) Microsoft Office Fabric UI port for Blazor.
@@ -181,6 +181,7 @@ Please note that if you want to open Blazor projects in Visual Studio, you must 
 * [Web Apps can’t really do that, can they? - Steve Sanderson](https://www.youtube.com/watch?v=MiLAE6HMr10&feature=youtu.be&t=31m45s) - July 10, 2017 - Web Apps can’t really do that, can they? - Steve Sanderson.
 
 ## Articles
+* [Validate Request With Recaptcha On A Blazor App And Mediatr](https://remibou.github.io/Validate-request-with-reCaptcha-on-a-Blazor-app-and-MediatR/) November 24, 2018 - Validate Request With Recaptcha On A Blazor App And Mediatr.
 * [Validation Controls using Blazor - Basic Validation Controls](http://www.hishambinateya.com/part1-validation-controls-using-blazor-basic-validation-controls) November 20, 2018 - Part I: Validation Controls using Blazor - Basic Validation Controls.
 * [Share Blazor Components with Shared Class Libraries](https://daveabrock.com/2018/11/11/using-blazor-shared-libraries/) November 11, 2018 - Share Blazor Components with Shared Class Libraries.
 * [Blazor: Working with Events](https://visualstudiomagazine.com/articles/2018/10/01/blazor-event-handling.aspx) October 31, 2018 - Blazor: Working with Events, by Visual Studio Magazine.
