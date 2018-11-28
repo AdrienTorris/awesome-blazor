@@ -17,6 +17,7 @@ Contributions are always welcome!
 * [Articles](#articles)
 * [Podcasts](#podcasts)
 * [Tooling](#tooling)
+* [Books](#books)
 * [Courses](#courses)
 * [Community](#community)
 * [Contributing](#contributing)
@@ -277,6 +278,9 @@ Please note that if you want to open Blazor projects in Visual Studio, you must 
 * [Razor+](https://marketplace.visualstudio.com/items?itemName=austincummings.razor-plus) Improved Razor support for VS Code with a mind towards Blazor.
 * [Visual Studio](https://www.visualstudio.com/vs/preview) Latest preview of Visual Studio.
 * [Visual Studio Code](https://code.visualstudio.com/) Visual Studio Code, free, open source and cross-platform code editor.
+
+## Books
+* [Blazor Quick Start Guide: Build web applications using Blazor, EF Core, and SQL Server](https://www.amazon.in/gp/product/178934414X/ref=awesome_blazor) Blazor Quick Start Guide: Build web applications using Blazor, EF Core, and SQL Server (Published October 31, 2018)
 
 ## Courses
 * [Blazor First Look on LinkedIn Learning](https://www.linkedin.com/learning/blazor-first-look) Blazor First Look on LinkedIn Learning. [Source code](https://github.com/Dedac/Beam).
