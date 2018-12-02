@@ -38,6 +38,7 @@ Please note that if you want to open Blazor projects in Visual Studio, you must 
 * [Blazor bites](https://codedaze.io/tag/blazor-bites/) Blazor bites serie on codedaze.io.
 * [Blazor-Dev gallery on .NET Foundation](https://dotnet.myget.org/gallery/blazor-dev) Daily builds of the 'dev' branch of Blazor.
 * [Blazor Extensions](https://github.com/BlazorExtensions) Curated extensions for Microsoft ASP.Net Core Blazor.
+* [BlazorFiddle](https://blazorfiddle.com) Blazor .Net Developer Playground and Code Editor in the Browser.
 * [FAQ](https://github.com/aspnet/Blazor/wiki/FAQ) FAQ.
 * [GitHub repository](https://github.com/aspnet/Blazor) The official Blazor repository.
 * ['Hello World' sample](https://github.com/dodyg/practical-aspnetcore/tree/master/projects/blazor) 'Hello World' sample.
