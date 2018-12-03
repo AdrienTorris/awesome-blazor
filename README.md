@@ -278,6 +278,7 @@ Please note that if you want to open Blazor projects in Visual Studio, you must 
 
 ## Tooling
 * [ASP.NET Core Blazor Language Services](https://marketplace.visualstudio.com/items?itemName=aspnet.blazor) Provides Visual Studio support for ASP.NET Core Blazor.
+* [BlazorFiddle](https://blazorfiddle.com) Blazor .Net Developer Playground and Code Editor in the Browser.
 * [.NET Core](https://www.microsoft.com/net/download/dotnet-core) .NET Core.
 * [Razor+](https://marketplace.visualstudio.com/items?itemName=austincummings.razor-plus) Improved Razor support for VS Code with a mind towards Blazor.
 * [Visual Studio](https://www.visualstudio.com/vs/preview) Latest preview of Visual Studio.
