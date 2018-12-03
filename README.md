@@ -139,6 +139,7 @@ Please note that if you want to open Blazor projects in Visual Studio, you must 
 * [Blazor Gamepad](https://github.com/jsakamoto/Toolbelt.Blazor.Gamepad) Provides gamepad API access for Blazor.
 * [Blazor.Geolocation](https://github.com/AspNetMonsters/Blazor.Geolocation) Blazor interop for browers Geolocation apis.
 * [Blazor Hotkeys](https://github.com/jsakamoto/Toolbelt.Blazor.Hotkeys) A library to provide configuration-centric keyboard shortcuts for Blazor.
+* [Blazorise](https://github.com/stsrki/Blazorise) Components for Blazor with support for Bootstrap, Bulma and Material CSS. ([Demo](https://blazorisedemo.azurewebsites.net/))
 * [Blazor LoadingBar](https://github.com/jsakamoto/Toolbelt.Blazor.LoadingBar) Loading bar UI for Client-Side Blazor application.
 * [Blazor.LocalFiles](https://github.com/jburman/W8lessLabs.Blazor.LocalFiles) Open files in your browser and load into Blazor.
 * [BlazoredLocalStorage](https://github.com/chrissainty/BlazoredLocalStorage) Local storage for Blazor applications.
