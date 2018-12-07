@@ -164,6 +164,7 @@ Please note that if you want to open Blazor projects in Visual Studio, you must 
 * [Trail](https://nuget.org/packages/Trail) DSL for writing Blazor markup in F# (with an [adapter](https://nuget.org/packages/Trail.BlazorRedux) for working with BlazorRedux).
 
 ## Videos
+* [Blazor, a New .NET Single Page Application Framework](https://www.youtube.com/watch?v=qrf3OrLHeFI) November 28, 2018 - Steve Sanderson - Blazor, a New .NET Single Page Application Framework | Øredev 2018.
 * [Visual Studio Toolbox: Blazor Part 2](https://channel9.msdn.com/Shows/Visual-Studio-Toolbox/Blazor-Part-2) November 8, 2018 - Visual Studio Toolbox: Blazor Part 2.
 * [Visual Studio Toolbox: Blazor Part 1](https://blogs.msdn.microsoft.com/robertgreen/2018/11/06/visual-studio-toolbox-blazor-part-1/) November 6, 2018 - Visual Studio Toolbox: Blazor Part 1.
 * [The Blazor Show](https://www.youtube.com/watch?v=wwi55L6Qb18&list=PL1rZQsJPBU2StolNg0aqvQswETPcYnNKL&index=0) October 9, 2018 - ASP.NET Community Standup - The Blazor Show!
