@@ -215,6 +215,7 @@ Please note that if you want to open Blazor projects in Visual Studio, you must 
 * [Integrating JavaScript and C# in the Browser: Beyond the Basics with Blazor](https://visualstudiomagazine.com/articles/2018/09/01/integrating-javascript-csharp.aspx) October 1, 2018 - Integrating JavaScript and C# in the Browser: Beyond the Basics with Blazor.
 * [Cutting Edge - Blazor at Work: Events, Binding and Composition](https://msdn.microsoft.com/magazine/mt830361) October 1, 2018 - Cutting Edge - Blazor at Work: Events, Binding and Composition.
 * [Work with Cassandra API in Cosmos DB](https://www.c-sharpcorner.com/article/blazor-work-with-cassandra-api-in-cosmos-db/) October 1, 2018 - Work with Cassandra API in Cosmos DB.
+* [Blazor - .NET in the browser](https://www.dotnetcurry.com/dotnet/1460/blazor-getting-started) September 27, 2018 - Blazor - .NET in the browser.
 * [Building a blogging app with Blazor: Editing & Deleting Posts](https://codedaze.io/building-a-blogging-app-with-blazor-editing-deleting-posts/) September 24, 2018 - Building a blogging app with Blazor: Editing & Deleting Posts.
 * [Data Driven Layout in Server-side Blazor](https://hutchcodes.net/2018/09/data-driven-layout-in-razor-components/) September 24, 2018 - Data Driven Layout in Server-side Blazor.
 * [Building a blogging app with Blazor: add post](https://codedaze.io/building-a-blogging-app-with-blazor-add-post/) September 18, 2018 - Building a blogging app with Blazor: add post.
