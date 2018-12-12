@@ -157,6 +157,7 @@ Please note that if you want to open Blazor projects in Visual Studio, you must 
 * [BlazorStrap](https://github.com/chanan/BlazorStrap) Bootstrap 4 components for Blazor ([Demo](https://chanan.github.io/BlazorStrap/)).
 * [Blazor Svg Helper](https://github.com/Lupusa87/BlazorSvgHelper) SVG classes for using in Blazor.
 * [Blazor Time Zone Kit](https://github.com/jsakamoto/Toolbelt.Blazor.TimeZoneKit) A system time zones set, and local time zone initialization for Blazor.
+* [Blazor.Validation.DataAnnotation](https://github.com/RemiBou/Blazor.Validation.DataAnnotation) Library for validating form on a Blazor application using Data Annotation.
 * [Blazor.Xamarin](https://github.com/Daddoon/Blazor.Xamarin) A Xamarin template for launch and interop a Blazor app on mobile.
 * [ChartJs.Blazor](https://github.com/mariusmuntean/ChartJs.Blazor) Blazor Component that wraps ChartJS.
 * [Elmah.Io.Blazor](https://github.com/elmahio/Elmah.Io.Blazor) Logs from Blazor to elmah.io using Microsoft.Extensions.Logging.
