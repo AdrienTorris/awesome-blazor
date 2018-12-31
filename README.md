@@ -18,6 +18,7 @@ Contributions are always welcome!
 * [Podcasts](#podcasts)
 * [Tooling](#tooling)
 * [Books](#books)
+* [E-Books](#e-books)
 * [Courses](#courses)
 * [Community](#community)
 * [Contributing](#contributing)
@@ -105,6 +106,7 @@ Please note that if you want to open Blazor projects in Visual Studio, you must 
 * [Hacker News Clone](https://github.com/lohithgn/blazor-hackernews-clone) Hacker News Clone.
 * [KendoBlazorPoc](https://github.com/ivanchev/KendoBlazorPoc) Kendo UI wrapped inside Blazor components.
 * [Money](https://github.com/maraf/Money) Money.
+* [Planning Poker](https://github.com/duracellko/planningpoker4azure) ([Demo](http://planningpoker.duracellko.net)) &ndash; An app to play Planning Poker for distributed teams. The app is implemented using Blazor and shows how to switch between client-side and server-side mode with a configuration change.
 * [Randify](https://github.com/tinyioda/Randify) Spotify Playlist randomizer.
 * [Realworld](https://github.com/torhovland/blazor-realworld-example-app) Blazor realworld example app.
 * [RxBlazor](https://github.com/bmsantos/RxBlazor) Rx.NET based MessageService demo for Blazor Framework.
@@ -164,6 +166,7 @@ Please note that if you want to open Blazor projects in Visual Studio, you must 
 * [MatBlazor](https://github.com/BlazorComponents/MatBlazor) Material Design components for Blazor. ([Demo](https://blazorcomponents.github.io/MatBlazor/)).
 * [Sotsera.Blazor.Toaster](https://github.com/sotsera/sotsera.blazor.toaster) A Blazor port of Toastr.js.
 * [Trail](https://nuget.org/packages/Trail) DSL for writing Blazor markup in F# (with an [adapter](https://nuget.org/packages/Trail.BlazorRedux) for working with BlazorRedux).
+* [TwitterShareButton](https://github.com/jsakamoto/Toolbelt.Blazor.TwitterShareButton) A Tweet Button component for Blazor.
 
 ## Videos
 * [What's up with Server Side Blazor?](https://www.youtube.com/watch?v=9QRKjUoA9iY) December 14, 2018 - ASP.NET Monsters #121: What's up with Server Side Blazor?
@@ -298,7 +301,10 @@ Please note that if you want to open Blazor projects in Visual Studio, you must 
 * [Visual Studio Code](https://code.visualstudio.com/) Visual Studio Code, free, open source and cross-platform code editor.
 
 ## Books
-* [Blazor Quick Start Guide: Build web applications using Blazor, EF Core, and SQL Server](https://www.amazon.in/gp/product/178934414X/ref=awesome_blazor) Blazor Quick Start Guide: Build web applications using Blazor, EF Core, and SQL Server (Published October 31, 2018)
+* [Blazor Quick Start Guide: Build web applications using Blazor, EF Core, and SQL Server](https://www.amazon.in/gp/product/178934414X/ref=awesome_blazor) Blazor Quick Start Guide: Build web applications using Blazor, EF Core, and SQL Server (Published October 31, 2018).
+
+## E-Books
+* [Dockerizing ASP.NET Core and Blazor Applications on Mac](https://www.c-sharpcorner.com/ebooks/dockerizing-asp-net-core-and-blazor-applications-on-mac) Dockerizing ASP.NET Core and Blazor Applications on Mac (Published October 30, 2018).
 
 ## Courses
 * [Blazor First Look on LinkedIn Learning](https://www.linkedin.com/learning/blazor-first-look) Blazor First Look on LinkedIn Learning. [Source code](https://github.com/Dedac/Beam).
