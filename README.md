@@ -195,6 +195,7 @@ Please note that if you want to open Blazor projects in Visual Studio, you must 
 
 ## Articles
 * [Exception Handling In Blazor](https://remibou.github.io/Exception-handling-in-Blazor/) January 10, 2019 - Exception Handling In Blazor.
+* [An Introduction to Templated Components in Blazor](https://visualstudiomagazine.com/articles/2018/12/01/blazor-templated-components.aspx) January 3, 2019 - An Introduction to Templated Components in Blazor.
 * [Blazor StateHasChanged()](https://edcharbeneau.com/blazor-statehaschanged-113018) December 14, 2018 - Blazor StateHasChanged().
 * [Create Blazor Nuget Package With Azure Devops](https://remibou.github.io/Create-Blazor-Nuget-package-with-Azure-DevOps/) December 14, 2018 - Create Blazor Nuget Package With Azure Devops.
 * [How To Publish A Blazor Component To Nuget Gallery](https://medium.com/swlh/how-to-publish-a-blazor-component-to-nuget-gallery-850d6d1dd37d?WT.mc_id=link-twitter-jeliknes) December 10, 2018 - How To Publish A Blazor Component To Nuget Gallery.
