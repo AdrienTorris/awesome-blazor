@@ -172,6 +172,7 @@ Please note that if you want to open Blazor projects in Visual Studio, you must 
 ## Videos
 * [Blazor StateHasChanged](https://www.youtube.com/watch?v=sQJfLfA1TQs) January 7, 2019 - Blazor StateHasChanged using Fluent Validation.
 * [What's up with Server Side Blazor?](https://www.youtube.com/watch?v=9QRKjUoA9iY) December 14, 2018 - ASP.NET Monsters #121: What's up with Server Side Blazor?
+* [Razor Components deep dive 1](https://www.youtube.com/watch?v=UzEW0X8a010) December 5, 2018 - Razor Components deep dive 1, from Edward Charbeneau.
 * [Blazor, a New .NET Single Page Application Framework](https://www.youtube.com/watch?v=qrf3OrLHeFI) November 28, 2018 - Steve Sanderson - Blazor, a New .NET Single Page Application Framework | Øredev 2018.
 * [Visual Studio Toolbox: Blazor Part 2](https://channel9.msdn.com/Shows/Visual-Studio-Toolbox/Blazor-Part-2) November 8, 2018 - Visual Studio Toolbox: Blazor Part 2.
 * [Visual Studio Toolbox: Blazor Part 1](https://blogs.msdn.microsoft.com/robertgreen/2018/11/06/visual-studio-toolbox-blazor-part-1/) November 6, 2018 - Visual Studio Toolbox: Blazor Part 1.
