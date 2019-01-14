@@ -200,6 +200,8 @@ Please note that if you want to open Blazor projects in Visual Studio, you must 
 
 ## Articles
 * [Exception Handling In Blazor](https://remibou.github.io/Exception-handling-in-Blazor/) January 10, 2019 - Exception Handling In Blazor.
+* [Zero to Azure Hero with ASP.NET Core, Blazor, Azure DevOps, Cognitive Services, SonarCloud and App Services](https://stevenknox.net/zero-to-azure-hero-with-asp-net-core-blazor-azure-devops-cognitive-services-and-app-services/) January 5, 2019 - Zero to Azure Hero with ASP.NET Core, Blazor, Azure DevOps, Cognitive Services, SonarCloud and App Services.
+* [From Angular to Blazor: The Health App](https://blog.jeremylikness.com/from-angular-to-blazor-the-health-app-2e36077d641c) January 3, 2019 - From Angular to Blazor: The Health App.
 * [An Introduction to Templated Components in Blazor](https://visualstudiomagazine.com/articles/2018/12/01/blazor-templated-components.aspx) January 3, 2019 - An Introduction to Templated Components in Blazor.
 * [Blazor StateHasChanged()](https://edcharbeneau.com/blazor-statehaschanged-113018) December 14, 2018 - Blazor StateHasChanged().
 * [Create Blazor Nuget Package With Azure Devops](https://remibou.github.io/Create-Blazor-Nuget-package-with-Azure-DevOps/) December 14, 2018 - Create Blazor Nuget Package With Azure Devops.
