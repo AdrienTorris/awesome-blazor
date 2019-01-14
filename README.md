@@ -78,6 +78,7 @@ Please note that if you want to open Blazor projects in Visual Studio, you must 
 * [BlazorClockSVG](https://github.com/Lupusa87/BlazorClockSVG) Complex clock based on SVG.
 * [Blazor.DataDrivenLayout](https://github.com/hutchcodes/Blazor.DataDrivenLayout) Two example of how to do data driven layouts in Server-side Blazor.
 * [BlazorElectronExperiment](https://github.com/SteveSandersonMS/BlazorElectronExperiment.Sample) Exploring how a Blazor could be used to build a cross-platform desktop application using [Electron](https://electronjs.org/).
+* [Blazor Excel](https://github.com/Lupusa87/BlazorExcel) Blazor Excel. [Demo](https://lupblazordemos.z13.web.core.windows.net/ExcelPage).
 * [BlazorFileReader](https://github.com/Tewr/BlazorFileReader) Read-only File streams in Blazor. [Demo](https://tewr.github.io/BlazorFileReader/).
 * [BlazorGameSnake](https://github.com/Lupusa87/BlazorGameSnake) 2D game snake with customizations, path finding algorithm, and sound effects using SVG.
 * [BlazorGeolocation](https://github.com/EdCharbeneau/BlazorGeolocation) An example of using Geolocation with Blazor.
