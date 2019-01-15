@@ -117,6 +117,7 @@ Please note that if you want to open Blazor projects in Visual Studio, you must 
 * [Toss.Blazor](https://github.com/RemiBou/Toss.Blazor) Twitter-like web application using Blazor.
 * [TrendTv](https://github.com/MattMarked/TrendTv) Fetch video list from youtube and "zap" in real time between trending videos, filtered by country or category.
 * [VocaDB lyrics](https://github.com/riipah/vocadb-lyrics-blazor-proto) VocaDB lyrics display Blazor proto.
+* [WebSocketPage](https://github.com/Lupusa87/LupusaBlazorProjects/blob/master/BlazorApp1/Pages/WebSocketPage.cshtml) Web Socket in Blazor. [demo](https://lupblazordemos.z13.web.core.windows.net/WebSocketPage).
 * [WordDaze](https://github.com/chrissainty/worddaze) Blogging application written using Blazor with a WebAPI backend.
 
 ## Extensions
@@ -169,6 +170,7 @@ Please note that if you want to open Blazor projects in Visual Studio, you must 
 * [Sotsera.Blazor.Toaster](https://github.com/sotsera/sotsera.blazor.toaster) A Blazor port of Toastr.js.
 * [Trail](https://nuget.org/packages/Trail) DSL for writing Blazor markup in F# (with an [adapter](https://nuget.org/packages/Trail.BlazorRedux) for working with BlazorRedux).
 * [TwitterShareButton](https://github.com/jsakamoto/Toolbelt.Blazor.TwitterShareButton) A Tweet Button component for Blazor.
+* [WebSocketHelper](https://github.com/Lupusa87/BlazorWebSocketHelper) Helper for Web Socket in Blazor.
 
 ## Videos
 * [Blazor StateHasChanged](https://www.youtube.com/watch?v=sQJfLfA1TQs) January 7, 2019 - Blazor StateHasChanged using Fluent Validation.
