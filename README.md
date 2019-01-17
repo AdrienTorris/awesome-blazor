@@ -210,6 +210,7 @@ Please note that if you want to open Blazor projects in Visual Studio, you must 
 * [Blazor StateHasChanged()](https://edcharbeneau.com/blazor-statehaschanged-113018) December 14, 2018 - Blazor StateHasChanged().
 * [Create Blazor Nuget Package With Azure Devops](https://remibou.github.io/Create-Blazor-Nuget-package-with-Azure-DevOps/) December 14, 2018 - Create Blazor Nuget Package With Azure Devops.
 * [How To Publish A Blazor Component To Nuget Gallery](https://medium.com/swlh/how-to-publish-a-blazor-component-to-nuget-gallery-850d6d1dd37d?WT.mc_id=link-twitter-jeliknes) December 10, 2018 - How To Publish A Blazor Component To Nuget Gallery.
+* [An Ad Hoc Approach to Passing Elements from Blazor to JavaScript](https://visualstudiomagazine.com/blogs/tool-tracker/2018/11/an-ad-hoc-approach.aspx?ajs_uid=5801H8419578J3Z) December 6, 2018 - An Ad Hoc Approach to Passing Elements from Blazor to JavaScript.
 * [Architecting Blazor (and Integrating JavaScript)](https://visualstudiomagazine.com/articles/2018/11/01/architecting-blazor.aspx) December 4, 2018 - Architecting Blazor (and Integrating JavaScript), from the Visual Studio Magazine.
 * [Simple localisation in Blazor](https://codedaze.io/simple-localisation-in-blazor) December 3, 2018 - Simple localisation in Blazor.
 * [Visual Studio Code gears up for Blazor](https://visualstudiomagazine.com/articles/2018/11/30/vs-code-blazor.aspx) November 30, 2018 - Visual Studio Code gears up for Blazor.
