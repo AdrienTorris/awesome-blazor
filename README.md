@@ -173,6 +173,7 @@ Please note that if you want to open Blazor projects in Visual Studio, you must 
 * [WebSocketHelper](https://github.com/Lupusa87/BlazorWebSocketHelper) Helper for Web Socket in Blazor.
 
 ## Videos
+* [A New Framework for Browser-based .NET Apps (DevReach 2018)](https://www.youtube.com/watch?v=BnH2h_RJ-d8) January 14, 2019 - A New Framework for Browser-based .NET Apps (DevReach 2018).
 * [Blazor StateHasChanged](https://www.youtube.com/watch?v=sQJfLfA1TQs) January 7, 2019 - Blazor StateHasChanged using Fluent Validation.
 * [What's up with Server Side Blazor?](https://www.youtube.com/watch?v=9QRKjUoA9iY) December 14, 2018 - ASP.NET Monsters #121: What's up with Server Side Blazor?
 * [Razor Components deep dive 1](https://www.youtube.com/watch?v=UzEW0X8a010) December 5, 2018 - Razor Components deep dive 1, from Edward Charbeneau.
@@ -202,6 +203,7 @@ Please note that if you want to open Blazor projects in Visual Studio, you must 
 * [Web Apps can’t really do that, can they? - Steve Sanderson](https://www.youtube.com/watch?v=MiLAE6HMr10&feature=youtu.be&t=31m45s) - July 10, 2017 - Web Apps can’t really do that, can they? - Steve Sanderson.
 
 ## Articles
+* [Google authentication in Server-Side Blazor](http://lightswitchhelpwebsite.com/Blog/tabid/61/EntryId/4323/Google-Authentication-in-Server-Side-Blazor-Razor-Components.aspx) January 21, 2019 - Google authentication in Server-Side Blazor (Razor components). 
 * [Creating a top menu search bar in Blazor](https://streamwriter.net/creating-a-top-menu-search-bar-in-blazor/) January 12, 2019 - Creating a top menu search bar in Blazor.
 * [Exception Handling In Blazor](https://remibou.github.io/Exception-handling-in-Blazor/) January 10, 2019 - Exception Handling In Blazor.
 * [Zero to Azure Hero with ASP.NET Core, Blazor, Azure DevOps, Cognitive Services, SonarCloud and App Services](https://stevenknox.net/zero-to-azure-hero-with-asp-net-core-blazor-azure-devops-cognitive-services-and-app-services/) January 5, 2019 - Zero to Azure Hero with ASP.NET Core, Blazor, Azure DevOps, Cognitive Services, SonarCloud and App Services.
@@ -213,6 +215,7 @@ Please note that if you want to open Blazor projects in Visual Studio, you must 
 * [An Ad Hoc Approach to Passing Elements from Blazor to JavaScript](https://visualstudiomagazine.com/blogs/tool-tracker/2018/11/an-ad-hoc-approach.aspx?ajs_uid=5801H8419578J3Z) December 6, 2018 - An Ad Hoc Approach to Passing Elements from Blazor to JavaScript.
 * [Architecting Blazor (and Integrating JavaScript)](https://visualstudiomagazine.com/articles/2018/11/01/architecting-blazor.aspx) December 4, 2018 - Architecting Blazor (and Integrating JavaScript), from the Visual Studio Magazine.
 * [Simple localisation in Blazor](https://codedaze.io/simple-localisation-in-blazor) December 3, 2018 - Simple localisation in Blazor.
+* [BlazorGrid – A Reusable Grid Component For Blazor](https://ankitsharmablogs.com/blazorgrid-reusable-grid-component-for-blazor/) December 2, 2018 - BlazorGrid – A Reusable Grid Component For Blazor
 * [Visual Studio Code gears up for Blazor](https://visualstudiomagazine.com/articles/2018/11/30/vs-code-blazor.aspx) November 30, 2018 - Visual Studio Code gears up for Blazor.
 * [Validate Request With Recaptcha On A Blazor App And Mediatr](https://remibou.github.io/Validate-request-with-reCaptcha-on-a-Blazor-app-and-MediatR/) November 24, 2018 - Validate Request With Recaptcha On A Blazor App And Mediatr.
 * [Validation Controls using Blazor - Basic Validation Controls](http://www.hishambinateya.com/part1-validation-controls-using-blazor-basic-validation-controls) November 20, 2018 - Part I: Validation Controls using Blazor - Basic Validation Controls.
