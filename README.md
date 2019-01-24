@@ -77,6 +77,7 @@ Please note that if you want to open Blazor projects in Visual Studio, you must 
 * [BlazorClockCanvas](https://github.com/Lupusa87/BlazorClockCanvas) Complex clock based on Canvas.
 * [BlazorClockSVG](https://github.com/Lupusa87/BlazorClockSVG) Complex clock based on SVG.
 * [Blazor.DataDrivenLayout](https://github.com/hutchcodes/Blazor.DataDrivenLayout) Two example of how to do data driven layouts in Server-side Blazor.
+* [BlazorDice](https://github.com/shahedc/BlazorDemos/tree/master/BlazorDice) Roll the dice.
 * [BlazorElectronExperiment](https://github.com/SteveSandersonMS/BlazorElectronExperiment.Sample) Exploring how a Blazor could be used to build a cross-platform desktop application using [Electron](https://electronjs.org/).
 * [Blazor Excel](https://github.com/Lupusa87/BlazorExcel) Blazor Excel. [Demo](https://lupblazordemos.z13.web.core.windows.net/ExcelPage).
 * [BlazorFileReader](https://github.com/Tewr/BlazorFileReader) Read-only File streams in Blazor. [Demo](https://tewr.github.io/BlazorFileReader/).
@@ -203,7 +204,8 @@ Please note that if you want to open Blazor projects in Visual Studio, you must 
 * [Web Apps can’t really do that, can they? - Steve Sanderson](https://www.youtube.com/watch?v=MiLAE6HMr10&feature=youtu.be&t=31m45s) - July 10, 2017 - Web Apps can’t really do that, can they? - Steve Sanderson.
 
 ## Articles
-* [Google authentication in Server-Side Blazor](http://lightswitchhelpwebsite.com/Blog/tabid/61/EntryId/4323/Google-Authentication-in-Server-Side-Blazor-Razor-Components.aspx) January 21, 2019 - Google authentication in Server-Side Blazor (Razor components). 
+* [Google authentication in Server-Side Blazor](http://lightswitchhelpwebsite.com/Blog/tabid/61/EntryId/4323/Google-Authentication-in-Server-Side-Blazor-Razor-Components.aspx) January 21, 2019 - Google authentication in Server-Side Blazor (Razor components).
+* [Blazor Full-Stack Web Dev in ASP .NET Core](https://wakeupandcode.com/blazor-full-stack-web-dev-in-asp-net-core/) January 16, 2019 - Blazor Full-Stack Web Dev in ASP .NET Core.
 * [Creating a top menu search bar in Blazor](https://streamwriter.net/creating-a-top-menu-search-bar-in-blazor/) January 12, 2019 - Creating a top menu search bar in Blazor.
 * [Exception Handling In Blazor](https://remibou.github.io/Exception-handling-in-Blazor/) January 10, 2019 - Exception Handling In Blazor.
 * [Zero to Azure Hero with ASP.NET Core, Blazor, Azure DevOps, Cognitive Services, SonarCloud and App Services](https://stevenknox.net/zero-to-azure-hero-with-asp-net-core-blazor-azure-devops-cognitive-services-and-app-services/) January 5, 2019 - Zero to Azure Hero with ASP.NET Core, Blazor, Azure DevOps, Cognitive Services, SonarCloud and App Services.
