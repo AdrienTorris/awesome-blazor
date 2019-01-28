@@ -205,6 +205,7 @@ Please note that if you want to open Blazor projects in Visual Studio, you must 
 
 ## Articles
 * [Google authentication in Server-Side Blazor](http://lightswitchhelpwebsite.com/Blog/tabid/61/EntryId/4323/Google-Authentication-in-Server-Side-Blazor-Razor-Components.aspx) January 21, 2019 - Google authentication in Server-Side Blazor (Razor components).
+* [Announcing Blazored and Blazored Toast](https://codedaze.io/announcing-blazored-and-blazored-toast) January 21, 2019 - Announcing Blazored and Blazored Toast.
 * [Blazor Full-Stack Web Dev in ASP .NET Core](https://wakeupandcode.com/blazor-full-stack-web-dev-in-asp-net-core/) January 16, 2019 - Blazor Full-Stack Web Dev in ASP .NET Core.
 * [Creating a top menu search bar in Blazor](https://streamwriter.net/creating-a-top-menu-search-bar-in-blazor/) January 12, 2019 - Creating a top menu search bar in Blazor.
 * [Exception Handling In Blazor](https://remibou.github.io/Exception-handling-in-Blazor/) January 10, 2019 - Exception Handling In Blazor.
