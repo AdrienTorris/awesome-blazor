@@ -76,6 +76,8 @@ Please note that if you want to open Blazor projects in Visual Studio, you must 
 * [BlazorChess](https://github.com/Lupusa87/BlazorChess) Chess engine implemented with Blazor.
 * [BlazorClockCanvas](https://github.com/Lupusa87/BlazorClockCanvas) Complex clock based on Canvas.
 * [BlazorClockSVG](https://github.com/Lupusa87/BlazorClockSVG) Complex clock based on SVG.
+* [Blazor Contoso University](https://github.com/lohithgn/blazor-contoso-university) Contoso University in Blazor.
+* [Blazor Converters](https://github.com/lohithgn/blazor-converters) Blazor Converters is simple converter app written using Blazor, influenced by Windows 10 Calculator.
 * [Blazor.DataDrivenLayout](https://github.com/hutchcodes/Blazor.DataDrivenLayout) Two example of how to do data driven layouts in Server-side Blazor.
 * [BlazorDice](https://github.com/shahedc/BlazorDemos/tree/master/BlazorDice) Roll the dice.
 * [BlazorElectronExperiment](https://github.com/SteveSandersonMS/BlazorElectronExperiment.Sample) Exploring how a Blazor could be used to build a cross-platform desktop application using [Electron](https://electronjs.org/).
@@ -95,6 +97,7 @@ Please note that if you want to open Blazor projects in Visual Studio, you must 
 * [BlazorSignalRTest](https://github.com/danroth27/BlazorSignalRTest) Test with Blazor and SignalR.
 * [Blazor Summernote](https://github.com/shawty/blazor.summernote) Wrapper for the new MS Blazor framework, allowing the use of the Summernote Wysiwyg editor in a form.
 * [Blazor Survey](https://github.com/nutshellit/Blazor-Survey) A hybrid F#/C# blazor sample app to kick the tyres of blazor.
+* [Blazor Sushi](https://github.com/lohithgn/blazor-sushi) Kendo UI Sushi SPA recreated in Blazor.
 * [BlazorTasks](https://github.com/BorowskiKamil/blazor-tasks) To-Do App.
 * [Blazor.Toaster](https://github.com/sotsera/sotsera.blazor.toaster) A Blazor port of Toastr.js.
 * [Blazor Tree CRUD](https://github.com/ctrl-alt-d/TreeCrud) CRUD operations with hierarchical data. Blazor Server + GraphQL + EF.
@@ -113,6 +116,7 @@ Please note that if you want to open Blazor projects in Visual Studio, you must 
 * [Quick CMS](https://github.com/robertsundstrom/quick-cms) Personal blog engine.
 * [Randify](https://github.com/tinyioda/Randify) Spotify Playlist randomizer.
 * [Realworld](https://github.com/torhovland/blazor-realworld-example-app) Blazor realworld example app.
+* [RSS Reader](https://github.com/lohithgn/blazor-rss-reader) RSS Reader built using Blazor.
 * [RxBlazor](https://github.com/bmsantos/RxBlazor) Rx.NET based MessageService demo for Blazor Framework.
 * [SitecoreBlazor](https://github.com/GoranHalvarsson/SitecoreBlazor) Sitecore + Blazor.
 * [Tour of Heroes](https://github.com/lohithgn/blazor-tour-of-heroes) Blazor implementation of Angular Tour of Heroes.
