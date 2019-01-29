@@ -101,6 +101,7 @@ Please note that if you want to open Blazor projects in Visual Studio, you must 
 * [Blazor.Universal](https://github.com/pushqrdx/Blazor.Universal) Example of using Blazor to build Xamarin based UWP application without WebAssembly.
 * [Blazor.Xamarin](https://github.com/Appizeo/Blazor.Xamarin) A Xamarin template for launch and interop a Blazor app on mobile.
 * [Blazume](https://github.com/Amine-Smahi/Blazume) A simple portfolio/Resume template using Blazor.
+* [Calamari Blog](https://github.com/thewebchameleon/calamari-blog-blazor) A simple blog and portfolio site running on Squidex.
 * [CRUD sample with EF](https://code.msdn.microsoft.com/vstudio/ASPNET-Core-Blazor-122b108a) ASP.NET Core Blazor Master/Detail CRUD with Filtering and Sorting using EF.
 * [Demo](https://github.com/blazor-demo/blazor-demo.github.io) Code of the official demo website.
 * [Do](https://github.com/jamie-lord/do) To Do app.
