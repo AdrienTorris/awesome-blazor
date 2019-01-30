@@ -44,6 +44,7 @@ Please note that if you want to open Blazor projects in Visual Studio, you must 
 * ['Hello World' sample](https://github.com/dodyg/practical-aspnetcore/tree/master/projects/blazor) 'Hello World' sample.
 * [Introduction to ASP.NET Core](https://docs.microsoft.com/en-us/aspnet/core/) Introduction to ASP.NET Core.
 * [Learn Blazor](https://learn-blazor.com) An unofficial documentation website ([source code here](https://github.com/software-architects/learn-blazor)).
+* [Workshop](https://github.com/dotnet-presentations/blazor-workshop/) Blazor workshop.
 
 ## Demos
 * [BlazorCalculator](https://lupblazordemos.z13.web.core.windows.net/CalculatorPage) Simple calculator with history and ability to use previous results in new calculations.
