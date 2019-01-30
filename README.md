@@ -210,6 +210,7 @@ Please note that if you want to open Blazor projects in Visual Studio, you must 
 * [Web Apps can’t really do that, can they? - Steve Sanderson](https://www.youtube.com/watch?v=MiLAE6HMr10&feature=youtu.be&t=31m45s) - July 10, 2017 - Web Apps can’t really do that, can they? - Steve Sanderson.
 
 ## Articles
+* [Blazor Notes from NDC London](https://edcharbeneau.com/blazor-ndc-london) January 29, 2019 - Blazor Notes from NDC London.
 * [Creating a Reusable, JavaScript-Free Blazor Modal](https://www.telerik.com/blogs/creating-a-reusable-javascript-free-blazor-modal) January 28, 2019 - Creating a Reusable, JavaScript-Free Blazor Modal.
 * [Google authentication in Server-Side Blazor](http://lightswitchhelpwebsite.com/Blog/tabid/61/EntryId/4323/Google-Authentication-in-Server-Side-Blazor-Razor-Components.aspx) January 21, 2019 - Google authentication in Server-Side Blazor (Razor components).
 * [Announcing Blazored and Blazored Toast](https://codedaze.io/announcing-blazored-and-blazored-toast) January 21, 2019 - Announcing Blazored and Blazored Toast.
