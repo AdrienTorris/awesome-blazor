@@ -211,6 +211,7 @@ Please note that if you want to open Blazor projects in Visual Studio, you must 
 * [Web Apps can’t really do that, can they? - Steve Sanderson](https://www.youtube.com/watch?v=MiLAE6HMr10&feature=youtu.be&t=31m45s) - July 10, 2017 - Web Apps can’t really do that, can they? - Steve Sanderson.
 
 ## Articles
+* [Blazor 0.8.0 experimental release now available](https://blogs.msdn.microsoft.com/webdev/2019/02/05/blazor-0-8-0-experimental-release-now-available/) February 5, 2019 - Blazor 0.8.0 experimental release now available.
 * [Blazored modal released](https://codedaze.io/blazored-modal-released/) February 5, 2019 - Blazored modal released.
 * [Event Aggregator for ASP.NET Core 3 Razor Components / Blazor](https://mikaelkoskinen.net/post/blazor-event-aggregator-razor-components) February 4, 2019 - Blazor.EventAggregator - Event Aggregator for ASP.NET Core 3 Razor Components / Blazor.
 * [ASP.NET Core updates in .NET Core 3.0 Preview 2](https://blogs.msdn.microsoft.com/webdev/2019/01/29/aspnet-core-3-preview-2/) January 29, 2019 - ASP.NET Core updates in .NET Core 3.0 Preview 2.
