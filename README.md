@@ -181,6 +181,7 @@ Please note that if you want to open Blazor projects in Visual Studio, you must 
 * [WebSocketHelper](https://github.com/Lupusa87/BlazorWebSocketHelper) Helper for Web Socket in Blazor.
 
 ## Videos
+* [ASP.NET Community Standup](https://www.youtube.com/watch?v=WmDXgO0f-MQ) February 5, 2019 - ASP.NET Community Standup.
 * [A New Framework for Browser-based .NET Apps (DevReach 2018)](https://www.youtube.com/watch?v=BnH2h_RJ-d8) January 14, 2019 - A New Framework for Browser-based .NET Apps (DevReach 2018).
 * [Blazor StateHasChanged](https://www.youtube.com/watch?v=sQJfLfA1TQs) January 7, 2019 - Blazor StateHasChanged using Fluent Validation.
 * [What's up with Server Side Blazor?](https://www.youtube.com/watch?v=9QRKjUoA9iY) December 14, 2018 - ASP.NET Monsters #121: What's up with Server Side Blazor?
