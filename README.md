@@ -148,6 +148,7 @@ Please note that if you want to open Blazor projects in Visual Studio, you must 
 * [Blazor-Dashboard](https://github.com/Misfits-Rebels-Outcasts/Blazor-Dashboard) Admin Dashboard Template Theme for Blazor.
 * [BlazorDB](https://github.com/chanan/BlazorDB) In-memory, persisted to local storage, database for Blazor.
 * [Blazor.EventAggregator](https://github.com/mikoskinen/Blazor.EventAggregator) Lightweight Event Aggregator for Blazor (Razor Components).
+* [BlazorFileSaver](https://github.com/IvanJosipovic/BlazorFileSaver) Blazor Component wrapper for FileSaver.js.
 * [Blazor.FlexGrid](https://github.com/Mewriick/Blazor.FlexGrid) GridView component for Blazor.
 * [Blazor-Fluxor](https://github.com/mrpmorris/blazor-fluxor) A low-boilerplate Flux/Redux state library for Blazor.
 * [Blazor Gamepad](https://github.com/jsakamoto/Toolbelt.Blazor.Gamepad) Provides gamepad API access for Blazor.
