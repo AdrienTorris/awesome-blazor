@@ -113,6 +113,7 @@ Please note that if you want to open Blazor projects in Visual Studio, you must 
 * [Hacker News Clone](https://github.com/lohithgn/blazor-hackernews-clone) Hacker News Clone.
 * [KendoBlazorPoc](https://github.com/ivanchev/KendoBlazorPoc) Kendo UI wrapped inside Blazor components.
 * [Money](https://github.com/maraf/Money) Money.
+* [NethereumBlazor](https://github.com/Nethereum/NethereumBlazor) Ethereum blockchain explorer and simple wallet.
 * [Planning Poker](https://github.com/duracellko/planningpoker4azure) ([Demo](http://planningpoker.duracellko.net)) &ndash; An app to play Planning Poker for distributed teams. The app is implemented using Blazor and shows how to switch between client-side and server-side mode with a configuration change.
 * [Quick CMS](https://github.com/robertsundstrom/quick-cms) Personal blog engine.
 * [Randify](https://github.com/tinyioda/Randify) Spotify Playlist randomizer.
