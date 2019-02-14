@@ -321,6 +321,7 @@ Please note that if you want to open Blazor projects in Visual Studio, you must 
 * [.NET and WebAssembly - Is this the future of the front-end?](https://www.hanselman.com/blog/NETAndWebAssemblyIsThisTheFutureOfTheFrontend.aspx) - August 12, 2017 - .NET and WebAssembly - Is this the future of the front-end?
   
 ## Podcasts
+* [Blazor in 2019 with Steve Sanderson and Dan Roth](https://player.fm/series/net-rocks-2353294/blazor-in-2019-with-steve-sanderson-and-dan-roth) February 14, 2019 - .NET Rocks, Blazor in 2019 with Steve Sanderson and Dan Roth.
 * [SDN Cast #118 - With Rainer Stropek and Serverside Blazor!](https://www.youtube.com/watch?v=S66mK_30gPE) November 8, 2018 - Weekly SDN Cast with special gues Rainer Stropek talking about and showing off Blazor!
 * [Ed Charbeneau on Blazor](https://crosscuttingconcerns.com/Podcast-099-Ed-Charbeneau-Blazor) September 17, 2018 - Ed Charbeneau on Blazor.
 * [Blazor brings .NET to Web Assembly with Steve Sanderson](https://hanselminutes.com/642/blazor-brings-net-to-web-assembly-with-steve-sanderson) July 26, 2018 - Blazor brings .NET to Web Assembly with Steve Sanderson.
