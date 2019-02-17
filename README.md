@@ -36,7 +36,7 @@ Please note that if you want to open Blazor projects in Visual Studio, you must 
 ## General
 * [ASP.NET Blog](https://blogs.msdn.microsoft.com/webdev/category/blazor/) Blazor topic on the ASP.NET blog.
 * [Blazor.net](http://blazor.net/) Blazor.net, official documentation website.
-* [Blazor bites](https://codedaze.io/tag/blazor-bites/) Blazor bites serie on codedaze.io.
+* [Blazor bites](https://chrissainty.com/blazor-bites/) Blazor bites series by chris Sainty.
 * [Blazor-Dev gallery on .NET Foundation](https://dotnet.myget.org/gallery/blazor-dev) Daily builds of the 'dev' branch of Blazor.
 * [Blazor Extensions](https://github.com/BlazorExtensions) Curated extensions for Microsoft ASP.Net Core Blazor.
 * [FAQ](https://github.com/aspnet/Blazor/wiki/FAQ) FAQ.
@@ -216,13 +216,13 @@ Please note that if you want to open Blazor projects in Visual Studio, you must 
 ## Articles
 * [Dealing with Forms in Blazor](https://msdn.microsoft.com/en-us/magazine/mt833274.aspx) February 8, 2019 - Dealing with Forms in Blazor.
 * [Blazor 0.8.0 experimental release now available](https://blogs.msdn.microsoft.com/webdev/2019/02/05/blazor-0-8-0-experimental-release-now-available/) February 5, 2019 - Blazor 0.8.0 experimental release now available.
-* [Blazored modal released](https://codedaze.io/blazored-modal-released/) February 5, 2019 - Blazored modal released.
+* [Blazored modal released](https://chrissainty.com/blazored-modal-released/) February 5, 2019 - Blazored modal released.
 * [Event Aggregator for ASP.NET Core 3 Razor Components / Blazor](https://mikaelkoskinen.net/post/blazor-event-aggregator-razor-components) February 4, 2019 - Blazor.EventAggregator - Event Aggregator for ASP.NET Core 3 Razor Components / Blazor.
 * [ASP.NET Core updates in .NET Core 3.0 Preview 2](https://blogs.msdn.microsoft.com/webdev/2019/01/29/aspnet-core-3-preview-2/) January 29, 2019 - ASP.NET Core updates in .NET Core 3.0 Preview 2.
 * [Blazor Notes from NDC London](https://edcharbeneau.com/blazor-ndc-london) January 29, 2019 - Blazor Notes from NDC London.
 * [Creating a Reusable, JavaScript-Free Blazor Modal](https://www.telerik.com/blogs/creating-a-reusable-javascript-free-blazor-modal) January 28, 2019 - Creating a Reusable, JavaScript-Free Blazor Modal.
 * [Google authentication in Server-Side Blazor](http://lightswitchhelpwebsite.com/Blog/tabid/61/EntryId/4323/Google-Authentication-in-Server-Side-Blazor-Razor-Components.aspx) January 21, 2019 - Google authentication in Server-Side Blazor (Razor components).
-* [Announcing Blazored and Blazored Toast](https://codedaze.io/announcing-blazored-and-blazored-toast) January 21, 2019 - Announcing Blazored and Blazored Toast.
+* [Announcing Blazored and Blazored Toast](https://chrissainty.com/announcing-blazored-and-blazored-toast) January 21, 2019 - Announcing Blazored and Blazored Toast.
 * [Blazor Full-Stack Web Dev in ASP .NET Core](https://wakeupandcode.com/blazor-full-stack-web-dev-in-asp-net-core/) January 16, 2019 - Blazor Full-Stack Web Dev in ASP .NET Core.
 * [Creating a top menu search bar in Blazor](https://streamwriter.net/creating-a-top-menu-search-bar-in-blazor/) January 12, 2019 - Creating a top menu search bar in Blazor.
 * [Exception Handling In Blazor](https://remibou.github.io/Exception-handling-in-Blazor/) January 10, 2019 - Exception Handling In Blazor.
@@ -234,7 +234,7 @@ Please note that if you want to open Blazor projects in Visual Studio, you must 
 * [How To Publish A Blazor Component To Nuget Gallery](https://medium.com/swlh/how-to-publish-a-blazor-component-to-nuget-gallery-850d6d1dd37d?WT.mc_id=link-twitter-jeliknes) December 10, 2018 - How To Publish A Blazor Component To Nuget Gallery.
 * [An Ad Hoc Approach to Passing Elements from Blazor to JavaScript](https://visualstudiomagazine.com/blogs/tool-tracker/2018/11/an-ad-hoc-approach.aspx?ajs_uid=5801H8419578J3Z) December 6, 2018 - An Ad Hoc Approach to Passing Elements from Blazor to JavaScript.
 * [Architecting Blazor (and Integrating JavaScript)](https://visualstudiomagazine.com/articles/2018/11/01/architecting-blazor.aspx) December 4, 2018 - Architecting Blazor (and Integrating JavaScript), from the Visual Studio Magazine.
-* [Simple localisation in Blazor](https://codedaze.io/simple-localisation-in-blazor) December 3, 2018 - Simple localisation in Blazor.
+* [Simple localisation in Blazor](https://chrissainty.com/simple-localisation-in-blazor) December 3, 2018 - Simple localisation in Blazor.
 * [BlazorGrid – A Reusable Grid Component For Blazor](https://ankitsharmablogs.com/blazorgrid-reusable-grid-component-for-blazor/) December 2, 2018 - BlazorGrid – A Reusable Grid Component For Blazor
 * [Visual Studio Code gears up for Blazor](https://visualstudiomagazine.com/articles/2018/11/30/vs-code-blazor.aspx) November 30, 2018 - Visual Studio Code gears up for Blazor.
 * [Validate Request With Recaptcha On A Blazor App And Mediatr](https://remibou.github.io/Validate-request-with-reCaptcha-on-a-Blazor-app-and-MediatR/) November 24, 2018 - Validate Request With Recaptcha On A Blazor App And Mediatr.
@@ -246,10 +246,10 @@ Please note that if you want to open Blazor projects in Visual Studio, you must 
 * [Implementing server side CosmosDB pagination in a Blazor Web App](https://chapsas.com/implementing-skiptake-server-side-cosmosdb-pagination-in-a-blazor-web-app/) October 31, 2018 - Implementing server side CosmosDB pagination in a Blazor Web App (Part 1: Page Number and Page Size).
 * [Blazor Q&A with Microsoft's Daniel Roth](https://www.telerik.com/blogs/blazor-qa-with-microsofts-daniel-roth) October 25, 2018 - Blazor Q&A with Microsoft's Daniel Roth.
 * [Building offline Blazor application](https://gunnarpeipman.com/aspnet/offline-blazor-application) October 24, 2018 - Building offline Blazor application.
-* [Service lifetimes in Blazor](https://codedaze.io/service-lifetimes-in-blazor/) October 22, 2018 - Service lifetimes in Blazor.
+* [Service lifetimes in Blazor](https://chrissainty.com/service-lifetimes-in-blazor/) October 22, 2018 - Service lifetimes in Blazor.
 * [Pages in ASP .NET Core: Razor, Blazor and MVC Views](https://wakeupandcode.com/pages-in-asp-net-core-razor-blazor-and-mvc-views/) October 21, 2018 - Pages in ASP .NET Core: Razor, Blazor and MVC Views.
 * [Server-side Blazor applications](https://gunnarpeipman.com/aspnet/server-side-blazor/) October 19, 2018 - Server-side Blazor applications.
-* [Building a blogging app with Blazor: adding authentication](https://codedaze.io/building-a-blogging-app-with-blazor-adding-authentication/) October 15, 2018 - Building a blogging app with Blazor: adding authentication.
+* [Building a blogging app with Blazor: adding authentication](https://chrissainty.com/building-a-blogging-app-with-blazor-adding-authentication/) October 15, 2018 - Building a blogging app with Blazor: adding authentication.
 * [Get Started with Blazor and WebAssembly](https://developer.okta.com/blog/2018/10/15/blazor-and-web-assembly) October 15, 2018 - Get Started with Blazor and WebAssembly.
 * [A nicer looking Blazor loading page](http://lightswitchhelpwebsite.com/Blog/tabid/61/EntryId/4315/A-Nicer-Looking-Blazor-Loading-Page.aspx) October 14, 2018 - A nicer looking Blazor loading page.
 * [Deploying a Blazor Application on Azure](https://dzone.com/articles/deploying-a-blazor-application-on-azure) October 12, 2018 - Deploying a Blazor Application on Azure.
@@ -261,23 +261,23 @@ Please note that if you want to open Blazor projects in Visual Studio, you must 
 * [Cutting Edge - Blazor at Work: Events, Binding and Composition](https://msdn.microsoft.com/magazine/mt830361) October 1, 2018 - Cutting Edge - Blazor at Work: Events, Binding and Composition.
 * [Work with Cassandra API in Cosmos DB](https://www.c-sharpcorner.com/article/blazor-work-with-cassandra-api-in-cosmos-db/) October 1, 2018 - Work with Cassandra API in Cosmos DB.
 * [Blazor - .NET in the browser](https://www.dotnetcurry.com/dotnet/1460/blazor-getting-started) September 27, 2018 - Blazor - .NET in the browser.
-* [Building a blogging app with Blazor: Editing & Deleting Posts](https://codedaze.io/building-a-blogging-app-with-blazor-editing-deleting-posts/) September 24, 2018 - Building a blogging app with Blazor: Editing & Deleting Posts.
+* [Building a blogging app with Blazor: Editing & Deleting Posts](https://chrissainty.com/building-a-blogging-app-with-blazor-editing-deleting-posts/) September 24, 2018 - Building a blogging app with Blazor: Editing & Deleting Posts.
 * [Data Driven Layout in Server-side Blazor](https://hutchcodes.net/2018/09/data-driven-layout-in-razor-components/) September 24, 2018 - Data Driven Layout in Server-side Blazor.
-* [Building a blogging app with Blazor: add post](https://codedaze.io/building-a-blogging-app-with-blazor-add-post/) September 18, 2018 - Building a blogging app with Blazor: add post.
+* [Building a blogging app with Blazor: add post](https://chrissainty.com/building-a-blogging-app-with-blazor-add-post/) September 18, 2018 - Building a blogging app with Blazor: add post.
 * [Dependency Injection Lifetimes in Blazor](https://hutchcodes.net/2018/09/dependency-injection-lifetimes-in-razor-components/) September 17, 2018 - Dependency Injection Lifetimes in Blazor.
 * [How to Consume Web APIs in Blazor](https://visualstudiomagazine.com/articles/2018/09/07/blazor-apis.aspx) September 13, 2018 - How to Consume Web APIs in Blazor.
 * [Integrating Stripe Payment In With Blazor And Aspnet Core](https://remibou.github.io/Integrating-Stripe-payment-in-with-Blazor-and-ASPNET-Core/) September 11, 2018 - Integrating Stripe Payment In With Blazor And Aspnet Core.
 * [Working with the Blazor JavaScript Interop](https://blog.logrocket.com/working-with-the-blazor-javascript-interop-3c2a8d0eb56c) September 5, 2018 - Working with the Blazor JavaScript Interop.
 * [Cutting Edge - Never Mind JavaScript, Here’s Blazor](https://msdn.microsoft.com/magazine/mt829756) September 4, 2018 - Cutting Edge - Never Mind JavaScript, Here’s Blazor, published on Microsoft Magazine.
 * [Web Development - C# in the Browser with Blazor](https://msdn.microsoft.com/fr-fr/magazine/mt829752) September 4, 2018 - Web Development - C# in the Browser with Blazor, published on Microsoft Magazine.
-* [Building a blogging app with Blazor: Listing Posts](https://codedaze.io/building-a-blogging-app-with-blazor-listing-posts/) September 3, 2018 - Building a blogging app with Blazor: Listing Posts.
+* [Building a blogging app with Blazor: Listing Posts](https://chrissainty.com/building-a-blogging-app-with-blazor-listing-posts/) September 3, 2018 - Building a blogging app with Blazor: Listing Posts.
 * [Blazor: .NET in the browser](https://dncmagazine.blob.core.windows.net/edition38/DNCMag-Issue38.pdf) September 1, 2018 - Blazor: .NET in the browser, from DNC Magazine.
 * [Integrating Blazor and JavaScript Code](https://visualstudiomagazine.com/articles/2018/08/01/integrating-blazor-javascript.aspx) August 27, 2018 - Integrating Blazor and JavaScript Code.
-* [Building a blogging app with Blazor: Getting Setup](https://codedaze.io/building-a-blogging-app-with-blazor-getting-setup/) August 27, 2018 - Building a blogging app with Blazor: Getting Setup.
+* [Building a blogging app with Blazor: Getting Setup](https://chrissainty.com/building-a-blogging-app-with-blazor-getting-setup/) August 27, 2018 - Building a blogging app with Blazor: Getting Setup.
 * [Client side validation with Blazor and System.DataAnnotation](https://remibou.github.io/Client-side-validation-with-Blazor-and-Data-Annotations/) August 23, 2018 - Client side validation with Blazor and System.DataAnnotation.
 * [Writing a Blazor app](https://davidpine.net/blog/blazing-chuck/) August 20, 2018 - Writing a Blazor app.
 * [Localizing DateTime (and numbers) in Blazor](https://remibou.github.io/Localizing-DateTime-in-Blazor/) August 17, 2018 - Localizing DateTime (and numbers) in Blazor.
-* [Introduction to Server-side Blazor aka Razor Components](https://codedaze.io/introduction-to-server-side-blazor-aka-razor-components/) August 11, 2018 - Introduction to Server-side Blazor aka Razor Components.
+* [Introduction to Server-side Blazor aka Razor Components](https://chrissainty.com/introduction-to-server-side-blazor-aka-razor-components/) August 11, 2018 - Introduction to Server-side Blazor aka Razor Components.
 * [I18n With Blazor And Aspnet Core](https://remibou.github.io/I18n-with-Blazor-and-ASPNET-Core/) August 11, 2018 - Internationalizing a Blazor App with ASPNET Core as backend service.
 * [WebAssembly](https://davidpine.net/blog/webassembly-interview/) August 5, 2018 - Interview with Steve Sanderson (Talking Blazor).
 * [Web Assembly and Blazor: Re-assembling the Web](https://weblog.west-wind.com/posts/2018/Jul/31/Web-Assembly-and-Blazor-Reassembling-the-Web) July 31, 2018 - Web Assembly and Blazor: Re-assembling the Web.
@@ -310,7 +310,7 @@ Please note that if you want to open Blazor projects in Visual Studio, you must 
 * [Using C# await against JS Promises in Blazor](https://joonasw.net/view/csharp-await-and-js-promises-in-blazor) April 7, 2018 - Using C# await against JS Promises in Blazor.
 * [Create a CRUD App using Blazor and ASP.NET Core](http://www.talkingdotnet.com/create-a-crud-app-using-blazor-and-asp-net-core/) April 5, 2018 - Create a CRUD App using Blazor and ASP.NET Core.
 * [Blazor – You Want To Run .NET Where?!](https://dotnetcore.gaprogman.com/2018/04/05/blazor-you-want-to-run-net-where/) April 5, 2018 - Blazor – You Want To Run .NET Where?!
-* [What is Blazor and why is it so exciting?](https://codedaze.io/what-is-blazor-and-why-is-it-so-exciting/) March 24, 2018 - What is Blazor and why is it so exciting?
+* [What is Blazor and why is it so exciting?](https://chrissainty.com/what-is-blazor-and-why-is-it-so-exciting/) March 24, 2018 - What is Blazor and why is it so exciting?
 * ['Death to JavaScript!' Blazor, for .NET Web Apps Using WebAssembly, Goes Alpha](https://visualstudiomagazine.com/articles/2018/03/23/blazor-alpha.aspx) March 23, 2018 - 'Death to JavaScript!' Blazor, for .NET Web Apps Using WebAssembly, Goes Alpha.
 * [Get started building .NET web apps that run in the browser with Blazor](https://blogs.msdn.microsoft.com/webdev/2018/03/22/get-started-building-net-web-apps-in-the-browser-with-blazor/) March 22, 2018 - Get started building .NET web apps that run in the browser with Blazor.
 * [Blazor and .NET Core hosting – the future’s bright](http://blog.tdwright.co.uk/2018/03/05/blazor-and-net-core-hosting-the-futures-bright) March 5, 2018 - Blazor and .NET Core hosting – the future’s bright.
