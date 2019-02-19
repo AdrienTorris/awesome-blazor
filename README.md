@@ -127,6 +127,7 @@ Please note that if you want to open Blazor projects in Visual Studio, you must 
 * [VocaDB lyrics](https://github.com/riipah/vocadb-lyrics-blazor-proto) VocaDB lyrics display Blazor proto.
 * [WebSocketPage](https://github.com/Lupusa87/LupusaBlazorProjects/blob/master/BlazorApp1/Pages/WebSocketPage.cshtml) Web Socket in Blazor. [demo](https://lupblazordemos.z13.web.core.windows.net/WebSocketPage).
 * [WordDaze](https://github.com/chrissainty/worddaze) Blogging application written using Blazor with a WebAPI backend.
+* [ZoraGen Blazor](https://github.com/friendlyanon/zoragen-blazor) PWA capable Blazor UI for the [ZoraSharp](https://github.com/kabili207/zora-sharp) library.
 
 ## Extensions
 * [BlazorConfirm](https://github.com/ctrl-alt-d/BlazorConfirm) A Blazor Wrapper for JS's `Window.confirm()` and `onbeforeunload` as .Net Blazor Component ([Demo](https://ctrl-alt-d.github.io/BlazorConfirm/))
