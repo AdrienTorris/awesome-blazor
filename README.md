@@ -215,6 +215,7 @@ Please note that if you want to open Blazor projects in Visual Studio, you must 
 * [Web Apps can’t really do that, can they? - Steve Sanderson](https://www.youtube.com/watch?v=MiLAE6HMr10&feature=youtu.be&t=31m45s) - July 10, 2017 - Web Apps can’t really do that, can they? - Steve Sanderson.
 
 ## Articles
+* [Configuring a Blazor app](https://remibou.github.io/Configuring-a-Blazor-app/) February 18, 2019 - Configuring a Blazor app.
 * [Dealing with Forms in Blazor](https://msdn.microsoft.com/en-us/magazine/mt833274.aspx) February 8, 2019 - Dealing with Forms in Blazor.
 * [Blazor 0.8.0 experimental release now available](https://blogs.msdn.microsoft.com/webdev/2019/02/05/blazor-0-8-0-experimental-release-now-available/) February 5, 2019 - Blazor 0.8.0 experimental release now available.
 * [Blazored modal released](https://chrissainty.com/blazored-modal-released/) February 5, 2019 - Blazored modal released.
