@@ -215,6 +215,7 @@ Please note that if you want to open Blazor projects in Visual Studio, you must 
 * [Web Apps can’t really do that, can they? - Steve Sanderson](https://www.youtube.com/watch?v=MiLAE6HMr10&feature=youtu.be&t=31m45s) - July 10, 2017 - Web Apps can’t really do that, can they? - Steve Sanderson.
 
 ## Articles
+* [Blazor 0.9.0 experimental release now available](https://devblogs.microsoft.com/aspnet/blazor-0-9-0-experimental-release-now-available/) March 7, 2019 - Blazor 0.9.0 experimental release now available.
 * [Full Stack C# with Blazor](https://msdn.microsoft.com/magazine/mt833288) March 7, 2019, Full Stack C# with Blazor.
 * [Understanding cascading values & cascading parameters](https://chrissainty.com/understanding-cascading-values-and-cascading-parameters/) February 26, 2019 - Understanding cascading values & cascading parameters.
 * [What’s the Difference Between Razor and Blazor?](https://espressocoder.com/2019/02/21/whats-the-difference-between-razor-and-blazor/) February 21, 2019 - What’s the Difference Between Razor and Blazor?
