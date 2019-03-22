@@ -350,6 +350,7 @@ Please note that if you want to open Blazor projects in Visual Studio, you must 
 * [Visual Studio Code](https://code.visualstudio.com/) Visual Studio Code, free, open source and cross-platform code editor.
 
 ## Books
+* [Blazor Revealed](https://www.apress.com/gp/book/9781484243428) Blazor Revealed, Building Web Applications in .NET(Published February, 2019).
 * [Blazor Quick Start Guide: Build web applications using Blazor, EF Core, and SQL Server](https://www.amazon.in/gp/product/178934414X/ref=awesome_blazor) Blazor Quick Start Guide: Build web applications using Blazor, EF Core, and SQL Server (Published October 31, 2018).
 
 ## E-Books
