@@ -216,6 +216,7 @@ Please note that if you want to open Blazor projects in Visual Studio, you must 
 
 ## Articles
 * [What is Blazor and what is Razor Components?](https://www.hanselman.com/blog/WhatIsBlazorAndWhatIsRazorComponents.aspx) March 19, 2019 - What is Blazor and what is Razor Components?
+* [Using JavaScript Interop in Razor Components and Blazor](https://chrissainty.com/using-javascript-interop-in-razor-components-and-blazor/) March 19, 2019 - Using JavaScript Interop in Razor Components and Blazor.
 * [Deploying Blazor Apps Using Azure Pipelines](https://chrissainty.com/deploying-blazor-apps-using-azure-pipelines/) March 12, 2019 - Deploying Blazor Apps Using Azure Pipelines.
 * [Blazor 0.9.0 experimental release now available](https://devblogs.microsoft.com/aspnet/blazor-0-9-0-experimental-release-now-available/) March 7, 2019 - Blazor 0.9.0 experimental release now available.
 * [Full Stack C# with Blazor](https://msdn.microsoft.com/magazine/mt833288) March 7, 2019, Full Stack C# with Blazor.
