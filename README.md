@@ -87,6 +87,7 @@ Please note that if you want to open Blazor projects in Visual Studio, you must 
 * [BlazorGameSnake](https://github.com/Lupusa87/BlazorGameSnake) 2D game snake with customizations, path finding algorithm, and sound effects using SVG.
 * [BlazorGeolocation](https://github.com/EdCharbeneau/BlazorGeolocation) An example of using Geolocation with Blazor.
 * [BlazorGraphExample](https://github.com/jburman/BlazorGraphExample) Example application for connecting to Graph API from Blazor.
+* [BlazorMobile](https://github.com/Daddoon/BlazorMobile) Launch a Blazor application as a standalone application.
 * [BlazorNasaImages](https://github.com/ncarandini/BlazorNasaImages) A sample Blazor app that fetches the Nasa Astronomy Picture of the Day.
 * [BlazorPaint](https://github.com/Lupusa87/BlazorPaint) A paint sample with Blazor ([demo](https://lupblazordemos.z13.web.core.windows.net/PaintPage)).
 * [BlazorPasswordPattern](https://github.com/Lupusa87/BlazorPasswordPattern) Password pattern based on SVG.
