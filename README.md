@@ -67,6 +67,7 @@ Please note that if you want to open Blazor projects in Visual Studio, you must 
 * [AsteroidsWasm](https://github.com/aesalazar/AsteroidsWasm) A mixed bag of C# projects to see if a single .NET Standard base can run across all common platforms include WebAssembly.
 * [Beam](https://github.com/Dedac/Beam) A social network demo application. This is the source code of the LinkedIn course "Blazor First Look".
 * [Blangular](https://github.com/danroth27/Blangular) Blazor + Angular, by Daniel Roth.
+* [BlazorAdvancedTodo](https://github.com/EdCharbeneau/BlazorAdvancedTodo) A Blazor to-do app with state and undo function.
 * [BlazorAzureSignalRService](https://github.com/danroth27/BlazorAzureSignalRService) Blazor + Azure SignalR Service.
 * [BlazeDown](https://github.com/EdCharbeneau/BlazeDown) BlazeDown, online Markdown editor.
 * [BlazorBinding](https://github.com/SQL-MisterMagoo/BlazorBinding) Sample Blazor App demonstrating various data binding scenarios.
