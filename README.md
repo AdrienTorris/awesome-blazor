@@ -220,10 +220,13 @@ Please note that if you want to open Blazor projects in Visual Studio, you must 
 
 ## Articles
 * [3 Ways to Communicate Between Components in Blazor](https://chrissainty.com/3-ways-to-communicate-between-components-in-blazor/) April 17, 2019 - 3 Ways to Communicate Between Components in Blazor.
+* [Adding features to a simple Blazor MVVM client with composition](https://itnext.io/adding-features-to-a-simple-blazor-mvvm-client-with-composition-f31bfb01e20a) April 12, 2019 - Adding features to a simple Blazor MVVM client with composition.
 * [Introducing Syncfusion’s ASP.NET Core Blazor / Razor Components](https://blog.syncfusion.com/post/introducing-syncfusions-asp-net-core-blazor-razor-components.aspx) April 10, 2019 - Introducing Syncfusion’s ASP.NET Core Blazor / Razor Components.
 * [Getting Started with TypeScript for JSInterop in Blazor](https://chrissainty.com/getting-started-with-typescript-for-jsinterop-in-blazor/) April 9, 2019 - Getting Started with TypeScript for JSInterop in Blazor.
+* [Using The Blazor Form Validation](https://remibou.github.io/Using-the-Blazor-form-validation/) April 9, 2019 - Using The Blazor Form Validation.
 * [Building Components Manually via RenderTreeBuilder](https://chrissainty.com/building-components-via-rendertreebuilder/) April 3, 2019 - Building Components Manually via RenderTreeBuilder.
 * [Client-side or Server-side](https://thefreezeteam.com/blazor/) March 31, 2019 - Client-side or Server-side.
+* [Managing Page Layouts in Blazor](https://visualstudiomagazine.com/articles/2019/03/01/managing-page-layouts-in-blazor.aspx) March 29, 2019 - Managing Page Layouts in Blazor.
 * [Using FluentValidation for Forms Validation in Razor Components](https://chrissainty.com/using-fluentvalidation-for-forms-validation-in-razor-components/) March 26, 2019 - Using FluentValidation for Forms Validation in Razor Components.
 * [Implementing Client Side Search As You Type Using bind-value-oninput](https://scottsauber.com/2019/03/25/blazor-implementing-client-side-search-as-you-type-using-bind-value-oninput/) March 25, 2019 - Blazor: Implementing Client Side Search As You Type Using bind-value-oninput.
 * [What is Blazor and what is Razor Components?](https://www.hanselman.com/blog/WhatIsBlazorAndWhatIsRazorComponents.aspx) March 19, 2019 - What is Blazor and what is Razor Components?
