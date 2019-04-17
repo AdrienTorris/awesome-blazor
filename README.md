@@ -221,6 +221,8 @@ Please note that if you want to open Blazor projects in Visual Studio, you must 
 ## Articles
 * [3 Ways to Communicate Between Components in Blazor](https://chrissainty.com/3-ways-to-communicate-between-components-in-blazor/) April 17, 2019 - 3 Ways to Communicate Between Components in Blazor.
 * [Introducing Syncfusion’s ASP.NET Core Blazor / Razor Components](https://blog.syncfusion.com/post/introducing-syncfusions-asp-net-core-blazor-razor-components.aspx) April 10, 2019 - Introducing Syncfusion’s ASP.NET Core Blazor / Razor Components.
+* [Getting Started with TypeScript for JSInterop in Blazor](https://chrissainty.com/getting-started-with-typescript-for-jsinterop-in-blazor/) April 9, 2019 - Getting Started with TypeScript for JSInterop in Blazor.
+* [Building Components Manually via RenderTreeBuilder](https://chrissainty.com/building-components-via-rendertreebuilder/) April 3, 2019 - Building Components Manually via RenderTreeBuilder.
 * [Client-side or Server-side](https://thefreezeteam.com/blazor/) March 31, 2019 - Client-side or Server-side.
 * [Using FluentValidation for Forms Validation in Razor Components](https://chrissainty.com/using-fluentvalidation-for-forms-validation-in-razor-components/) March 26, 2019 - Using FluentValidation for Forms Validation in Razor Components.
 * [Implementing Client Side Search As You Type Using bind-value-oninput](https://scottsauber.com/2019/03/25/blazor-implementing-client-side-search-as-you-type-using-bind-value-oninput/) March 25, 2019 - Blazor: Implementing Client Side Search As You Type Using bind-value-oninput.
