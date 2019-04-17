@@ -218,6 +218,7 @@ Please note that if you want to open Blazor projects in Visual Studio, you must 
 * [Web Apps can’t really do that, can they? - Steve Sanderson](https://www.youtube.com/watch?v=MiLAE6HMr10&feature=youtu.be&t=31m45s) - July 10, 2017 - Web Apps can’t really do that, can they? - Steve Sanderson.
 
 ## Articles
+* [Introducing Syncfusion’s ASP.NET Core Blazor / Razor Components](https://blog.syncfusion.com/post/introducing-syncfusions-asp-net-core-blazor-razor-components.aspx) April 10, 2019 - Introducing Syncfusion’s ASP.NET Core Blazor / Razor Components.
 * [Client-side or Server-side](https://thefreezeteam.com/blazor/) March 31, 2019 - Client-side or Server-side.
 * [Using FluentValidation for Forms Validation in Razor Components](https://chrissainty.com/using-fluentvalidation-for-forms-validation-in-razor-components/) March 26, 2019 - Using FluentValidation for Forms Validation in Razor Components.
 * [Implementing Client Side Search As You Type Using bind-value-oninput](https://scottsauber.com/2019/03/25/blazor-implementing-client-side-search-as-you-type-using-bind-value-oninput/) March 25, 2019 - Blazor: Implementing Client Side Search As You Type Using bind-value-oninput.
