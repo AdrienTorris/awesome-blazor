@@ -188,6 +188,7 @@ Please note that if you want to open Blazor projects in Visual Studio, you must 
 
 ## Videos
 * [ASP.NET Community Standup](https://www.youtube.com/watch?v=ap60h3eQE5Y) April 16, 2019 - ASP.NET Community Standup - Blazor Updates with Dan Roth and Steve Sanderson.
+* [Build amazing web apps with .NET Core](https://channel9.msdn.com/Events/Visual-Studio/Visual-Studio-2019-Launch-Event/VSL107) March 26, 2019 - Build amazing web apps with .NET Core.
 * [ASP.NET Community Standup](https://www.youtube.com/watch?v=WmDXgO0f-MQ) February 5, 2019 - ASP.NET Community Standup.
 * [A New Framework for Browser-based .NET Apps (DevReach 2018)](https://www.youtube.com/watch?v=BnH2h_RJ-d8) January 14, 2019 - A New Framework for Browser-based .NET Apps (DevReach 2018).
 * [Blazor StateHasChanged](https://www.youtube.com/watch?v=sQJfLfA1TQs) January 7, 2019 - Blazor StateHasChanged using Fluent Validation.
