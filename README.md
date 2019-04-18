@@ -16,7 +16,7 @@ Contributions are always welcome! Please take a look at the [contribution guidel
 * [Tutorials](#tutorials)
 * [Extensions](#extensions)
 * [Libraries](#libraries)
-* [Experiments & Sets of tools and libraries](#Experiments-&-sets-of-tools-and-libraries)
+* [Experiments & Sets of tools and libraries](#Experiments--sets-of-tools-and-libraries)
 * [Videos](#videos)
 * [Articles](#articles)
 * [Podcasts](#podcasts)
