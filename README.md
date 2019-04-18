@@ -13,6 +13,7 @@ Contributions are always welcome!
 * [Sample Projects](#sample-projects)
 * [Extensions](#extensions)
 * [Libraries](#libraries)
+* [Experiments & Sets of tools and libraries](#Experiments-&-sets-of-tools-and-libraries)
 * [Videos](#videos)
 * [Articles](#articles)
 * [Podcasts](#podcasts)
@@ -133,6 +134,7 @@ Please note that if you want to open Blazor projects in Visual Studio, you must 
 
 ## Extensions
 * [BlazorConfirm](https://github.com/ctrl-alt-d/BlazorConfirm) A Blazor Wrapper for JS's `Window.confirm()` and `onbeforeunload` as .Net Blazor Component ([Demo](https://ctrl-alt-d.github.io/BlazorConfirm/))
+* [Blazor Extensions Home](https://github.com/BlazorExtensions/Home) Home for Blazor Extensions.
 * [BlazorGrid](https://github.com/AnkitSharma-007/BlazorGrid) This is a reusable grid component for Blazor which also supports client side pagination.
 * [BlazorMaterial](https://github.com/BlazorExtensions/BlazorMaterial) Blazor components implementing Google's Material components for web.
 * [BlazorOfficeUIFabric](https://github.com/BlazorExtensions/BlazorOfficeUIFabric) Microsoft Office Fabric UI port for Blazor.
@@ -145,13 +147,15 @@ Please note that if you want to open Blazor projects in Visual Studio, you must 
 * [Toastr](https://github.com/BlazorExtensions/Toastr) A Blazor port of Toastr.js.
 
 ## Libraries
-* [Blazor.Auth0](https://github.com/Pegazux/Blazor.Auth0) Client-Side authentication using Auth0's Universal Login.
-* [BlazorBits](https://github.com/BlazorBits/BlazorBits) Components including Monaco editor.
+* [Blazor.Auth0](https://github.com/Pegazux/Blazor.Auth0) Library for Blazor authentication using Auth0 Authorization Code Grant Flow, Universal Login & Silent Login.
+* [Blazor BarCode](https://barcoderesource.com/blazorbarcode.shtml) A barcode library for Blazor using barcode fonts.
+* [BlazorBits](https://github.com/BlazorBits/BlazorBits) Components including [Monaco editor](https://github.com/Microsoft/monaco-editor).
 * [Blazor-Charts](https://github.com/Misfits-Rebels-Outcasts/Blazor-Charts) SVG charts for Blazor.
 * [BlazorComponents](https://github.com/muqeet-khan/BlazorComponents) Reusable components for Blazor. Starting with ChartJS interop.
 * [BlazorContextMenu](https://github.com/stavroskasidis/BlazorContextMenu) A context menu component for Blazor ([Demo](https://blazor-context-menu-demo.azurewebsites.net/)).
 * [Blazor-Dashboard](https://github.com/Misfits-Rebels-Outcasts/Blazor-Dashboard) Admin Dashboard Template Theme for Blazor.
 * [BlazorDB](https://github.com/chanan/BlazorDB) In-memory, persisted to local storage, database for Blazor.
+* [BlazorEmbedLibrary](https://github.com/SQL-MisterMagoo/BlazorEmbedLibrary) Provides Blazor-style embedded static content files for Razor Components projects.
 * [Blazor.EventAggregator](https://github.com/mikoskinen/Blazor.EventAggregator) Lightweight Event Aggregator for Blazor (Razor Components).
 * [BlazorFileSaver](https://github.com/IvanJosipovic/BlazorFileSaver) Blazor Component wrapper for FileSaver.js.
 * [Blazor.FlexGrid](https://github.com/Mewriick/Blazor.FlexGrid) GridView component for Blazor.
@@ -162,30 +166,45 @@ Please note that if you want to open Blazor projects in Visual Studio, you must 
 * [Blazorise](https://github.com/stsrki/Blazorise) Components for Blazor with support for Bootstrap, Bulma and Material CSS. ([Demo](https://bootstrapdemo.blazorise.com/))
 * [Blazor LoadingBar](https://github.com/jsakamoto/Toolbelt.Blazor.LoadingBar) Loading bar UI for Client-Side Blazor application.
 * [Blazor.LocalFiles](https://github.com/jburman/W8lessLabs.Blazor.LocalFiles) Open files in your browser and load into Blazor.
-* [BlazoredLocalStorage](https://github.com/chrissainty/BlazoredLocalStorage) Local storage for Blazor applications.
+* [Blazored.Localisation](https://github.com/Blazored/Localisation) A library to provide localisation in client-side Blazor applications.
+* [Blazored.LocalStorage](https://github.com/chrissainty/BlazoredLocalStorage) Local storage for Blazor applications.
+* [Blazored.Menu](https://github.com/Blazored/Menu) A JavaScript free menu library for Blazor and Razor Components applications.
+* [Blazored.Modal](https://github.com/Blazored/Modal) A JavaScript free modal library for Blazor and Razor Components applications.
+* [Blazored.Toast](https://github.com/Blazored/Toast) A JavaScript free toast library for Blazor and Razor Component applications.
+* [BlazorNodaTimeDateTimePicker](https://github.com/nheath99/BlazorNodaTimeDateTimePicker) A Date/Time picker component library for Blazor using NodaTime.
 * [Blazor.Notifications](https://github.com/vertonghenb/Blazor.Notifications) Implementation of the Notification API in C# for Blazor via Interop.
 * [Blazorous](https://github.com/chanan/Blazorous) Maintainable CSS with Blazor ([Demo](https://chanan.github.io/Blazorous)).
 * [Blazor.Payments](https://github.com/philipblaquiere/Blazor.Payments) Blazor Web Agent port of the Web Payment API standard developed by W3C .
 * [Blazor.Polyfill](https://github.com/Daddoon/Blazor.Polyfill) Polyfills for Blazor (for Internet Explorer 11 support and some other browsers).
 * [BlazorRealm](https://dworthen.github.io/BlazorRealm/docs/quickstart.html) Redux state management for Blazor.
 * [Blazor-Redux](https://github.com/torhovland/blazor-redux) Connecting a Redux state store with Blazor.
+* [BlazorScrollbar](https://github.com/Lupusa87/BlazorScrollbar) Reusable, fully configurable component with vertical and horizontal scrollbars ([Demo](https://lupblazorscrollbar.z20.web.core.windows.net/)).
 * [Blazor.Sensors](https://github.com/AspNetMonsters/Blazor.Sensors) Blazor interop for browers sensor apis.
+* [Blazor.SpeechSynthesis](https://github.com/jsakamoto/Toolbelt.Blazor.SpeechSynthesis) A library to provide Speech Synthesis API access for Blazor.
 * [BlazorSplit](https://github.com/BlazorComponents/BlazorSplit) Resizeable split views ([Demo](https://blazorcomponents.github.io/BlazorSplit/)).
+* [BlazorSplitter](https://github.com/Lupusa87/BlazorSplitter) Reusable, fully configurable component with vertical and horizontal splitters and diagonal resizer ([Demo](https://lupblazorsplitter.z20.web.core.windows.net/)).
 * [Blazor-State](https://github.com/TimeWarpEngineering/blazor-state) Manage client side state in Blazor using MediatR pipeline.
 * [BlazorStorage](https://github.com/cloudcrate/BlazorStorage) Local and session storage support for Blazor.
 * [BlazorStrap](https://github.com/chanan/BlazorStrap) Bootstrap 4 components for Blazor ([Demo](https://chanan.github.io/BlazorStrap/)).
-* [Blazor Svg Helper](https://github.com/Lupusa87/BlazorSvgHelper) SVG classes for using in Blazor.
-* [Blazor Time Zone Kit](https://github.com/jsakamoto/Toolbelt.Blazor.TimeZoneKit) A system time zones set, and local time zone initialization for Blazor.
+* [Blazor Svg Helper](https://github.com/Lupusa87/BlazorSvgHelper) Create SVG elements with children (circle, rectangle, image, text, and others) and render with RenderTreeBuilder ([Demo](https://lupblazordemos.z13.web.core.windows.net/)).
+* [Blazor Time Zone Kit](https://github.com/jsakamoto/Toolbelt.Blazor.TimeZoneKit) A library to provide system time zones and local time zone initialization in Blazor apps.
 * [Blazor.Validation.DataAnnotation](https://github.com/RemiBou/Blazor.Validation.DataAnnotation) Library for validating form on a Blazor application using Data Annotation.
+* [BlazorVirtualGrid](https://github.com/Lupusa87/BlazorVirtualGrid) Reusable, fully configurable component with rows and columns fast virtualization ([Demo](https://lupblazorvirtualgrid.z13.web.core.windows.net/)).
 * [Blazor.Xamarin](https://github.com/Daddoon/Blazor.Xamarin) A Xamarin template for launch and interop a Blazor app on mobile.
 * [ChartJs.Blazor](https://github.com/mariusmuntean/ChartJs.Blazor) Blazor Component that wraps ChartJS.
+* [DevExpress Blazor UI Components](https://github.com/DevExpress/RazorComponents) UI components including Data Grid, Pivot Grid, and several data editors.
 * [Elmah.Io.Blazor](https://github.com/elmahio/Elmah.Io.Blazor) Logs from Blazor to elmah.io using Microsoft.Extensions.Logging.
 * [MatBlazor](https://github.com/BlazorComponents/MatBlazor) Material Design components for Blazor. ([Demo](https://blazorcomponents.github.io/MatBlazor/)).
+* [NObservable](https://github.com/kekekeks/NObservable) MobX-like observables and component instrumentation.
 * [Sotsera.Blazor.Toaster](https://github.com/sotsera/sotsera.blazor.toaster) A Blazor port of Toastr.js.
 * [Syncfusion Blazor UI Components](https://github.com/syncfusion/ej2-aspnet-core-blazor-samples) - Robust UI components including [Data Grid](https://ej2.syncfusion.com/aspnet-core-razor-components/Grid/DefaultFunctionalities), [Charts](https://ej2.syncfusion.com/aspnet-core-razor-components/Charts/polar), [Scheduler](https://ej2.syncfusion.com/aspnet-core-razor-components/Schedule/TimelineResourceGroup), [Inputs](https://ej2.syncfusion.com/aspnet-core-razor-components/TextBox/DefaultFunctionalities) and several [Editor](https://ej2.syncfusion.com/aspnet-core-razor-components/RichTextEditor/DefaultFunctionalities) components.
 * [Trail](https://nuget.org/packages/Trail) DSL for writing Blazor markup in F# (with an [adapter](https://nuget.org/packages/Trail.BlazorRedux) for working with BlazorRedux).
 * [TwitterShareButton](https://github.com/jsakamoto/Toolbelt.Blazor.TwitterShareButton) A Tweet Button component for Blazor.
 * [WebSocketHelper](https://github.com/Lupusa87/BlazorWebSocketHelper) Helper for Web Socket in Blazor.
+
+## Experiments & Sets of tools and libraries
+* [Bionic](https://bionicframework.github.io/Documentation/) An Ionic CLI clone for Blazor projects.
+* [Bolero](https://github.com/fsbolero/Bolero) Blazor for F# with hot reloaded templates, type-safe endpoints and routing, remoting, and much more.
 
 ## Videos
 * [ASP.NET Community Standup](https://www.youtube.com/watch?v=ap60h3eQE5Y) April 16, 2019 - ASP.NET Community Standup - Blazor Updates with Dan Roth and Steve Sanderson.
@@ -361,8 +380,10 @@ Please note that if you want to open Blazor projects in Visual Studio, you must 
 ## Tooling
 * [ASP.NET Core Blazor Language Services](https://marketplace.visualstudio.com/items?itemName=aspnet.blazor) Provides Visual Studio support for ASP.NET Core Blazor.
 * [BlazorFiddle](https://blazorfiddle.com) Blazor .Net Developer Playground and Code Editor in the Browser.
+* [Blazor Minimum Project Templates](https://github.com/jsakamoto/BlazorMinimumTemplates) A project templates package of Blazor apps without JavaScript and CSS libraries.
+* [Blazor Snippets Visual Studio Code extension](https://marketplace.visualstudio.com/items?itemName=ScottSauber.blazorsnippets) A Visual Studio Code extension that offers Blazor and Razor snippets.
 * [.NET Core](https://www.microsoft.com/net/download/dotnet-core) .NET Core.
-* [Razor+](https://marketplace.visualstudio.com/items?itemName=austincummings.razor-plus) Improved Razor support for VS Code with a mind towards Blazor.
+* [Razor+ Visual Studio Code extension](https://marketplace.visualstudio.com/items?itemName=austincummings.razor-plus)  A Visual Studio Code extension that offers improved Razor support.
 * [Visual Studio](https://www.visualstudio.com/vs/preview) Latest preview of Visual Studio.
 * [Visual Studio Code](https://code.visualstudio.com/) Visual Studio Code, free, open source and cross-platform code editor.
 
@@ -375,12 +396,16 @@ Please note that if you want to open Blazor projects in Visual Studio, you must 
 
 ## Courses
 * [Blazor First Look on LinkedIn Learning](https://www.linkedin.com/learning/blazor-first-look) Blazor First Look on LinkedIn Learning. [Source code](https://github.com/Dedac/Beam).
+* [Free Blazor Training Course](https://www.devexpress.com/support/training/blazor/) DevExpress Blazor free training course [Source code](https://github.com/DevExpress/blazor-training-samples).
   
 ## Community
+* [Awesome Blazor on Twitter](https://twitter.com/awesomeblazor) This repository's Twitter feed.
 * [Gitter](https://gitter.im/aspnet/Blazor) Blazor discussion on Gitter.
+* [Learn Blazor](https://learn-blazor.com/) Community documentation on Blazor.
+* [LightSwitch Help Website](https://lightswitchhelpwebsite.com/Blog/tabid/61/tagid/66/Blazor.aspx) Blogs and code samples primarily covering server-side Blazor (Razor Components).
 * [Stack Overflow](https://stackoverflow.com/questions/tagged/blazor) Blazor questions feed on Stack Overflow.
 * [Twitter](https://twitter.com/hashtag/blazor) Hashtag on Twitter.
-* [Awesome Blazor on Twitter](https://twitter.com/awesomeblazor) This repository's Twitter feed.
+* [WebAssemblyMan](https://www.webassemblyman.com/) Man page for Blazor and WebAssembly.
 
 ## Contributing
 Please see [CONTRIBUTING](https://github.com/AdrienTorris/awesome-blazor/blob/master/CONTRIBUTING.md) for details.
