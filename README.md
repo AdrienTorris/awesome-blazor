@@ -118,6 +118,7 @@ Please note that if you want to open Blazor projects in Visual Studio, you must 
 * [Bolero.TodoMVC](https://github.com/fsbolero/TodoMVC) - A TodoMVC clone using Bolero.
 * [Calamari Blog](https://github.com/thewebchameleon/calamari-blog-blazor) - A simple blog and portfolio site running on Squidex.
 * [CRUD sample with EF](https://code.msdn.microsoft.com/vstudio/ASPNET-Core-Blazor-122b108a) - ASP.NET Core Blazor Master/Detail CRUD with Filtering and Sorting using EF.
+* [CssBuilder](https://www.nuget.org/packages/BlazorComponentUtilities/) &ndash; A clean code approach to conditional CSS classes for Razor components in Blazor.
 * [Data Driven Layout](https://github.com/hutchcodes/Blazor.DataDrivenLayout) - Two ways of driving the layout based on data in the page.
 * [Demo](https://github.com/blazor-demo/blazor-demo.github.io) - Code of the official demo website.
 * [Do](https://github.com/jamie-lord/do) - To Do app.
@@ -162,12 +163,13 @@ Please note that if you want to open Blazor projects in Visual Studio, you must 
 * [Logging](https://github.com/BlazorExtensions/Logging) - Microsoft Extension Logging implementation for Blazor.
 * [Notifications](https://github.com/BlazorExtensions/Notifications) - HTML5 Notifications API implementation for Microsoft Blazor.
 * [SignalR](https://github.com/BlazorExtensions/SignalR) - SignalR Core implementation for Blazor. It uses the JavaScript client.
+* [Telerik UI for Blazor](https://www.telerik.com/blazor-ui) - A native set of UI components for Blazor, including grid, charting, and calendar components.
 * [Storage](https://github.com/BlazorExtensions/Storage) - HTML5 Storage API implementation for Microsoft Blazor.
 * [Toastr](https://github.com/BlazorExtensions/Toastr) - A Blazor port of Toastr.js.
 
 ## Libraries
-* [Blazor.Auth0](https://github.com/Pegazux/Blazor.Auth0) - Library for Blazor authentication with OIDC Authorization Code-Grant and Implicit-Grant flows, using Auth0's Universal Login and Silent Login
-* [Blazor BarCode](https://barcoderesource.com/blazorbarcode.shtml) - A barcode library for Blazor using barcode fonts.
+* [Blazor.Auth0](https://github.com/Pegazux/Blazor.Auth0) - Library for Blazor authentication with OIDC Authorization Code-Grant and Implicit-Grant flows, using Auth0's Universal Login and Silent Login.
+* [Blazor BarCode](https://barcoderesource.com/blazorbarcode.shtml) &ndash; A barcode library for Blazor using barcode fonts.
 * [BlazorBits](https://github.com/BlazorBits/BlazorBits) - Components including [Monaco editor](https://github.com/Microsoft/monaco-editor).
 * [Blazor-Charts](https://github.com/Misfits-Rebels-Outcasts/Blazor-Charts) - SVG charts for Blazor.
 * [BlazorComponents](https://github.com/muqeet-khan/BlazorComponents) - Reusable components for Blazor. Starting with ChartJS interop.
@@ -228,7 +230,9 @@ Please note that if you want to open Blazor projects in Visual Studio, you must 
 * [ASP.NET Community Standup](https://www.youtube.com/watch?v=ap60h3eQE5Y) - April 16, 2019 - ASP.NET Community Standup - Blazor Updates with Dan Roth and Steve Sanderson.
 * [Continuation of the Tulsa .NET User Group website](https://www.twitch.tv/videos/409976640) - April 12, 2019 - Continuation of the Tulsa .NET User Group website. [Source code](https://github.com/devsgarage/tulsa-dnug-website) here.
 * [Continuation of the Tulsa .NET User Group website](https://www.twitch.tv/videos/409075153) - April 10, 2019 - Continuation of the Tulsa .NET User Group website. [Source code](https://github.com/devsgarage/tulsa-dnug-website) here.
+* [Blazor StateHasChanged: Blazor radio buttons and NuGet packages](https://www.youtube.com/watch?v=GBUGjmZlr7o) - April 9, 2019 - Blazor radio buttons and NuGet packages.
 * [What’s Coming with .NET Core 3.0](https://channel9.msdn.com/Events/Visual-Studio/Visual-Studio-2019-Launch-Event/Whats-Coming-with-NET-Core-30) - April 2, 2019 - What’s Coming with .NET Core 3.0.
+* [Blazor StateHasChanged: Blazor Shell apps](https://www.youtube.com/watch?v=dNQ7MgPZby4) - March 30, 2019 - Blazor Shell apps.
 * [Build amazing web apps with .NET Core](https://channel9.msdn.com/Events/Visual-Studio/Visual-Studio-2019-Launch-Event/VSL107) - March 26, 2019 - Build amazing web apps with .NET Core.
 * [ASP.NET Community Standup](https://www.youtube.com/watch?v=WmDXgO0f-MQ) - February 5, 2019 - ASP.NET Community Standup.
 * [A New Framework for Browser-based .NET Apps (DevReach 2018)](https://www.youtube.com/watch?v=BnH2h_RJ-d8) - January 14, 2019 - A New Framework for Browser-based .NET Apps (DevReach 2018).
