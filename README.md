@@ -145,12 +145,13 @@ Please note that if you want to open Blazor projects in Visual Studio, you must 
 * [Toastr](https://github.com/BlazorExtensions/Toastr) A Blazor port of Toastr.js.
 
 ## Libraries
-* [BlazorBits](https://github.com/BlazorBits/BlazorBits) Components including Monaco editor.
+* [BlazorBits](https://github.com/BlazorBits/BlazorBits) Components including [Monaco editor](https://github.com/Microsoft/monaco-editor).
 * [Blazor-Charts](https://github.com/Misfits-Rebels-Outcasts/Blazor-Charts) SVG charts for Blazor.
 * [BlazorComponents](https://github.com/muqeet-khan/BlazorComponents) Reusable components for Blazor. Starting with ChartJS interop.
 * [BlazorContextMenu](https://github.com/stavroskasidis/BlazorContextMenu) A context menu component for Blazor ([Demo](https://blazor-context-menu-demo.azurewebsites.net/)).
 * [Blazor-Dashboard](https://github.com/Misfits-Rebels-Outcasts/Blazor-Dashboard) Admin Dashboard Template Theme for Blazor.
 * [BlazorDB](https://github.com/chanan/BlazorDB) In-memory, persisted to local storage, database for Blazor.
+* [BlazorEmbedLibrary](https://github.com/SQL-MisterMagoo/BlazorEmbedLibrary) Provides Blazor-style embedded static content files for Razor Components projects.
 * [Blazor.EventAggregator](https://github.com/mikoskinen/Blazor.EventAggregator) Lightweight Event Aggregator for Blazor (Razor Components).
 * [BlazorFileSaver](https://github.com/IvanJosipovic/BlazorFileSaver) Blazor Component wrapper for FileSaver.js.
 * [Blazor.FlexGrid](https://github.com/Mewriick/Blazor.FlexGrid) GridView component for Blazor.
@@ -161,7 +162,11 @@ Please note that if you want to open Blazor projects in Visual Studio, you must 
 * [Blazorise](https://github.com/stsrki/Blazorise) Components for Blazor with support for Bootstrap, Bulma and Material CSS. ([Demo](https://bootstrapdemo.blazorise.com/))
 * [Blazor LoadingBar](https://github.com/jsakamoto/Toolbelt.Blazor.LoadingBar) Loading bar UI for Client-Side Blazor application.
 * [Blazor.LocalFiles](https://github.com/jburman/W8lessLabs.Blazor.LocalFiles) Open files in your browser and load into Blazor.
-* [BlazoredLocalStorage](https://github.com/chrissainty/BlazoredLocalStorage) Local storage for Blazor applications.
+* [Blazored.Localisation](https://github.com/Blazored/Localisation) A library to provide localisation in client-side Blazor applications.
+* [Blazored.LocalStorage](https://github.com/chrissainty/BlazoredLocalStorage) Local storage for Blazor applications.
+* [Blazored.Menu](https://github.com/Blazored/Menu) A JavaScript free menu library for Blazor and Razor Components applications.
+* [Blazored.Modal](https://github.com/Blazored/Modal) A JavaScript free modal library for Blazor and Razor Components applications.
+* [Blazored.Toast](https://github.com/Blazored/Toast) A JavaScript free toast library for Blazor and Razor Component applications.
 * [Blazor.Notifications](https://github.com/vertonghenb/Blazor.Notifications) Implementation of the Notification API in C# for Blazor via Interop.
 * [Blazorous](https://github.com/chanan/Blazorous) Maintainable CSS with Blazor ([Demo](https://chanan.github.io/Blazorous)).
 * [Blazor.Payments](https://github.com/philipblaquiere/Blazor.Payments) Blazor Web Agent port of the Web Payment API standard developed by W3C .
