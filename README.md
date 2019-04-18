@@ -112,6 +112,7 @@ Please note that if you want to open Blazor projects in Visual Studio, you must 
 * [Blazor.Toaster](https://github.com/sotsera/sotsera.blazor.toaster) A Blazor port of Toastr.js.
 * [Blazor Tree CRUD](https://github.com/ctrl-alt-d/TreeCrud) CRUD operations with hierarchical data. Blazor Server + GraphQL + EF.
 * [Blazor.Universal](https://github.com/pushqrdx/Blazor.Universal) Example of using Blazor to build Xamarin based UWP application without WebAssembly.
+* [BlazorValidationControls](https://github.com/hishamco/BlazorValidationControls) - Blazor validation controls.
 * [Blazor.Xamarin](https://github.com/Appizeo/Blazor.Xamarin) A Xamarin template for launch and interop a Blazor app on mobile.
 * [Blazor + Electron sample](https://github.com/aspnet/AspLabs/tree/master/src/ComponentsElectron) - Explore how a Blazor app can be used to build a cross-platform desktop app.
 * [Blazor + Sitecore](https://github.com/GoranHalvarsson/SitecoreBlazor) - Example of dynamic pages and routes with SiteCore and [Helix](https://helix.sitecore.net/).
@@ -137,6 +138,8 @@ Please note that if you want to open Blazor projects in Visual Studio, you must 
 * [Tour of Heroes](https://github.com/lohithgn/blazor-tour-of-heroes) Blazor implementation of Angular Tour of Heroes.
 * [Toss.Blazor](https://github.com/RemiBou/Toss.Blazor) Twitter-like web application using Blazor.
 * [TrendTv](https://github.com/MattMarked/TrendTv) Fetch video list from YouTube and "zap" in real time between trending videos, filtered by country or category.
+* [Try F# on WebAssembly](https://github.com/fsbolero/TryFSharpOnWasm) - The F# compiler running in WebAssembly with Bolero.
+* [Tzaar](https://github.com/paularundel/tzaar) - Implementation of the board game Tzaar with Blazor and SignalR. [Demo](https://tzaar.azurewebsites.net/).
 * [VocaDB lyrics](https://github.com/riipah/vocadb-lyrics-blazor-proto) VocaDB lyrics display Blazor proto.
 * [WebSocketPage](https://github.com/Lupusa87/LupusaBlazorProjects/blob/master/BlazorApp1/Pages/WebSocketPage.cshtml) Web Socket in Blazor. [demo](https://lupblazordemos.z13.web.core.windows.net/WebSocketPage).
 * [WordDaze](https://github.com/chrissainty/worddaze) Blogging application written using Blazor with a WebAPI backend.
