@@ -12,7 +12,7 @@ Contributions are always welcome! Please take a look at the [contribution guidel
 * [Introduction](#introduction)
 * [General](#general)
 * [Demos](#demos)
-* [Sample Projects](#sample-projects))
+* [Sample Projects](#sample-projects)
 * [Tutorials](#tutorials)
 * [Extensions](#extensions)
 * [Libraries](#libraries)
