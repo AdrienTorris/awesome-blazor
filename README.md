@@ -60,7 +60,6 @@ Please note that if you want to open Blazor projects in Visual Studio, you must 
 * [BlazorRawHtmlRenderer](https://lupblazordemos.z13.web.core.windows.net/RawHTML) - Raw HTML rendering with Blazor.
 * [Blazorships](http://blazorships.azurewebsites.net) - Blazorships, a Blazor implementation of Battleship using SignalR.
 * [Demo](https://blazor-demo.github.io/) - Official demo website.
-* [Flight Finder](http://blazor-flight-finder.azurewebsites.net/) - Flight Finder.
 * [Money](http://money.neptuo.com) - Money.
 * [RealWorld demo](https://blazor-realworld.azurewebsites.net/) - RealWorld demo website.
 * [VocaDB lyrics display](https://lyrics-proto.vocadb.net/) - VocaDB lyrics display.
@@ -88,7 +87,6 @@ Please note that if you want to open Blazor projects in Visual Studio, you must 
 * [Blazor.DataDrivenLayout](https://github.com/hutchcodes/Blazor.DataDrivenLayout) - Two example of how to do data driven layouts in Server-side Blazor.
 * [BlazorDice](https://github.com/shahedc/BlazorDemos/tree/master/BlazorDice) - Roll the dice.
 * [BlazorElectronExperiment](https://github.com/SteveSandersonMS/BlazorElectronExperiment.Sample) - Exploring how a Blazor could be used to build a cross-platform desktop application using [Electron](https://electronjs.org/).
-* [Blazor Excel](https://github.com/Lupusa87/BlazorExcel) - Blazor Excel. [Demo](https://lupblazordemos.z13.web.core.windows.net/ExcelPage).
 * [BlazorFileReader](https://github.com/Tewr/BlazorFileReader) - Read-only File streams in Blazor. [Demo](https://tewr.github.io/BlazorFileReader/).
 * [BlazorGameSnake](https://github.com/Lupusa87/BlazorGameSnake) - 2D game snake with customizations, path finding algorithm, and sound effects using SVG.
 * [BlazorGeolocation](https://github.com/EdCharbeneau/BlazorGeolocation) - An example of using Geolocation with Blazor.
@@ -104,7 +102,6 @@ Please note that if you want to open Blazor projects in Visual Studio, you must 
 * [BlazorServerTree](https://github.com/ctrl-alt-d/BlazorServerTree) - A simple Server-Side Blazor sample app to deal with hierarchical data.
 * [BlazorServiceWorker](https://github.com/roboriaan/BlazorServiceWorker) - A client-side Blazor template with service worker caching.
 * [Blazorships](https://github.com/bjorndaniel/Blazorships) - Blazorships, a Blazor implementation of Battleship using SignalR.
-* [BlazorSignalRTest](https://github.com/danroth27/BlazorSignalRTest) - Test with Blazor and SignalR.
 * [Blazor Spreadsheet](https://github.com/Lupusa87/BlazorSpreadsheet) - Spreadsheet app developed in Blazor. [Demo](https://lupblazorspreadsheet.z20.web.core.windows.net/).
 * [Blazor Summernote](https://github.com/shawty/blazor.summernote) - Wrapper for the new MS Blazor framework, allowing the use of the Summernote Wysiwyg editor in a form.
 * [Blazor Survey](https://github.com/nutshellit/Blazor-Survey) - A hybrid F#/C# blazor sample app to kick the tyres of blazor.
