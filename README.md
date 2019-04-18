@@ -10,7 +10,8 @@ Contributions are always welcome!
 * [Introduction](#introduction)
 * [General](#general)
 * [Demos](#demos)
-* [Sample Projects](#sample-projects)
+* [Sample Projects](#sample-projects))
+* [Tutorials](#tutorials)
 * [Extensions](#extensions)
 * [Libraries](#libraries)
 * [Experiments & Sets of tools and libraries](#Experiments-&-sets-of-tools-and-libraries)
@@ -68,9 +69,10 @@ Please note that if you want to open Blazor projects in Visual Studio, you must 
 * [AsteroidsWasm](https://github.com/aesalazar/AsteroidsWasm) A mixed bag of C# projects to see if a single .NET Standard base can run across all common platforms include WebAssembly.
 * [Beam](https://github.com/Dedac/Beam) A social network demo application. This is the source code of the LinkedIn course "Blazor First Look".
 * [Blangular](https://github.com/danroth27/Blangular) Blazor + Angular, by Daniel Roth.
+* [BlazeDown](https://github.com/EdCharbeneau/BlazeDown) BlazeDown, online Markdown editor. [Demo](https://edcharbeneau.com/BlazeDown/).
+* [Blazing Chuck](https://davidpine.net/blog/blazing-chuck/) An example Blazor app that displays random "nerdy" Chuck Norris jokes. [Demo](http://ievangelistblazingchuck.azurewebsites.net/).
 * [BlazorAdvancedTodo](https://github.com/EdCharbeneau/BlazorAdvancedTodo) A Blazor to-do app with state and undo function.
 * [BlazorAzureSignalRService](https://github.com/danroth27/BlazorAzureSignalRService) Blazor + Azure SignalR Service.
-* [BlazeDown](https://github.com/EdCharbeneau/BlazeDown) BlazeDown, online Markdown editor.
 * [BlazorBinding](https://github.com/SQL-MisterMagoo/BlazorBinding) Sample Blazor App demonstrating various data binding scenarios.
 * [BlazorBricks](https://www.codeproject.com/Articles/1241210/WebAssembly-with-Blazor) BlazorBricks, a Blazor implementation of the game Tetris.
 * [BlazorCalculator](https://github.com/Lupusa87/BlazorCalculator) Simple calculator with history and ability to use previous results in new calculations.
@@ -92,6 +94,7 @@ Please note that if you want to open Blazor projects in Visual Studio, you must 
 * [BlazorMobile](https://github.com/Daddoon/BlazorMobile) Launch a Blazor application as a standalone application.
 * [BlazorNasaImages](https://github.com/ncarandini/BlazorNasaImages) A sample Blazor app that fetches the Nasa Astronomy Picture of the Day.
 * [BlazorPaint](https://github.com/Lupusa87/BlazorPaint) A paint sample with Blazor ([demo](https://lupblazordemos.z13.web.core.windows.net/PaintPage)).
+* [BlazorPass](https://github.com/ebekker/BlazorPass) - Blazor UI and ASP.NET Core API to manage Active Directory credentials.
 * [BlazorPasswordPattern](https://github.com/Lupusa87/BlazorPasswordPattern) Password pattern based on SVG.
 * [BlazorPong](https://github.com/ctrl-alt-d/blazorpong) 8 bits pong with blazor and signalR. Warning: Blazor Pong is not finished and is stopped with a knowed SignalR issue with Blazor, more info [here](https://github.com/AdrienTorris/awesome-blazor/pull/19).
 * [BlazorQuiz](https://github.com/Amine-Smahi/BlazorQuiz) Simple quiz using Blazor.NET and Webassembly.
@@ -107,6 +110,8 @@ Please note that if you want to open Blazor projects in Visual Studio, you must 
 * [Blazor Tree CRUD](https://github.com/ctrl-alt-d/TreeCrud) CRUD operations with hierarchical data. Blazor Server + GraphQL + EF.
 * [Blazor.Universal](https://github.com/pushqrdx/Blazor.Universal) Example of using Blazor to build Xamarin based UWP application without WebAssembly.
 * [Blazor.Xamarin](https://github.com/Appizeo/Blazor.Xamarin) A Xamarin template for launch and interop a Blazor app on mobile.
+* [Blazor + Electron sample](https://github.com/aspnet/AspLabs/tree/master/src/ComponentsElectron) - Explore how a Blazor app can be used to build a cross-platform desktop app.
+* [Blazor + Sitecore](https://github.com/GoranHalvarsson/SitecoreBlazor) - Example of dynamic pages and routes with SiteCore and [Helix](https://helix.sitecore.net/).
 * [Blazume](https://github.com/Amine-Smahi/Blazume) A simple portfolio/Resume template using Blazor.
 * [Calamari Blog](https://github.com/thewebchameleon/calamari-blog-blazor) A simple blog and portfolio site running on Squidex.
 * [CRUD sample with EF](https://code.msdn.microsoft.com/vstudio/ASPNET-Core-Blazor-122b108a) ASP.NET Core Blazor Master/Detail CRUD with Filtering and Sorting using EF.
@@ -131,6 +136,12 @@ Please note that if you want to open Blazor projects in Visual Studio, you must 
 * [WebSocketPage](https://github.com/Lupusa87/LupusaBlazorProjects/blob/master/BlazorApp1/Pages/WebSocketPage.cshtml) Web Socket in Blazor. [demo](https://lupblazordemos.z13.web.core.windows.net/WebSocketPage).
 * [WordDaze](https://github.com/chrissainty/worddaze) Blogging application written using Blazor with a WebAPI backend.
 * [ZoraGen Blazor](https://github.com/friendlyanon/zoragen-blazor) PWA capable Blazor UI for the [ZoraSharp](https://github.com/kabili207/zora-sharp) library.
+
+## Tutorials
+* [A Nicer Looking Blazor Loading Page](http://lightswitchhelpwebsite.com/Blog/tabid/61/EntryId/4315/A-Nicer-Looking-Blazor-Loading-Page.aspx) - October 14, 2018 - Customize the Blazor loading page using [SpinKit](https://github.com/tobiasahlin/SpinKit).
+* [ASP.NET Core Blazor CRUD](https://code.msdn.microsoft.com/vstudio/ASPNET-Core-Blazor-122b108a) - August 20, 2018 - A master/detail HTML CRUD example with sorting and filtering using Entity Framework and Web API.
+* [Blazing Chuck](https://davidpine.net/blog/blazing-chuck/) - August 20, 2018 - An example Blazor app that displays random "nerdy" Chuck Norris jokes. [Demo](http://ievangelistblazingchuck.azurewebsites.net/).
+* [Blazor + Sitecore](https://visionsincode.wordpress.com/2018/06/30/time-travel-into-the-future-blazor-sitecore-helix/) - June 30, 2018 - Time travel into the future – Blazor + Sitecore + Helix.
 
 ## Extensions
 * [BlazorConfirm](https://github.com/ctrl-alt-d/BlazorConfirm) - A Blazor Wrapper for JS's `Window.confirm()` and `onbeforeunload` as .Net Blazor Component ([Demo](https://ctrl-alt-d.github.io/BlazorConfirm/))
