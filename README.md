@@ -146,6 +146,7 @@ Please note that if you want to open Blazor projects in Visual Studio, you must 
 * [Toastr](https://github.com/BlazorExtensions/Toastr) A Blazor port of Toastr.js.
 
 ## Libraries
+* [Blazor.Auth0](https://github.com/Pegazux/Blazor.Auth0) Library for Blazor authentication using Auth0 Authorization Code Grant Flow, Universal Login & Silent Login.
 * [Blazor BarCode](https://barcoderesource.com/blazorbarcode.shtml) A barcode library for Blazor using barcode fonts.
 * [BlazorBits](https://github.com/BlazorBits/BlazorBits) Components including [Monaco editor](https://github.com/Microsoft/monaco-editor).
 * [Blazor-Charts](https://github.com/Misfits-Rebels-Outcasts/Blazor-Charts) SVG charts for Blazor.
