@@ -25,7 +25,7 @@ Contributions are always welcome!
 * [Contributing](#contributing)
 
 ## Introduction
-### What is Blazor?
+### What is Blazor
 Blazor is an experimental .NET web framework using C#/Razor and HTML that runs in the browser with WebAssembly.
 
 ### Warning
@@ -35,17 +35,17 @@ Blazor is a really early-stage project, it's not a mature technology and it's ab
 Please note that if you want to open Blazor projects in Visual Studio, you must have [Visual Studio 15.7 Preview 1](https://www.visualstudio.com/vs/preview/) or later and the [.NET Core 2.1 Preview 1 SDK](https://www.microsoft.com/net/download/dotnet-core/sdk-2.1.300-preview1).
 
 ## General
-* [ASP.NET Blog](https://blogs.msdn.microsoft.com/webdev/category/blazor/) Blazor topic on the ASP.NET blog.
-* [Blazor.net](http://blazor.net/) Blazor.net, official documentation website.
-* [Blazor bites](https://chrissainty.com/blazor-bites/) Blazor bites series by chris Sainty.
-* [Blazor-Dev gallery on .NET Foundation](https://dotnet.myget.org/gallery/blazor-dev) Daily builds of the 'dev' branch of Blazor.
-* [Blazor Extensions](https://github.com/BlazorExtensions) Curated extensions for Microsoft ASP.Net Core Blazor.
-* [FAQ](https://github.com/aspnet/Blazor/wiki/FAQ) FAQ.
-* [GitHub repository](https://github.com/aspnet/Blazor) The official Blazor repository.
-* ['Hello World' sample](https://github.com/dodyg/practical-aspnetcore/tree/master/projects/blazor) 'Hello World' sample.
-* [Introduction to ASP.NET Core](https://docs.microsoft.com/en-us/aspnet/core/) Introduction to ASP.NET Core.
-* [Learn Blazor](https://learn-blazor.com) An unofficial documentation website ([source code here](https://github.com/software-architects/learn-blazor)).
-* [Workshop](https://github.com/dotnet-presentations/blazor-workshop/) Blazor workshop.
+* [ASP.NET Blog](https://blogs.msdn.microsoft.com/webdev/category/blazor/) - Blazor topic on the ASP.NET blog.
+* [Blazor.net](http://blazor.net/) - Blazor.net, official documentation website.
+* [Blazor bites](https://chrissainty.com/blazor-bites/) - Blazor bites series by chris Sainty.
+* [Blazor-Dev gallery on .NET Foundation](https://dotnet.myget.org/gallery/blazor-dev) - Daily builds of the 'dev' branch of Blazor.
+* [Blazor Extensions](https://github.com/BlazorExtensions) - Curated extensions for Microsoft ASP.Net Core Blazor.
+* [FAQ](https://github.com/aspnet/Blazor/wiki/FAQ) - FAQ.
+* [GitHub repository](https://github.com/aspnet/Blazor) - The official Blazor repository.
+* ['Hello World' sample](https://github.com/dodyg/practical-aspnetcore/tree/master/projects/blazor) - 'Hello World' sample.
+* [Introduction to ASP.NET Core](https://docs.microsoft.com/en-us/aspnet/core/) - Introduction to ASP.NET Core.
+* [Learn Blazor](https://learn-blazor.com) - An unofficial documentation website ([source code here](https://github.com/software-architects/learn-blazor)).
+* [Workshop](https://github.com/dotnet-presentations/blazor-workshop/) - Blazor workshop.
 
 ## Demos
 * [BlazorCalculator](https://lupblazordemos.z13.web.core.windows.net/CalculatorPage) Simple calculator with history and ability to use previous results in new calculations.
