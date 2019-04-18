@@ -76,9 +76,10 @@ Please note that if you want to open Blazor projects in Visual Studio, you must 
 * [BlazorBinding](https://github.com/SQL-MisterMagoo/BlazorBinding) Sample Blazor App demonstrating various data binding scenarios.
 * [BlazorBricks](https://www.codeproject.com/Articles/1241210/WebAssembly-with-Blazor) BlazorBricks, a Blazor implementation of the game Tetris.
 * [BlazorCalculator](https://github.com/Lupusa87/BlazorCalculator) Simple calculator with history and ability to use previous results in new calculations.
+* [Blazor calculator with expressions](https://github.com/khaledmousa/BlazorCalculator) - A sample numerical expression evaluator in Blazor utilizing an F# library that uses FsLex and FsYacc to parse expressions. [Demo](https://khaledmousa.github.io/).
 * [BlazorChat](https://github.com/danroth27/BlazorChat) Real-time chat app using ASP.NET Core and Blazor, from Daniel Roth.
 * [BlazorChatSample](https://github.com/conficient/blazorchatsample) Blazor chat demo using SignalR JS client with interop.
-* [BlazorChess](https://github.com/Lupusa87/BlazorChess) Chess engine implemented with Blazor.
+* [BlazorChess](https://github.com/Lupusa87/BlazorChess) Chess engine implemented with Blazor. [Demo](https://lupblazorchess.z20.web.core.windows.net/).
 * [BlazorClockCanvas](https://github.com/Lupusa87/BlazorClockCanvas) Complex clock based on Canvas.
 * [BlazorClockSVG](https://github.com/Lupusa87/BlazorClockSVG) Complex clock based on SVG.
 * [Blazor Contoso University](https://github.com/lohithgn/blazor-contoso-university) Contoso University in Blazor.
@@ -100,8 +101,10 @@ Please note that if you want to open Blazor projects in Visual Studio, you must 
 * [BlazorQuiz](https://github.com/Amine-Smahi/BlazorQuiz) Simple quiz using Blazor.NET and Webassembly.
 * [BlazorRawHtmlRenderer](https://github.com/Lupusa87/BlazorRawHtmlRenderer) Raw HTML rendering with Blazor.
 * [BlazorServerTree](https://github.com/ctrl-alt-d/BlazorServerTree) A simple Server-Side Blazor sample app to deal with hierarchical data.
+* [BlazorServiceWorker](https://github.com/roboriaan/BlazorServiceWorker) - A client-side Blazor template with service worker caching.
 * [Blazorships](https://github.com/bjorndaniel/Blazorships) Blazorships, a Blazor implementation of Battleship using SignalR.
 * [BlazorSignalRTest](https://github.com/danroth27/BlazorSignalRTest) Test with Blazor and SignalR.
+* [Blazor Spreadsheet](https://github.com/Lupusa87/BlazorSpreadsheet) - Spreadsheet app developed in Blazor. [Demo](https://lupblazorspreadsheet.z20.web.core.windows.net/).
 * [Blazor Summernote](https://github.com/shawty/blazor.summernote) Wrapper for the new MS Blazor framework, allowing the use of the Summernote Wysiwyg editor in a form.
 * [Blazor Survey](https://github.com/nutshellit/Blazor-Survey) A hybrid F#/C# blazor sample app to kick the tyres of blazor.
 * [Blazor Sushi](https://github.com/lohithgn/blazor-sushi) Kendo UI Sushi SPA recreated in Blazor.
@@ -113,14 +116,17 @@ Please note that if you want to open Blazor projects in Visual Studio, you must 
 * [Blazor + Electron sample](https://github.com/aspnet/AspLabs/tree/master/src/ComponentsElectron) - Explore how a Blazor app can be used to build a cross-platform desktop app.
 * [Blazor + Sitecore](https://github.com/GoranHalvarsson/SitecoreBlazor) - Example of dynamic pages and routes with SiteCore and [Helix](https://helix.sitecore.net/).
 * [Blazume](https://github.com/Amine-Smahi/Blazume) A simple portfolio/Resume template using Blazor.
+* [Bolero.TodoMVC](https://github.com/fsbolero/TodoMVC) - A TodoMVC clone using Bolero.
 * [Calamari Blog](https://github.com/thewebchameleon/calamari-blog-blazor) A simple blog and portfolio site running on Squidex.
 * [CRUD sample with EF](https://code.msdn.microsoft.com/vstudio/ASPNET-Core-Blazor-122b108a) ASP.NET Core Blazor Master/Detail CRUD with Filtering and Sorting using EF.
+* [Data Driven Layout](https://github.com/hutchcodes/Blazor.DataDrivenLayout) - Two ways of driving the layout based on data in the page.
 * [Demo](https://github.com/blazor-demo/blazor-demo.github.io) Code of the official demo website.
 * [Do](https://github.com/jamie-lord/do) To Do app.
 * [Flight Finder](https://github.com/aspnet/samples/tree/master/samples/aspnetcore/blazor) Flight Finder.
-* [Hacker News Clone](https://github.com/lohithgn/blazor-hackernews-clone) Hacker News Clone.
+* [FMRL](https://github.com/ebekker/FMRL) - Ephemeral Message Service. Messages sent are encrypted, securely transferred, and automatically deleted when they are retrieved.
+* [Hacker News Clone](https://github.com/lohithgn/blazor-hackernews-clone) Hacker News Clone. [Demo](http://blazorhackernews.surge.sh/).
 * [KendoBlazorPoc](https://github.com/ivanchev/KendoBlazorPoc) Kendo UI wrapped inside Blazor components.
-* [Money](https://github.com/maraf/Money) Money.
+* [Money](https://github.com/maraf/Money) - A money manager implemented using CQRS+ES. [Demo](https://money.neptuo.com/).
 * [NethereumBlazor](https://github.com/Nethereum/NethereumBlazor) Ethereum blockchain explorer and simple wallet.
 * [Planning Poker](https://github.com/duracellko/planningpoker4azure) ([Demo](http://planningpoker.duracellko.net)) &ndash; An app to play Planning Poker for distributed teams. The app is implemented using Blazor and shows how to switch between client-side and server-side mode with a configuration change.
 * [Quick CMS](https://github.com/robertsundstrom/quick-cms) Personal blog engine.
@@ -128,7 +134,6 @@ Please note that if you want to open Blazor projects in Visual Studio, you must 
 * [Realworld](https://github.com/torhovland/blazor-realworld-example-app) Blazor realworld example app.
 * [RSS Reader](https://github.com/lohithgn/blazor-rss-reader) RSS Reader built using Blazor.
 * [RxBlazor](https://github.com/bmsantos/RxBlazor) Rx.NET based MessageService demo for Blazor Framework.
-* [SitecoreBlazor](https://github.com/GoranHalvarsson/SitecoreBlazor) Sitecore + Blazor.
 * [Tour of Heroes](https://github.com/lohithgn/blazor-tour-of-heroes) Blazor implementation of Angular Tour of Heroes.
 * [Toss.Blazor](https://github.com/RemiBou/Toss.Blazor) Twitter-like web application using Blazor.
 * [TrendTv](https://github.com/MattMarked/TrendTv) Fetch video list from YouTube and "zap" in real time between trending videos, filtered by country or category.
@@ -139,9 +144,11 @@ Please note that if you want to open Blazor projects in Visual Studio, you must 
 
 ## Tutorials
 * [A Nicer Looking Blazor Loading Page](http://lightswitchhelpwebsite.com/Blog/tabid/61/EntryId/4315/A-Nicer-Looking-Blazor-Loading-Page.aspx) - October 14, 2018 - Customize the Blazor loading page using [SpinKit](https://github.com/tobiasahlin/SpinKit).
+* [Data Driven Layout](https://github.com/hutchcodes/Blazor.DataDrivenLayout) - September 24, 2018 - Two ways of driving the layout based on data in the page.
 * [ASP.NET Core Blazor CRUD](https://code.msdn.microsoft.com/vstudio/ASPNET-Core-Blazor-122b108a) - August 20, 2018 - A master/detail HTML CRUD example with sorting and filtering using Entity Framework and Web API.
 * [Blazing Chuck](https://davidpine.net/blog/blazing-chuck/) - August 20, 2018 - An example Blazor app that displays random "nerdy" Chuck Norris jokes. [Demo](http://ievangelistblazingchuck.azurewebsites.net/).
 * [Blazor + Sitecore](https://visionsincode.wordpress.com/2018/06/30/time-travel-into-the-future-blazor-sitecore-helix/) - June 30, 2018 - Time travel into the future – Blazor + Sitecore + Helix.
+* [Blazor Bricks](https://www.codeproject.com/Articles/1241210/WebAssembly-with-Blazor) - May 11, 2018 - A bricks game developed with C# and Blazor.
 
 ## Extensions
 * [BlazorConfirm](https://github.com/ctrl-alt-d/BlazorConfirm) - A Blazor Wrapper for JS's `Window.confirm()` and `onbeforeunload` as .Net Blazor Component ([Demo](https://ctrl-alt-d.github.io/BlazorConfirm/))
