@@ -37,8 +37,7 @@ Blazor is a really early-stage project, it's not a mature technology and it's ab
 Please note that if you want to open Blazor projects in Visual Studio, you must have [Visual Studio 15.7 Preview 1](https://www.visualstudio.com/vs/preview/) or later and the [.NET Core 2.1 Preview 1 SDK](https://www.microsoft.com/net/download/dotnet-core/sdk-2.1.300-preview1).
 
 ## General
-* [ASP.NET Blog](https://blogs.msdn.microsoft.com/webdev/category/blazor/) - Blazor topic on the ASP.NET blog.
-* [Blazor.net](http://blazor.net/) - Blazor.net, official documentation website.
+* [Blazor](https://dotnet.microsoft.com/apps/aspnet/web-apps/client) - Official website of Blazor, from Microsoft.
 * [Blazor bites](https://chrissainty.com/blazor-bites/) - Blazor bites series by chris Sainty.
 * [Blazor-Dev gallery on .NET Foundation](https://dotnet.myget.org/gallery/blazor-dev) - Daily builds of the 'dev' branch of Blazor.
 * [Blazor Extensions](https://github.com/BlazorExtensions) - Curated extensions for Microsoft ASP.Net Core Blazor.
