@@ -4,7 +4,9 @@
 
 Inspired by [awesome](https://github.com/sindresorhus/awesome), [awesome-dotnet](https://github.com/quozd/awesome-dotnet) and [awesome-dotnet-core](https://github.com/thangchung/awesome-dotnet-core).
 
-Contributions are always welcome! 
+The goal is to build a categorized community-driven collection of very well-known resources about Blazor.
+
+Contributions are always welcome! Please take a look at the [contribution guidelines](https://github.com/AdrienTorris/awesome-blazor/blob/master/CONTRIBUTING.md) pages first. Thanks to all [contributors](https://github.com/AdrienTorris/awesome-blazor/graphs/contributors), you're awesome and wouldn't be possible without you!
 
 ## Contents
 * [Introduction](#introduction)
@@ -23,7 +25,6 @@ Contributions are always welcome!
 * [E-Books](#e-books)
 * [Courses](#courses)
 * [Community](#community)
-* [Contributing](#contributing)
 
 ## Introduction
 ### What is Blazor
@@ -428,6 +429,3 @@ Please note that if you want to open Blazor projects in Visual Studio, you must 
 * [Stack Overflow](https://stackoverflow.com/questions/tagged/blazor) - Blazor questions feed on Stack Overflow.
 * [Twitter](https://twitter.com/hashtag/blazor) - Hashtag on Twitter.
 * [WebAssemblyMan](https://www.webassemblyman.com/) - Man page for Blazor and WebAssembly.
-
-## Contributing
-Please see [CONTRIBUTING](https://github.com/AdrienTorris/awesome-blazor/blob/master/CONTRIBUTING.md) for details.
