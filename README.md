@@ -390,6 +390,7 @@ Please note that if you want to open Blazor projects in Visual Studio, you must 
 
 ## Courses
 * [Blazor First Look on LinkedIn Learning](https://www.linkedin.com/learning/blazor-first-look) Blazor First Look on LinkedIn Learning. [Source code](https://github.com/Dedac/Beam).
+* [Free Blazor Training Course](https://www.devexpress.com/support/training/blazor/) DevExpress Blazor free training course [Source code](https://github.com/DevExpress/blazor-training-samples).
   
 ## Community
 * [Gitter](https://gitter.im/aspnet/Blazor) Blazor discussion on Gitter.
