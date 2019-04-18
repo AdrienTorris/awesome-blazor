@@ -13,6 +13,7 @@ Contributions are always welcome!
 * [Sample Projects](#sample-projects)
 * [Extensions](#extensions)
 * [Libraries](#libraries)
+* [Experiments & Sets of tools and libraries](#Experiments-&-sets-of-tools-and-libraries)
 * [Videos](#videos)
 * [Articles](#articles)
 * [Podcasts](#podcasts)
@@ -200,6 +201,10 @@ Please note that if you want to open Blazor projects in Visual Studio, you must 
 * [Trail](https://nuget.org/packages/Trail) DSL for writing Blazor markup in F# (with an [adapter](https://nuget.org/packages/Trail.BlazorRedux) for working with BlazorRedux).
 * [TwitterShareButton](https://github.com/jsakamoto/Toolbelt.Blazor.TwitterShareButton) A Tweet Button component for Blazor.
 * [WebSocketHelper](https://github.com/Lupusa87/BlazorWebSocketHelper) Helper for Web Socket in Blazor.
+
+## Experiments & Sets of tools and libraries
+* [Bionic](https://bionicframework.github.io/Documentation/) An Ionic CLI clone for Blazor projects.
+* [Bolero](https://github.com/fsbolero/Bolero) Blazor for F# with hot reloaded templates, type-safe endpoints and routing, remoting, and much more.
 
 ## Videos
 * [ASP.NET Community Standup](https://www.youtube.com/watch?v=ap60h3eQE5Y) April 16, 2019 - ASP.NET Community Standup - Blazor Updates with Dan Roth and Steve Sanderson.
