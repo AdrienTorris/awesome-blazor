@@ -133,6 +133,7 @@ Please note that if you want to open Blazor projects in Visual Studio, you must 
 
 ## Extensions
 * [BlazorConfirm](https://github.com/ctrl-alt-d/BlazorConfirm) A Blazor Wrapper for JS's `Window.confirm()` and `onbeforeunload` as .Net Blazor Component ([Demo](https://ctrl-alt-d.github.io/BlazorConfirm/))
+* [Blazor Extensions Home](https://github.com/BlazorExtensions/Home) Home for Blazor Extensions.
 * [BlazorGrid](https://github.com/AnkitSharma-007/BlazorGrid) This is a reusable grid component for Blazor which also supports client side pagination.
 * [BlazorMaterial](https://github.com/BlazorExtensions/BlazorMaterial) Blazor components implementing Google's Material components for web.
 * [BlazorOfficeUIFabric](https://github.com/BlazorExtensions/BlazorOfficeUIFabric) Microsoft Office Fabric UI port for Blazor.
@@ -145,6 +146,7 @@ Please note that if you want to open Blazor projects in Visual Studio, you must 
 * [Toastr](https://github.com/BlazorExtensions/Toastr) A Blazor port of Toastr.js.
 
 ## Libraries
+* [Blazor BarCode](https://barcoderesource.com/blazorbarcode.shtml) A barcode library for Blazor using barcode fonts.
 * [BlazorBits](https://github.com/BlazorBits/BlazorBits) Components including [Monaco editor](https://github.com/Microsoft/monaco-editor).
 * [Blazor-Charts](https://github.com/Misfits-Rebels-Outcasts/Blazor-Charts) SVG charts for Blazor.
 * [BlazorComponents](https://github.com/muqeet-khan/BlazorComponents) Reusable components for Blazor. Starting with ChartJS interop.
@@ -167,24 +169,31 @@ Please note that if you want to open Blazor projects in Visual Studio, you must 
 * [Blazored.Menu](https://github.com/Blazored/Menu) A JavaScript free menu library for Blazor and Razor Components applications.
 * [Blazored.Modal](https://github.com/Blazored/Modal) A JavaScript free modal library for Blazor and Razor Components applications.
 * [Blazored.Toast](https://github.com/Blazored/Toast) A JavaScript free toast library for Blazor and Razor Component applications.
+* [BlazorNodaTimeDateTimePicker](https://github.com/nheath99/BlazorNodaTimeDateTimePicker) A Date/Time picker component library for Blazor using NodaTime.
 * [Blazor.Notifications](https://github.com/vertonghenb/Blazor.Notifications) Implementation of the Notification API in C# for Blazor via Interop.
 * [Blazorous](https://github.com/chanan/Blazorous) Maintainable CSS with Blazor ([Demo](https://chanan.github.io/Blazorous)).
 * [Blazor.Payments](https://github.com/philipblaquiere/Blazor.Payments) Blazor Web Agent port of the Web Payment API standard developed by W3C .
 * [Blazor.Polyfill](https://github.com/Daddoon/Blazor.Polyfill) Polyfills for Blazor (for Internet Explorer 11 support and some other browsers).
 * [BlazorRealm](https://dworthen.github.io/BlazorRealm/docs/quickstart.html) Redux state management for Blazor.
 * [Blazor-Redux](https://github.com/torhovland/blazor-redux) Connecting a Redux state store with Blazor.
+* [BlazorScrollbar](https://github.com/Lupusa87/BlazorScrollbar) Reusable, fully configurable component with vertical and horizontal scrollbars ([Demo](https://lupblazorscrollbar.z20.web.core.windows.net/)).
 * [Blazor.Sensors](https://github.com/AspNetMonsters/Blazor.Sensors) Blazor interop for browers sensor apis.
+* [Blazor.SpeechSynthesis](https://github.com/jsakamoto/Toolbelt.Blazor.SpeechSynthesis) A library to provide Speech Synthesis API access for Blazor.
 * [BlazorSplit](https://github.com/BlazorComponents/BlazorSplit) Resizeable split views ([Demo](https://blazorcomponents.github.io/BlazorSplit/)).
+* [BlazorSplitter](https://github.com/Lupusa87/BlazorSplitter) Reusable, fully configurable component with vertical and horizontal splitters and diagonal resizer ([Demo](https://lupblazorsplitter.z20.web.core.windows.net/)).
 * [Blazor-State](https://github.com/TimeWarpEngineering/blazor-state) Manage client side state in Blazor using MediatR pipeline.
 * [BlazorStorage](https://github.com/cloudcrate/BlazorStorage) Local and session storage support for Blazor.
 * [BlazorStrap](https://github.com/chanan/BlazorStrap) Bootstrap 4 components for Blazor ([Demo](https://chanan.github.io/BlazorStrap/)).
-* [Blazor Svg Helper](https://github.com/Lupusa87/BlazorSvgHelper) SVG classes for using in Blazor.
-* [Blazor Time Zone Kit](https://github.com/jsakamoto/Toolbelt.Blazor.TimeZoneKit) A system time zones set, and local time zone initialization for Blazor.
+* [Blazor Svg Helper](https://github.com/Lupusa87/BlazorSvgHelper) Create SVG elements with children (circle, rectangle, image, text, and others) and render with RenderTreeBuilder ([Demo](https://lupblazordemos.z13.web.core.windows.net/)).
+* [Blazor Time Zone Kit](https://github.com/jsakamoto/Toolbelt.Blazor.TimeZoneKit) A library to provide system time zones and local time zone initialization in Blazor apps.
 * [Blazor.Validation.DataAnnotation](https://github.com/RemiBou/Blazor.Validation.DataAnnotation) Library for validating form on a Blazor application using Data Annotation.
+* [BlazorVirtualGrid](https://github.com/Lupusa87/BlazorVirtualGrid) Reusable, fully configurable component with rows and columns fast virtualization ([Demo](https://lupblazorvirtualgrid.z13.web.core.windows.net/)).
 * [Blazor.Xamarin](https://github.com/Daddoon/Blazor.Xamarin) A Xamarin template for launch and interop a Blazor app on mobile.
 * [ChartJs.Blazor](https://github.com/mariusmuntean/ChartJs.Blazor) Blazor Component that wraps ChartJS.
+* [DevExpress Blazor UI Components](https://github.com/DevExpress/RazorComponents) UI components including Data Grid, Pivot Grid, and several data editors.
 * [Elmah.Io.Blazor](https://github.com/elmahio/Elmah.Io.Blazor) Logs from Blazor to elmah.io using Microsoft.Extensions.Logging.
 * [MatBlazor](https://github.com/BlazorComponents/MatBlazor) Material Design components for Blazor. ([Demo](https://blazorcomponents.github.io/MatBlazor/)).
+* [NObservable](https://github.com/kekekeks/NObservable) MobX-like observables and component instrumentation.
 * [Sotsera.Blazor.Toaster](https://github.com/sotsera/sotsera.blazor.toaster) A Blazor port of Toastr.js.
 * [Syncfusion Blazor UI Components](https://github.com/syncfusion/ej2-aspnet-core-blazor-samples) - Robust UI components including [Data Grid](https://ej2.syncfusion.com/aspnet-core-razor-components/Grid/DefaultFunctionalities), [Charts](https://ej2.syncfusion.com/aspnet-core-razor-components/Charts/polar), [Scheduler](https://ej2.syncfusion.com/aspnet-core-razor-components/Schedule/TimelineResourceGroup), [Inputs](https://ej2.syncfusion.com/aspnet-core-razor-components/TextBox/DefaultFunctionalities) and several [Editor](https://ej2.syncfusion.com/aspnet-core-razor-components/RichTextEditor/DefaultFunctionalities) components.
 * [Trail](https://nuget.org/packages/Trail) DSL for writing Blazor markup in F# (with an [adapter](https://nuget.org/packages/Trail.BlazorRedux) for working with BlazorRedux).
