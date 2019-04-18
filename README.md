@@ -399,10 +399,13 @@ Please note that if you want to open Blazor projects in Visual Studio, you must 
 * [Free Blazor Training Course](https://www.devexpress.com/support/training/blazor/) DevExpress Blazor free training course [Source code](https://github.com/DevExpress/blazor-training-samples).
   
 ## Community
+* [Awesome Blazor on Twitter](https://twitter.com/awesomeblazor) This repository's Twitter feed.
 * [Gitter](https://gitter.im/aspnet/Blazor) Blazor discussion on Gitter.
+* [Learn Blazor](https://learn-blazor.com/) Community documentation on Blazor.
+* [LightSwitch Help Website](https://lightswitchhelpwebsite.com/Blog/tabid/61/tagid/66/Blazor.aspx) Blogs and code samples primarily covering server-side Blazor (Razor Components).
 * [Stack Overflow](https://stackoverflow.com/questions/tagged/blazor) Blazor questions feed on Stack Overflow.
 * [Twitter](https://twitter.com/hashtag/blazor) Hashtag on Twitter.
-* [Awesome Blazor on Twitter](https://twitter.com/awesomeblazor) This repository's Twitter feed.
+* [WebAssemblyMan](https://www.webassemblyman.com/) Man page for Blazor and WebAssembly.
 
 ## Contributing
 Please see [CONTRIBUTING](https://github.com/AdrienTorris/awesome-blazor/blob/master/CONTRIBUTING.md) for details.
