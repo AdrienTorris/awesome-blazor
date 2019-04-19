@@ -264,6 +264,8 @@ Please note that if you want to open Blazor projects in Visual Studio, you must 
 * [Web Apps can’t really do that, can they? - Steve Sanderson](https://www.youtube.com/watch?v=MiLAE6HMr10&feature=youtu.be&t=31m45s) - July 10, 2017 - Web Apps can’t really do that, can they? - Steve Sanderson.
 
 ## Articles
+* [Blazor now in official preview!](https://devblogs.microsoft.com/aspnet/blazor-now-in-official-preview/) - April 18, 2019 - Blazor now in official preview!
+* [ASP.NET Core updates in .NET Core 3.0 Preview 4](https://devblogs.microsoft.com/aspnet/asp-net-core-updates-in-net-core-3-0-preview-4/) - April 18, 2019 - ASP.NET Core updates in .NET Core 3.0 Preview 4.
 * [Why Blazor Grid Templates will make you question everything](https://www.telerik.com/blogs/why-blazor-grid-templates-will-make-you-question-everything) - April 18, 2019 - Why Blazor Grid Templates will make you question everything.
 * [3 Ways to Communicate Between Components in Blazor](https://chrissainty.com/3-ways-to-communicate-between-components-in-blazor/) - April 17, 2019 - 3 Ways to Communicate Between Components in Blazor.
 * [Adding features to a simple Blazor MVVM client with composition](https://itnext.io/adding-features-to-a-simple-blazor-mvvm-client-with-composition-f31bfb01e20a) - April 12, 2019 - Adding features to a simple Blazor MVVM client with composition.
