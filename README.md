@@ -30,9 +30,6 @@ Contributions are always welcome! Please take a look at the [contribution guidel
 ### What is Blazor
 Blazor is an experimental .NET web framework using C#/Razor and HTML that runs in the browser with WebAssembly.
 
-### Warning
-Blazor is a really early-stage project, it's not a mature technology and it's absolutely not production-ready.
-
 ### Requirements
 Please note that if you want to open Blazor projects in Visual Studio, you must have [Visual Studio 15.7 Preview 1](https://www.visualstudio.com/vs/preview/) or later and the [.NET Core 2.1 Preview 1 SDK](https://www.microsoft.com/net/download/dotnet-core/sdk-2.1.300-preview1).
 
