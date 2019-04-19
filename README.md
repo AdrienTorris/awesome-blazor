@@ -28,7 +28,9 @@ Contributions are always welcome! Please take a look at the [contribution guidel
 
 ## Introduction
 ### What is Blazor
-Blazor is an experimental .NET web framework using C#/Razor and HTML that runs in the browser with WebAssembly.
+Blazor is a .NET web framework to build client web apps with C#.
+Blazor lets you build interactive web UIs using C# instead of JavaScript. Blazor apps are composed of reusable web UI components implemented using C#, HTML, and CSS. Both client and server code is written in C#, allowing you to share code and libraries.
+More information on the [official website](https://dotnet.microsoft.com/apps/aspnet/web-apps/client).
 
 ### Requirements
 Please note that if you want to open Blazor projects in Visual Studio, you must have [Visual Studio 15.7 Preview 1](https://www.visualstudio.com/vs/preview/) or later and the [.NET Core 2.1 Preview 1 SDK](https://www.microsoft.com/net/download/dotnet-core/sdk-2.1.300-preview1).
