@@ -144,6 +144,7 @@ Recommanded: [Visual Studio 2019 Preview](https://visualstudio.microsoft.com/) a
 * [ZoraGen Blazor](https://github.com/friendlyanon/zoragen-blazor) - PWA capable Blazor UI for the [ZoraSharp](https://github.com/kabili207/zora-sharp) library.
 
 ## Tutorials
+* [Blazor TODO list](https://github.com/exceptionnotfound/BlazorToDoList) - April 22, 2019 - Blazor TODO list.
 * [A Nicer Looking Blazor Loading Page](http://lightswitchhelpwebsite.com/Blog/tabid/61/EntryId/4315/A-Nicer-Looking-Blazor-Loading-Page.aspx) - October 14, 2018 - Customize the Blazor loading page using [SpinKit](https://github.com/tobiasahlin/SpinKit).
 * [Blazor workshop](https://github.com/dotnet-presentations/blazor-workshop/) - Blazor app building workshop by [.NET Foundation](https://www.dotnetfoundation.org/), Blazzing Pizza.
 * [Data Driven Layout](https://github.com/hutchcodes/Blazor.DataDrivenLayout) - September 24, 2018 - Two ways of driving the layout based on data in the page.
