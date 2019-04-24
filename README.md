@@ -132,6 +132,7 @@ Recommanded: [Visual Studio 2019 Preview](https://visualstudio.microsoft.com/) a
 * [Quick CMS](https://github.com/robertsundstrom/quick-cms) - Personal blog engine.
 * [Randify](https://github.com/tinyioda/Randify) - Spotify Playlist randomizer.
 * [Realworld](https://github.com/torhovland/blazor-realworld-example-app) - Blazor realworld example app.
+* [Runny](https://github.com/Suchiman/Runny) - Prototype of running roslyn in the browser via Blazor. [Demo](https://runny.azurewebsites.net/).
 * [RSS Reader](https://github.com/lohithgn/blazor-rss-reader) - RSS Reader built using Blazor.
 * [RxBlazor](https://github.com/bmsantos/RxBlazor) - Rx.NET based MessageService demo for Blazor Framework.
 * [Tour of Heroes](https://github.com/lohithgn/blazor-tour-of-heroes) - Blazor implementation of Angular Tour of Heroes.
