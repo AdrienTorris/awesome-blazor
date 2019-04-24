@@ -14,9 +14,7 @@ Contributions are always welcome! Please take a look at the [contribution guidel
 * [Demos](#demos)
 * [Sample Projects](#sample-projects)
 * [Tutorials](#tutorials)
-* [Extensions](#extensions)
-* [Libraries](#libraries)
-* [Experiments & Sets of tools and libraries](#Experiments--sets-of-tools-and-libraries)
+* [Libraries & Extensions](#libraries--extensions)
 * [Videos](#videos)
 * [Articles](#articles)
 * [Podcasts](#podcasts)
@@ -156,7 +154,7 @@ Recommanded: [Visual Studio 2019 Preview](https://visualstudio.microsoft.com/) a
 * [Blazor + Sitecore](https://visionsincode.wordpress.com/2018/06/30/time-travel-into-the-future-blazor-sitecore-helix/) - June 30, 2018 - Time travel into the future – Blazor + Sitecore + Helix.
 * [Blazor Bricks](https://www.codeproject.com/Articles/1241210/WebAssembly-with-Blazor) - May 11, 2018 - A bricks game developed with C# and Blazor.
 
-## Libraries and Extensions
+## Libraries & Extensions
 * [Bionic](https://bionicframework.github.io/Documentation/) - An Ionic CLI clone for Blazor projects.
 * [Blazor Analytics](https://github.com/isc30/blazor-analytics) - Blazor extensions for Analytics.
 * [Blazor BarCode](https://barcoderesource.com/blazorbarcode.shtml) &ndash; A barcode library for Blazor using barcode fonts.
