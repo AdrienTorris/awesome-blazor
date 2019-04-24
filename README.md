@@ -280,6 +280,7 @@ Recommanded: [Visual Studio 2019 Preview](https://visualstudio.microsoft.com/) a
 * [Introducing Syncfusion’s ASP.NET Core Blazor / Razor Components](https://blog.syncfusion.com/post/introducing-syncfusions-asp-net-core-blazor-razor-components.aspx) - April 10, 2019 - Introducing Syncfusion’s ASP.NET Core Blazor / Razor Components.
 * [Getting Started with TypeScript for JSInterop in Blazor](https://chrissainty.com/getting-started-with-typescript-for-jsinterop-in-blazor/) - April 9, 2019 - Getting Started with TypeScript for JSInterop in Blazor.
 * [Using The Blazor Form Validation](https://remibou.github.io/Using-the-Blazor-form-validation/) - April 9, 2019 - Using The Blazor Form Validation.
+* [Pure HTML Validation in Blazor](https://shawtyds.wordpress.com/2019/04/05/pure-html-validation-in-blazor/) - April 5, 2019 - Pure HTML Validation in Blazor.
 * [Building Components Manually via RenderTreeBuilder](https://chrissainty.com/building-components-via-rendertreebuilder/) - April 3, 2019 - Building Components Manually via RenderTreeBuilder.
 * [Client-side or Server-side](https://thefreezeteam.com/blazor/) - March 31, 2019 - Client-side or Server-side.
 * [Managing Page Layouts in Blazor](https://visualstudiomagazine.com/articles/2019/03/01/managing-page-layouts-in-blazor.aspx) - March 29, 2019 - Managing Page Layouts in Blazor.
