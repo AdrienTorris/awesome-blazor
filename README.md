@@ -155,6 +155,7 @@ Recommanded: [Visual Studio 2019 Preview](https://visualstudio.microsoft.com/) a
 * [Blazor Bricks](https://www.codeproject.com/Articles/1241210/WebAssembly-with-Blazor) - May 11, 2018 - A bricks game developed with C# and Blazor.
 
 ## Extensions
+* [Blazor Analytics](https://github.com/isc30/blazor-analytics) - Blazor extensions for Analytics.
 * [BlazorConfirm](https://github.com/ctrl-alt-d/BlazorConfirm) - A Blazor Wrapper for JS's `Window.confirm()` and `onbeforeunload` as .Net Blazor Component ([Demo](https://ctrl-alt-d.github.io/BlazorConfirm/))
 * [Blazor Extensions Home](https://github.com/BlazorExtensions/Home) - Home for Blazor Extensions.
 * [BlazorGrid](https://github.com/AnkitSharma-007/BlazorGrid) - This is a reusable grid component for Blazor which also supports client side pagination.
