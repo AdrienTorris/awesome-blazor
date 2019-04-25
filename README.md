@@ -57,13 +57,12 @@ Recommanded: [Visual Studio 2019 Preview](https://visualstudio.microsoft.com/) a
 * [BlazorRawHtmlRenderer](https://lupblazordemos.z13.web.core.windows.net/RawHTML) - Raw HTML rendering with Blazor.
 * [Blazorships](http://blazorships.azurewebsites.net) - Blazorships, a Blazor implementation of Battleship using SignalR.
 * [Demo](https://blazor-demo.github.io/) - Official demo website.
-* [Money](http://money.neptuo.com) - Money.
 * [RealWorld demo](https://blazor-realworld.azurewebsites.net/) - RealWorld demo website.
 * [VocaDB lyrics display](https://lyrics-proto.vocadb.net/) - VocaDB lyrics display.
 
 ## Sample Projects
 * [ASP.NET Core Blazor CRUD](https://code.msdn.microsoft.com/vstudio/ASPNET-Core-Blazor-122b108a) - ASP.NET Core Blazor Master/Detail CRUD with Filtering and Sorting using EF.
-* [AsteroidsWasm](https://github.com/aesalazar/AsteroidsWasm) - A mixed bag of C# projects to see if a single .NET Standard base can run across all common platforms include WebAssembly.
+* [AsteroidsWasm](https://github.com/aesalazar/AsteroidsWasm) - A mixed bag of C# projects to see if a single .NET Standard base can run across all common platforms include WebAssembly. [Demo](https://aesalazar.github.io/AsteroidsWasm/).
 * [Beam](https://github.com/Dedac/Beam) - A social network demo application. This is the source code of the LinkedIn course "Blazor First Look".
 * [Blangular](https://github.com/danroth27/Blangular) - Blazor + Angular, by Daniel Roth.
 * [BlazeDown](https://github.com/EdCharbeneau/BlazeDown) - BlazeDown, online Markdown editor. [Demo](https://edcharbeneau.com/BlazeDown/).
