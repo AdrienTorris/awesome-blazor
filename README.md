@@ -57,7 +57,6 @@ Recommanded: [Visual Studio 2019 Preview](https://visualstudio.microsoft.com/) a
 * [BlazorRawHtmlRenderer](https://lupblazordemos.z13.web.core.windows.net/RawHTML) - Raw HTML rendering with Blazor.
 * [Blazorships](http://blazorships.azurewebsites.net) - Blazorships, a Blazor implementation of Battleship using SignalR.
 * [Demo](https://blazor-demo.github.io/) - Official demo website.
-* [RealWorld demo](https://blazor-realworld.azurewebsites.net/) - RealWorld demo website.
 
 ## Sample Projects
 * [ASP.NET Core Blazor CRUD](https://code.msdn.microsoft.com/vstudio/ASPNET-Core-Blazor-122b108a) - ASP.NET Core Blazor Master/Detail CRUD with Filtering and Sorting using EF.
@@ -128,7 +127,7 @@ Recommanded: [Visual Studio 2019 Preview](https://visualstudio.microsoft.com/) a
 * [Planning Poker](https://github.com/duracellko/planningpoker4azure) ([Demo](http://planningpoker.duracellko.net)) &ndash; An app to play Planning Poker for distributed teams. The app is implemented using Blazor and shows how to switch between client-side and server-side mode with a configuration change.
 * [Quick CMS](https://github.com/robertsundstrom/quick-cms) - Personal blog engine.
 * [Randify](https://github.com/tinyioda/Randify) - Spotify Playlist randomizer.
-* [Realworld](https://github.com/torhovland/blazor-realworld-example-app) - Blazor realworld example app.
+* [Realworld](https://github.com/torhovland/blazor-realworld-example-app) - Blazor realworld example app. [Demo](http://blazor-realworld.azurewebsites.net/).
 * [Runny](https://github.com/Suchiman/Runny) - Prototype of running roslyn in the browser via Blazor. [Demo](https://runny.azurewebsites.net/).
 * [RSS Reader](https://github.com/lohithgn/blazor-rss-reader) - RSS Reader built using Blazor.
 * [RxBlazor](https://github.com/bmsantos/RxBlazor) - Rx.NET based MessageService demo for Blazor Framework.
