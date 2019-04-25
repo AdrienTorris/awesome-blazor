@@ -94,6 +94,7 @@ Recommanded: [Visual Studio 2019 Preview](https://visualstudio.microsoft.com/) a
 * [Blazor.Toaster](https://github.com/sotsera/sotsera.blazor.toaster) - A Blazor port of Toastr.js.
 * [Blazor Tree CRUD](https://github.com/ctrl-alt-d/TreeCrud) - CRUD operations with hierarchical data. Blazor Server + GraphQL + EF.
 * [Blazor.Universal](https://github.com/pushqrdx/Blazor.Universal) - Example of using Blazor to build Xamarin based UWP application without WebAssembly.
+* [BlazorUnmarshalledCanvas](https://github.com/jhwcn/BlazorUnmarshalledCanvas) - Unmarshalled invoking of Canvas 2d context from Blazor.
 * [BlazorValidationControls](https://github.com/hishamco/BlazorValidationControls) - Blazor validation controls.
 * [Blazor.Xamarin](https://github.com/Appizeo/Blazor.Xamarin) - A Xamarin template for launch and interop a Blazor app on mobile.
 * [Blazor + Electron sample](https://github.com/aspnet/AspLabs/tree/master/src/ComponentsElectron) - Explore how a Blazor app can be used to build a cross-platform desktop app.
