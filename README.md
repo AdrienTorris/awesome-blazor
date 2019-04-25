@@ -11,7 +11,6 @@ Contributions are always welcome! Please take a look at the [contribution guidel
 ## Contents
 * [Introduction](#introduction)
 * [General](#general)
-* [Demos](#demos)
 * [Sample Projects](#sample-projects)
 * [Tutorials](#tutorials)
 * [Libraries & Extensions](#libraries--extensions)
@@ -39,24 +38,13 @@ Recommanded: [Visual Studio 2019 Preview](https://visualstudio.microsoft.com/) a
 * [Blazor bites](https://chrissainty.com/blazor-bites/) - Blazor bites series by chris Sainty.
 * [Blazor-Dev gallery on .NET Foundation](https://dotnet.myget.org/gallery/blazor-dev) - Daily builds of the 'dev' branch of Blazor.
 * [Blazor Extensions](https://github.com/BlazorExtensions) - Curated extensions for Microsoft ASP.Net Core Blazor.
+* [Demo](https://blazor-demo.github.io/) - Official demo website.
 * [FAQ](https://github.com/aspnet/Blazor/wiki/FAQ) - FAQ.
 * [GitHub repository](https://github.com/aspnet/Blazor) - The official Blazor repository.
 * ['Hello World' sample](https://github.com/dodyg/practical-aspnetcore/tree/master/projects/blazor) - 'Hello World' sample.
 * [Introduction to ASP.NET Core](https://docs.microsoft.com/en-us/aspnet/core/) - Introduction to ASP.NET Core.
 * [Learn Blazor](https://learn-blazor.com) - An unofficial documentation website ([source code here](https://github.com/software-architects/learn-blazor)).
 * [Workshop](https://github.com/dotnet-presentations/blazor-workshop/) - Blazor workshop.
-
-## Demos
-* [BlazorCalculator](https://lupblazordemos.z13.web.core.windows.net/CalculatorPage) - Simple calculator with history and ability to use previous results in new calculations.
-* [BlazorChess](https://lupblazordemos.z13.web.core.windows.net/ChessPage) - Chess engine implemented with Blazor.
-* [BlazorClockCanvas](https://lupblazordemos.z13.web.core.windows.net/ClockCanvas) - Password pattern based on SVG.
-* [BlazorClockSVG](https://lupblazordemos.z13.web.core.windows.net/) - Complex clock based on SVG.
-* [BlazeDown](http://edcharbeneau.com/BlazeDown) - BlazeDown, online Markdown editor.
-* [BlazorGameSnake](https://lupblazordemos.z13.web.core.windows.net/GameSnakePage) - 2D game snake with customizations, path finding algorithm, and sound effects using SVG.
-* [BlazorPasswordPattern](https://lupblazordemos.z13.web.core.windows.net/PasswordPatternPage) - Password pattern based on SVG.
-* [BlazorRawHtmlRenderer](https://lupblazordemos.z13.web.core.windows.net/RawHTML) - Raw HTML rendering with Blazor.
-* [Blazorships](http://blazorships.azurewebsites.net) - Blazorships, a Blazor implementation of Battleship using SignalR.
-* [Demo](https://blazor-demo.github.io/) - Official demo website.
 
 ## Sample Projects
 * [ASP.NET Core Blazor CRUD](https://code.msdn.microsoft.com/vstudio/ASPNET-Core-Blazor-122b108a) - ASP.NET Core Blazor Master/Detail CRUD with Filtering and Sorting using EF.
@@ -69,13 +57,13 @@ Recommanded: [Visual Studio 2019 Preview](https://visualstudio.microsoft.com/) a
 * [BlazorAzureSignalRService](https://github.com/danroth27/BlazorAzureSignalRService) - Blazor + Azure SignalR Service.
 * [BlazorBinding](https://github.com/SQL-MisterMagoo/BlazorBinding) - Sample Blazor App demonstrating various data binding scenarios.
 * [BlazorBricks](https://www.codeproject.com/Articles/1241210/WebAssembly-with-Blazor) - BlazorBricks, a Blazor implementation of the game Tetris.
-* [BlazorCalculator](https://github.com/Lupusa87/BlazorCalculator) - Simple calculator with history and ability to use previous results in new calculations.
+* [BlazorCalculator](https://github.com/Lupusa87/BlazorCalculator) - Simple calculator with history and ability to use previous results in new calculations. [Demo](https://lupblazorcalculator.z20.web.core.windows.net/).
 * [Blazor calculator with expressions](https://github.com/khaledmousa/BlazorCalculator) - A sample numerical expression evaluator in Blazor utilizing an F# library that uses FsLex and FsYacc to parse expressions. [Demo](https://khaledmousa.github.io/).
 * [BlazorChat](https://github.com/danroth27/BlazorChat) - Real-time chat app using ASP.NET Core and Blazor, from Daniel Roth.
 * [BlazorChatSample](https://github.com/conficient/blazorchatsample) - Blazor chat demo using SignalR JS client with interop.
 * [BlazorChess](https://github.com/Lupusa87/BlazorChess) - Chess engine implemented with Blazor. [Demo](https://lupblazorchess.z20.web.core.windows.net/).
-* [BlazorClockCanvas](https://github.com/Lupusa87/BlazorClockCanvas) - Complex clock based on Canvas.
-* [BlazorClockSVG](https://github.com/Lupusa87/BlazorClockSVG) - Complex clock based on SVG.
+* [BlazorClockCanvas](https://github.com/Lupusa87/BlazorClockCanvas) - Complex clock based on Canvas. [Demo](https://lupblazorclockcanvas.z20.web.core.windows.net/).
+* [BlazorClockSVG](https://github.com/Lupusa87/BlazorClockSVG) - Complex clock based on SVG. [Demo](https://lupblazorclocksvg.z20.web.core.windows.net/).
 * [Blazor Contoso University](https://github.com/lohithgn/blazor-contoso-university) - Contoso University in Blazor.
 * [Blazor Converters](https://github.com/lohithgn/blazor-converters) - Blazor Converters is simple converter app written using Blazor, influenced by Windows 10 Calculator.
 * [Blazor.DataDrivenLayout](https://github.com/hutchcodes/Blazor.DataDrivenLayout) - Two example of how to do data driven layouts in Server-side Blazor.
@@ -83,18 +71,18 @@ Recommanded: [Visual Studio 2019 Preview](https://visualstudio.microsoft.com/) a
 * [BlazorDice](https://github.com/shahedc/BlazorDemos/tree/master/BlazorDice) - Roll the dice.
 * [BlazorElectronExperiment](https://github.com/SteveSandersonMS/BlazorElectronExperiment.Sample) - Exploring how a Blazor could be used to build a cross-platform desktop application using [Electron](https://electronjs.org/).
 * [BlazorFileReader](https://github.com/Tewr/BlazorFileReader) - Read-only File streams in Blazor. [Demo](https://tewr.github.io/BlazorFileReader/).
-* [BlazorGameSnake](https://github.com/Lupusa87/BlazorGameSnake) - 2D game snake with customizations, path finding algorithm, and sound effects using SVG.
+* [BlazorGameSnake](https://github.com/Lupusa87/BlazorGameSnake) - 2D game snake with customizations, path finding algorithm, and sound effects using SVG. [Demo](https://lupblazorsnake.z20.web.core.windows.net/).
 * [BlazorGeolocation](https://github.com/EdCharbeneau/BlazorGeolocation) - An example of using Geolocation with Blazor.
 * [BlazorGraphExample](https://github.com/jburman/BlazorGraphExample) - Example application for connecting to Graph API from Blazor.
 * [Blazor.JWTTest](https://github.com/shawty/blazor.jwttest) - JWT authentication for a blazor hosted (Client/Serverside) app with API and Authentication.
 * [BlazorMobile](https://github.com/Daddoon/BlazorMobile) - Launch a Blazor application as a standalone application.
 * [BlazorNasaImages](https://github.com/ncarandini/BlazorNasaImages) - A sample Blazor app that fetches the Nasa Astronomy Picture of the Day.
-* [BlazorPaint](https://github.com/Lupusa87/BlazorPaint) - A paint sample with Blazor ([demo](https://lupblazordemos.z13.web.core.windows.net/PaintPage)).
+* [BlazorPaint](https://github.com/Lupusa87/BlazorPaint) - A paint sample with Blazor ([demo](https://lupblazorpaint.z20.web.core.windows.net/)).
 * [BlazorPass](https://github.com/ebekker/BlazorPass) - Blazor UI and ASP.NET Core API to manage Active Directory credentials.
-* [BlazorPasswordPattern](https://github.com/Lupusa87/BlazorPasswordPattern) - Password pattern based on SVG.
+* [BlazorPasswordPattern](https://github.com/Lupusa87/BlazorPasswordPattern) - Password pattern based on SVG. [Demo](https://lupblazorpasswordpattern.z20.web.core.windows.net/).
 * [BlazorPong](https://github.com/ctrl-alt-d/blazorpong) - 8 bits pong with blazor and signalR. Warning: Blazor Pong is not finished and is stopped with a knowed SignalR issue with Blazor, more info [here](https://github.com/AdrienTorris/awesome-blazor/pull/19).
 * [BlazorQuiz](https://github.com/Amine-Smahi/BlazorQuiz) - Simple quiz using Blazor.NET and Webassembly.
-* [BlazorRawHtmlRenderer](https://github.com/Lupusa87/BlazorRawHtmlRenderer) - Raw HTML rendering with Blazor.
+* [BlazorRawHtmlRenderer](https://github.com/Lupusa87/BlazorRawHtmlRenderer) - Raw HTML rendering with Blazor. [Demo](https://lupblazorrawhtml.z20.web.core.windows.net/).
 * [BlazorServerTree](https://github.com/ctrl-alt-d/BlazorServerTree) - A simple Server-Side Blazor sample app to deal with hierarchical data.
 * [BlazorServiceWorker](https://github.com/roboriaan/BlazorServiceWorker) - A client-side Blazor template with service worker caching.
 * [Blazorships](https://github.com/bjorndaniel/Blazorships) - Blazorships, a Blazor implementation of Battleship using SignalR.
