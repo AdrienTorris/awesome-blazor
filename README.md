@@ -430,3 +430,9 @@ Recommanded: [Visual Studio 2019 Preview](https://visualstudio.microsoft.com/) a
 * [Stack Overflow](https://stackoverflow.com/questions/tagged/blazor) - Blazor questions feed on Stack Overflow.
 * [Twitter](https://twitter.com/hashtag/blazor) - Hashtag on Twitter.
 * [WebAssemblyMan](https://www.webassemblyman.com/) - Man page for Blazor and WebAssembly.
+
+## License
+
+[![CC0](http://mirrors.creativecommons.org/presskit/buttons/88x31/svg/cc-zero.svg)](https://creativecommons.org/publicdomain/zero/1.0/)
+
+To the extent possible under law, Adrien Torris has waived all copyright and related or neighboring rights to this work.
