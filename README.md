@@ -82,6 +82,7 @@ Recommanded: [Visual Studio 2019 Preview](https://visualstudio.microsoft.com/) a
 * [Blazor Contoso University](https://github.com/lohithgn/blazor-contoso-university) - Contoso University in Blazor.
 * [Blazor Converters](https://github.com/lohithgn/blazor-converters) - Blazor Converters is simple converter app written using Blazor, influenced by Windows 10 Calculator.
 * [Blazor.DataDrivenLayout](https://github.com/hutchcodes/Blazor.DataDrivenLayout) - Two example of how to do data driven layouts in Server-side Blazor.
+* [BlazorDestinationGame](https://github.com/SharePointSean/BlazorDestinationGame) - Quizz about places in the world. [Demo](https://blazordestinationgame.azurewebsites.net/).
 * [BlazorDice](https://github.com/shahedc/BlazorDemos/tree/master/BlazorDice) - Roll the dice.
 * [BlazorElectronExperiment](https://github.com/SteveSandersonMS/BlazorElectronExperiment.Sample) - Exploring how a Blazor could be used to build a cross-platform desktop application using [Electron](https://electronjs.org/).
 * [BlazorFileReader](https://github.com/Tewr/BlazorFileReader) - Read-only File streams in Blazor. [Demo](https://tewr.github.io/BlazorFileReader/).
