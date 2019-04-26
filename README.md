@@ -112,7 +112,7 @@ Recommanded: [Visual Studio 2019 Preview](https://visualstudio.microsoft.com/) a
 * [FMRL](https://github.com/ebekker/FMRL) - Ephemeral Message Service. Messages sent are encrypted, securely transferred, and automatically deleted when they are retrieved.
 * [Gitter](https://github.com/Blazored/Gitter) - A Blazor Gitter client.
 * [Hacker News Clone](https://github.com/lohithgn/blazor-hackernews-clone) - Hacker News Clone. [Demo](http://blazorhackernews.surge.sh/).
-* [Money](https://github.com/maraf/Money) - A money manager implemented using CQRS+ES. [Demo](https://money.neptuo.com/).
+* [Money](https://github.com/maraf/Money) - A money manager implemented using CQRS+ES. [Demo](https://app.money.neptuo.com/).
 * [NethereumBlazor](https://github.com/Nethereum/NethereumBlazor) - Ethereum blockchain explorer and simple wallet.
 * [Planning Poker](https://github.com/duracellko/planningpoker4azure) ([Demo](http://planningpoker.duracellko.net)) &ndash; An app to play Planning Poker for distributed teams. The app is implemented using Blazor and shows how to switch between client-side and server-side mode with a configuration change.
 * [Quick CMS](https://github.com/robertsundstrom/quick-cms) - Personal blog engine.
