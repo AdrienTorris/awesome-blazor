@@ -190,6 +190,8 @@ Recommanded: [Visual Studio 2019 Preview](https://visualstudio.microsoft.com/) a
 * [BlazorStorage](https://github.com/cloudcrate/BlazorStorage) - Local and session storage support for Blazor.
 * [BlazorStrap](https://github.com/chanan/BlazorStrap) - Bootstrap 4 components for Blazor ([Demo](https://chanan.github.io/BlazorStrap/)).
 * [BlazorVirtualGrid](https://github.com/Lupusa87/BlazorVirtualGrid) - Reusable, fully configurable component with rows and columns fast virtualization ([Demo](https://lupblazorvirtualgrid.z13.web.core.windows.net/)).
+* [BlazorVirtualScrolling](https://github.com/SamProf/BlazorVirtualScrolling) - Virtual Scrolling Component for Blazor
+ ([Demo](https://samprof.github.io/BlazorVirtualScrolling/)).
 * [Blazored.LocalStorage](https://github.com/chrissainty/BlazoredLocalStorage) - Local storage for Blazor applications.
 * [Blazored.Localisation](https://github.com/Blazored/Localisation) - A library to provide localisation in client-side Blazor applications.
 * [Blazored.Menu](https://github.com/Blazored/Menu) - A JavaScript free menu library for Blazor and Razor Components applications.
