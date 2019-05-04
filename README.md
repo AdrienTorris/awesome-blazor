@@ -17,6 +17,7 @@ Contributions are always welcome! Please take a look at the [contribution guidel
 * [Videos](#videos)
 * [Articles](#articles)
 * [Podcasts](#podcasts)
+* [Presentations slides](#presentations-slides)
 * [Tooling](#tooling)
 * [Books](#books)
 * [E-Books](#e-books)
@@ -411,6 +412,9 @@ Recommanded: [Visual Studio 2019 Preview](https://visualstudio.microsoft.com/) a
 * [MS Dev Show : Blazor](https://www.youtube.com/watch?v=xJtpYsVRggE) - March 19, 2018 - MS Dev Show Episode 184: Blazor (.NET in WebAssembly) with Dan Roth & Steve Sanderson.
 * [.NET Rocks, WebAssembly and Blazor with Steve Sanderson](https://www.dotnetrocks.com/?show=1455) - July 4, 2017 - .NET Rocks 1455, WebAssembly and Blazor with Steve Sanderson.
 * [Inside WebAssembly with Mozilla Fellow David Bryant](https://hanselminutes.com/581/inside-webassembly-with-mozilla-fellow-david-bryant) - May 25, 2017 - Inside WebAssembly with Mozilla Fellow David Bryant.
+
+## Presentations slides
+* [Iowa .NET User Group – Blazor: C# Running in the Browser via WebAssembly](https://scottsauber.com/2019/05/02/iowa-net-user-group-blazor-c-running-in-the-browser-via-webassembly/) - May 2, 2019 - Slides: [PDF](https://scottsauber.files.wordpress.com/2019/05/blazor.pdf) or [PPTX](https://scottsauber.files.wordpress.com/2019/05/blazor.pptx). Code: [Blazor ToDoMVC](https://github.com/scottsauber/BlazorToDoMVC) and [Blazor on Electron](https://github.com/SteveSandersonMS/BlazorElectronExperiment.Sample).
 
 ## Tooling
 * [ASP.NET Core Blazor Language Services](https://marketplace.visualstudio.com/items?itemName=aspnet.blazor) - Provides Visual Studio support for ASP.NET Core Blazor.
