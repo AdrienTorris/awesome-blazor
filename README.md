@@ -227,6 +227,8 @@ Recommanded: [Visual Studio 2019 Preview](https://visualstudio.microsoft.com/) a
 * [WebSocketHelper](https://github.com/Lupusa87/BlazorWebSocketHelper) - Helper for Web Socket in Blazor.
 
 ## Videos
+* [Full stack web development with ASP.NET Core 3.0 and Blazor](https://mybuild.techcommunity.microsoft.com/sessions/77033) - May 7, 2019 - Microsoft Build 2019: Full stack web development with ASP.NET Core 3.0 and Blazor.
+* [Serverless web apps with Blazor, Azure Functions, and Azure Storage](https://mybuild.techcommunity.microsoft.com/sessions/77336) - May 6, 2019 - Microsoft Build 2019: Serverless web apps with Blazor, Azure Functions, and Azure Storage.
 * [SPA revolution with WebAssembly and ASP.NET Blazor](https://www.youtube.com/watch?v=_gYgkZ1UBQ4) - April 23, 2019 - DevOneConf 2019 - Rainer Stropek - SPA revolution with WebAssembly and ASP.NET Blazor.
 * [ASP.NET Community Standup](https://www.youtube.com/watch?v=ap60h3eQE5Y) - April 16, 2019 - ASP.NET Community Standup - Blazor Updates with Dan Roth and Steve Sanderson.
 * [Continuation of the Tulsa .NET User Group website](https://www.twitch.tv/videos/409976640) - April 12, 2019 - Continuation of the Tulsa .NET User Group website. [Source code](https://github.com/devsgarage/tulsa-dnug-website) here.
