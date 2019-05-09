@@ -340,6 +340,7 @@ Recommanded: [Visual Studio 2019 Preview](https://visualstudio.microsoft.com/) a
 * [Server-side Blazor applications](https://gunnarpeipman.com/aspnet/server-side-blazor/) - October 19, 2018 - Server-side Blazor applications.
 * [Building a blogging app with Blazor: adding authentication](https://chrissainty.com/building-a-blogging-app-with-blazor-adding-authentication/) - October 15, 2018 - Building a blogging app with Blazor: adding authentication.
 * [Get Started with Blazor and WebAssembly](https://developer.okta.com/blog/2018/10/15/blazor-and-web-assembly) - October 15, 2018 - Get Started with Blazor and WebAssembly.
+* [An overview of Razor Components (server-side Blazor)](http://danpatrascu.com/an-overview-of-razor-components-server-side-blazor/) - October 15, 2018 - An overview of Razor Components (server-side Blazor).
 * [A nicer looking Blazor loading page](http://lightswitchhelpwebsite.com/Blog/tabid/61/EntryId/4315/A-Nicer-Looking-Blazor-Loading-Page.aspx) - October 14, 2018 - A nicer looking Blazor loading page.
 * [Deploying a Blazor Application on Azure](https://dzone.com/articles/deploying-a-blazor-application-on-azure) - October 12, 2018 - Deploying a Blazor Application on Azure.
 * [A Blazor Tip You Should Almost Certainly Ignore](https://visualstudiomagazine.com/blogs/tool-tracker/2018/10/blazor-tip.aspx) - October 10, 2018 - A Blazor Tip You Should Almost Certainly Ignore.
@@ -403,6 +404,7 @@ Recommanded: [Visual Studio 2019 Preview](https://visualstudio.microsoft.com/) a
 * ['Death to JavaScript!' Blazor, for .NET Web Apps Using WebAssembly, Goes Alpha](https://visualstudiomagazine.com/articles/2018/03/23/blazor-alpha.aspx) - March 23, 2018 - 'Death to JavaScript!' Blazor, for .NET Web Apps Using WebAssembly, Goes Alpha.
 * [Get started building .NET web apps that run in the browser with Blazor](https://blogs.msdn.microsoft.com/webdev/2018/03/22/get-started-building-net-web-apps-in-the-browser-with-blazor/) - March 22, 2018 - Get started building .NET web apps that run in the browser with Blazor.
 * [Blazor and .NET Core hosting – the future’s bright](http://blog.tdwright.co.uk/2018/03/05/blazor-and-net-core-hosting-the-futures-bright) - March 5, 2018 - Blazor and .NET Core hosting – the future’s bright.
+* [Building SPAs with C#](http://danpatrascu.com/building-spas-with-c/) - February 13, 2018 - Building SPAs with C#.
 * [Blazor: a web UI framework running C# and .NET in the browser](https://www.oxfordcc.co.uk/blog/blazor-a-web-ui-framework-running-csharp-and-dotnet-in-the-browser) - February 8, 2018 - Blazor: a web UI framework running C# and .NET in the browser.
 * [A new experiment: Browser-based web apps with .NET and Blazor](https://blogs.msdn.microsoft.com/webdev/2018/02/06/blazor-experimental-project/) - February 6, 2018 - A new experiment: Browser-based web apps with .NET and Blazor.
 * [Blazor: a technical introduction](http://blog.stevensanderson.com/2018/02/06/blazor-intro/) - February 6, 2018 - Blazor: a technical introduction.
@@ -422,6 +424,7 @@ Recommanded: [Visual Studio 2019 Preview](https://visualstudio.microsoft.com/) a
 
 ## Presentations slides
 * [Iowa .NET User Group – Blazor: C# Running in the Browser via WebAssembly](https://scottsauber.com/2019/05/02/iowa-net-user-group-blazor-c-running-in-the-browser-via-webassembly/) - May 2, 2019 - Slides: [PDF](https://scottsauber.files.wordpress.com/2019/05/blazor.pdf) or [PPTX](https://scottsauber.files.wordpress.com/2019/05/blazor.pptx). Code: [Blazor ToDoMVC](https://github.com/scottsauber/BlazorToDoMVC) and [Blazor on Electron](https://github.com/SteveSandersonMS/BlazorElectronExperiment.Sample).
+* [SPA Revolution with WebAssembly and ASP.NET Blazor](https://javascript-conference.com/javascriptecmascript/spa-revolution-with-webassembly-and-asp-net-blazor/) - October 16, 2018 - "SPA Revolution with WebAssembly and ASP.NET Blazor" session at the International JavaScript Conference. Slides: [PPTX](https://learn-blazor.com/slides/blazor-intro.pptx).
 * [WebAssembly, C#, and Blazor at CodeStock 2019](https://blog.jeremylikness.com/presentation-webassembly-c-and-blazor-at-codestock-2019-ab2f8636356) - April 16, 2019 - Slides: [PDF](https://jlikme.blob.core.windows.net/presentations/ATaleOfShortLinks.pdf). Demo's source code: [GitHub](https://github.com/JeremyLikness/blazor-wasm).
 
 ## Tooling
