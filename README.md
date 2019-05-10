@@ -432,7 +432,7 @@ Recommanded: [Visual Studio 2019 Preview](https://visualstudio.microsoft.com/) a
 * [Blazor: Modern Web development with .NET and WebAssembly]() - August 11, 2018 - "Blazor: Modern Web development with .NET and WebAssembly" session at the .NET Conf 2018. Video: [Channel 9](https://channel9.msdn.com/Events/dotnetConf/2018/S207). Slides: [PPTX](https://github.com/dotnet-presentations/dotnetconf2018/blob/master/Technical/Decks/Blazor_Modern%20Web%20development%20with%20.NET%20and%20WebAssembly.pptx?raw=true) or [GitHub](https://github.com/dotnet-presentations/dotnetconf2018/blob/master/Technical/Decks/Blazor_Modern%20Web%20development%20with%20.NET%20and%20WebAssembly.pptx).
 * [Blazor v1.1](https://www.slideshare.net/elGuerre/blazor-v11) - June 28, 2018 - Blazor v1.1.
 * [Blazor - An Introduction](https://www.slideshare.net/JamieTaylor112/blazor-an-introduction) - April 14, 2018 - Blazor, An Introduction.
-* [An experimental .NET framework for the browser]() - April, 2018 - An experimental .NET framework for the browser. Slides: [PPTX](https://raw.githubusercontent.com/bjablonsky/blazor-presentation/master/Blazor.pptx). Demo's source code: [GitHub](https://github.com/bjablonsky/blazor-presentation/tree/master/src).
+* [An experimental .NET framework for the browser](https://github.com/bjablonsky/blazor-presentation) - April, 2018 - An experimental .NET framework for the browser. Slides: [PPTX](https://raw.githubusercontent.com/bjablonsky/blazor-presentation/master/Blazor.pptx). Demo's source code: [GitHub](https://github.com/bjablonsky/blazor-presentation/tree/master/src).
 
 ## Tooling
 * [ASP.NET Core Blazor Language Services](https://marketplace.visualstudio.com/items?itemName=aspnet.blazor) - Provides Visual Studio support for ASP.NET Core Blazor.
