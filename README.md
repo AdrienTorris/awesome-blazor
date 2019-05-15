@@ -58,6 +58,7 @@ Recommanded: [Visual Studio 2019 Preview](https://visualstudio.microsoft.com/) a
 * [BlazingPizza (server side)](https://github.com/ADefWebserver/BlazingPizza) - A server side Blazor version of the Blazing Pizza project from the [Blazor - app building workshop](https://github.com/dotnet-presentations/blazor-workshop/).
 * [BlazorAdvancedTodo](https://github.com/EdCharbeneau/BlazorAdvancedTodo) - A Blazor to-do app with state and undo function.
 * [BlazorAzureSignalRService](https://github.com/danroth27/BlazorAzureSignalRService) - Blazor + Azure SignalR Service.
+* [BlazorBeerCalculator](https://github.com/gpeipman/BlazorBeerCalculator) - Offline beer alc. vol. calculator built on Blazor. [Demo](https://gunnarpeipman.com/demos/blazoroffline/).
 * [BlazorBinding](https://github.com/SQL-MisterMagoo/BlazorBinding) - Sample Blazor App demonstrating various data binding scenarios.
 * [BlazorBricks](https://www.codeproject.com/Articles/1241210/WebAssembly-with-Blazor) - BlazorBricks, a Blazor implementation of the game Tetris.
 * [BlazorCalculator](https://github.com/Lupusa87/BlazorCalculator) - Simple calculator with history and ability to use previous results in new calculations. [Demo](https://lupblazorcalculator.z20.web.core.windows.net/).
