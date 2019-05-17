@@ -429,6 +429,7 @@ Recommanded: [Visual Studio 2019 Preview](https://visualstudio.microsoft.com/) a
 * [.NET and WebAssembly - Is this the future of the front-end?](https://www.hanselman.com/blog/NETAndWebAssemblyIsThisTheFutureOfTheFrontend.aspx) - August 12, 2017 - .NET and WebAssembly - Is this the future of the front-end?
   
 ## Podcasts
+* [Blazor - You Want To Run .NET Where?!](https://dotnetcore.show/episode-25-blazor-you-want-to-run-net-where/) - May 17, 2019 - .NET Core Show - Episode 25 - Blazor - You Want To Run .NET Where?!
 * [The Cynical Developer - Blazor](https://cynicaldeveloper.com/podcast/108) - February 18, 2019 - Episode 108 of The Cynical Developer - Blazor.
 * [Blazor in 2019 with Steve Sanderson and Dan Roth](https://player.fm/series/net-rocks-2353294/blazor-in-2019-with-steve-sanderson-and-dan-roth) - February 14, 2019 - .NET Rocks, Blazor in 2019 with Steve Sanderson and Dan Roth.
 * [SDN Cast #118 - With Rainer Stropek and Serverside Blazor!](https://www.youtube.com/watch?v=S66mK_30gPE) - November 8, 2018 - Weekly SDN Cast with special gues Rainer Stropek talking about and showing off Blazor!
