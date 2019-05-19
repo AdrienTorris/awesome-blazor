@@ -160,6 +160,7 @@ Recommanded: [Visual Studio 2019 Preview](https://visualstudio.microsoft.com/) a
 * [Blazor Extensions Home](https://github.com/BlazorExtensions/Home) - Home for Blazor Extensions.
 * [Blazor Gamepad](https://github.com/jsakamoto/Toolbelt.Blazor.Gamepad) - Provides gamepad API access for Blazor.
 * [Blazor Hotkeys](https://github.com/jsakamoto/Toolbelt.Blazor.Hotkeys) - A library to provide configuration-centric keyboard shortcuts for Blazor.
+* [Blazor I18n/Localization Text](https://github.com/jsakamoto/Toolbelt.Blazor.I18nText) - Localizing contents text in Blazor ([Demo](https://jsakamoto.github.io/Toolbelt.Blazor.I18nText/)).
 * [Blazor LoadingBar](https://github.com/jsakamoto/Toolbelt.Blazor.LoadingBar) - Loading bar UI for Client-Side Blazor application.
 * [Blazor Svg Helper](https://github.com/Lupusa87/BlazorSvgHelper) - Create SVG elements with children (circle, rectangle, image, text, and others) and render with RenderTreeBuilder ([Demo](https://lupblazordemos.z13.web.core.windows.net/)).
 * [Blazor Time Zone Kit](https://github.com/jsakamoto/Toolbelt.Blazor.TimeZoneKit) - A library to provide system time zones and local time zone initialization in Blazor apps.
