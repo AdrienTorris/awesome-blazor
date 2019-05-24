@@ -46,6 +46,7 @@ Recommanded: [Visual Studio 2019 Preview](https://visualstudio.microsoft.com/) a
 * ['Hello World' sample](https://github.com/dodyg/practical-aspnetcore/tree/master/projects/blazor) - 'Hello World' sample.
 * [Introduction to ASP.NET Core](https://docs.microsoft.com/en-us/aspnet/core/) - Introduction to ASP.NET Core.
 * [Learn Blazor](https://learn-blazor.com) - An unofficial documentation website ([source code here](https://github.com/software-architects/learn-blazor)).
+* [Study Blazor](https://studyblazor.com) - Blazor tutorial for beginners, in simple and easy steps starting from basics to advanced concepts with more code snippets.
 * [Workshop](https://github.com/dotnet-presentations/blazor-workshop/) - Blazor workshop.
 
 ## Sample Projects
