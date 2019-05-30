@@ -212,6 +212,7 @@ Recommanded: [Visual Studio 2019 Preview](https://visualstudio.microsoft.com/) a
 * [ChartJs.Blazor](https://github.com/mariusmuntean/ChartJs.Blazor) - Blazor Component that wraps ChartJS.
 * [CssBuilder](https://github.com/EdCharbeneau/CssBuilder) - CssBuilder is a Builder pattern for CSS classes to be used with Razor Components.
 * [DevExpress Blazor UI Components](https://github.com/DevExpress/RazorComponents) - UI components including Data Grid, Pivot Grid, and several data editors.
+* [Blazored Typeahead](https://github.com/Blazored/Typeahead) - Auto-complete textbox with local and remote data source, for both Client-side and Server-Side Blazor.
 * [Elmah.Io.Blazor](https://github.com/elmahio/Elmah.Io.Blazor) - Logs from Blazor to elmah.io using Microsoft.Extensions.Logging.
 * [EmbeddedBlazorContent](https://github.com/SamProf/EmbeddedBlazorContent) - Library to load embedded content files (js and css) from Blazor libraries in server-side Blazor mode.
 * [Flexor](https://github.com/DerekChasse/Flexor) - Highly configurable components which let you take full advantage of Flexbox CSS.([Demo](http://flexor.azurewebsites.net/)).
