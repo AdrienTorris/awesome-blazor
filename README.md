@@ -87,6 +87,7 @@ Recommanded: [Visual Studio 2019 Preview](https://visualstudio.microsoft.com/) a
 * [BlazorMobile](https://github.com/Daddoon/BlazorMobile) - Launch a Blazor application as a standalone application.
 * [BlazorNasaImages](https://github.com/ncarandini/BlazorNasaImages) - A sample Blazor app that fetches the Nasa Astronomy Picture of the Day.
 * [BlazorPaint](https://github.com/Lupusa87/BlazorPaint) - A paint sample with Blazor ([demo](https://lupblazorpaint.z20.web.core.windows.net/)).
+* [BlazorPages](https://github.com/fernandreu/blazor-pages) - A sample client-side Blazor app showcasing automatic deployment to GitHub Pages via Azure Pipelines.
 * [BlazorPass](https://github.com/ebekker/BlazorPass) - Blazor UI and ASP.NET Core API to manage Active Directory credentials.
 * [BlazorPasswordPattern](https://github.com/Lupusa87/BlazorPasswordPattern) - Password pattern based on SVG. [Demo](https://lupblazorpasswordpattern.z20.web.core.windows.net/).
 * [BlazorPong](https://github.com/ctrl-alt-d/blazorpong) - 8 bits pong with blazor and signalR. Warning: Blazor Pong is not finished and is stopped with a knowed SignalR issue with Blazor, more info [here](https://github.com/AdrienTorris/awesome-blazor/pull/19).
