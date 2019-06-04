@@ -292,6 +292,8 @@ Recommanded: [Visual Studio 2019 Preview](https://visualstudio.microsoft.com/) a
 * [WebAssembly and Blazor: A Decades Old Problem Solved](https://www.infoq.com/articles/webassembly-blazor) - May 30, 2019 - WebAssembly and Blazor: A Decades Old Problem Solved.
 * [How does Blazor works ? Part 1 : building class from .razor](https://remibou.github.io/Blazor-how-it-works-part-1/) - May 29, 2019 - How does Blazor works ? Part 1 : building class from .razor.
 * [Calling gRPC Services With Server-side Blazor](https://chrissainty.com/calling-grpc-services-with-server-side-blazor) - May 29, 2019 - Calling gRPC Services With Server-side Blazor.
+* [Architecting Blazor applications: an Angular approach](http://danpatrascu.com/architecting-blazor-applications-an-angular-approach/) - May 29, 2019 - Architecting Blazor applications: an Angular approach.
+* [Using reference objects in Blazor server-side](https://www.billbogaiv.com/posts/using-reference-objects-in-blazor-server-side) - May 26, 2019 - Using reference objects in Blazor server-side.
 * [Why WebAssembly Matters?](https://byterot.blogspot.com/2019/05/why-webassembly-matters.html) - May 18, 2019 - Why WebAssembly Matters?
 * [Dynamic components in Blazor](https://www.oqtane.org/Resources/Blog/PostId/522/dynamic-components-in-blazor) - May 16, 2019 - Dynamic components in Blazor.
 * [Custom routing in Blazor](https://www.oqtane.org/Resources/Blog/PostId/521/custom-routing-in-blazor) - May 16, 2019 - Custom routing in Blazor.
