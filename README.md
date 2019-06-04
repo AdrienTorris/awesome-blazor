@@ -40,6 +40,7 @@ Recommanded: [Visual Studio 2019 Preview](https://visualstudio.microsoft.com/) a
 * [Blazor bites](https://chrissainty.com/blazor-bites/) - Blazor bites series by chris Sainty.
 * [Blazor-Dev gallery on .NET Foundation](https://dotnet.myget.org/gallery/blazor-dev) - Daily builds of the 'dev' branch of Blazor.
 * [Blazor Extensions](https://github.com/BlazorExtensions) - Curated extensions for Microsoft ASP.Net Core Blazor.
+* [Blazor University](http://blazor-university.com/) - Unofficial documentation website.
 * [Demo](https://blazor-demo.github.io/) - Official demo website.
 * [FAQ](https://github.com/aspnet/Blazor/wiki/FAQ) - FAQ.
 * [GitHub repository](https://github.com/aspnet/Blazor) - The official Blazor repository.
@@ -285,6 +286,8 @@ Recommanded: [Visual Studio 2019 Preview](https://visualstudio.microsoft.com/) a
 * [Web Apps can’t really do that, can they? - Steve Sanderson](https://www.youtube.com/watch?v=MiLAE6HMr10&feature=youtu.be&t=31m45s) - July 10, 2017 - Web Apps can’t really do that, can they? - Steve Sanderson.
 
 ## Articles
+* [Building Cross-Platform Desktop Apps using Blazor and Electron.NET](https://maherjendoubi.io/blazor-electron/) - June 1, 2019 - Building Cross-Platform Desktop Apps using Blazor and Electron.NET.
+* [WebAssembly and Blazor: A Decades Old Problem Solved](https://www.infoq.com/articles/webassembly-blazor) - May 30, 2019 - WebAssembly and Blazor: A Decades Old Problem Solved.
 * [How does Blazor works ? Part 1 : building class from .razor](https://remibou.github.io/Blazor-how-it-works-part-1/) - May 29, 2019 - How does Blazor works ? Part 1 : building class from .razor.
 * [Calling gRPC Services With Server-side Blazor](https://chrissainty.com/calling-grpc-services-with-server-side-blazor) - May 29, 2019 - Calling gRPC Services With Server-side Blazor.
 * [Why WebAssembly Matters?](https://byterot.blogspot.com/2019/05/why-webassembly-matters.html) - May 18, 2019 - Why WebAssembly Matters?
@@ -375,6 +378,7 @@ Recommanded: [Visual Studio 2019 Preview](https://visualstudio.microsoft.com/) a
 * [A nicer looking Blazor loading page](http://lightswitchhelpwebsite.com/Blog/tabid/61/EntryId/4315/A-Nicer-Looking-Blazor-Loading-Page.aspx) - October 14, 2018 - A nicer looking Blazor loading page.
 * [Deploying a Blazor Application on Azure](https://dzone.com/articles/deploying-a-blazor-application-on-azure) - October 12, 2018 - Deploying a Blazor Application on Azure.
 * [A Blazor Tip You Should Almost Certainly Ignore](https://visualstudiomagazine.com/blogs/tool-tracker/2018/10/blazor-tip.aspx) - October 10, 2018 - A Blazor Tip You Should Almost Certainly Ignore.
+* [Rendering Medical Images using Blazor and fo-dicom](https://maherjendoubi.io/blazor-dicom/) - October 7, 2018 - Rendering Medical Images using Blazor and fo-dicom.
 * [Building Blazor apps with SignalR Core](https://dotnetthoughts.net/building-blazor-apps-with-signalr/) - October 3, 2018 - Building Blazor apps with SignalR Core.
 * [Server-Side Blazor to ship in .NET Core 3.0](https://visualstudiomagazine.com/articles/2018/10/03/blazor-update.aspx) - October 3, 2018 - Server-Side Blazor to ship in .NET Core 3.0.
 * [Blazor 0.6.0 experimental release now available](https://blogs.msdn.microsoft.com/webdev/2018/10/02/blazor-0-6-0-experimental-release-now-available/) - October 2, 2018 - Blazor 0.6.0 experimental release now available.
@@ -431,6 +435,7 @@ Recommanded: [Visual Studio 2019 Preview](https://visualstudio.microsoft.com/) a
 * [Using C# await against JS Promises in Blazor](https://joonasw.net/view/csharp-await-and-js-promises-in-blazor) - April 7, 2018 - Using C# await against JS Promises in Blazor.
 * [Create a CRUD App using Blazor and ASP.NET Core](http://www.talkingdotnet.com/create-a-crud-app-using-blazor-and-asp-net-core/) - April 5, 2018 - Create a CRUD App using Blazor and ASP.NET Core.
 * [Blazor – You Want To Run .NET Where?!](https://dotnetcore.gaprogman.com/2018/04/05/blazor-you-want-to-run-net-where/) - April 5, 2018 - Blazor – You Want To Run .NET Where?!
+* [Blazor introduction](https://maherjendoubi.io/blazor-introduction/) - March 30, 2018 - Blazor introduction.
 * [What is Blazor and why is it so exciting?](https://chrissainty.com/what-is-blazor-and-why-is-it-so-exciting/) - March 24, 2018 - What is Blazor and why is it so exciting?
 * ['Death to JavaScript!' Blazor, for .NET Web Apps Using WebAssembly, Goes Alpha](https://visualstudiomagazine.com/articles/2018/03/23/blazor-alpha.aspx) - March 23, 2018 - 'Death to JavaScript!' Blazor, for .NET Web Apps Using WebAssembly, Goes Alpha.
 * [Get started building .NET web apps that run in the browser with Blazor](https://blogs.msdn.microsoft.com/webdev/2018/03/22/get-started-building-net-web-apps-in-the-browser-with-blazor/) - March 22, 2018 - Get started building .NET web apps that run in the browser with Blazor.
