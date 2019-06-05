@@ -23,6 +23,7 @@ Contributions are always welcome! Please take a look at the [contribution guidel
 * [E-Books](#e-books)
 * [Courses](#courses)
 * [Community](#community)
+* [Other Languages](#other-languages)
 
 ## Introduction
 ### What is Blazor
@@ -510,6 +511,10 @@ Recommanded: [Visual Studio 2019 Preview](https://visualstudio.microsoft.com/) a
 * [Stack Overflow](https://stackoverflow.com/questions/tagged/blazor) - Blazor questions feed on Stack Overflow.
 * [Twitter](https://twitter.com/hashtag/blazor) - Hashtag on Twitter.
 * [WebAssemblyMan](https://www.webassemblyman.com/) - Man page for Blazor and WebAssembly.
+
+## Other Languages
+* [Blaze of Code](https://blazeofcode.com/) - [Portuguese] Blog about Blazor.
+* [DevApps.be's podcast #47](http://devapps.be/podcast/47-typescript-uno-angular-docfx/) - [French] DevApps.be's podcast #47: "Actualités : TypeScript, Uno, Angular, DocFX, Database".
 
 ## License
 
