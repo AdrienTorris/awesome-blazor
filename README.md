@@ -152,13 +152,8 @@ Recommanded: [Visual Studio 2019 Preview](https://visualstudio.microsoft.com/) a
 ## Tutorials
 * [Get .NET Core 3 and Blazor running on a Raspberry PI](https://gist.github.com/shawty/a55f6d09edc2d381c8bd5bf2f639b2de) - April 24, 2019 - Instructions on how to get the latest .NET Core 3 (as of 24th April 2019) and Blazor running on a Raspberry PI.
 * [Blazor TODO list](https://github.com/exceptionnotfound/BlazorToDoList) - April 22, 2019 - Blazor TODO list.
-* [A Nicer Looking Blazor Loading Page](http://lightswitchhelpwebsite.com/Blog/tabid/61/EntryId/4315/A-Nicer-Looking-Blazor-Loading-Page.aspx) - October 14, 2018 - Customize the Blazor loading page using [SpinKit](https://github.com/tobiasahlin/SpinKit).
 * [Blazor workshop](https://github.com/dotnet-presentations/blazor-workshop/) - Blazor app building workshop by [.NET Foundation](https://www.dotnetfoundation.org/), Blazzing Pizza.
-* [Data Driven Layout](https://github.com/hutchcodes/Blazor.DataDrivenLayout) - September 24, 2018 - Two ways of driving the layout based on data in the page.
-* [ASP.NET Core Blazor CRUD](https://code.msdn.microsoft.com/vstudio/ASPNET-Core-Blazor-122b108a) - August 20, 2018 - A master/detail HTML CRUD example with sorting and filtering using Entity Framework and Web API.
-* [Blazing Chuck](https://davidpine.net/blog/blazing-chuck/) - August 20, 2018 - An example Blazor app that displays random "nerdy" Chuck Norris jokes. [Demo](http://ievangelistblazingchuck.azurewebsites.net/).
-* [Blazor + Sitecore](https://visionsincode.wordpress.com/2018/06/30/time-travel-into-the-future-blazor-sitecore-helix/) - June 30, 2018 - Time travel into the future – Blazor + Sitecore + Helix.
-* [Blazor Bricks](https://www.codeproject.com/Articles/1241210/WebAssembly-with-Blazor) - May 11, 2018 - A bricks game developed with C# and Blazor.
+* [Archives of 2018](https://github.com/AdrienTorris/awesome-blazor/blob/master/Archives/2018.md#tutorials)
 
 ## Libraries & Extensions
 * [Bionic](https://bionicframework.github.io/Documentation/) - An Ionic CLI clone for Blazor projects.
@@ -343,23 +338,13 @@ Recommanded: [Visual Studio 2019 Preview](https://visualstudio.microsoft.com/) a
 * [Blazor - You Want To Run .NET Where?!](https://dotnetcore.show/episode-25-blazor-you-want-to-run-net-where/) - May 17, 2019 - .NET Core Show - Episode 25 - Blazor - You Want To Run .NET Where?!
 * [The Cynical Developer - Blazor](https://cynicaldeveloper.com/podcast/108) - February 18, 2019 - Episode 108 of The Cynical Developer - Blazor.
 * [Blazor in 2019 with Steve Sanderson and Dan Roth](https://player.fm/series/net-rocks-2353294/blazor-in-2019-with-steve-sanderson-and-dan-roth) - February 14, 2019 - .NET Rocks, Blazor in 2019 with Steve Sanderson and Dan Roth.
-* [SDN Cast #118 - With Rainer Stropek and Serverside Blazor!](https://www.youtube.com/watch?v=S66mK_30gPE) - November 8, 2018 - Weekly SDN Cast with special gues Rainer Stropek talking about and showing off Blazor!
-* [Ed Charbeneau on Blazor](https://crosscuttingconcerns.com/Podcast-099-Ed-Charbeneau-Blazor) - September 17, 2018 - Ed Charbeneau on Blazor.
-* [Blazor brings .NET to Web Assembly with Steve Sanderson](https://hanselminutes.com/642/blazor-brings-net-to-web-assembly-with-steve-sanderson) - July 26, 2018 - Blazor brings .NET to Web Assembly with Steve Sanderson.
-* [Episode 037 – Blazor with Daniel Roth](https://6figuredev.com/podcast/episode-037-blazor-with-daniel-roth/) - April 30, 2018 - Episode 037 – Blazor with Daniel Roth.
-* [MS Dev Show : Blazor](https://www.youtube.com/watch?v=xJtpYsVRggE) - March 19, 2018 - MS Dev Show Episode 184: Blazor (.NET in WebAssembly) with Dan Roth & Steve Sanderson.
+* [Archives of 2018](https://github.com/AdrienTorris/awesome-blazor/blob/master/Archives/2018.md#podcasts)
 * [Archives of 2017](https://github.com/AdrienTorris/awesome-blazor/blob/master/Archives/2017.md#podcasts)
 
 ## Presentations slides
 * [Iowa .NET User Group – Blazor: C# Running in the Browser via WebAssembly](https://scottsauber.com/2019/05/02/iowa-net-user-group-blazor-c-running-in-the-browser-via-webassembly/) - May 2, 2019 - Slides: [PDF](https://scottsauber.files.wordpress.com/2019/05/blazor.pdf) or [PPTX](https://scottsauber.files.wordpress.com/2019/05/blazor.pptx). Code: [Blazor ToDoMVC](https://github.com/scottsauber/BlazorToDoMVC) and [Blazor on Electron](https://github.com/SteveSandersonMS/BlazorElectronExperiment.Sample).
 * [WebAssembly, C#, and Blazor at CodeStock 2019](https://blog.jeremylikness.com/presentation-webassembly-c-and-blazor-at-codestock-2019-ab2f8636356) - April 16, 2019 - Slides: [PDF](https://jlikme.blob.core.windows.net/presentations/ATaleOfShortLinks.pdf). Demo's source code: [GitHub](https://github.com/JeremyLikness/blazor-wasm).
-* [WebAssembly and Blazor – the future of frontend development?](https://github.com/kkalinowski/Wasm-Blazor-Presentation) - December 12, 2018 - WebAssembly and Blazor – the future of frontend development?. Slides: [PPTX](https://raw.githubusercontent.com/kkalinowski/Wasm-Blazor-Presentation/master/presentation/Blazor.pptx). Demo's source code: [GitHub](https://github.com/kkalinowski/Wasm-Blazor-Presentation/tree/master/src/BlazorDemo).
-* [C# running in the browser via WebAssembly](https://www.infoq.com/presentations/blazor-web-assembly) - December, 2018 - "C# running in the browser via WebAssembly" by Scott Sauber. Slides: [PDF](https://scottsauber.files.wordpress.com/2018/12/blazor.pdf).
-* [SPA Revolution with WebAssembly and ASP.NET Blazor](https://javascript-conference.com/javascriptecmascript/spa-revolution-with-webassembly-and-asp-net-blazor/) - October 16, 2018 - "SPA Revolution with WebAssembly and ASP.NET Blazor" session at the International JavaScript Conference. Slides: [PPTX](https://learn-blazor.com/slides/blazor-intro.pptx).
-* [Blazor: Modern Web development with .NET and WebAssembly]() - August 11, 2018 - "Blazor: Modern Web development with .NET and WebAssembly" session at the .NET Conf 2018. Video: [Channel 9](https://channel9.msdn.com/Events/dotnetConf/2018/S207). Slides: [PPTX](https://github.com/dotnet-presentations/dotnetconf2018/blob/master/Technical/Decks/Blazor_Modern%20Web%20development%20with%20.NET%20and%20WebAssembly.pptx?raw=true) or [GitHub](https://github.com/dotnet-presentations/dotnetconf2018/blob/master/Technical/Decks/Blazor_Modern%20Web%20development%20with%20.NET%20and%20WebAssembly.pptx).
-* [Blazor v1.1](https://www.slideshare.net/elGuerre/blazor-v11) - June 28, 2018 - Blazor v1.1.
-* [Blazor - An Introduction](https://www.slideshare.net/JamieTaylor112/blazor-an-introduction) - April 14, 2018 - Blazor, An Introduction.
-* [An experimental .NET framework for the browser](https://github.com/bjablonsky/blazor-presentation) - April, 2018 - An experimental .NET framework for the browser. Slides: [PPTX](https://raw.githubusercontent.com/bjablonsky/blazor-presentation/master/Blazor.pptx). Demo's source code: [GitHub](https://github.com/bjablonsky/blazor-presentation/tree/master/src).
+* [Archives of 2018](https://github.com/AdrienTorris/awesome-blazor/blob/master/Archives/2018.md#presentations-slides)
 
 ## Tooling
 * [ASP.NET Core Blazor Language Services](https://marketplace.visualstudio.com/items?itemName=aspnet.blazor) - Provides Visual Studio support for ASP.NET Core Blazor.
