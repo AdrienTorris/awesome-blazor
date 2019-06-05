@@ -285,7 +285,7 @@ Recommanded: [Visual Studio 2019 Preview](https://visualstudio.microsoft.com/) a
 * [WebAssembly and Blazor - .NET Concept of the Week - Episode 9](https://www.youtube.com/watch?v=5HSKDGHijdI) - March 4, 2018 - WebAssembly and Blazor - .NET Concept of the Week - Episode 9.
 * [Exploring ASP.NET Blazor](https://www.youtube.com/watch?v=VGotz89_iTY) - Feb 10, 2018 - Exploring ASP.NET Blazor! with Jeffrey T. Fritz.
 * [ASP.NET Community Standup](https://www.youtube.com/watch?v=Ta_qXpXQqGQ) - Feb 6, 2018 - ASP.NET Community Standup - Blazor Update.
-* [Web Apps can’t really do that, can they? - Steve Sanderson](https://www.youtube.com/watch?v=MiLAE6HMr10&feature=youtu.be&t=31m45s) - July 10, 2017 - Web Apps can’t really do that, can they? - Steve Sanderson.
+* [Archives of 2017](https://github.com/AdrienTorris/awesome-blazor/blob/master/Archives/2017.md#videos)
 
 ## Articles
 * [Forwarding Refs in Blazor](https://www.samprof.com/2019/06/03/blazor-forwardref) - June 03, 2019 - Technique for automatically passing a ElementRef through a component to one of its children or back from children to parent or among independent components.
@@ -455,6 +455,7 @@ Recommanded: [Visual Studio 2019 Preview](https://visualstudio.microsoft.com/) a
 * [Blazor: a technical introduction](http://blog.stevensanderson.com/2018/02/06/blazor-intro/) - February 6, 2018 - Blazor: a technical introduction.
 * [Running Blazor on Mono in the browser](http://blog.stevensanderson.com/2017/11/05/blazor-on-mono/) - November 5, 2017 - Running Blazor on Mono in the browser.
 * [.NET and WebAssembly - Is this the future of the front-end?](https://www.hanselman.com/blog/NETAndWebAssemblyIsThisTheFutureOfTheFrontend.aspx) - August 12, 2017 - .NET and WebAssembly - Is this the future of the front-end?
+* [Archives of 2017](https://github.com/AdrienTorris/awesome-blazor/blob/master/Archives/2017.md#articles)
   
 ## Podcasts
 * [Blazor - You Want To Run .NET Where?!](https://dotnetcore.show/episode-25-blazor-you-want-to-run-net-where/) - May 17, 2019 - .NET Core Show - Episode 25 - Blazor - You Want To Run .NET Where?!
@@ -465,8 +466,7 @@ Recommanded: [Visual Studio 2019 Preview](https://visualstudio.microsoft.com/) a
 * [Blazor brings .NET to Web Assembly with Steve Sanderson](https://hanselminutes.com/642/blazor-brings-net-to-web-assembly-with-steve-sanderson) - July 26, 2018 - Blazor brings .NET to Web Assembly with Steve Sanderson.
 * [Episode 037 – Blazor with Daniel Roth](https://6figuredev.com/podcast/episode-037-blazor-with-daniel-roth/) - April 30, 2018 - Episode 037 – Blazor with Daniel Roth.
 * [MS Dev Show : Blazor](https://www.youtube.com/watch?v=xJtpYsVRggE) - March 19, 2018 - MS Dev Show Episode 184: Blazor (.NET in WebAssembly) with Dan Roth & Steve Sanderson.
-* [.NET Rocks, WebAssembly and Blazor with Steve Sanderson](https://www.dotnetrocks.com/?show=1455) - July 4, 2017 - .NET Rocks 1455, WebAssembly and Blazor with Steve Sanderson.
-* [Inside WebAssembly with Mozilla Fellow David Bryant](https://hanselminutes.com/581/inside-webassembly-with-mozilla-fellow-david-bryant) - May 25, 2017 - Inside WebAssembly with Mozilla Fellow David Bryant.
+* [Archives of 2017](https://github.com/AdrienTorris/awesome-blazor/blob/master/Archives/2017.md#podcasts)
 
 ## Presentations slides
 * [Iowa .NET User Group – Blazor: C# Running in the Browser via WebAssembly](https://scottsauber.com/2019/05/02/iowa-net-user-group-blazor-c-running-in-the-browser-via-webassembly/) - May 2, 2019 - Slides: [PDF](https://scottsauber.files.wordpress.com/2019/05/blazor.pdf) or [PPTX](https://scottsauber.files.wordpress.com/2019/05/blazor.pptx). Code: [Blazor ToDoMVC](https://github.com/scottsauber/BlazorToDoMVC) and [Blazor on Electron](https://github.com/SteveSandersonMS/BlazorElectronExperiment.Sample).
