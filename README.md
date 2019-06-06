@@ -189,7 +189,8 @@ Recommanded: [Visual Studio 2019 Preview](https://visualstudio.microsoft.com/) a
 * [BlazorContextMenu](https://github.com/stavroskasidis/BlazorContextMenu) - A context menu component for Blazor ([Demo](https://blazor-context-menu-demo.azurewebsites.net/)).
 * [BlazorDB](https://github.com/chanan/BlazorDB) - In-memory, persisted to local storage, database for Blazor.
 * [BlazorEmbedLibrary](https://github.com/SQL-MisterMagoo/BlazorEmbedLibrary) - Provides Blazor-style embedded static content files for Razor Components projects.
-* [BlazorFileSaver](https://github.com/IvanJosipovic/BlazorFileSaver) - Blazor Component wrapper for FileSaver.js.
+* [BlazorFabric](https://github.com/limefrogyank/BlazorFabric) - Blazor port of Microsoft UI Fabric with fluent design. ([Demo](https://blazorfabric.azurewebsites.net/))
+* [BlazorFileSaver](https://github.com/IvanJosipovic/BlazorFileSaver) - Blazor Component wrapper for FileSaver.js. 
 * [BlazorGrid](https://github.com/AnkitSharma-007/BlazorGrid) - This is a reusable grid component for Blazor which also supports client side pagination.
 * [BlazorIntersectionObserver](https://github.com/ljbc1994/BlazorIntersectionObserver) - A Blazor wrapper for the Intersection Observer API.
 * [BlazorMaterial](https://github.com/BlazorExtensions/BlazorMaterial) - Blazor components implementing Google's Material components for web.
