@@ -52,7 +52,6 @@ Recommanded: [Visual Studio 2019 Preview](https://visualstudio.microsoft.com/) a
 * [Workshop](https://github.com/dotnet-presentations/blazor-workshop/) - Blazor workshop.
 
 ## Sample Projects
-* [ASP.NET Core Blazor CRUD](https://code.msdn.microsoft.com/vstudio/ASPNET-Core-Blazor-122b108a) - ASP.NET Core Blazor Master/Detail CRUD with Filtering and Sorting using EF.
 * [AsteroidsWasm](https://github.com/aesalazar/AsteroidsWasm) - A mixed bag of C# projects to see if a single .NET Standard base can run across all common platforms include WebAssembly. [Demo](https://aesalazar.github.io/AsteroidsWasm/).
 * [Beam](https://github.com/Dedac/Beam) - A social network demo application. This is the source code of the LinkedIn course "Blazor First Look".
 * [Blangular](https://github.com/danroth27/Blangular) - Blazor + Angular, by Daniel Roth.
@@ -395,8 +394,9 @@ Recommanded: [Visual Studio 2019 Preview](https://visualstudio.microsoft.com/) a
 
 ## Deprecated
 ### Sample Projects
-* [TrendTv](https://github.com/MattMarked/TrendTv) - Fetch video list from YouTube and "zap" in real time between trending videos, filtered by country or category.
+* [ASP.NET Core Blazor CRUD](https://code.msdn.microsoft.com/vstudio/ASPNET-Core-Blazor-122b108a) - ASP.NET Core Blazor Master/Detail CRUD with Filtering and Sorting using EF.
 * [BlazorNasaImages](https://github.com/ncarandini/BlazorNasaImages) - A sample Blazor app that fetches the Nasa Astronomy Picture of the Day.
+* [TrendTv](https://github.com/MattMarked/TrendTv) - Fetch video list from YouTube and "zap" in real time between trending videos, filtered by country or category.
 ### Libraries & Extensions
 
 ## License
