@@ -88,7 +88,6 @@ Recommanded: [Visual Studio 2019 Preview](https://visualstudio.microsoft.com/) a
 * [BlazorGraphExample](https://github.com/jburman/BlazorGraphExample) - Example application for connecting to Graph API from Blazor.
 * [Blazor.JWTTest](https://github.com/shawty/blazor.jwttest) - JWT authentication for a blazor hosted (Client/Serverside) app with API and Authentication.
 * [BlazorMobile](https://github.com/Daddoon/BlazorMobile) - Launch a Blazor application as a standalone application.
-* [BlazorNasaImages](https://github.com/ncarandini/BlazorNasaImages) - A sample Blazor app that fetches the Nasa Astronomy Picture of the Day.
 * [BlazorPaint](https://github.com/Lupusa87/BlazorPaint) - A paint sample with Blazor ([demo](https://lupblazorpaint.z20.web.core.windows.net/)).
 * [BlazorPages](https://github.com/fernandreu/blazor-pages) - A sample client-side Blazor app showcasing automatic deployment to GitHub Pages via Azure Pipelines.
 * [BlazorPass](https://github.com/ebekker/BlazorPass) - Blazor UI and ASP.NET Core API to manage Active Directory credentials.
@@ -397,6 +396,7 @@ Recommanded: [Visual Studio 2019 Preview](https://visualstudio.microsoft.com/) a
 ## Deprecated
 ### Sample Projects
 * [TrendTv](https://github.com/MattMarked/TrendTv) - Fetch video list from YouTube and "zap" in real time between trending videos, filtered by country or category.
+* [BlazorNasaImages](https://github.com/ncarandini/BlazorNasaImages) - A sample Blazor app that fetches the Nasa Astronomy Picture of the Day.
 ### Libraries & Extensions
 
 ## License
