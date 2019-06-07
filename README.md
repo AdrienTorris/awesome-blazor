@@ -138,7 +138,6 @@ Recommanded: [Visual Studio 2019 Preview](https://visualstudio.microsoft.com/) a
 * [Try F# on WebAssembly](https://github.com/fsbolero/TryFSharpOnWasm) - The F# compiler running in WebAssembly with Bolero.
 * [Tulsa .NET User Group website](https://github.com/devsgarage/tulsa-dnug-website) - Tulsa .NET User Group website.
 * [Tzaar](https://github.com/paularundel/tzaar) - Implementation of the board game Tzaar with Blazor and SignalR. [Demo](https://tzaar.azurewebsites.net/).
-* [VocaDB lyrics](https://github.com/riipah/vocadb-lyrics-blazor-proto) - VocaDB lyrics display Blazor proto. [Demo](https://lyrics-proto.vocadb.net/).
 * [WebSocketPage](https://github.com/Lupusa87/BlazorWebSocketHelper) - Web Socket in Blazor. [demo](https://lupblazordemos.z13.web.core.windows.net/WebSocketPage).
 * [WordDaze](https://github.com/chrissainty/worddaze) - Blogging application written using Blazor with a WebAPI backend.
 * [ZoraGen Blazor](https://github.com/friendlyanon/zoragen-blazor) - PWA capable Blazor UI for the [ZoraSharp](https://github.com/kabili207/zora-sharp) library.
@@ -393,6 +392,7 @@ Recommanded: [Visual Studio 2019 Preview](https://visualstudio.microsoft.com/) a
 * [BlazorNasaImages](https://github.com/ncarandini/BlazorNasaImages) - A sample Blazor app that fetches the Nasa Astronomy Picture of the Day.
 * [BlazorPong](https://github.com/ctrl-alt-d/blazorpong) - 8 bits pong with blazor and signalR. Warning: Blazor Pong is not finished and is stopped with a knowed SignalR issue with Blazor, more info [here](https://github.com/AdrienTorris/awesome-blazor/pull/19).
 * [TrendTv](https://github.com/MattMarked/TrendTv) - Fetch video list from YouTube and "zap" in real time between trending videos, filtered by country or category.
+* [VocaDB lyrics](https://github.com/riipah/vocadb-lyrics-blazor-proto) - VocaDB lyrics display Blazor proto. [Demo](https://lyrics-proto.vocadb.net/).
 ### Libraries & Extensions
 * [Trail](https://nuget.org/packages/Trail) - DSL for writing Blazor markup in F# (with an [adapter](https://nuget.org/packages/Trail.BlazorRedux) for working with BlazorRedux).
 
