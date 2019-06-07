@@ -90,7 +90,6 @@ Recommanded: [Visual Studio 2019 Preview](https://visualstudio.microsoft.com/) a
 * [BlazorPages](https://github.com/fernandreu/blazor-pages) - A sample client-side Blazor app showcasing automatic deployment to GitHub Pages via Azure Pipelines.
 * [BlazorPass](https://github.com/ebekker/BlazorPass) - Blazor UI and ASP.NET Core API to manage Active Directory credentials.
 * [BlazorPasswordPattern](https://github.com/Lupusa87/BlazorPasswordPattern) - Password pattern based on SVG. [Demo](https://lupblazorpasswordpattern.z20.web.core.windows.net/).
-* [BlazorPong](https://github.com/ctrl-alt-d/blazorpong) - 8 bits pong with blazor and signalR. Warning: Blazor Pong is not finished and is stopped with a knowed SignalR issue with Blazor, more info [here](https://github.com/AdrienTorris/awesome-blazor/pull/19).
 * [BlazorQuiz](https://github.com/Amine-Smahi/BlazorQuiz) - Simple quiz using Blazor.NET and Webassembly.
 * [BlazorRawHtmlRenderer](https://github.com/Lupusa87/BlazorRawHtmlRenderer) - Raw HTML rendering with Blazor. [Demo](https://lupblazorrawhtml.z20.web.core.windows.net/).
 * [BlazorServerTree](https://github.com/ctrl-alt-d/BlazorServerTree) - A simple Server-Side Blazor sample app to deal with hierarchical data.
@@ -394,6 +393,7 @@ Recommanded: [Visual Studio 2019 Preview](https://visualstudio.microsoft.com/) a
 ### Sample Projects
 * [ASP.NET Core Blazor CRUD](https://code.msdn.microsoft.com/vstudio/ASPNET-Core-Blazor-122b108a) - ASP.NET Core Blazor Master/Detail CRUD with Filtering and Sorting using EF.
 * [BlazorNasaImages](https://github.com/ncarandini/BlazorNasaImages) - A sample Blazor app that fetches the Nasa Astronomy Picture of the Day.
+* [BlazorPong](https://github.com/ctrl-alt-d/blazorpong) - 8 bits pong with blazor and signalR. Warning: Blazor Pong is not finished and is stopped with a knowed SignalR issue with Blazor, more info [here](https://github.com/AdrienTorris/awesome-blazor/pull/19).
 * [TrendTv](https://github.com/MattMarked/TrendTv) - Fetch video list from YouTube and "zap" in real time between trending videos, filtered by country or category.
 ### Libraries & Extensions
 
