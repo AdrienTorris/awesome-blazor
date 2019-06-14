@@ -2,8 +2,6 @@
 
 > A collection of awesome Blazor resources.
 
-Inspired by [awesome](https://github.com/sindresorhus/awesome), [awesome-dotnet](https://github.com/quozd/awesome-dotnet) and [awesome-dotnet-core](https://github.com/thangchung/awesome-dotnet-core).
-
 The goal is to build a categorized community-driven collection of very well-known resources about Blazor.
 
 Contributions are always welcome! Please take a look at the [contribution guidelines](https://github.com/AdrienTorris/awesome-blazor/blob/master/CONTRIBUTING.md) pages first. Thanks to all [contributors](https://github.com/AdrienTorris/awesome-blazor/graphs/contributors), you're awesome and wouldn't be possible without you!
