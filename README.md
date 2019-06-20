@@ -270,6 +270,7 @@ Recommanded: [Visual Studio 2019 Preview](https://visualstudio.microsoft.com/) a
 * [Archives of 2017](https://github.com/AdrienTorris/awesome-blazor/blob/master/Archives/2017.md#videos)
 
 ## Articles
+* [Working with local storage in Blazor](http://danpatrascu.com/working-with-local-storage-in-blazor/) - June 19, 2019 - Working with local storage in Blazor.
 * [Authentication in server-side Blazor applications](https://gunnarpeipman.com/blazor/server-side-blazor-authentication/) - June 17, 2019 - Authentication in server-side Blazor applications.
 * [Blazor Gets Authentication and Authorization in ASP.NET Core 3 Preview 6](https://visualstudiomagazine.com/articles/2019/06/13/aspnet-core-preview-6.aspx) - June 13, 2019 - Blazor Gets Authentication and Authorization in ASP.NET Core 3 Preview 6.
 * [ASP.NET Core and Blazor updates in .NET Core 3.0 Preview 6](https://devblogs.microsoft.com/aspnet/asp-net-core-and-blazor-updates-in-net-core-3-0-preview-6/) - June 12, 2019 - ASP.NET Core and Blazor updates in .NET Core 3.0 Preview 6.
