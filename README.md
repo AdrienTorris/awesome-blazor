@@ -369,6 +369,7 @@ Recommanded: [Visual Studio 2019 Preview](https://visualstudio.microsoft.com/) a
 * [Archives of 2017](https://github.com/AdrienTorris/awesome-blazor/blob/master/Archives/2017.md#podcasts)
 
 ## Presentations slides
+* [Hidden gems in ASP.Core and .NET Core 3.0](https://speakerdeck.com/davidfowl/hidden-gems-in-asp-dot-core-and-net-core-3-dot-0) - June 19, 2019 - Hidden gems in ASP.Core and .NET Core 3.0, by David Fowler and Damian Edwards at the NDC Oslo.
 * [Iowa .NET User Group – Blazor: C# Running in the Browser via WebAssembly](https://scottsauber.com/2019/05/02/iowa-net-user-group-blazor-c-running-in-the-browser-via-webassembly/) - May 2, 2019 - Slides: [PDF](https://scottsauber.files.wordpress.com/2019/05/blazor.pdf) or [PPTX](https://scottsauber.files.wordpress.com/2019/05/blazor.pptx). Code: [Blazor ToDoMVC](https://github.com/scottsauber/BlazorToDoMVC) and [Blazor on Electron](https://github.com/SteveSandersonMS/BlazorElectronExperiment.Sample).
 * [WebAssembly, C#, and Blazor at CodeStock 2019](https://blog.jeremylikness.com/presentation-webassembly-c-and-blazor-at-codestock-2019-ab2f8636356) - April 16, 2019 - Slides: [PDF](https://jlikme.blob.core.windows.net/presentations/ATaleOfShortLinks.pdf). Demo's source code: [GitHub](https://github.com/JeremyLikness/blazor-wasm).
 * [Archives of 2018](https://github.com/AdrienTorris/awesome-blazor/blob/master/Archives/2018.md#presentations-slides)
