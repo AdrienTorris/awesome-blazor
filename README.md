@@ -1,8 +1,7 @@
 # Awesome Blazor [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
+[<img src="https://adrientorris.github.io/wwwroot/images/blazor/logo-blazor.png" align="right" width="120">](https://dotnet.microsoft.com/apps/aspnet/web-apps/client)
 
 > A collection of awesome Blazor resources.
-
-[<img src="https://adrientorris.github.io/wwwroot/images/blazor/logo-blazor.png" align="right" width="120">](https://dotnet.microsoft.com/apps/aspnet/web-apps/client)
 
 Blazor is a .NET web framework using C#/Razor and HTML that runs in the browser with WebAssembly.
 
