@@ -1,8 +1,8 @@
-![Blazor Logo](images/logo-blazor.png)
-
 # Awesome Blazor [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
 
 > A collection of awesome Blazor resources.
+
+[<img src="images/logo-blazor.png" align="right" width="80">](https://dotnet.microsoft.com/apps/aspnet/web-apps/client)
 
 The goal is to build a categorized community-driven collection of very well-known resources about Blazor.
 
