@@ -2,9 +2,9 @@
 
 > A collection of awesome Blazor resources.
 
-[<img src="https://adrientorris.github.io/wwwroot/images/blazor/logo-blazor.png" align="left" width="120">](https://dotnet.microsoft.com/apps/aspnet/web-apps/client)
+[<img src="https://adrientorris.github.io/wwwroot/images/blazor/logo-blazor.png" align="right" width="120">](https://dotnet.microsoft.com/apps/aspnet/web-apps/client)
 
-The goal is to build a categorized community-driven collection of very well-known resources about Blazor.
+Blazor is a .NET web framework using C#/Razor and HTML that runs in the browser with WebAssembly.
 
 Contributions are always welcome! Please take a look at the [contribution guidelines](https://github.com/AdrienTorris/awesome-blazor/blob/master/CONTRIBUTING.md) pages first. Thanks to all [contributors](https://github.com/AdrienTorris/awesome-blazor/graphs/contributors), you're awesome and wouldn't be possible without you!
 
