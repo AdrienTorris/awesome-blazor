@@ -2,7 +2,7 @@
 
 > A collection of awesome Blazor resources.
 
-[<img src="/images/logo-blazor.png" align="right" width="120">](https://dotnet.microsoft.com/apps/aspnet/web-apps/client)
+[<img src="https://adrientorris.github.io/wwwroot/images/blazor/logo-blazor.png" align="left" width="120">](https://dotnet.microsoft.com/apps/aspnet/web-apps/client)
 
 The goal is to build a categorized community-driven collection of very well-known resources about Blazor.
 
