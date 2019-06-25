@@ -189,7 +189,6 @@ Recommanded: [Visual Studio 2019 Preview](https://visualstudio.microsoft.com/) a
 * [BlazorGrid](https://github.com/AnkitSharma-007/BlazorGrid) - This is a reusable grid component for Blazor which also supports client side pagination.
 * [BlazorIntersectionObserver](https://github.com/ljbc1994/BlazorIntersectionObserver) - A Blazor wrapper for the Intersection Observer API.
 * [BlazorMaterial](https://github.com/BlazorExtensions/BlazorMaterial) - Blazor components implementing Google's Material components for web.
-* [BlazorNodaTimeDateTimePicker](https://github.com/nheath99/BlazorNodaTimeDateTimePicker) - A Date/Time picker component library for Blazor using NodaTime.
 * [BlazorOfficeUIFabric](https://github.com/BlazorExtensions/BlazorOfficeUIFabric) - Microsoft Office Fabric UI port for Blazor.
 * [BlazorRealm](https://dworthen.github.io/BlazorRealm/docs/quickstart.html) - Redux state management for Blazor.
 * [BlazorScrollbar](https://github.com/Lupusa87/BlazorScrollbar) - Reusable, fully configurable component with vertical and horizontal scrollbars ([Demo](https://lupblazorscrollbar.z20.web.core.windows.net/)).
@@ -221,6 +220,7 @@ Recommanded: [Visual Studio 2019 Preview](https://visualstudio.microsoft.com/) a
 * [Logging](https://github.com/BlazorExtensions/Logging) - Microsoft Extension Logging implementation for Blazor.
 * [MatBlazor](https://github.com/SamProf/MatBlazor) - Material Design components for Blazor. ([Demo](https://www.matblazor.com/)).
 * [NObservable](https://github.com/kekekeks/NObservable) - MobX-like observables and component instrumentation.
+* [NodaTimePicker](https://github.com/nheath99/NodaTimePicker) - A Date/Time picker component library for Blazor using NodaTime.
 * [Notifications](https://github.com/BlazorExtensions/Notifications) - HTML5 Notifications API implementation for Microsoft Blazor.
 * [Rudder](https://github.com/kjeske/rudder) - Efficient state container for Blazor with concepts similar to the ones in redux, including reducers and sagas.
 * [SignalR](https://github.com/BlazorExtensions/SignalR) - SignalR Core implementation for Blazor. It uses the JavaScript client.
