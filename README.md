@@ -52,6 +52,7 @@ Recommanded: [Visual Studio 2019 Preview](https://visualstudio.microsoft.com/) a
 ## Sample Projects
 * [AsteroidsWasm](https://github.com/aesalazar/AsteroidsWasm) - A mixed bag of C# projects to see if a single .NET Standard base can run across all common platforms include WebAssembly. [Demo](https://aesalazar.github.io/AsteroidsWasm/).
 * [Beam](https://github.com/Dedac/Beam) - A social network demo application. This is the source code of the LinkedIn course "Blazor First Look".
+* [Blagario](https://github.com/ctrl-alt-d/Blagario) - Experimental lab to test blazor server side as multiplayer game engine with no canvas (just blazor, html and css). Collaborations are welcome. Scaffolding status.
 * [Blangular](https://github.com/danroth27/Blangular) - Blazor + Angular, by Daniel Roth.
 * [BlazeDown](https://github.com/EdCharbeneau/BlazeDown) - BlazeDown, online Markdown editor. [Demo](https://edcharbeneau.com/BlazeDown/).
 * [BlazePort](https://github.com/EdCharbeneau/BlazePort) - A futuristic ride share app for space travel written in full stack .NET with Blazor.
