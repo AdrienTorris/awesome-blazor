@@ -337,6 +337,7 @@ Recommanded: [Visual Studio 2019 Preview](https://visualstudio.microsoft.com/) a
 * [Full Stack C# with Blazor](https://msdn.microsoft.com/magazine/mt833288) - March 7, 2019, Full Stack C# with Blazor.
 * [Understanding cascading values & cascading parameters](https://chrissainty.com/understanding-cascading-values-and-cascading-parameters/) - February 26, 2019 - Understanding cascading values & cascading parameters.
 * [What’s the Difference Between Razor and Blazor?](https://espressocoder.com/2019/02/21/whats-the-difference-between-razor-and-blazor/) - February 21, 2019 - What’s the Difference Between Razor and Blazor?
+* [No need to duel! Use Blazor Components Dynamic Dual Mode!](https://thefreezeteam.com/razor-components-dynamic-dual-mode/) - February 20, 2019 - No need to duel! Use Blazor Components Dynamic Dual Mode!
 * [Configuring a Blazor app](https://remibou.github.io/Configuring-a-Blazor-app/) - February 18, 2019 - Configuring a Blazor app.
 * [Microsoft updates Blazor, now built on Razor Components](https://visualstudiomagazine.com/articles/2019/02/13/blazor-0-8-0.aspx) - February 13, 2019 - Microsoft updates Blazor, now built on Razor Components.
 * [Dealing with Forms in Blazor](https://msdn.microsoft.com/en-us/magazine/mt833274.aspx) - February 8, 2019 - Dealing with Forms in Blazor.
