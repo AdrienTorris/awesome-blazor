@@ -418,30 +418,6 @@ Recommanded: [Visual Studio 2019 Preview](https://visualstudio.microsoft.com/) a
 * [DevApps.be's podcast #47](http://devapps.be/podcast/47-typescript-uno-angular-docfx/) - [French] DevApps.be's podcast #47: "Actualités : TypeScript, Uno, Angular, DocFX, Database".
 * [Modern web apps with Blazor](https://media.aspitalia.com/events/VS2019-Blazor.media) - [Italian] Video about Blazor.
 
-## Deprecated
-### Sample Projects
-* [Blangular](https://github.com/danroth27/Blangular) - Blazor + Angular, by Daniel Roth.
-* [BlazorAzureSignalRService](https://github.com/danroth27/BlazorAzureSignalRService) - Blazor + Azure SignalR Service.
-* [ASP.NET Core Blazor CRUD](https://code.msdn.microsoft.com/vstudio/ASPNET-Core-Blazor-122b108a) - ASP.NET Core Blazor Master/Detail CRUD with Filtering and Sorting using EF.
-* [BlazorNasaImages](https://github.com/ncarandini/BlazorNasaImages) - A sample Blazor app that fetches the Nasa Astronomy Picture of the Day.
-* [BlazorPong](https://github.com/ctrl-alt-d/blazorpong) - 8 bits pong with blazor and signalR. Warning: Blazor Pong is not finished and is stopped with a knowed SignalR issue with Blazor, more info [here](https://github.com/AdrienTorris/awesome-blazor/pull/19).
-* [Demo](https://github.com/blazor-demo/blazor-demo.github.io) - Code of the official demo website.
-* [TrendTv](https://github.com/MattMarked/TrendTv) - Fetch video list from YouTube and "zap" in real time between trending videos, filtered by country or category.
-* [VocaDB lyrics](https://github.com/riipah/vocadb-lyrics-blazor-proto) - VocaDB lyrics display Blazor proto. [Demo](https://lyrics-proto.vocadb.net/).
-* [Blazor.DataDrivenLayout](https://github.com/hutchcodes/Blazor.DataDrivenLayout) - Two example of how to do data driven layouts in Server-side Blazor.
-* [BlazorPass](https://github.com/ebekker/BlazorPass) - Blazor UI and ASP.NET Core API to manage Active Directory credentials.
-* [Blazor Sushi](https://github.com/lohithgn/blazor-sushi) - Kendo UI Sushi SPA recreated in Blazor.
-* [RSS Reader](https://github.com/lohithgn/blazor-rss-reader) - RSS Reader built using Blazor.
-* [BlazorGeolocation](https://github.com/EdCharbeneau/BlazorGeolocation) - An example of using Geolocation with Blazor.
-* [FMRL](https://github.com/ebekker/FMRL) - Ephemeral Message Service. Messages sent are encrypted, securely transferred, and automatically deleted when they are retrieved.
-* [Do](https://github.com/jamie-lord/do) - To Do app.
-* [Blazor Contoso University](https://github.com/lohithgn/blazor-contoso-university) - Contoso University in Blazor.
-### Libraries & Extensions
-* [Toastr](https://github.com/BlazorExtensions/Toastr) - A Blazor port of Toastr.js.
-* [Trail](https://nuget.org/packages/Trail) - DSL for writing Blazor markup in F# (with an [adapter](https://nuget.org/packages/Trail.BlazorRedux) for working with BlazorRedux).
-* [BlazorSplit](https://github.com/BlazorComponents/BlazorSplit) - Resizeable split views ([Demo](https://blazorcomponents.github.io/BlazorSplit/)).
-* [Elmah.Io.Blazor](https://github.com/elmahio/Elmah.Io.Blazor) - Logs from Blazor to elmah.io using Microsoft.Extensions.Logging.
-
 ## License
 
 [![CC0](http://mirrors.creativecommons.org/presskit/buttons/88x31/svg/cc-zero.svg)](https://creativecommons.org/publicdomain/zero/1.0/)
