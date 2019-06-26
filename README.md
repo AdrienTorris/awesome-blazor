@@ -64,7 +64,6 @@ Recommanded: [Visual Studio 2019 Preview](https://visualstudio.microsoft.com/) a
 * [BlazorAdvancedTodo](https://github.com/EdCharbeneau/BlazorAdvancedTodo) - A Blazor to-do app with state and undo function.
 * [BlazorTasks](https://github.com/BorowskiKamil/blazor-tasks) - To-Do App.
 * [Bolero.TodoMVC](https://github.com/fsbolero/TodoMVC) - A TodoMVC clone using Bolero.
-* [Do](https://github.com/jamie-lord/do) - To Do app.
 ### Others
 * [Beam](https://github.com/Dedac/Beam) - A social network demo application. This is the source code of the LinkedIn course "Blazor First Look".
 * [BlazeDown](https://github.com/EdCharbeneau/BlazeDown) - BlazeDown, online Markdown editor. [Demo](https://edcharbeneau.com/BlazeDown/).
@@ -80,14 +79,12 @@ Recommanded: [Visual Studio 2019 Preview](https://visualstudio.microsoft.com/) a
 * [BlazorChatSample](https://github.com/conficient/blazorchatsample) - Blazor chat demo using SignalR JS client with interop.
 * [BlazorClockCanvas](https://github.com/Lupusa87/BlazorClockCanvas) - Complex clock based on Canvas. [Demo](https://lupblazorclockcanvas.z20.web.core.windows.net/).
 * [BlazorClockSVG](https://github.com/Lupusa87/BlazorClockSVG) - Complex clock based on SVG. [Demo](https://lupblazorclocksvg.z20.web.core.windows.net/).
-* [Blazor Contoso University](https://github.com/lohithgn/blazor-contoso-university) - Contoso University in Blazor.
 * [Blazor Converters](https://github.com/lohithgn/blazor-converters) - Blazor Converters is simple converter app written using Blazor, influenced by Windows 10 Calculator.
 * [BlazorCRUD](https://github.com/thbst16/BlazorCrud) - Sample line of business application that illustrates key features of Blazor. [Demo](https://becksblazor.azurewebsites.net/).
 * [BlazorDynamicList](https://github.com/conficient/BlazorDynamicList) - Dynamic component binding for a generic list. [Demo](https://blazordynamiclist.azurewebsites.net/).
 * [BlazorElectronExperiment](https://github.com/SteveSandersonMS/BlazorElectronExperiment.Sample) - Exploring how a Blazor could be used to build a cross-platform desktop application using [Electron](https://electronjs.org/).
 * [BlazorFileReader](https://github.com/Tewr/BlazorFileReader) - Read-only File streams in Blazor. [Demo](https://tewr.github.io/BlazorFileReader/).
 * [BlazorFormsValidation](https://github.com/Dallas411/BlazorFormsValidation) - Blazor form validation sample.
-* [BlazorGeolocation](https://github.com/EdCharbeneau/BlazorGeolocation) - An example of using Geolocation with Blazor.
 * [BlazorGraphExample](https://github.com/jburman/BlazorGraphExample) - Example application for connecting to Graph API from Blazor.
 * [Blazor.JWTTest](https://github.com/shawty/blazor.jwttest) - JWT authentication for a blazor hosted (Client/Serverside) app with API and Authentication.
 * [BlazorMobile](https://github.com/Daddoon/BlazorMobile) - Launch a Blazor application as a standalone application.
@@ -117,7 +114,6 @@ Recommanded: [Visual Studio 2019 Preview](https://visualstudio.microsoft.com/) a
 * [CssBuilder](https://www.nuget.org/packages/BlazorComponentUtilities/) &ndash; A clean code approach to conditional CSS classes for Razor components in Blazor.
 * [Data Driven Layout](https://github.com/hutchcodes/Blazor.DataDrivenLayout) - Two ways of driving the layout based on data in the page.
 * [Flight Finder](https://github.com/aspnet/samples/tree/master/samples/aspnetcore/blazor) - Flight Finder.
-* [FMRL](https://github.com/ebekker/FMRL) - Ephemeral Message Service. Messages sent are encrypted, securely transferred, and automatically deleted when they are retrieved.
 * [Gitter](https://github.com/Blazored/Gitter) - A Blazor Gitter client.
 * [Hacker News Clone](https://github.com/lohithgn/blazor-hackernews-clone) - Hacker News Clone. [Demo](http://blazorhackernews.surge.sh/).
 * [Money](https://github.com/maraf/Money) - A money manager implemented using CQRS+ES. [Demo](https://app.money.neptuo.com/).
@@ -152,7 +148,6 @@ Recommanded: [Visual Studio 2019 Preview](https://visualstudio.microsoft.com/) a
 *Reusable components like buttons, inputs, grids and more.*
 * [Canvas](https://github.com/BlazorExtensions/Canvas) - HTML5 Canvas API implementation for Microsoft Blazor.
 * [BlazorMaterial](https://github.com/BlazorExtensions/BlazorMaterial) - Blazor components implementing Google's Material components for web.
-* [Toastr](https://github.com/BlazorExtensions/Toastr) - A Blazor port of Toastr.js.
 * [BlazorStrap](https://github.com/chanan/BlazorStrap) - Bootstrap 4 components for Blazor ([Demo](https://chanan.github.io/BlazorStrap/)).
 * [BlazorStyled](https://github.com/chanan/BlazorStyled) - CSS in Blazor Components ([Demo](https://chanan.github.io/BlazorStyled)).
 * [BlazorContextMenu](https://github.com/stavroskasidis/BlazorContextMenu) - A context menu component for Blazor ([Demo](https://blazor-context-menu-demo.azurewebsites.net/)).
@@ -200,7 +195,6 @@ Recommanded: [Visual Studio 2019 Preview](https://visualstudio.microsoft.com/) a
 * [BlazorDB](https://github.com/chanan/BlazorDB) - In-memory, persisted to local storage, database for Blazor.
 * [Blazor Time Zone Kit](https://github.com/jsakamoto/Toolbelt.Blazor.TimeZoneKit) - A library to provide system time zones and local time zone initialization in Blazor apps.
 * [BlazorStorage](https://github.com/cloudcrate/BlazorStorage) - Local and session storage support for Blazor.
-* [Elmah.Io.Blazor](https://github.com/elmahio/Elmah.Io.Blazor) - Logs from Blazor to elmah.io using Microsoft.Extensions.Logging.
 * [EmbeddedBlazorContent](https://github.com/SamProf/EmbeddedBlazorContent) - Library to load embedded content files (js and css) from Blazor libraries in server-side Blazor mode.
 * [Blazor.EventAggregator](https://github.com/mikoskinen/Blazor.EventAggregator) - Lightweight Event Aggregator for Blazor (Razor Components).
 * [Blazor-Fluxor](https://github.com/mrpmorris/blazor-fluxor) - A low-boilerplate Flux/Redux state library for Blazor.
@@ -438,9 +432,15 @@ Recommanded: [Visual Studio 2019 Preview](https://visualstudio.microsoft.com/) a
 * [BlazorPass](https://github.com/ebekker/BlazorPass) - Blazor UI and ASP.NET Core API to manage Active Directory credentials.
 * [Blazor Sushi](https://github.com/lohithgn/blazor-sushi) - Kendo UI Sushi SPA recreated in Blazor.
 * [RSS Reader](https://github.com/lohithgn/blazor-rss-reader) - RSS Reader built using Blazor.
+* [BlazorGeolocation](https://github.com/EdCharbeneau/BlazorGeolocation) - An example of using Geolocation with Blazor.
+* [FMRL](https://github.com/ebekker/FMRL) - Ephemeral Message Service. Messages sent are encrypted, securely transferred, and automatically deleted when they are retrieved.
+* [Do](https://github.com/jamie-lord/do) - To Do app.
+* [Blazor Contoso University](https://github.com/lohithgn/blazor-contoso-university) - Contoso University in Blazor.
 ### Libraries & Extensions
+* [Toastr](https://github.com/BlazorExtensions/Toastr) - A Blazor port of Toastr.js.
 * [Trail](https://nuget.org/packages/Trail) - DSL for writing Blazor markup in F# (with an [adapter](https://nuget.org/packages/Trail.BlazorRedux) for working with BlazorRedux).
 * [BlazorSplit](https://github.com/BlazorComponents/BlazorSplit) - Resizeable split views ([Demo](https://blazorcomponents.github.io/BlazorSplit/)).
+* [Elmah.Io.Blazor](https://github.com/elmahio/Elmah.Io.Blazor) - Logs from Blazor to elmah.io using Microsoft.Extensions.Logging.
 
 ## License
 
