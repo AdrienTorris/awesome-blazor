@@ -90,7 +90,6 @@ Recommanded: [Visual Studio 2019 Preview](https://visualstudio.microsoft.com/) a
 * [BlazorPaint](https://github.com/Lupusa87/BlazorPaint) - A paint sample with Blazor ([demo](https://lupblazorpaint.z20.web.core.windows.net/)).
 * [BlazorPages](https://github.com/fernandreu/blazor-pages) - A sample client-side Blazor app showcasing automatic deployment to GitHub Pages via Azure Pipelines.
 * [BlazorPasswordPattern](https://github.com/Lupusa87/BlazorPasswordPattern) - Password pattern based on SVG. [Demo](https://lupblazorpasswordpattern.z20.web.core.windows.net/).
-* [BlazorPrettyCode](https://github.com/chanan/BlazorPrettyCode) - Blazor Code Component for Documentation Sites [Demo](https://chanan.github.io/BlazorPrettyCode/).
 * [BlazorRawHtmlRenderer](https://github.com/Lupusa87/BlazorRawHtmlRenderer) - Raw HTML rendering with Blazor. [Demo](https://lupblazorrawhtml.z20.web.core.windows.net/).
 * [BlazorServerTree](https://github.com/ctrl-alt-d/BlazorServerTree) - A simple Server-Side Blazor sample app to deal with hierarchical data.
 * [BlazorServiceWorker](https://github.com/roboriaan/BlazorServiceWorker) - A client-side Blazor template with service worker caching.
@@ -184,6 +183,7 @@ Recommanded: [Visual Studio 2019 Preview](https://visualstudio.microsoft.com/) a
 * [Storage](https://github.com/BlazorExtensions/Storage) - HTML5 Storage API implementation for Microsoft Blazor.
 * [Blazored.LocalStorage](https://github.com/chrissainty/BlazoredLocalStorage) - Local storage for Blazor applications.
 * [Blazored.Localisation](https://github.com/Blazored/Localisation) - A library to provide localisation in client-side Blazor applications.
+* [BlazorPrettyCode](https://github.com/chanan/BlazorPrettyCode) - Blazor Code Component for documentation sites. [Demo](https://chanan.github.io/BlazorPrettyCode/).
 * [Blazor Analytics](https://github.com/isc30/blazor-analytics) - Blazor extensions for Analytics.
 * [Blazor BarCode](https://barcoderesource.com/blazorbarcode.shtml) &ndash; A barcode library for Blazor using barcode fonts.
 * [Blazor Svg Helper](https://github.com/Lupusa87/BlazorSvgHelper) - Create SVG elements with children (circle, rectangle, image, text, and others) and render with RenderTreeBuilder.
