@@ -107,7 +107,6 @@ Recommanded: [Visual Studio 2019 Preview](https://visualstudio.microsoft.com/) a
 * [Blazor + Sitecore](https://github.com/GoranHalvarsson/SitecoreBlazor) - Example of dynamic pages and routes with SiteCore and [Helix](https://helix.sitecore.net/).
 * [Blazume](https://github.com/Amine-Smahi/Blazume) - A simple portfolio/Resume template using Blazor.
 * [BlogCore](https://github.com/thangchung/blog-core) - Modern CMS on Domain-driven Design and Clean Architecture patterns. 
-* [Calamari Blog](https://github.com/thewebchameleon/calamari-blog-blazor) - A simple blog and portfolio site running on Squidex.
 * [C# Minifer](https://github.com/atifaziz/CSharpMinifierDemo) A client-side Blazor application demonstrating live minification of C# code using the [C# Minifier](https://github.com/atifaziz/CSharpMinifier) library. [Demo](https://atifaziz.github.io/CSharpMinifierDemo/)
 * [CssBuilder](https://www.nuget.org/packages/BlazorComponentUtilities/) &ndash; A clean code approach to conditional CSS classes for Razor components in Blazor.
 * [Data Driven Layout](https://github.com/hutchcodes/Blazor.DataDrivenLayout) - Two ways of driving the layout based on data in the page.
