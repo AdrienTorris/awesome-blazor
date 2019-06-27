@@ -68,8 +68,15 @@ Recommanded: [Visual Studio 2019 Preview](https://visualstudio.microsoft.com/) a
 * [BlazorTasks](https://github.com/BorowskiKamil/blazor-tasks) - To-Do App.
 * [Bolero.TodoMVC](https://github.com/fsbolero/TodoMVC) - A TodoMVC clone using Bolero.
 ### Others
-* [Beam](https://github.com/Dedac/Beam) - A social network demo application. This is the source code of the LinkedIn course "Blazor First Look".
 * [BlazeDown](https://github.com/EdCharbeneau/BlazeDown) - BlazeDown, online Markdown editor. [Demo](https://edcharbeneau.com/BlazeDown/).
+* [Client-side RealWorld](https://github.com/burke166/blazor-client-side-realworld-example-app) - [RealWorld](https://github.com/gothinkster/realworld) implementation of Blazor Client-Side. [Demo](https://blazorclientside.computercodeblue.com).
+* [Server-side RealWorld](https://github.com/burke166/blazor-server-side-realworld-example-app) - [RealWorld](https://github.com/gothinkster/realworld) implementation of Blazor Server-Side. [Demo](https://blazorserverside.computercodeblue.com).
+* [BlazorClockCanvas](https://github.com/Lupusa87/BlazorClockCanvas) - Complex clock based on Canvas. [Demo](https://lupblazorclockcanvas.z20.web.core.windows.net/).
+* [BlazorClockSVG](https://github.com/Lupusa87/BlazorClockSVG) - Complex clock based on SVG. [Demo](https://lupblazorclocksvg.z20.web.core.windows.net/).
+* [BlazorFileReader](https://github.com/Tewr/BlazorFileReader) - Read-only File streams in Blazor. [Demo](https://tewr.github.io/BlazorFileReader/).
+* [Blazor Spreadsheet](https://github.com/Lupusa87/BlazorSpreadsheet) - Spreadsheet app developed in Blazor. [Demo](https://lupblazorspreadsheet.z20.web.core.windows.net/).
+* [BlazorPasswordPattern](https://github.com/Lupusa87/BlazorPasswordPattern) - Password pattern based on SVG. [Demo](https://lupblazorpasswordpattern.z20.web.core.windows.net/).
+* [BlazorRawHtmlRenderer](https://github.com/Lupusa87/BlazorRawHtmlRenderer) - Raw HTML rendering with Blazor. [Demo](https://lupblazorrawhtml.z20.web.core.windows.net/).
 * [BlazePort](https://github.com/EdCharbeneau/BlazePort) - A futuristic ride share app for space travel written in full stack .NET with Blazor.
 * [BlazingPizza (server side)](https://github.com/ADefWebserver/BlazingPizza) - A server side Blazor version of the Blazing Pizza project from the [Blazor - app building workshop](https://github.com/dotnet-presentations/blazor-workshop/).
 * [BlazorBeerCalculator](https://github.com/gpeipman/BlazorBeerCalculator) - Offline beer alc. vol. calculator built on Blazor. [Demo](https://gunnarpeipman.com/demos/blazoroffline/).
@@ -78,25 +85,20 @@ Recommanded: [Visual Studio 2019 Preview](https://visualstudio.microsoft.com/) a
 * [BlazorCalculator](https://github.com/Lupusa87/BlazorCalculator) - Simple calculator with history and ability to use previous results in new calculations. [Demo](https://lupblazorcalculator.z20.web.core.windows.net/).
 * [Blazor calculator with expressions](https://github.com/khaledmousa/BlazorCalculator) - A sample numerical expression evaluator in Blazor utilizing an F# library that uses FsLex and FsYacc to parse expressions. [Demo](https://khaledmousa.github.io/).
 * [Blazor Charts](https://github.com/SQL-MisterMagoo/Mister-Magoo-Goes-Charting) - Chart components for Blazor.
+* [Beam](https://github.com/Dedac/Beam) - A social network demo application. This is the source code of the LinkedIn course "Blazor First Look".
 * [BlazorChatSample](https://github.com/conficient/blazorchatsample) - Blazor chat demo using SignalR JS client with interop.
-* [BlazorClockCanvas](https://github.com/Lupusa87/BlazorClockCanvas) - Complex clock based on Canvas. [Demo](https://lupblazorclockcanvas.z20.web.core.windows.net/).
-* [BlazorClockSVG](https://github.com/Lupusa87/BlazorClockSVG) - Complex clock based on SVG. [Demo](https://lupblazorclocksvg.z20.web.core.windows.net/).
 * [Blazor Converters](https://github.com/lohithgn/blazor-converters) - Blazor Converters is simple converter app written using Blazor, influenced by Windows 10 Calculator.
 * [BlazorCRUD](https://github.com/thbst16/BlazorCrud) - Sample line of business application that illustrates key features of Blazor. [Demo](https://becksblazor.azurewebsites.net/).
 * [BlazorDynamicList](https://github.com/conficient/BlazorDynamicList) - Dynamic component binding for a generic list. [Demo](https://blazordynamiclist.azurewebsites.net/).
 * [BlazorElectronExperiment](https://github.com/SteveSandersonMS/BlazorElectronExperiment.Sample) - Exploring how a Blazor could be used to build a cross-platform desktop application using [Electron](https://electronjs.org/).
-* [BlazorFileReader](https://github.com/Tewr/BlazorFileReader) - Read-only File streams in Blazor. [Demo](https://tewr.github.io/BlazorFileReader/).
 * [BlazorFormsValidation](https://github.com/Dallas411/BlazorFormsValidation) - Blazor form validation sample.
 * [BlazorGraphExample](https://github.com/jburman/BlazorGraphExample) - Example application for connecting to Graph API from Blazor.
 * [Blazor.JWTTest](https://github.com/shawty/blazor.jwttest) - JWT authentication for a blazor hosted (Client/Serverside) app with API and Authentication.
 * [BlazorMobile](https://github.com/Daddoon/BlazorMobile) - Launch a Blazor application as a standalone application.
 * [BlazorPaint](https://github.com/Lupusa87/BlazorPaint) - A paint sample with Blazor ([demo](https://lupblazorpaint.z20.web.core.windows.net/)).
 * [BlazorPages](https://github.com/fernandreu/blazor-pages) - A sample client-side Blazor app showcasing automatic deployment to GitHub Pages via Azure Pipelines.
-* [BlazorPasswordPattern](https://github.com/Lupusa87/BlazorPasswordPattern) - Password pattern based on SVG. [Demo](https://lupblazorpasswordpattern.z20.web.core.windows.net/).
-* [BlazorRawHtmlRenderer](https://github.com/Lupusa87/BlazorRawHtmlRenderer) - Raw HTML rendering with Blazor. [Demo](https://lupblazorrawhtml.z20.web.core.windows.net/).
 * [BlazorServerTree](https://github.com/ctrl-alt-d/BlazorServerTree) - A simple Server-Side Blazor sample app to deal with hierarchical data.
 * [BlazorServiceWorker](https://github.com/roboriaan/BlazorServiceWorker) - A client-side Blazor template with service worker caching.
-* [Blazor Spreadsheet](https://github.com/Lupusa87/BlazorSpreadsheet) - Spreadsheet app developed in Blazor. [Demo](https://lupblazorspreadsheet.z20.web.core.windows.net/).
 * [Blazor Summernote](https://github.com/shawty/blazor.summernote) - Wrapper for the new MS Blazor framework, allowing the use of the Summernote Wysiwyg editor in a form.
 * [Blazor Survey](https://github.com/nutshellit/Blazor-Survey) - A hybrid F#/C# blazor sample app to kick the tyres of blazor.
 * [Blazor.Toaster](https://github.com/sotsera/sotsera.blazor.toaster) - A Blazor port of Toastr.js.
