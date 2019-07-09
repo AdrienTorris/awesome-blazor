@@ -145,6 +145,7 @@ Recommanded: [Visual Studio 2019 Preview](https://visualstudio.microsoft.com/) a
 * [BlazorMaterial](https://github.com/BlazorExtensions/BlazorMaterial) - Blazor components implementing Google's Material components for web.
 * [BlazorStrap](https://github.com/chanan/BlazorStrap) - Bootstrap 4 components for Blazor ([Demo](https://chanan.github.io/BlazorStrap/)).
 * [BlazorStyled](https://github.com/chanan/BlazorStyled) - CSS in Blazor Components ([Demo](https://chanan.github.io/BlazorStyled)).
+* [BlazorQuery](https://github.com/kevinjpetersen/BlazorQuery) - jQuery for Blazor (Blazor Library that wraps jQuery completely in C# for use in Blazor)
 * [BlazorContextMenu](https://github.com/stavroskasidis/BlazorContextMenu) - A context menu component for Blazor ([Demo](https://blazor-context-menu-demo.azurewebsites.net/)).
 * [Blazorise](https://github.com/stsrki/Blazorise) - Components for Blazor with support for Bootstrap, Bulma and Material CSS. ([Demo](https://bootstrapdemo.blazorise.com/))
 * [BlazorBits](https://github.com/BlazorBits/BlazorBits) - Components including [Monaco editor](https://github.com/Microsoft/monaco-editor).
