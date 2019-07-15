@@ -118,6 +118,7 @@ Recommanded: [Visual Studio 2019 Preview](https://visualstudio.microsoft.com/) a
 * [Money](https://github.com/maraf/Money) - A money manager implemented using CQRS+ES. [Demo](https://app.money.neptuo.com/).
 * [NethereumBlazor](https://github.com/Nethereum/NethereumBlazor) - Ethereum blockchain explorer and simple wallet.
 * [Oqtane Framework](https://github.com/oqtane/oqtane.framework) - Modular Application Framework for Blazor.
+* [Pattern Maker](https://github.com/sapsari/website-blazor-demo) - C# code transformation demo that uses Roslyn and Monaco Editor. [Demo](https://patternmaker.netlify.com/).
 * [Runny](https://github.com/Suchiman/Runny) - Prototype of running roslyn in the browser via Blazor. [Demo](https://runny.azurewebsites.net/).
 * [Rudder Example](https://github.com/kjeske/rudder-example) - Sample application using Rudder state container for Blazor.
 * [StarshipTraveler](https://github.com/rstropek/StarshipTraveler) - A starship traveler demo app built with Blazor for the DevOne 2019 conference.
