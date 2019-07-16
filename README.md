@@ -51,7 +51,7 @@ Recommanded: [Visual Studio 2019 Preview](https://visualstudio.microsoft.com/) a
 
 ## Sample Projects
 ### CMS
-* [WordDaze](https://github.com/chrissainty/worddaze) - Blogging application written using Blazor with a WebAPI backend.
+* [WordDaze](https://github.com/chrissainty/worddaze) (26:star) - Blogging application written using Blazor with a WebAPI backend.
 * [BlogCore](https://github.com/thangchung/blog-core) - Modern CMS on Domain-driven Design and Clean Architecture patterns.
 ### Games
 * [AsteroidsWasm](https://github.com/aesalazar/AsteroidsWasm) - A mixed bag of C# projects to see if a single .NET Standard base can run across all common platforms include WebAssembly. [Demo](https://aesalazar.github.io/AsteroidsWasm/).
