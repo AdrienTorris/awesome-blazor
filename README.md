@@ -284,6 +284,7 @@ Recommanded: [Visual Studio 2019 Preview](https://visualstudio.microsoft.com/) a
 ## Articles
 * [Authentication in server-side Blazor applications](https://gunnarpeipman.com/blazor/server-side-blazor-authentication/) - July 17, 2019 - Authentication in server-side Blazor applications.
 * [Authentication with client-side Blazor using WebAPI and ASP.NET Core Identity](https://chrissainty.com/securing-your-blazor-apps-authentication-with-clientside-blazor-using-webapi-aspnet-core-identity/) - July 10, 2019 - Authentication with client-side Blazor using WebAPI and ASP.NET Core Identity.
+* [Bringing your Blazor apps to the Desktop with ElectronNET.Blazor](https://medium.com/cloudnimble/bringing-your-blazor-apps-to-the-desktop-with-electronnet-blazor-67701bff82f7) - July 8, 2019 - Harness the power of ASP.NET MVC to build Desktop apps that run on any OS.
 * [Creating DEV's offline page using Blazor](https://dev.to/azure/creating-dev-s-offline-page-using-blazor-29dl) - July 5, 2019 - Creating DEV's offline page using Blazor.
 * [Introduction to Authentication with Blazor](https://chrissainty.com/securing-your-blazor-apps-introduction-to-authentication-with-blazor/) - July 3, 2019 - Introduction to Authentication with Blazor.
 * [Configuring a Server-side Blazor app with Azure App Configuration](https://devblogs.microsoft.com/aspnet/configuring-a-server-side-blazor-app-with-azure-app-configuration/) - July 1, 2019 - Configuring a Server-side Blazor app with Azure App Configuration.
