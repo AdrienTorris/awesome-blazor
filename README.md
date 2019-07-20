@@ -147,7 +147,7 @@ Recommanded: [Visual Studio 2019 Preview](https://visualstudio.microsoft.com/) a
 *Reusable components like buttons, inputs, grids and more.*
 * [MatBlazor](https://github.com/SamProf/MatBlazor) (340:star:) - Material Design components for Blazor. ([Demo](https://www.matblazor.com/)).
 * [BlazorStrap](https://github.com/chanan/BlazorStrap) (226:star:) - Bootstrap 4 components for Blazor ([Demo](https://chanan.github.io/BlazorStrap/)).
-* [Blazorise](https://github.com/stsrki/Blazorise) (200:star:) - Components for Blazor with support for Bootstrap, Bulma and Material CSS. ([Demo](https://bootstrapdemo.blazorise.com/))
+* [Blazorise](https://github.com/stsrki/Blazorise) (200:star:) - Components for Blazor with support for Bootstrap, Bulma and Material CSS. ([Demo](https://bootstrapdemo.blazorise.com/)).
 * [BlazorMaterial](https://github.com/BlazorExtensions/BlazorMaterial) (103:star:) - Blazor components implementing Google's Material components for web.
 * [Canvas](https://github.com/BlazorExtensions/Canvas) (92:star:) - HTML5 Canvas API implementation for Microsoft Blazor.
 * [BlazorContextMenu](https://github.com/stavroskasidis/BlazorContextMenu) (86:star:) - A context menu component for Blazor ([Demo](https://blazor-context-menu-demo.azurewebsites.net/)).
