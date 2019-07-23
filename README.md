@@ -183,51 +183,51 @@ Recommanded: [Visual Studio 2019 Preview](https://visualstudio.microsoft.com/) a
 * [Blazor.Validation.DataAnnotation](https://github.com/RemiBou/Blazor.Validation.DataAnnotation) - Library for validating form on a Blazor application using Data Annotation.
 ### Tools & Utilities
 *Libraries and extensions for state management, cookies, local storage and other specific tools.*
-* [Logging](https://github.com/BlazorExtensions/Logging) - Microsoft Extension Logging implementation for Blazor.
-* [Notifications](https://github.com/BlazorExtensions/Notifications) - HTML5 Notifications API implementation for Microsoft Blazor.
-* [SignalR](https://github.com/BlazorExtensions/SignalR) - SignalR Core implementation for Blazor. It uses the JavaScript client.
-* [Storage](https://github.com/BlazorExtensions/Storage) - HTML5 Storage API implementation for Microsoft Blazor.
-* [Blazored.LocalStorage](https://github.com/chrissainty/BlazoredLocalStorage) - Local storage for Blazor applications.
+* [Blazor-Redux](https://github.com/torhovland/blazor-redux) (330:star:) - Connecting a Redux state store with Blazor.
+* [SignalR](https://github.com/BlazorExtensions/SignalR) (90:star:) - SignalR Core implementation for Blazor. It uses the JavaScript client.
+* [Blazor-Fluxor](https://github.com/mrpmorris/blazor-fluxor) (87:star:) - A low-boilerplate Flux/Redux state library for Blazor.
+* [Logging](https://github.com/BlazorExtensions/Logging) (72:star:) - Microsoft Extension Logging implementation for Blazor.4
+* [Storage](https://github.com/BlazorExtensions/Storage) (71:star:) - HTML5 Storage API implementation for Microsoft Blazor.
+* [Blazor-State](https://github.com/TimeWarpEngineering/blazor-state) (68:star:) - Manage client side state in Blazor using MediatR pipeline.
+* [BlazorSignalR](https://github.com/csnewman/BlazorSignalR) (45:star:) - SignalR Core .NET client library for Blazor. It uses the C# client.
+* [Notifications](https://github.com/BlazorExtensions/Notifications) (28:star:) - HTML5 Notifications API implementation for Microsoft Blazor.
+* [Blazor.Polyfill](https://github.com/Daddoon/Blazor.Polyfill) (25:star:) - Polyfills for Blazor (for Internet Explorer 11 support and some other browsers).
+* [Blazor I18n/Localization Text](https://github.com/jsakamoto/Toolbelt.Blazor.I18nText) (16:star:) - Localizing contents text in Blazor ([Demo](https://jsakamoto.github.io/Toolbelt.Blazor.I18nText/)).
+* [Blazor.Geolocation](https://github.com/AspNetMonsters/Blazor.Geolocation) (13:star:) - Blazor interop for browers Geolocation apis.
+* [Blazor Svg Helper](https://github.com/Lupusa87/BlazorSvgHelper) (10:star:) - Create SVG elements with children (circle, rectangle, image, text, and others) and render with RenderTreeBuilder.
 * [Blazored.Localisation](https://github.com/Blazored/Localisation) - A library to provide localisation in client-side Blazor applications.
 * [BlazorPrettyCode](https://github.com/chanan/BlazorPrettyCode) - Blazor Code Component for documentation sites. [Demo](https://chanan.github.io/BlazorPrettyCode/).
 * [Blazor Analytics](https://github.com/isc30/blazor-analytics) - Blazor extensions for Analytics.
-* [Blazor BarCode](https://barcoderesource.com/blazorbarcode.shtml) &ndash; A barcode library for Blazor using barcode fonts.
-* [Blazor Svg Helper](https://github.com/Lupusa87/BlazorSvgHelper) - Create SVG elements with children (circle, rectangle, image, text, and others) and render with RenderTreeBuilder.
-* [Blazor I18n/Localization Text](https://github.com/jsakamoto/Toolbelt.Blazor.I18nText) - Localizing contents text in Blazor ([Demo](https://jsakamoto.github.io/Toolbelt.Blazor.I18nText/)).
 * [BlazorDB](https://github.com/chanan/BlazorDB) - In-memory, persisted to local storage, database for Blazor.
 * [Blazor Time Zone Kit](https://github.com/jsakamoto/Toolbelt.Blazor.TimeZoneKit) - A library to provide system time zones and local time zone initialization in Blazor apps.
 * [BlazorStorage](https://github.com/cloudcrate/BlazorStorage) - Local and session storage support for Blazor.
 * [EmbeddedBlazorContent](https://github.com/SamProf/EmbeddedBlazorContent) - Library to load embedded content files (js and css) from Blazor libraries in server-side Blazor mode.
 * [Blazor.EventAggregator](https://github.com/mikoskinen/Blazor.EventAggregator) - Lightweight Event Aggregator for Blazor (Razor Components).
-* [Blazor-Fluxor](https://github.com/mrpmorris/blazor-fluxor) - A low-boilerplate Flux/Redux state library for Blazor.
-* [Blazor-Redux](https://github.com/torhovland/blazor-redux) - Connecting a Redux state store with Blazor.
-* [Blazor-State](https://github.com/TimeWarpEngineering/blazor-state) - Manage client side state in Blazor using MediatR pipeline.
 * [Blazor.Auth0](https://github.com/Pegazux/Blazor.Auth0) - Library for Blazor authentication with OIDC Authorization Code-Grant and Implicit-Grant flows, using Auth0's Universal Login and Silent Login.
 * [Blazor Gamepad](https://github.com/jsakamoto/Toolbelt.Blazor.Gamepad) - Provides gamepad API access for Blazor.
 * [Blazor Hotkeys](https://github.com/jsakamoto/Toolbelt.Blazor.Hotkeys) - A library to provide configuration-centric keyboard shortcuts for Blazor.
 * [CssBuilder](https://github.com/EdCharbeneau/CssBuilder) - CssBuilder is a Builder pattern for CSS classes to be used with Razor Components.
-* [Blazor.Geolocation](https://github.com/AspNetMonsters/Blazor.Geolocation) - Blazor interop for browers Geolocation apis.
 * [BlazorRealm](https://dworthen.github.io/BlazorRealm/docs/quickstart.html) - Redux state management for Blazor.
 * [Blazor.LocalFiles](https://github.com/jburman/W8lessLabs.Blazor.LocalFiles) - Open files in your browser and load into Blazor.
 * [Blazor.Payments](https://github.com/philipblaquiere/Blazor.Payments) - Blazor Web Agent port of the Web Payment API standard developed by W3C .
-* [Blazor.Polyfill](https://github.com/Daddoon/Blazor.Polyfill) - Polyfills for Blazor (for Internet Explorer 11 support and some other browsers).
 * [Blazor.Sensors](https://github.com/AspNetMonsters/Blazor.Sensors) - Blazor interop for browers sensor apis.
-* [BlazorSignalR](https://github.com/csnewman/BlazorSignalR) - SignalR Core .NET client library for Blazor. It uses the C# client.
 * [Rudder](https://github.com/kjeske/rudder) - Efficient state container for Blazor with concepts similar to the ones in redux, including reducers and sagas.
 * [BlazorIntersectionObserver](https://github.com/ljbc1994/BlazorIntersectionObserver) - A Blazor wrapper for the Intersection Observer API.
 * [Blazor.SpeechSynthesis](https://github.com/jsakamoto/Toolbelt.Blazor.SpeechSynthesis) - A library to provide Speech Synthesis API access for Blazor.
+* [Blazor BarCode](https://barcoderesource.com/blazorbarcode.shtml) &ndash; A barcode library for Blazor using barcode fonts.
+* [Blazored.LocalStorage](https://github.com/chrissainty/BlazoredLocalStorage) - [Archived] Local storage for Blazor applications.
 ### Others
 * [Blazor Extensions Home](https://github.com/BlazorExtensions/Home) - Home for Blazor Extensions.
+* [Bolero](https://github.com/fsbolero/Bolero) (254:star:) - Blazor for F# with hot reloaded templates, type-safe endpoints and routing, remoting, and much more.
+* [BlazorMobile](https://github.com/Daddoon/BlazorMobile) (61:star:) - Launch Blazor application as a standalone application.
+* [NObservable](https://github.com/kekekeks/NObservable) (37:star:) - MobX-like observables and component instrumentation.
+* [Blazor-Dashboard](https://github.com/Misfits-Rebels-Outcasts/Blazor-Dashboard) (24:star:) - Admin Dashboard Template Theme for Blazor.
+* [BlazorOfficeUIFabric](https://github.com/BlazorExtensions/BlazorOfficeUIFabric) (21:star:) - Microsoft Office Fabric UI port for Blazor.
+* [WebSocketHelper](https://github.com/Lupusa87/BlazorWebSocketHelper) (12:star:) - Helper for Web Socket in Blazor.
 * [Bionic](https://bionicframework.github.io/Documentation/) - An Ionic CLI clone for Blazor projects.
-* [Blazor-Dashboard](https://github.com/Misfits-Rebels-Outcasts/Blazor-Dashboard) - Admin Dashboard Template Theme for Blazor.
-* [Blazor.Xamarin](https://github.com/Daddoon/Blazor.Xamarin) - A Xamarin template for launch and interop a Blazor app on mobile.
 * [BlazorEmbedLibrary](https://github.com/SQL-MisterMagoo/BlazorEmbedLibrary) - Provides Blazor-style embedded static content files for Razor Components projects.
 * [BlazorFabric](https://github.com/limefrogyank/BlazorFabric) - Blazor port of Microsoft UI Fabric with fluent design. ([Demo](https://blazorfabric.azurewebsites.net/)).
 * [BlazorFileSaver](https://github.com/IvanJosipovic/BlazorFileSaver) - Blazor Component wrapper for FileSaver.js. 
-* [BlazorOfficeUIFabric](https://github.com/BlazorExtensions/BlazorOfficeUIFabric) - Microsoft Office Fabric UI port for Blazor.
-* [Bolero](https://github.com/fsbolero/Bolero) - Blazor for F# with hot reloaded templates, type-safe endpoints and routing, remoting, and much more.
-* [NObservable](https://github.com/kekekeks/NObservable) - MobX-like observables and component instrumentation.
-* [WebSocketHelper](https://github.com/Lupusa87/BlazorWebSocketHelper) - Helper for Web Socket in Blazor.
 
 ## Videos
 * [Reporting with a CSS grid and converting to Blazor Client-Side technology](https://www.twitch.tv/videos/455920947) - July 21, 2019 - Reporting with a CSS grid and converting to Blazor Client-Side technology.
