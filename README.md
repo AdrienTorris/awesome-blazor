@@ -285,6 +285,7 @@ Recommanded: [Visual Studio 2019 Preview](https://visualstudio.microsoft.com/) a
 * [Archives of 2017](https://github.com/AdrienTorris/awesome-blazor/blob/master/Archives/2017.md#videos)
 
 ## Articles
+* [ASP.NET Core and Blazor updates in .NET Core 3.0 Preview 7](https://devblogs.microsoft.com/aspnet/asp-net-core-and-blazor-updates-in-net-core-3-0-preview-7/) - July 23, 2019 - ASP.NET Core and Blazor updates in .NET Core 3.0 Preview 7.
 * [Configuring Role-based Authorization with client-side Blazor](https://chrissainty.com/securing-your-blazor-apps-configuring-role-based-authorization-with-client-side-blazor/) - July 23, 2019 - Configuring Role-based Authorization with client-side Blazor.
 * [Exploring authentication in Blazor](https://www.oqtane.org/Resources/Blog/PostId/527/exploring-authentication-in-blazor) - July 22, 2019 - Exploring authentication in Blazor.
 * [How to Dynamically Build the UI in Blazor Components](https://visualstudiomagazine.com/articles/2019/07/19/how-to-dynamically-build.aspx) - July 22, 2019 - You have two tools for generating your initial UI in a Blazor component: ASP.NET's Razor and Blazor's RenderFragment. Here's how to use both to integrate with your C# code (and a warning about what you can't do).
