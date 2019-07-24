@@ -147,7 +147,7 @@ Recommanded: [Visual Studio 2019 Preview](https://visualstudio.microsoft.com/) a
 ### Components
 *Reusable components like buttons, inputs, grids and more.*
 * [MatBlazor](https://github.com/SamProf/MatBlazor) (340:star:) - Material Design components for Blazor. ([Demo](https://www.matblazor.com/)).
-* [BlazorStrap](https://github.com/chanan/BlazorStrap) (226:star:) - Bootstrap 4 components for Blazor ([Demo](https://chanan.github.io/BlazorStrap/)).
+* [BlazorStrap](https://github.com/chanan/BlazorStrap) (226:star:) - Bootstrap 4 components for Blazor ([Demo](https://blazorstrap.io/)).
 * [Blazorise](https://github.com/stsrki/Blazorise) (200:star:) - Components for Blazor with support for Bootstrap, Bulma and Material CSS. ([Demo](https://bootstrapdemo.blazorise.com/)).
 * [BlazorMaterial](https://github.com/BlazorExtensions/BlazorMaterial) (103:star:) - Blazor components implementing Google's Material components for web.
 * [Canvas](https://github.com/BlazorExtensions/Canvas) (92:star:) - HTML5 Canvas API implementation for Microsoft Blazor.
@@ -155,7 +155,7 @@ Recommanded: [Visual Studio 2019 Preview](https://visualstudio.microsoft.com/) a
 * [DevExpress Blazor UI Components](https://github.com/DevExpress/RazorComponents) (66:star:) - UI components including Data Grid, Pivot Grid, and several data editors.
  * [NodaTimePicker](https://github.com/nheath99/NodaTimePicker) (20:star:) - A Date/Time picker component library for Blazor using NodaTime. [Demo](https://nodatimepicker.azurewebsites.net/).
  * [Radzen.Blazor](https://github.com/akorchev/razor.radzen.com/) (20:star:) - Native UI components for Blazor. DataGrid, DataList, Tabs, Dialog and more. ([Demo](https://razor.radzen.com/)).
-* [BlazorStyled](https://github.com/chanan/BlazorStyled) (18:star:) - CSS in Blazor Components ([Demo](https://chanan.github.io/BlazorStyled)).
+* [BlazorStyled](https://github.com/chanan/BlazorStyled) (18:star:) - CSS in Blazor Components ([Demo](https://blazorstyled.io/)).
 * [BlazorBits](https://github.com/BlazorBits/BlazorBits) - Components including [Monaco editor](https://github.com/Microsoft/monaco-editor).
 * [BlazorVirtualGrid](https://github.com/Lupusa87/BlazorVirtualGrid) - Reusable, fully configurable component with rows and columns fast virtualization ([Demo](https://lupblazorvirtualgrid.z13.web.core.windows.net/)).
 * [BlazorVirtualScrolling](https://github.com/SamProf/BlazorVirtualScrolling) - Virtual Scrolling Component for Blazor
