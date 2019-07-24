@@ -230,6 +230,7 @@ Recommanded: [Visual Studio 2019 Preview](https://visualstudio.microsoft.com/) a
 * [BlazorFileSaver](https://github.com/IvanJosipovic/BlazorFileSaver) - Blazor Component wrapper for FileSaver.js. 
 
 ## Videos
+* [Why use Blazor?](https://clips.twitch.tv/WealthyDeliciousNeanderthalPhilosoraptor) - July 24, 2019 - Why use Blazor? Live on Twitch by Jeffrey T. Fritz.
 * [Reporting with a CSS grid and converting to Blazor Client-Side technology](https://www.twitch.tv/videos/455920947) - July 21, 2019 - Reporting with a CSS grid and converting to Blazor Client-Side technology.
 * [Razor: Into the Razor'verse](https://www.youtube.com/watch?v=cQeSTdgmPGQ) - July 19, 2019 - The Razor template markup syntax is used throughout ASP.NET. In the next version of ASP.NET, Core Razor is evolving into multiple Razor adaptations such as Razor Tag Helpers, Razor Pages, Blazor, and Razor Components . Learn in this video the key differences between theses variations and see where they align in the ASP.NET road map.
 * [Blazor Workshop!](https://www.twitch.tv/videos/454955014) - July 19, 2019 - Blazor Workshop! Learn about WebAssembly and C# in this all day event.
