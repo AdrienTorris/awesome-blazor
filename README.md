@@ -55,7 +55,7 @@ Here is the documentation of Microsoft, [Get started](https://docs.microsoft.com
 
 ## Sample Projects
 ### CMS
-* [BlogCore](https://github.com/thangchung/blog-core) (149:star:)  - Modern CMS on Domain-driven Design and Clean Architecture patterns.
+* [BlogCore](https://github.com/thangchung/blog-core) (149:star:) [!(http://githubbadges.com/star.svg?user=thangchung&repo=blog-core&style=flat)] - Modern CMS on Domain-driven Design and Clean Architecture patterns.
 * [WordDaze](https://github.com/chrissainty/worddaze) (28:star:)  - Blogging application written using Blazor with a WebAPI backend.
 ### Games
 * [AsteroidsWasm](https://github.com/aesalazar/AsteroidsWasm) (26:star:)  - A mixed bag of C# projects to see if a single .NET Standard base can run across all common platforms include WebAssembly. [Demo](https://aesalazar.github.io/AsteroidsWasm/).
