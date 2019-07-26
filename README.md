@@ -60,9 +60,9 @@ Here is the documentation of Microsoft, [Get started](https://docs.microsoft.com
 ### Games
 * [AsteroidsWasm](https://github.com/aesalazar/AsteroidsWasm) [![](http://githubbadges.com/star.svg?user=aesalazar&repo=AsteroidsWasm&style=flat)](https://github.com/aesalazar/AsteroidsWasm) - A mixed bag of C# projects to see if a single .NET Standard base can run across all common platforms include WebAssembly. [Demo](https://aesalazar.github.io/AsteroidsWasm/).
 * [BlazorQuiz](https://github.com/Amine-Smahi/BlazorQuiz) [![](http://githubbadges.com/star.svg?user=Amine-Smahi&repo=BlazorQuiz&style=flat)]() - Simple quiz using Blazor.NET and WebAssembly.
-* [BlazorChess](https://github.com/Lupusa87/BlazorChess) (9:star:) - Chess engine implemented with Blazor. [Demo](https://lupblazorchess.z20.web.core.windows.net/).
-* [Blagario](https://github.com/ctrl-alt-d/Blagario) (5:star:) - Experimental lab to test blazor server side as multiplayer game engine with no canvas (just blazor, html and css). Collaborations are welcome. Scaffolding status.
-* [Tzaar](https://github.com/paularundel/tzaar) (4:star:) - Implementation of the board game Tzaar with Blazor and SignalR. [Demo](https://tzaar.azurewebsites.net/).
+* [BlazorChess](https://github.com/Lupusa87/BlazorChess) - Chess engine implemented with Blazor. [Demo](https://lupblazorchess.z20.web.core.windows.net/).
+* [Blagario](https://github.com/ctrl-alt-d/Blagario) - Experimental lab to test blazor server side as multiplayer game engine with no canvas (just blazor, html and css). Collaborations are welcome. Scaffolding status.
+* [Tzaar](https://github.com/paularundel/tzaar) - Implementation of the board game Tzaar with Blazor and SignalR. [Demo](https://tzaar.azurewebsites.net/).
 * [BlazorGameSnake](https://github.com/Lupusa87/BlazorGameSnake) - 2D game snake with customizations, path finding algorithm, and sound effects using SVG. [Demo](https://lupblazorsnake.z20.web.core.windows.net/).
 * [Blazor20Questions](https://github.com/MetalMichael/blazor-20-questions) - Client/Server game using Websockets (SignalR) & MongoDB API, with Docker (docker-compose).
 * [BlazorDestinationGame](https://github.com/SharePointSean/BlazorDestinationGame) - Quizz about places in the world. [Demo](https://blazordestinationgame.azurewebsites.net/).
@@ -106,7 +106,7 @@ Here is the documentation of Microsoft, [Get started](https://docs.microsoft.com
 * [Blazor Spreadsheet](https://github.com/Lupusa87/BlazorSpreadsheet) - Spreadsheet app developed in Blazor. [Demo](https://lupblazorspreadsheet.z20.web.core.windows.net/).
 * [Client-side RealWorld](https://github.com/burke166/blazor-client-side-realworld-example-app) - [RealWorld](https://github.com/gothinkster/realworld) (29534:star:) implementation of Blazor Client-Side. [Demo](https://blazorclientside.computercodeblue.com).
 * [BlazorClockSVG](https://github.com/Lupusa87/BlazorClockSVG) - Complex clock based on SVG. [Demo](https://lupblazorclocksvg.z20.web.core.windows.net/).
-* [Server-side RealWorld](https://github.com/burke166/blazor-server-side-realworld-example-app) (1:star: - [RealWorld](https://github.com/gothinkster/realworld) (29534:star:) implementation of Blazor Server-Side. [Demo](https://blazorserverside.computercodeblue.com).
+* [Server-side RealWorld](https://github.com/burke166/blazor-server-side-realworld-example-app) - [RealWorld](https://github.com/gothinkster/realworld) implementation of Blazor Server-Side. [Demo](https://blazorserverside.computercodeblue.com).
 * [BlazorPasswordPattern](https://github.com/Lupusa87/BlazorPasswordPattern) - Password pattern based on SVG. [Demo](https://lupblazorpasswordpattern.z20.web.core.windows.net/).
 * [BlazorRawHtmlRenderer](https://github.com/Lupusa87/BlazorRawHtmlRenderer) - Raw HTML rendering with Blazor. [Demo](https://lupblazorrawhtml.z20.web.core.windows.net/).
 * [BlazePort](https://github.com/EdCharbeneau/BlazePort) - A futuristic ride share app for space travel written in full stack .NET with Blazor.
@@ -164,6 +164,7 @@ Here is the documentation of Microsoft, [Get started](https://docs.microsoft.com
 * [Blazored.Modal](https://github.com/Blazored/Modal) (42:star:) - A JavaScript free modal library for Blazor and Razor Components applications.
  * [Syncfusion Blazor UI Components](https://github.com/syncfusion/ej2-aspnet-core-blazor-samples) (37:star:) - Robust UI components including [Data Grid](https://ej2.syncfusion.com/aspnet-core-razor-components/Grid/DefaultFunctionalities), [Charts](https://ej2.syncfusion.com/aspnet-core-razor-components/Charts/polar), [Scheduler](https://ej2.syncfusion.com/aspnet-core-razor-components/Schedule/TimelineResourceGroup), [Inputs](https://ej2.syncfusion.com/aspnet-core-razor-components/TextBox/DefaultFunctionalities) and several [Editor](https://ej2.syncfusion.com/aspnet-core-razor-components/RichTextEditor/DefaultFunctionalities) components.
 * [BlazorGrid](https://github.com/AnkitSharma-007/BlazorGrid) (34:star:) - This is a reusable grid component for Blazor which also supports client side pagination.
+ * [Sotsera.Blazor.Toaster](https://github.com/sotsera/sotsera.blazor.toaster) (34:star:) - A Blazor port of Toastr.js. [Demo](https://blazor-toaster.sotsera.com/).
 * [Blazor LoadingBar](https://github.com/jsakamoto/Toolbelt.Blazor.LoadingBar) (31:star:) - Loading bar UI for Client-Side Blazor application.
 * [Blazor-Charts](https://github.com/Misfits-Rebels-Outcasts/Blazor-Charts) (25:star:) - SVG charts for Blazor.
 * [Grid.Blazor](https://github.com/gustavnavar/Grid.Blazor) (22:star:) - Grid component for Blazor and ASP.NET MVC, supporting filtering, sorting, searching, paging, subgrids and others ([Demo](http://gridblazor.azurewebsites.net)).
@@ -178,11 +179,10 @@ Here is the documentation of Microsoft, [Get started](https://docs.microsoft.com
  ([Demo](https://samprof.github.io/BlazorVirtualScrolling/)).
  * [BlazorScrollbar](https://github.com/Lupusa87/BlazorScrollbar) - Reusable, fully configurable component with vertical and horizontal scrollbars ([Demo](https://lupblazorscrollbar.z20.web.core.windows.net/)).
  * [BlazorSplitter](https://github.com/Lupusa87/BlazorSplitter) - Reusable, fully configurable component with vertical and horizontal splitters and diagonal resizer ([Demo](https://lupblazorsplitter.z20.web.core.windows.net/)).
- * [Sotsera.Blazor.Toaster](https://github.com/sotsera/sotsera.blazor.toaster) (34:star:) - A Blazor port of Toastr.js. [Demo](https://blazor-toaster.sotsera.com/).
  * [BlazorConfirm](https://github.com/ctrl-alt-d/BlazorConfirm) - A Blazor Wrapper for JS's `Window.confirm()` and `onbeforeunload` as .Net Blazor Component ([Demo](https://ctrl-alt-d.github.io/BlazorConfirm/)).
  * [BlazorQuery](https://github.com/kevinjpetersen/BlazorQuery) - jQuery for Blazor (Blazor Library that wraps jQuery completely in C# for use in Blazor).
  * [Telerik UI for Blazor](https://www.telerik.com/blazor-ui) - A native set of UI components for Blazor, including grid, charting, and calendar components.
-* [TwitterShareButton](https://github.com/jsakamoto/Toolbelt.Blazor.TwitterShareButton) (1:star:) - A Tweet Button component for Blazor.
+* [TwitterShareButton](https://github.com/jsakamoto/Toolbelt.Blazor.TwitterShareButton) - A Tweet Button component for Blazor.
 * [Flexor](https://github.com/DerekChasse/Flexor) - Highly configurable components which let you take full advantage of Flexbox CSS.([Demo](http://flexor.azurewebsites.net/)).
 * [Blazor.Validation.DataAnnotation](https://github.com/RemiBou/Blazor.Validation.DataAnnotation) - Library for validating form on a Blazor application using Data Annotation.
 ### Tools & Utilities
