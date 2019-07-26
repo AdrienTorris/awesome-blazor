@@ -61,81 +61,81 @@ Here is the documentation of Microsoft, [Get started](https://docs.microsoft.com
 * [AsteroidsWasm](https://github.com/aesalazar/AsteroidsWasm) (26:star:)  - A mixed bag of C# projects to see if a single .NET Standard base can run across all common platforms include WebAssembly. [Demo](https://aesalazar.github.io/AsteroidsWasm/).
 * [BlazorQuiz](https://github.com/Amine-Smahi/BlazorQuiz) (18:star:)  - Simple quiz using Blazor.NET and WebAssembly.
 * [BlazorChess](https://github.com/Lupusa87/BlazorChess) (9:star:) - Chess engine implemented with Blazor. [Demo](https://lupblazorchess.z20.web.core.windows.net/).
-* [BlazorGameSnake](https://github.com/Lupusa87/BlazorGameSnake) (3:star:) - 2D game snake with customizations, path finding algorithm, and sound effects using SVG. [Demo](https://lupblazorsnake.z20.web.core.windows.net/).
-* [BlazorDestinationGame](https://github.com/SharePointSean/BlazorDestinationGame) (1:star:) - Quizz about places in the world. [Demo](https://blazordestinationgame.azurewebsites.net/).
 * [Blagario](https://github.com/ctrl-alt-d/Blagario) (5:star:) - Experimental lab to test blazor server side as multiplayer game engine with no canvas (just blazor, html and css). Collaborations are welcome. Scaffolding status.
-* [Blazor20Questions](https://github.com/MetalMichael/blazor-20-questions) (2:star:) - Client/Server game using Websockets (SignalR) & MongoDB API, with Docker (docker-compose).
-* [BlazorDice](https://github.com/shahedc/BlazorDemos/tree/master/BlazorDice) - Roll the dice.
 * [Tzaar](https://github.com/paularundel/tzaar) (4:star:) - Implementation of the board game Tzaar with Blazor and SignalR. [Demo](https://tzaar.azurewebsites.net/).
+* [BlazorGameSnake](https://github.com/Lupusa87/BlazorGameSnake) (3:star:) - 2D game snake with customizations, path finding algorithm, and sound effects using SVG. [Demo](https://lupblazorsnake.z20.web.core.windows.net/).
+* [Blazor20Questions](https://github.com/MetalMichael/blazor-20-questions) (2:star:) - Client/Server game using Websockets (SignalR) & MongoDB API, with Docker (docker-compose).
+* [BlazorDestinationGame](https://github.com/SharePointSean/BlazorDestinationGame) (1:star:) - Quizz about places in the world. [Demo](https://blazordestinationgame.azurewebsites.net/).
+* [BlazorDice](https://github.com/shahedc/BlazorDemos/tree/master/BlazorDice) - Roll the dice.
 ### ToDos
 * [BlazorTasks](https://github.com/BorowskiKamil/blazor-tasks) (21:star:)  - To-Do App.
 * [Bolero.TodoMVC](https://github.com/fsbolero/TodoMVC) (17:star:)  - A TodoMVC clone using Bolero.
 * [BlazorAdvancedTodo](https://github.com/EdCharbeneau/BlazorAdvancedTodo) (3:star:) - A Blazor to-do app with state and undo function.
 ### Others
 * [Flight Finder](https://github.com/aspnet/samples/tree/master/samples/aspnetcore/blazor) (419:star:) - Flight Finder.
+* [Oqtane Framework](https://github.com/oqtane/oqtane.framework) (161:star:) - Modular Application Framework for Blazor.
 * [BlazorElectronExperiment](https://github.com/SteveSandersonMS/BlazorElectronExperiment.Sample) (152:star:)  [Archived] - Exploring how a Blazor could be used to build a cross-platform desktop application using [Electron](https://electronjs.org/).
-* [BlazeDown](https://github.com/EdCharbeneau/BlazeDown) (46:star:)  - BlazeDown, online Markdown editor. [Demo](https://edcharbeneau.com/BlazeDown/).
+* [Toss.Blazor](https://github.com/RemiBou/Toss.Blazor) (75:star:) - Twitter-like web application using Blazor.
+* [BlazorMobile](https://github.com/Daddoon/BlazorMobile) (64:star:) - Launch a Blazor application as a standalone application.
+* [Blazor.Xamarin](https://github.com/Appizeo/Blazor.Xamarin) (64:star:) - A Xamarin template for launch and interop a Blazor app on mobile.
 * [BlazorFileReader](https://github.com/Tewr/BlazorFileReader) (54:star:)  - Read-only File streams in Blazor. [Demo](https://tewr.github.io/BlazorFileReader/).
+* [BlazorBoilerplate](https://github.com/enkodellc/blazorboilerplate) (51:star:) - Admin Dashboard / Starter Template with IdentityServer4, MatBlazer for Material Design.
+* [BlazeDown](https://github.com/EdCharbeneau/BlazeDown) (46:star:)  - BlazeDown, online Markdown editor. [Demo](https://edcharbeneau.com/BlazeDown/).
+* [Tour of Heroes](https://github.com/lohithgn/blazor-tour-of-heroes) (39:star:) - Blazor implementation of Angular Tour of Heroes.
+* [BlazorChatSample](https://github.com/conficient/blazorchatsample) (38:star:) - Blazor chat demo using SignalR JS client with interop.
+* [BlazorWithIdentity](https://github.com/stavroskasidis/BlazorWithIdentity) (36:star:) - A sample project showcasing a Blazor app using EF Core with Identity authentication.
+* [Blazor.Toaster](https://github.com/sotsera/sotsera.blazor.toaster) (34:star:) - A Blazor port of Toastr.js.
 * [Runny](https://github.com/Suchiman/Runny) (29:star:)  - Prototype of running roslyn in the browser via Blazor. [Demo](https://runny.azurewebsites.net/).
+* [Gitter](https://github.com/Blazored/Gitter) (19:star:) - A Blazor Gitter client.
+* [NethereumBlazor](https://github.com/Nethereum/NethereumBlazor) (16:star:) - Ethereum blockchain explorer and simple wallet.
 * [Try F# on WebAssembly](https://github.com/fsbolero/TryFSharpOnWasm) (16:star:)  - The F# compiler running in WebAssembly with Bolero.
 * [BlazingPizza (server side)](https://github.com/ADefWebserver/BlazingPizza) (15:star:)  - A server side Blazor version of the Blazing Pizza project from the [Blazor - app building workshop](https://github.com/dotnet-presentations/blazor-workshop/).
+* [BlazorGraphExample](https://github.com/jburman/BlazorGraphExample) (13:star:) - Example application for connecting to Graph API from Blazor.
 * [Blazor.JWTTest](https://github.com/shawty/blazor.jwttest) (12:star:)  - JWT authentication for a blazor hosted (Client/Serverside) app with API and Authentication.
+* [WebSocketPage](https://github.com/Lupusa87/BlazorWebSocketHelper) (12:star:) - Web Socket in Blazor. [demo](https://lupblazordemos.z13.web.core.windows.net/WebSocketPage).
+* [StarshipTraveler](https://github.com/rstropek/StarshipTraveler) (12:star:) - A starship traveler demo app built with Blazor for the DevOne 2019 conference.
+* [Blazor Survey](https://github.com/nutshellit/Blazor-Survey) (12:star:) - A hybrid F#/C# blazor sample app to kick the tyres of
 * [BlazorDynamicList](https://github.com/conficient/BlazorDynamicList) (10:star:)  - Dynamic component binding for a generic list. [Demo](https://blazordynamiclist.azurewebsites.net/).
-* [Client-side RealWorld](https://github.com/burke166/blazor-client-side-realworld-example-app) (2:star:) - [RealWorld](https://github.com/gothinkster/realworld) (29534:star:) implementation of Blazor Client-Side. [Demo](https://blazorclientside.computercodeblue.com).
-* [Server-side RealWorld](https://github.com/burke166/blazor-server-side-realworld-example-app) (1:star:) - [RealWorld](https://github.com/gothinkster/realworld) (29534:star:) implementation of Blazor Server-Side. [Demo](https://blazorserverside.computercodeblue.com).
+* [Blazor + Sitecore](https://github.com/GoranHalvarsson/SitecoreBlazor) (10:star:) - Example of dynamic pages and routes with SiteCore and [Helix](https://helix.sitecore.net/). 
+* [BlazorServerTree](https://github.com/ctrl-alt-d/BlazorServerTree) (10:star:) - A simple Server-Side Blazor sample app to deal with hierarchical data.
+* [BlazorBinding](https://github.com/SQL-MisterMagoo/BlazorBinding) (10:star:) - Sample Blazor App demonstrating various data binding scenarios.
 * [BlazorClockCanvas](https://github.com/Lupusa87/BlazorClockCanvas) (3:star:) - Complex clock based on Canvas. [Demo](https://lupblazorclockcanvas.z20.web.core.windows.net/).
-* [BlazorClockSVG](https://github.com/Lupusa87/BlazorClockSVG) (2:star:) - Complex clock based on SVG. [Demo](https://lupblazorclocksvg.z20.web.core.windows.net/).
 * [Blazor Spreadsheet](https://github.com/Lupusa87/BlazorSpreadsheet) (3:star:) - Spreadsheet app developed in Blazor. [Demo](https://lupblazorspreadsheet.z20.web.core.windows.net/).
+* [Client-side RealWorld](https://github.com/burke166/blazor-client-side-realworld-example-app) (2:star:) - [RealWorld](https://github.com/gothinkster/realworld) (29534:star:) implementation of Blazor Client-Side. [Demo](https://blazorclientside.computercodeblue.com).
+* [BlazorClockSVG](https://github.com/Lupusa87/BlazorClockSVG) (2:star:) - Complex clock based on SVG. [Demo](https://lupblazorclocksvg.z20.web.core.windows.net/).
+* [Server-side RealWorld](https://github.com/burke166/blazor-server-side-realworld-example-app) (1:star:) - [RealWorld](https://github.com/gothinkster/realworld) (29534:star:) implementation of Blazor Server-Side. [Demo](https://blazorserverside.computercodeblue.com).
 * [BlazorPasswordPattern](https://github.com/Lupusa87/BlazorPasswordPattern) (1:star:) - Password pattern based on SVG. [Demo](https://lupblazorpasswordpattern.z20.web.core.windows.net/).
 * [BlazorRawHtmlRenderer](https://github.com/Lupusa87/BlazorRawHtmlRenderer) (1:star:) - Raw HTML rendering with Blazor. [Demo](https://lupblazorrawhtml.z20.web.core.windows.net/).
 * [BlazePort](https://github.com/EdCharbeneau/BlazePort) (6:star:) - A futuristic ride share app for space travel written in full stack .NET with Blazor.
 * [BlazorBeerCalculator](https://github.com/gpeipman/BlazorBeerCalculator) (2:star:) - Offline beer alc. vol. calculator built on Blazor. [Demo](https://gunnarpeipman.com/demos/blazoroffline/).
-* [BlazorBinding](https://github.com/SQL-MisterMagoo/BlazorBinding) (10:star:) - Sample Blazor App demonstrating various data binding scenarios.
-* [BlazorBoilerplate](https://github.com/enkodellc/blazorboilerplate) (51:star:) - Admin Dashboard / Starter Template with IdentityServer4, MatBlazer for Material Design.
 * [BlazorCalculator](https://github.com/Lupusa87/BlazorCalculator) (4:star:) - Simple calculator with history and ability to use previous results in new calculations. [Demo](https://lupblazorcalculator.z20.web.core.windows.net/).
 * [Blazor calculator with expressions](https://github.com/khaledmousa/BlazorCalculator) (1:star:) - A sample numerical expression evaluator in Blazor utilizing an F# library that uses FsLex and FsYacc to parse expressions. [Demo](https://khaledmousa.github.io/).
 * [Blazor Charts](https://github.com/SQL-MisterMagoo/Mister-Magoo-Goes-Charting) (8:star:) - Chart components for Blazor.
 * [Beam](https://github.com/Dedac/Beam) (9:star:) - A social network demo application. This is the source code of the LinkedIn course "Blazor First Look".
-* [BlazorChatSample](https://github.com/conficient/blazorchatsample) (38:star:) - Blazor chat demo using SignalR JS client with interop.
 * [Blazor Converters](https://github.com/lohithgn/blazor-converters) (3:star:) - Blazor Converters is simple converter app written using Blazor, influenced by Windows 10 Calculator.
 * [BlazorCRUD](https://github.com/thbst16/BlazorCrud) (9:star:) - Sample line of business application that illustrates key features of Blazor. [Demo](https://becksblazor.azurewebsites.net/).
 * [BlazorFormsValidation](https://github.com/Dallas411/BlazorFormsValidation) (1:star:) - Blazor form validation sample.
-* [BlazorGraphExample](https://github.com/jburman/BlazorGraphExample) (13:star:) - Example application for connecting to Graph API from Blazor.
-* [BlazorMobile](https://github.com/Daddoon/BlazorMobile) (64:star:) - Launch a Blazor application as a standalone application.
 * [BlazorPaint](https://github.com/Lupusa87/BlazorPaint) (8:star:) - A paint sample with Blazor ([demo](https://lupblazorpaint.z20.web.core.windows.net/)).
 * [BlazorPages](https://github.com/fernandreu/blazor-pages) (1:star:) - A sample client-side Blazor app showcasing automatic deployment to GitHub Pages via Azure Pipelines.
-* [BlazorServerTree](https://github.com/ctrl-alt-d/BlazorServerTree) (10:star:) - A simple Server-Side Blazor sample app to deal with hierarchical data.
 * [BlazorServiceWorker](https://github.com/roboriaan/BlazorServiceWorker) (3:star:) - A client-side Blazor template with service worker caching.
-* [Blazor Summernote](https://github.com/shawty/blazor.summernote) (2:star:) - Wrapper for the new MS Blazor framework, allowing the use of the Summernote Wysiwyg editor in a form.
-* [Blazor Survey](https://github.com/nutshellit/Blazor-Survey) (12:star:) - A hybrid F#/C# blazor sample app to kick the tyres of blazor.
-* [Blazor.Toaster](https://github.com/sotsera/sotsera.blazor.toaster) (34:star:) - A Blazor port of Toastr.js.
+* [Blazor Summernote](https://github.com/shawty/blazor.summernote) (2:star:) - Wrapper for the new MS Blazor framework, allowing the use of the Summernote Wysiwyg editor in a form. blazor.
 * [Blazor Tree CRUD](https://github.com/ctrl-alt-d/TreeCrud) (9:star:) - CRUD operations with hierarchical data. Blazor Server + GraphQL + EF.
 * [Blazor.Universal](https://github.com/pushqrdx/Blazor.Universal) (4:star:) - Example of using Blazor to build Xamarin based UWP application without WebAssembly.
 * [BlazorUnmarshalledCanvas](https://github.com/jhwcn/BlazorUnmarshalledCanvas) (2:star:) - Unmarshalled invoking of Canvas 2d context from Blazor.
 * [BlazorValidationControls](https://github.com/hishamco/BlazorValidationControls) (3:star:) - Blazor validation controls.
-* [BlazorWithIdentity](https://github.com/stavroskasidis/BlazorWithIdentity) (36:star:) - A sample project showcasing a Blazor app using EF Core with Identity authentication.
-* [Blazor.Xamarin](https://github.com/Appizeo/Blazor.Xamarin) (64:star:) - A Xamarin template for launch and interop a Blazor app on mobile.
 * [Blazor + Electron sample](https://github.com/aspnet/AspLabs/tree/master/src/ComponentsElectron) - Explore how a Blazor app can be used to build a cross-platform desktop app.
-* [Blazor + Sitecore](https://github.com/GoranHalvarsson/SitecoreBlazor) (10:star:) - Example of dynamic pages and routes with SiteCore and [Helix](https://helix.sitecore.net/). 
 * [C# Minifer](https://github.com/atifaziz/CSharpMinifierDemo) (2:star:) A client-side Blazor application demonstrating live minification of C# code using the [C# Minifier](https://github.com/atifaziz/CSharpMinifier) (9:star:) library. [Demo](https://atifaziz.github.io/CSharpMinifierDemo/)
-* [CssBuilder](https://www.nuget.org/packages/BlazorComponentUtilities/) &ndash; A clean code approach to conditional CSS classes for Razor components in Blazor.
 * [Data Driven Layout](https://github.com/hutchcodes/Blazor.DataDrivenLayout) (5:star:) - Two ways of driving the layout based on data in the page.
-* [Gitter](https://github.com/Blazored/Gitter) (19:star:) - A Blazor Gitter client.
 * [Money](https://github.com/maraf/Money) (33:star:) - A money manager implemented using CQRS+ES. [Demo](https://app.money.neptuo.com/).
-* [NethereumBlazor](https://github.com/Nethereum/NethereumBlazor) (16:star:) - Ethereum blockchain explorer and simple wallet.
-* [Oqtane Framework](https://github.com/oqtane/oqtane.framework) (161:star:) - Modular Application Framework for Blazor.
 * [Pattern Maker](https://github.com/sapsari/website-blazor-demo) (2:star:) - C# code transformation demo that uses Roslyn and Monaco Editor. [Demo](https://patternmaker.netlify.com/).
 * [Rudder Example](https://github.com/kjeske/rudder-example) (0:star:) - Sample application using Rudder state container for Blazor.
-* [StarshipTraveler](https://github.com/rstropek/StarshipTraveler) (12:star:) - A starship traveler demo app built with Blazor for the DevOne 2019 conference.
 * [TaxiFareBlazorServer](https://github.com/EdCharbeneau/TaxiFareBlazorServer) (4:star:) - ML.NET TaxiFare Prediction Model with Blazor Server-Side front end.
-* [Tour of Heroes](https://github.com/lohithgn/blazor-tour-of-heroes) (39:star:) - Blazor implementation of Angular Tour of Heroes.
-* [Toss.Blazor](https://github.com/RemiBou/Toss.Blazor) (75:star:) - Twitter-like web application using Blazor.
 * [Tulsa .NET User Group website](https://github.com/devsgarage/tulsa-dnug-website) (5:star:) - Tulsa .NET User Group website.
-* [WebSocketPage](https://github.com/Lupusa87/BlazorWebSocketHelper) (12:star:) - Web Socket in Blazor. [demo](https://lupblazordemos.z13.web.core.windows.net/WebSocketPage).
 * [ZoraGen Blazor](https://github.com/friendlyanon/zoragen-blazor) (2:star:) - PWA capable Blazor UI for the [ZoraSharp](https://github.com/kabili207/zora-sharp) (26:star:) library.
 * [Planning Poker](https://github.com/duracellko/planningpoker4azure) (3:star:) &ndash; An app to play Planning Poker for distributed teams. The app is implemented using Blazor and shows how to switch between client-side and server-side mode with a configuration change. [Demo](http://planningpoker.duracellko.net).
 * [Gjallarhorn](https://github.com/haavamoa/Gjallarhorn) (5:star:) - Compare packages on different NuGet-sources. Demonstating Client-Side Blazor MVVM-style. 
 * [C# Regex Tester online](https://github.com/lsvhome/regex-tester) (1:star:) - Online tool for verify .Net regex syntax. ([Demo](https://lsvhome.github.io/regex-tester/)).
+* [CssBuilder](https://www.nuget.org/packages/BlazorComponentUtilities/) &ndash; A clean code approach to conditional CSS classes for Razor components in Blazor.
 * [EncFS over Google Drive](https://encfs-gdrive.github.io) - Online tool written in Blazor for encrypt/decrypt files in Google Drive.
 
 ## Tutorials
