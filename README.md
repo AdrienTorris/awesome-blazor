@@ -156,7 +156,12 @@ Here is the documentation of Microsoft, [Get started](https://docs.microsoft.com
 * [BlazorMaterial](https://github.com/BlazorExtensions/BlazorMaterial) (104:star:)  - Blazor components implementing Google's Material components for web.
 * [Canvas](https://github.com/BlazorExtensions/Canvas) (95:star:)  - HTML5 Canvas API implementation for Microsoft Blazor.
 * [BlazorContextMenu](https://github.com/stavroskasidis/BlazorContextMenu) (89:star:)  - A context menu component for Blazor ([Demo](https://blazor-context-menu-demo.azurewebsites.net/)).
+* [Blazor.FlexGrid](https://github.com/Mewriick/Blazor.FlexGrid) (82:star:) - GridView component for Blazor.
 * [DevExpress Blazor UI Components](https://github.com/DevExpress/RazorComponents) (68:star:)  - UI components including Data Grid, Pivot Grid, and several data editors.
+* [ChartJs.Blazor](https://github.com/mariusmuntean/ChartJs.Blazor) (53:star:) - Blazor Component that wraps ChartJS.
+* [Blazored.Toast](https://github.com/Blazored/Toast) (52:star:) - A JavaScript free toast library for Blazor and Razor Component applications.
+* [Blazored.Modal](https://github.com/Blazored/Modal) (42:star:) - A JavaScript free modal library for Blazor and Razor Components applications.
+* [BlazorGrid](https://github.com/AnkitSharma-007/BlazorGrid) (34:star:) - This is a reusable grid component for Blazor which also supports client side pagination.
  * [NodaTimePicker](https://github.com/nheath99/NodaTimePicker) (20:star:)  - A Date/Time picker component library for Blazor using NodaTime. [Demo](https://nodatimepicker.azurewebsites.net/).
  * [Radzen.Blazor](https://github.com/akorchev/razor.radzen.com/) (20:star:) - Native UI components for Blazor. DataGrid, DataList, Tabs, Dialog and more. ([Demo](https://razor.radzen.com/)).
 * [BlazorStyled](https://github.com/chanan/BlazorStyled) (19:star:)  - CSS in Blazor Components ([Demo](https://chanan.github.io/BlazorStyled)).
@@ -172,13 +177,8 @@ Here is the documentation of Microsoft, [Get started](https://docs.microsoft.com
 * [Blazor LoadingBar](https://github.com/jsakamoto/Toolbelt.Blazor.LoadingBar) (31:star:) - Loading bar UI for Client-Side Blazor application.
 * [Blazor-Charts](https://github.com/Misfits-Rebels-Outcasts/Blazor-Charts) (25:star:) - SVG charts for Blazor.
 * [BlazorComponents](https://github.com/muqeet-khan/BlazorComponents) (46:star:) - Reusable components for Blazor. Starting with ChartJS interop.
-* [ChartJs.Blazor](https://github.com/mariusmuntean/ChartJs.Blazor) (53:star:) - Blazor Component that wraps ChartJS.
 * [Blazored.Menu](https://github.com/Blazored/Menu) (20:star:) - A JavaScript free menu library for Blazor and Razor Components applications.
-* [Blazored.Modal](https://github.com/Blazored/Modal) (42:star:) - A JavaScript free modal library for Blazor and Razor Components applications.
-* [Blazored.Toast](https://github.com/Blazored/Toast) (52:star:) - A JavaScript free toast library for Blazor and Razor Component applications.
 * [Blazored.Typeahead](https://github.com/Blazored/Typeahead) (20:star:) - Auto-complete textbox with local and remote data source, for both Client-side and Server-Side Blazor.
-* [BlazorGrid](https://github.com/AnkitSharma-007/BlazorGrid) (34:star:) - This is a reusable grid component for Blazor which also supports client side pagination.
-* [Blazor.FlexGrid](https://github.com/Mewriick/Blazor.FlexGrid) (82:star:) - GridView component for Blazor.
 * [Syncfusion Blazor UI Components](https://github.com/syncfusion/ej2-aspnet-core-blazor-samples) (37:star:) - Robust UI components including [Data Grid](https://ej2.syncfusion.com/aspnet-core-razor-components/Grid/DefaultFunctionalities), [Charts](https://ej2.syncfusion.com/aspnet-core-razor-components/Charts/polar), [Scheduler](https://ej2.syncfusion.com/aspnet-core-razor-components/Schedule/TimelineResourceGroup), [Inputs](https://ej2.syncfusion.com/aspnet-core-razor-components/TextBox/DefaultFunctionalities) and several [Editor](https://ej2.syncfusion.com/aspnet-core-razor-components/RichTextEditor/DefaultFunctionalities) components.
 * [Telerik UI for Blazor](https://www.telerik.com/blazor-ui) - A native set of UI components for Blazor, including grid, charting, and calendar components.
 * [TwitterShareButton](https://github.com/jsakamoto/Toolbelt.Blazor.TwitterShareButton) (1:star:) - A Tweet Button component for Blazor.
