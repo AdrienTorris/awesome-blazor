@@ -32,7 +32,11 @@ More information on the [official website](https://dotnet.microsoft.com/apps/asp
 
 ### Requirements
 Please note that if you want to open Blazor projects in Visual Studio, you must have [Visual Studio 15.7 Preview 1](https://www.visualstudio.com/vs/preview/) or later and the [.NET Core 2.1 Preview 1 SDK](https://www.microsoft.com/net/download/dotnet-core/sdk-2.1.300-preview1).
-Recommanded: [Visual Studio 2019 Preview](https://visualstudio.microsoft.com/) and the [latest .NET Core Framework](https://dotnet.microsoft.com/download/dotnet-core/3.0).
+Recommanded: the latest [Visual Studio 2019 Preview](https://visualstudio.microsoft.com/) and the latest [.NET Core SDK](https://dotnet.microsoft.com/download/dotnet-core/3.0).
+
+Note: the Blazor Visual Studio extension is not longer required since the [ASP.NET Core Preview 7](https://dotnet.microsoft.com/download/dotnet-core/3.0).
+
+Here is the documentation of Microsoft, [Get started](https://docs.microsoft.com/en-us/aspnet/core/blazor/get-started?view=aspnetcore-3.0&tabs=visual-studio) with Blazor.
 
 ## General
 * [ASP.NET Blog's archives](https://devblogs.microsoft.com/aspnet/category/blazor/) - Archives of the ASP.NET blog about Blazor.
@@ -286,6 +290,7 @@ Recommanded: [Visual Studio 2019 Preview](https://visualstudio.microsoft.com/) a
 * [Archives of 2017](https://github.com/AdrienTorris/awesome-blazor/blob/master/Archives/2017.md#videos)
 
 ## Articles
+* [Authentication in server-side Blazor applications](https://gunnarpeipman.com/blazor/server-side-blazor-authentication/) - July 25, 2019 - Preview 6 version of ASP.NET Core 3.0 is released and one interesting new feature is authentication and authorization for server-side Blazor applications. This blog post goes through work currently done and shows how authentication works with server-side Blazor applications.
 * [ASP.NET Core and Blazor updates in .NET Core 3.0 Preview 7](https://devblogs.microsoft.com/aspnet/asp-net-core-and-blazor-updates-in-net-core-3-0-preview-7/) - July 23, 2019 - ASP.NET Core and Blazor updates in .NET Core 3.0 Preview 7.
 * [Configuring Role-based Authorization with client-side Blazor](https://chrissainty.com/securing-your-blazor-apps-configuring-role-based-authorization-with-client-side-blazor/) - July 23, 2019 - Configuring Role-based Authorization with client-side Blazor.
 * [Exploring authentication in Blazor](https://www.oqtane.org/Resources/Blog/PostId/527/exploring-authentication-in-blazor) - July 22, 2019 - Exploring authentication in Blazor.
