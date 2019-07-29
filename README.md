@@ -58,8 +58,8 @@ Here is the documentation of Microsoft, [Get started](https://docs.microsoft.com
 * [BlogCore](https://github.com/thangchung/blog-core) ![GitHub stars](https://img.shields.io/github/stars/thangchung/blog-core?style=flat-square&cacheSeconds=604800) - Modern CMS on Domain-driven Design and Clean Architecture patterns.
 * [WordDaze](https://github.com/chrissainty/worddaze) ![GitHub stars](https://img.shields.io/github/stars/chrissainty/worddaze?style=flat-square&cacheSeconds=604800) - Blogging application written using Blazor with a WebAPI backend.
 ### Games
-* [AsteroidsWasm](https://github.com/aesalazar/AsteroidsWasm) ![GitHub stars](https://img.shields.io/github/stars/aesalazar/AsteroidsWasm) - A mixed bag of C# projects to see if a single .NET Standard base can run across all common platforms include WebAssembly. [Demo](https://aesalazar.github.io/AsteroidsWasm/).
-* [BlazorQuiz](https://github.com/Amine-Smahi/BlazorQuiz) ![GitHub stars](https://img.shields.io/github/stars/Amine-Smahi/BlazorQuiz) - Simple quiz using Blazor.NET and WebAssembly.
+* [AsteroidsWasm](https://github.com/aesalazar/AsteroidsWasm) ![GitHub stars](https://img.shields.io/github/stars/aesalazar/AsteroidsWasm?style=flat-square&cacheSeconds=604800) - A mixed bag of C# projects to see if a single .NET Standard base can run across all common platforms include WebAssembly. [Demo](https://aesalazar.github.io/AsteroidsWasm/).
+* [BlazorQuiz](https://github.com/Amine-Smahi/BlazorQuiz) ![GitHub stars](https://img.shields.io/github/stars/Amine-Smahi/BlazorQuiz?style=flat-square&cacheSeconds=604800) - Simple quiz using Blazor.NET and WebAssembly.
 * [BlazorChess](https://github.com/Lupusa87/BlazorChess) - Chess engine implemented with Blazor. [Demo](https://lupblazorchess.z20.web.core.windows.net/).
 * [Blagario](https://github.com/ctrl-alt-d/Blagario) - Experimental lab to test blazor server side as multiplayer game engine with no canvas (just blazor, html and css). Collaborations are welcome. Scaffolding status.
 * [Tzaar](https://github.com/paularundel/tzaar) - Implementation of the board game Tzaar with Blazor and SignalR. [Demo](https://tzaar.azurewebsites.net/).
@@ -68,13 +68,13 @@ Here is the documentation of Microsoft, [Get started](https://docs.microsoft.com
 * [BlazorDestinationGame](https://github.com/SharePointSean/BlazorDestinationGame) - Quizz about places in the world. [Demo](https://blazordestinationgame.azurewebsites.net/).
 * [BlazorDice](https://github.com/shahedc/BlazorDemos/tree/master/BlazorDice) - Roll the dice.
 ### ToDos
-* [BlazorTasks](https://github.com/BorowskiKamil/blazor-tasks) ![GitHub stars](https://img.shields.io/github/stars/BorowskiKamil/blazor-tasks) - To-Do App.
-* [Bolero.TodoMVC](https://github.com/fsbolero/TodoMVC) ![GitHub stars](https://img.shields.io/github/stars/fsbolero/TodoMVC) - A TodoMVC clone using Bolero.
+* [BlazorTasks](https://github.com/BorowskiKamil/blazor-tasks) ![GitHub stars](https://img.shields.io/github/stars/BorowskiKamil/blazor-tasks?style=flat-square&cacheSeconds=604800) - To-Do App.
+* [Bolero.TodoMVC](https://github.com/fsbolero/TodoMVC) ![GitHub stars](https://img.shields.io/github/stars/fsbolero/TodoMVC?style=flat-square&cacheSeconds=604800) - A TodoMVC clone using Bolero.
 * [BlazorAdvancedTodo](https://github.com/EdCharbeneau/BlazorAdvancedTodo) - A Blazor to-do app with state and undo function.
 ### Others
-* [Flight Finder](https://github.com/aspnet/samples/tree/master/samples/aspnetcore/blazor) ![GitHub stars](https://img.shields.io/github/stars/aspnet/samples) - Flight Finder.
-* [Oqtane Framework](https://github.com/oqtane/oqtane.framework) ![GitHub stars](https://img.shields.io/github/stars/oqtane/oqtane.framework) - Modular Application Framework for Blazor.
-* [BlazorElectronExperiment](https://github.com/SteveSandersonMS/BlazorElectronExperiment.Sample) ![GitHub stars](https://img.shields.io/github/stars/SteveSandersonMS/BlazorElectronExperiment.Sample) - [Archived] Exploring how a Blazor could be used to build a cross-platform desktop application using [Electron](https://electronjs.org/).
+* [Flight Finder](https://github.com/aspnet/samples/tree/master/samples/aspnetcore/blazor) ![GitHub stars](https://img.shields.io/github/stars/aspnet/samples?style=flat-square&cacheSeconds=604800) - Flight Finder.
+* [Oqtane Framework](https://github.com/oqtane/oqtane.framework) ![GitHub stars](https://img.shields.io/github/stars/oqtane/oqtane.framework?style=flat-square&cacheSeconds=604800) - Modular Application Framework for Blazor.
+* [BlazorElectronExperiment](https://github.com/SteveSandersonMS/BlazorElectronExperiment.Sample) ![GitHub stars](https://img.shields.io/github/stars/SteveSandersonMS/BlazorElectronExperiment.Sample?style=flat-square&cacheSeconds=604800) ![Status](https://img.shields.io/static/v1?label=status&message=archived&color=lightgrey) - Exploring how a Blazor could be used to build a cross-platform desktop application using [Electron](https://electronjs.org/).
 * [Toss.Blazor](https://github.com/RemiBou/Toss.Blazor) (75:star:) - Twitter-like web application using Blazor.
 * [BlazorMobile](https://github.com/Daddoon/BlazorMobile) (64:star:) - Launch a Blazor application as a standalone application.
 * [Blazor.Xamarin](https://github.com/Appizeo/Blazor.Xamarin) (64:star:) - A Xamarin template for launch and interop a Blazor app on mobile.
