@@ -235,6 +235,7 @@ Here is the documentation of Microsoft, [Get started](https://docs.microsoft.com
 
 ## Videos
 * [Why use Blazor?](https://clips.twitch.tv/WealthyDeliciousNeanderthalPhilosoraptor) - July 24, 2019 - Why use Blazor? Live on Twitch by Jeffrey T. Fritz.
+* [Build Your First Web Application with Blazor](https://www.youtube.com/watch?v=aqSinXoStAU) - July 22, 2019 - Join Jeff Fritz as he takes you through the steps to build your first application that runs IN the browser with C# and Blazor. By the end of this video, you'll learn how to build a next-generation SPA (single-page application) using HTML, CSS, JavaScript interop, and Blazor.
 * [Reporting with a CSS grid and converting to Blazor Client-Side technology](https://www.twitch.tv/videos/455920947) - July 21, 2019 - Reporting with a CSS grid and converting to Blazor Client-Side technology.
 * [Razor: Into the Razor'verse](https://www.youtube.com/watch?v=cQeSTdgmPGQ) - July 19, 2019 - The Razor template markup syntax is used throughout ASP.NET. In the next version of ASP.NET, Core Razor is evolving into multiple Razor adaptations such as Razor Tag Helpers, Razor Pages, Blazor, and Razor Components . Learn in this video the key differences between theses variations and see where they align in the ASP.NET road map.
 * [Blazor Workshop!](https://www.twitch.tv/videos/454955014) - July 19, 2019 - Blazor Workshop! Learn about WebAssembly and C# in this all day event.
