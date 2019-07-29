@@ -186,6 +186,7 @@ Here is the documentation of Microsoft, [Get started](https://docs.microsoft.com
 * [Flexor](https://github.com/DerekChasse/Flexor) - Highly configurable components which let you take full advantage of Flexbox CSS.([Demo](http://flexor.azurewebsites.net/)).
 * [Blazor.Validation.DataAnnotation](https://github.com/RemiBou/Blazor.Validation.DataAnnotation) - Library for validating form on a Blazor application using Data Annotation.
 * [BlazorDateRangePicker](https://github.com/jdtcn/BlazorDateRangePicker) - A date range picker component library for Blazor. [Demo](https://BlazorDateRangePicker.azurewebsites.net/).
+* [BlazorTypography](https://github.com/chanan/BlazorTypography) - A powerful toolkit for building websites with beautiful design ([Demo](https://chanan.github.io/BlazorTypography/)).
 ### Tools & Utilities
 *Libraries and extensions for state management, cookies, local storage and other specific tools.*
 * [Blazor-Redux](https://github.com/torhovland/blazor-redux) (330:star:)  - Connecting a Redux state store with Blazor.
