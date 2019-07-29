@@ -75,8 +75,8 @@ Here is the documentation of Microsoft, [Get started](https://docs.microsoft.com
 * [Flight Finder](https://github.com/aspnet/samples/tree/master/samples/aspnetcore/blazor) ![GitHub stars](https://img.shields.io/github/stars/aspnet/samples?style=flat-square&cacheSeconds=604800) - Flight Finder.
 * [Oqtane Framework](https://github.com/oqtane/oqtane.framework) ![GitHub stars](https://img.shields.io/github/stars/oqtane/oqtane.framework?style=flat-square&cacheSeconds=604800) - Modular Application Framework for Blazor.
 * [BlazorElectronExperiment](https://github.com/SteveSandersonMS/BlazorElectronExperiment.Sample) ![GitHub stars](https://img.shields.io/github/stars/SteveSandersonMS/BlazorElectronExperiment.Sample?style=flat-square&cacheSeconds=604800) ![Status](https://img.shields.io/static/v1?label=status&message=archived&color=lightgrey) - Exploring how a Blazor could be used to build a cross-platform desktop application using [Electron](https://electronjs.org/).
-* [Toss.Blazor](https://github.com/RemiBou/Toss.Blazor) (75:star:) - Twitter-like web application using Blazor.
-* [BlazorMobile](https://github.com/Daddoon/BlazorMobile) (64:star:) - Launch a Blazor application as a standalone application.
+* [Toss.Blazor](https://github.com/RemiBou/Toss.Blazor) ![GitHub stars](https://img.shields.io/github/stars/RemiBou/Toss.Blazor?style=flat-square&cacheSeconds=604800) - Twitter-like web application using Blazor.
+* [BlazorMobile](https://github.com/Daddoon/BlazorMobile) ![GitHub stars](https://img.shields.io/github/stars/Daddoon/BlazorMobile?style=flat-square&cacheSeconds=604800) - Launch a Blazor application as a standalone application.
 * [Blazor.Xamarin](https://github.com/Appizeo/Blazor.Xamarin) (64:star:) - A Xamarin template for launch and interop a Blazor app on mobile.
 * [BlazorFileReader](https://github.com/Tewr/BlazorFileReader) (54:star:)  - Read-only File streams in Blazor. [Demo](https://tewr.github.io/BlazorFileReader/).
 * [BlazorBoilerplate](https://github.com/enkodellc/blazorboilerplate) (51:star:) - Admin Dashboard / Starter Template with IdentityServer4, MatBlazer for Material Design.
