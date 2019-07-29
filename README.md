@@ -47,7 +47,7 @@ Here is the documentation of Microsoft, [Get started](https://docs.microsoft.com
 * [Blazor University](http://blazor-university.com/) - Unofficial documentation website.
 * [Demo](https://blazor-demo.github.io/) - Official demo website.
 * [FAQ](https://github.com/aspnet/Blazor/wiki/FAQ) - FAQ.
-* [GitHub repository](https://github.com/aspnet/Blazor) [![](http://githubbadges.com/star.svg?user=aspnet&repo=blazor&style=flat)](https://github.com/aspnet/Blazor) - The official Blazor repository.
+* [GitHub repository](https://github.com/aspnet/Blazor) ![GitHub stars](https://img.shields.io/github/stars/aspnet/Blazor) - The official Blazor repository.
 * ['Hello World' sample](https://github.com/dodyg/practical-aspnetcore/tree/master/projects/blazor) - 'Hello World' sample.
 * [Introduction to ASP.NET Core](https://docs.microsoft.com/en-us/aspnet/core/) - Introduction to ASP.NET Core.
 * [Study Blazor](https://studyblazor.com) - Blazor tutorial for beginners, in simple and easy steps starting from basics to advanced concepts with more code snippets.
