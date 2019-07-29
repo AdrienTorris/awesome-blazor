@@ -47,7 +47,7 @@ Here is the documentation of Microsoft, [Get started](https://docs.microsoft.com
 * [Blazor University](http://blazor-university.com/) - Unofficial documentation website.
 * [Demo](https://blazor-demo.github.io/) - Official demo website.
 * [FAQ](https://github.com/aspnet/Blazor/wiki/FAQ) - FAQ.
-* [GitHub repository](https://github.com/aspnet/Blazor) ![GitHub stars](https://img.shields.io/github/stars/aspnet/Blazor) - The official Blazor repository.
+* [GitHub repository](https://github.com/aspnet/Blazor) ![GitHub stars](https://img.shields.io/github/stars/aspnet/Blazor?style=flat-square&cacheSeconds=604800) - The official Blazor repository.
 * ['Hello World' sample](https://github.com/dodyg/practical-aspnetcore/tree/master/projects/blazor) - 'Hello World' sample.
 * [Introduction to ASP.NET Core](https://docs.microsoft.com/en-us/aspnet/core/) - Introduction to ASP.NET Core.
 * [Study Blazor](https://studyblazor.com) - Blazor tutorial for beginners, in simple and easy steps starting from basics to advanced concepts with more code snippets.
@@ -55,8 +55,8 @@ Here is the documentation of Microsoft, [Get started](https://docs.microsoft.com
 
 ## Sample Projects
 ### CMS
-* [BlogCore](https://github.com/thangchung/blog-core) ![GitHub stars](https://img.shields.io/github/stars/thangchung/blog-core) - Modern CMS on Domain-driven Design and Clean Architecture patterns.
-* [WordDaze](https://github.com/chrissainty/worddaze) ![GitHub stars](https://img.shields.io/github/stars/chrissainty/worddaze) - Blogging application written using Blazor with a WebAPI backend.
+* [BlogCore](https://github.com/thangchung/blog-core) ![GitHub stars](https://img.shields.io/github/stars/thangchung/blog-core?style=flat-square&cacheSeconds=604800) - Modern CMS on Domain-driven Design and Clean Architecture patterns.
+* [WordDaze](https://github.com/chrissainty/worddaze) ![GitHub stars](https://img.shields.io/github/stars/chrissainty/worddaze?style=flat-square&cacheSeconds=604800) - Blogging application written using Blazor with a WebAPI backend.
 ### Games
 * [AsteroidsWasm](https://github.com/aesalazar/AsteroidsWasm) ![GitHub stars](https://img.shields.io/github/stars/aesalazar/AsteroidsWasm) - A mixed bag of C# projects to see if a single .NET Standard base can run across all common platforms include WebAssembly. [Demo](https://aesalazar.github.io/AsteroidsWasm/).
 * [BlazorQuiz](https://github.com/Amine-Smahi/BlazorQuiz) ![GitHub stars](https://img.shields.io/github/stars/Amine-Smahi/BlazorQuiz) - Simple quiz using Blazor.NET and WebAssembly.
