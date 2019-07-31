@@ -236,6 +236,7 @@ Here is the documentation of Microsoft, [Get started](https://docs.microsoft.com
 * [BlazorFileSaver](https://github.com/IvanJosipovic/BlazorFileSaver) - Blazor Component wrapper for FileSaver.js. 
 
 ## Videos
+* [Blazor StateHasChanged](https://www.twitch.tv/videos/460574001) - July 31, 2019 - Blazor StateHasChanged Community round up & BlazePort. [Source Code](https://github.com/EdCharbeneau/BlazePort) ![GitHub stars](https://img.shields.io/github/stars/EdCharbeneau/BlazePort?style=flat-square&cacheSeconds=604800).
 * [Let's learn Blazor!](https://www.twitch.tv/videos/460080201) - July 30, 2019 - Let's learn Blazor!
 * [Let's Learn Blazor: Getting Started](https://www.youtube.com/watch?v=zbXESHQQVsE) - July 29, 2019 - In this video, we install Blazor and create our first Blazor application. Watch as I try to understand how Blazor startup works, create bindings, and add event handlers.
 * [Why use Blazor?](https://clips.twitch.tv/WealthyDeliciousNeanderthalPhilosoraptor) - July 24, 2019 - Why use Blazor? Live on Twitch by Jeffrey T. Fritz.
