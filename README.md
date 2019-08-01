@@ -1,4 +1,4 @@
-# Awesome Blazor [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
+# Awesome Blazor [![Awesome](https://awesome.re/badge-flat2.svg)](https://awesome.re)
 [<img src="https://adrientorris.github.io/wwwroot/images/blazor/logo-blazor.png" align="right" width="170">](https://dotnet.microsoft.com/apps/aspnet/web-apps/client)
 
 > A collection of awesome Blazor resources.
@@ -47,7 +47,7 @@ Here is the documentation of Microsoft, [Get started](https://docs.microsoft.com
 * [Blazor University](http://blazor-university.com/) - Unofficial documentation website.
 * [Demo](https://blazor-demo.github.io/) - Official demo website.
 * [FAQ](https://github.com/aspnet/Blazor/wiki/FAQ) - FAQ.
-* [GitHub repository](https://github.com/aspnet/Blazor) [![](http://githubbadges.com/star.svg?user=aspnet&repo=blazor&style=flat)](https://github.com/aspnet/Blazor) - The official Blazor repository.
+* [GitHub repository](https://github.com/aspnet/Blazor) - ![GitHub stars](https://img.shields.io/github/stars/aspnet/Blazor?style=flat-square&cacheSeconds=604800) The official Blazor repository.
 * ['Hello World' sample](https://github.com/dodyg/practical-aspnetcore/tree/master/projects/blazor) - 'Hello World' sample.
 * [Introduction to ASP.NET Core](https://docs.microsoft.com/en-us/aspnet/core/) - Introduction to ASP.NET Core.
 * [Study Blazor](https://studyblazor.com) - Blazor tutorial for beginners, in simple and easy steps starting from basics to advanced concepts with more code snippets.
@@ -55,11 +55,11 @@ Here is the documentation of Microsoft, [Get started](https://docs.microsoft.com
 
 ## Sample Projects
 ### CMS
-* [BlogCore](https://github.com/thangchung/blog-core) [![](http://githubbadges.com/star.svg?user=thangchung&repo=blog-core&style=flat)](https://github.com/thangchung/blog-core) - Modern CMS on Domain-driven Design and Clean Architecture patterns.
-* [WordDaze](https://github.com/chrissainty/worddaze) [![](http://githubbadges.com/star.svg?user=chrissainty&repo=worddaze&style=flat)](https://github.com/chrissainty/worddaze) - Blogging application written using Blazor with a WebAPI backend.
+* [BlogCore](https://github.com/thangchung/blog-core) - ![GitHub stars](https://img.shields.io/github/stars/thangchung/blog-core?style=flat-square&cacheSeconds=604800) Modern CMS on Domain-driven Design and Clean Architecture patterns.
+* [WordDaze](https://github.com/chrissainty/worddaze) - ![GitHub stars](https://img.shields.io/github/stars/chrissainty/worddaze?style=flat-square&cacheSeconds=604800) Blogging application written using Blazor with a WebAPI backend.
 ### Games
-* [AsteroidsWasm](https://github.com/aesalazar/AsteroidsWasm) [![](http://githubbadges.com/star.svg?user=aesalazar&repo=AsteroidsWasm&style=flat)](https://github.com/aesalazar/AsteroidsWasm) - A mixed bag of C# projects to see if a single .NET Standard base can run across all common platforms include WebAssembly. [Demo](https://aesalazar.github.io/AsteroidsWasm/).
-* [BlazorQuiz](https://github.com/Amine-Smahi/BlazorQuiz) [![](http://githubbadges.com/star.svg?user=Amine-Smahi&repo=BlazorQuiz&style=flat)]() - Simple quiz using Blazor.NET and WebAssembly.
+* [AsteroidsWasm](https://github.com/aesalazar/AsteroidsWasm) - ![GitHub stars](https://img.shields.io/github/stars/aesalazar/AsteroidsWasm?style=flat-square&cacheSeconds=604800) A mixed bag of C# projects to see if a single .NET Standard base can run across all common platforms include WebAssembly. [Demo](https://aesalazar.github.io/AsteroidsWasm/).
+* [BlazorQuiz](https://github.com/Amine-Smahi/BlazorQuiz) - ![GitHub stars](https://img.shields.io/github/stars/Amine-Smahi/BlazorQuiz?style=flat-square&cacheSeconds=604800) Simple quiz using Blazor.NET and WebAssembly.
 * [BlazorChess](https://github.com/Lupusa87/BlazorChess) - Chess engine implemented with Blazor. [Demo](https://lupblazorchess.z20.web.core.windows.net/).
 * [Blagario](https://github.com/ctrl-alt-d/Blagario) - Experimental lab to test blazor server side as multiplayer game engine with no canvas (just blazor, html and css). Collaborations are welcome. Scaffolding status.
 * [Tzaar](https://github.com/paularundel/tzaar) - Implementation of the board game Tzaar with Blazor and SignalR. [Demo](https://tzaar.azurewebsites.net/).
@@ -68,43 +68,43 @@ Here is the documentation of Microsoft, [Get started](https://docs.microsoft.com
 * [BlazorDestinationGame](https://github.com/SharePointSean/BlazorDestinationGame) - Quizz about places in the world. [Demo](https://blazordestinationgame.azurewebsites.net/).
 * [BlazorDice](https://github.com/shahedc/BlazorDemos/tree/master/BlazorDice) - Roll the dice.
 ### ToDos
-* [BlazorTasks](https://github.com/BorowskiKamil/blazor-tasks) (21:star:)  - To-Do App.
-* [Bolero.TodoMVC](https://github.com/fsbolero/TodoMVC) (17:star:)  - A TodoMVC clone using Bolero.
+* [BlazorTasks](https://github.com/BorowskiKamil/blazor-tasks) - ![GitHub stars](https://img.shields.io/github/stars/BorowskiKamil/blazor-tasks?style=flat-square&cacheSeconds=604800) To-Do App.
+* [Bolero.TodoMVC](https://github.com/fsbolero/TodoMVC) - ![GitHub stars](https://img.shields.io/github/stars/fsbolero/TodoMVC?style=flat-square&cacheSeconds=604800) A TodoMVC clone using Bolero.
 * [BlazorAdvancedTodo](https://github.com/EdCharbeneau/BlazorAdvancedTodo) - A Blazor to-do app with state and undo function.
 ### Others
-* [Flight Finder](https://github.com/aspnet/samples/tree/master/samples/aspnetcore/blazor) (419:star:) - Flight Finder.
-* [Oqtane Framework](https://github.com/oqtane/oqtane.framework) (161:star:) - Modular Application Framework for Blazor.
-* [BlazorElectronExperiment](https://github.com/SteveSandersonMS/BlazorElectronExperiment.Sample) (152:star:)  [Archived] - Exploring how a Blazor could be used to build a cross-platform desktop application using [Electron](https://electronjs.org/).
-* [Toss.Blazor](https://github.com/RemiBou/Toss.Blazor) (75:star:) - Twitter-like web application using Blazor.
-* [BlazorMobile](https://github.com/Daddoon/BlazorMobile) (64:star:) - Launch a Blazor application as a standalone application.
-* [Blazor.Xamarin](https://github.com/Appizeo/Blazor.Xamarin) (64:star:) - A Xamarin template for launch and interop a Blazor app on mobile.
-* [BlazorFileReader](https://github.com/Tewr/BlazorFileReader) (54:star:)  - Read-only File streams in Blazor. [Demo](https://tewr.github.io/BlazorFileReader/).
-* [BlazorBoilerplate](https://github.com/enkodellc/blazorboilerplate) (51:star:) - Admin Dashboard / Starter Template with IdentityServer4, MatBlazer for Material Design.
-* [BlazeDown](https://github.com/EdCharbeneau/BlazeDown) (46:star:)  - BlazeDown, online Markdown editor. [Demo](https://edcharbeneau.com/BlazeDown/).
-* [Tour of Heroes](https://github.com/lohithgn/blazor-tour-of-heroes) (39:star:) - Blazor implementation of Angular Tour of Heroes.
-* [BlazorChatSample](https://github.com/conficient/blazorchatsample) (38:star:) - Blazor chat demo using SignalR JS client with interop.
-* [BlazorWithIdentity](https://github.com/stavroskasidis/BlazorWithIdentity) (36:star:) - A sample project showcasing a Blazor app using EF Core with Identity authentication.
-* [Blazor.Toaster](https://github.com/sotsera/sotsera.blazor.toaster) (34:star:) - A Blazor port of Toastr.js.
-* [Money](https://github.com/maraf/Money) (33:star:) - A money manager implemented using CQRS+ES. [Demo](https://app.money.neptuo.com/).
-* [Runny](https://github.com/Suchiman/Runny) (29:star:)  - Prototype of running roslyn in the browser via Blazor. [Demo](https://runny.azurewebsites.net/).
-* [Gitter](https://github.com/Blazored/Gitter) (19:star:) - A Blazor Gitter client.
-* [NethereumBlazor](https://github.com/Nethereum/NethereumBlazor) (16:star:) - Ethereum blockchain explorer and simple wallet.
-* [Try F# on WebAssembly](https://github.com/fsbolero/TryFSharpOnWasm) (16:star:)  - The F# compiler running in WebAssembly with Bolero.
-* [BlazingPizza (server side)](https://github.com/ADefWebserver/BlazingPizza) (15:star:)  - A server side Blazor version of the Blazing Pizza project from the [Blazor - app building workshop](https://github.com/dotnet-presentations/blazor-workshop/).
-* [BlazorGraphExample](https://github.com/jburman/BlazorGraphExample) (13:star:) - Example application for connecting to Graph API from Blazor.
-* [Blazor.JWTTest](https://github.com/shawty/blazor.jwttest) (12:star:)  - JWT authentication for a blazor hosted (Client/Serverside) app with API and Authentication.
-* [WebSocketPage](https://github.com/Lupusa87/BlazorWebSocketHelper) (12:star:) - Web Socket in Blazor. [demo](https://lupblazordemos.z13.web.core.windows.net/WebSocketPage).
-* [StarshipTraveler](https://github.com/rstropek/StarshipTraveler) (12:star:) - A starship traveler demo app built with Blazor for the DevOne 2019 conference.
-* [Blazor Survey](https://github.com/nutshellit/Blazor-Survey) (12:star:) - A hybrid F#/C# blazor sample app to kick the tyres of
-* [BlazorDynamicList](https://github.com/conficient/BlazorDynamicList) (10:star:)  - Dynamic component binding for a generic list. [Demo](https://blazordynamiclist.azurewebsites.net/).
-* [Blazor + Sitecore](https://github.com/GoranHalvarsson/SitecoreBlazor) (10:star:) - Example of dynamic pages and routes with SiteCore and [Helix](https://helix.sitecore.net/). 
-* [BlazorServerTree](https://github.com/ctrl-alt-d/BlazorServerTree) (10:star:) - A simple Server-Side Blazor sample app to deal with hierarchical data.
-* [BlazorBinding](https://github.com/SQL-MisterMagoo/BlazorBinding) (10:star:) - Sample Blazor App demonstrating various data binding scenarios.
+* [Flight Finder](https://github.com/aspnet/samples/tree/master/samples/aspnetcore/blazor) - ![GitHub stars](https://img.shields.io/github/stars/aspnet/samples?style=flat-square&cacheSeconds=604800) Flight Finder.
+* [Oqtane Framework](https://github.com/oqtane/oqtane.framework) - ![GitHub stars](https://img.shields.io/github/stars/oqtane/oqtane.framework?style=flat-square&cacheSeconds=604800) Modular Application Framework for Blazor.
+* [BlazorElectronExperiment](https://github.com/SteveSandersonMS/BlazorElectronExperiment.Sample) - ![GitHub stars](https://img.shields.io/github/stars/SteveSandersonMS/BlazorElectronExperiment.Sample?style=flat-square&cacheSeconds=604800) ![Status](https://img.shields.io/static/v1?label=status&message=archived&color=lightgrey) Exploring how a Blazor could be used to build a cross-platform desktop application using [Electron](https://electronjs.org/).
+* [Toss.Blazor](https://github.com/RemiBou/Toss.Blazor) - ![GitHub stars](https://img.shields.io/github/stars/RemiBou/Toss.Blazor?style=flat-square&cacheSeconds=604800) Twitter-like web application using Blazor.
+* [BlazorMobile](https://github.com/Daddoon/BlazorMobile) - ![GitHub stars](https://img.shields.io/github/stars/Daddoon/BlazorMobile?style=flat-square&cacheSeconds=604800) Launch a Blazor application as a standalone application.
+* [Blazor.Xamarin](https://github.com/Appizeo/Blazor.Xamarin) - ![GitHub stars](https://img.shields.io/github/stars/Appizeo/Blazor.Xamarin?style=flat-square&cacheSeconds=604800) A Xamarin template for launch and interop a Blazor app on mobile.
+* [BlazorFileReader](https://github.com/Tewr/BlazorFileReader) - ![GitHub stars](https://img.shields.io/github/stars/Tewr/BlazorFileReader?style=flat-square&cacheSeconds=604800) Read-only File streams in Blazor. [Demo](https://tewr.github.io/BlazorFileReader/).
+* [BlazorBoilerplate](https://github.com/enkodellc/blazorboilerplate) - ![GitHub stars](https://img.shields.io/github/stars/enkodellc/blazorboilerplate?style=flat-square&cacheSeconds=604800) Admin Dashboard / Starter Template with IdentityServer4, MatBlazer for Material Design.
+* [BlazeDown](https://github.com/EdCharbeneau/BlazeDown) - ![GitHub stars](https://img.shields.io/github/stars/EdCharbeneau/BlazeDown?style=flat-square&cacheSeconds=604800) BlazeDown, online Markdown editor. [Demo](https://edcharbeneau.com/BlazeDown/).
+* [Tour of Heroes](https://github.com/lohithgn/blazor-tour-of-heroes) - ![GitHub stars](https://img.shields.io/github/stars/lohithgn/blazor-tour-of-heroes?style=flat-square&cacheSeconds=604800) Blazor implementation of Angular Tour of Heroes.
+* [BlazorChatSample](https://github.com/conficient/blazorchatsample) - ![GitHub stars](https://img.shields.io/github/stars/conficient/blazorchatsample?style=flat-square&cacheSeconds=604800) Blazor chat demo using SignalR JS client with interop.
+* [BlazorWithIdentity](https://github.com/stavroskasidis/BlazorWithIdentity) - ![GitHub stars](https://img.shields.io/github/stars/stavroskasidis/BlazorWithIdentity?style=flat-square&cacheSeconds=604800) A sample project showcasing a Blazor app using EF Core with Identity authentication.
+* [Blazor.Toaster](https://github.com/sotsera/sotsera.blazor.toaster) - ![GitHub stars](https://img.shields.io/github/stars/sotsera/sotsera.blazor.toaster?style=flat-square&cacheSeconds=604800) A Blazor port of Toastr.js.
+* [Money](https://github.com/maraf/Money) - ![GitHub stars](https://img.shields.io/github/stars/maraf/Money?style=flat-square&cacheSeconds=604800) A money manager implemented using CQRS+ES. [Demo](https://app.money.neptuo.com/).
+* [Runny](https://github.com/Suchiman/Runny) - ![GitHub stars](https://img.shields.io/github/stars/Suchiman/Runny?style=flat-square&cacheSeconds=604800) Prototype of running roslyn in the browser via Blazor. [Demo](https://runny.azurewebsites.net/).
+* [Gitter](https://github.com/Blazored/Gitter) - ![GitHub stars](https://img.shields.io/github/stars/Blazored/Gitter?style=flat-square&cacheSeconds=604800) A Blazor Gitter client.
+* [NethereumBlazor](https://github.com/Nethereum/NethereumBlazor) - ![GitHub stars](https://img.shields.io/github/stars/Nethereum/NethereumBlazor?style=flat-square&cacheSeconds=604800) Ethereum blockchain explorer and simple wallet.
+* [Try F# on WebAssembly](https://github.com/fsbolero/TryFSharpOnWasm) - ![GitHub stars](https://img.shields.io/github/stars/fsbolero/TryFSharpOnWasm?style=flat-square&cacheSeconds=604800) The F# compiler running in WebAssembly with Bolero.
+* [BlazingPizza (server side)](https://github.com/ADefWebserver/BlazingPizza) - ![GitHub stars](https://img.shields.io/github/stars/ADefWebserver/BlazingPizza?style=flat-square&cacheSeconds=604800) A server side Blazor version of the Blazing Pizza project from the [Blazor - app building workshop](https://github.com/dotnet-presentations/blazor-workshop/) ![GitHub stars](https://img.shields.io/github/stars/dotnet-presentations/blazor-workshop?style=flat-square&cacheSeconds=604800).
+* [BlazorGraphExample](https://github.com/jburman/BlazorGraphExample) - ![GitHub stars](https://img.shields.io/github/stars/jburman/BlazorGraphExample?style=flat-square&cacheSeconds=604800) Example application for connecting to Graph API from Blazor.
+* [Blazor.JWTTest](https://github.com/shawty/blazor.jwttest) - ![GitHub stars](https://img.shields.io/github/stars/shawty/blazor.jwttest?style=flat-square&cacheSeconds=604800) JWT authentication for a blazor hosted (Client/Serverside) app with API and Authentication.
+* [WebSocketPage](https://github.com/Lupusa87/BlazorWebSocketHelper) - ![GitHub stars](https://img.shields.io/github/stars/Lupusa87/BlazorWebSocketHelper?style=flat-square&cacheSeconds=604800) Web Socket in Blazor. [demo](https://lupblazordemos.z13.web.core.windows.net/WebSocketPage).
+* [StarshipTraveler](https://github.com/rstropek/StarshipTraveler) - ![GitHub stars](https://img.shields.io/github/stars/rstropek/StarshipTraveler?style=flat-square&cacheSeconds=604800) A starship traveler demo app built with Blazor for the DevOne 2019 conference.
+* [Blazor Survey](https://github.com/nutshellit/Blazor-Survey) - ![GitHub stars](https://img.shields.io/github/stars/nutshellit/Blazor-Survey?style=flat-square&cacheSeconds=604800) A hybrid F#/C# blazor sample app to kick the tyres of
+* [BlazorDynamicList](https://github.com/conficient/BlazorDynamicList) - ![GitHub stars](https://img.shields.io/github/stars/conficient/BlazorDynamicList?style=flat-square&cacheSeconds=604800) Dynamic component binding for a generic list. [Demo](https://blazordynamiclist.azurewebsites.net/).
+* [Blazor + Sitecore](https://github.com/GoranHalvarsson/SitecoreBlazor) - ![GitHub stars](https://img.shields.io/github/stars/GoranHalvarsson/SitecoreBlazor?style=flat-square&cacheSeconds=604800) Example of dynamic pages and routes with SiteCore and [Helix](https://helix.sitecore.net/). 
+* [BlazorServerTree](https://github.com/ctrl-alt-d/BlazorServerTree) - ![GitHub stars](https://img.shields.io/github/stars/ctrl-alt-d/BlazorServerTree?style=flat-square&cacheSeconds=604800) A simple Server-Side Blazor sample app to deal with hierarchical data.
+* [BlazorBinding](https://github.com/SQL-MisterMagoo/BlazorBinding) - ![GitHub stars](https://img.shields.io/github/stars/SQL-MisterMagoo/BlazorBinding?style=flat-square&cacheSeconds=604800) Sample Blazor App demonstrating various data binding scenarios.
 * [Beam](https://github.com/Dedac/Beam) - A social network demo application. This is the source code of the LinkedIn course "Blazor First Look".
 * [C# Minifer](https://github.com/atifaziz/CSharpMinifierDemo) A client-side Blazor application demonstrating live minification of C# code using the [C# Minifier](https://github.com/atifaziz/CSharpMinifier) library. [Demo](https://atifaziz.github.io/CSharpMinifierDemo/).
 * [BlazorClockCanvas](https://github.com/Lupusa87/BlazorClockCanvas) - Complex clock based on Canvas. [Demo](https://lupblazorclockcanvas.z20.web.core.windows.net/).
 * [Blazor Spreadsheet](https://github.com/Lupusa87/BlazorSpreadsheet) - Spreadsheet app developed in Blazor. [Demo](https://lupblazorspreadsheet.z20.web.core.windows.net/).
-* [Client-side RealWorld](https://github.com/burke166/blazor-client-side-realworld-example-app) - [RealWorld](https://github.com/gothinkster/realworld) (29534:star:) implementation of Blazor Client-Side. [Demo](https://blazorclientside.computercodeblue.com).
+* [Client-side RealWorld](https://github.com/burke166/blazor-client-side-realworld-example-app) - [RealWorld](https://github.com/gothinkster/realworld) implementation of Blazor Client-Side. [Demo](https://blazorclientside.computercodeblue.com).
 * [BlazorClockSVG](https://github.com/Lupusa87/BlazorClockSVG) - Complex clock based on SVG. [Demo](https://lupblazorclocksvg.z20.web.core.windows.net/).
 * [Server-side RealWorld](https://github.com/burke166/blazor-server-side-realworld-example-app) - [RealWorld](https://github.com/gothinkster/realworld) implementation of Blazor Server-Side. [Demo](https://blazorserverside.computercodeblue.com).
 * [BlazorPasswordPattern](https://github.com/Lupusa87/BlazorPasswordPattern) - Password pattern based on SVG. [Demo](https://lupblazorpasswordpattern.z20.web.core.windows.net/).
@@ -139,76 +139,79 @@ Here is the documentation of Microsoft, [Get started](https://docs.microsoft.com
 * [EncFS over Google Drive](https://encfs-gdrive.github.io) - Online tool written in Blazor for encrypt/decrypt files in Google Drive.
 
 ## Tutorials
-* [Realtime Blazor Tic-Tac-Toe Game - Bot Vs Multiplayer Using SignalR](https://www.c-sharpcorner.com/article/realtime-blazor-tic-tac-toe-game-bot-vs-multiplayer-using-signalr/) - July 17, 2019 - How to create a realtime bot vs. multiplayer tic-tac-toe game in Blazor using SignalR.
-* [TSP with GeneticSharp and Blazor](http://diegogiacomelli.com.br/tsp-with-geneticsharp-and-blazor/) - July 10, 2019 - Using a Blazor client-side app and [GeneticSharp](https://github.com/giacomelli/GeneticSharp) (585:star:) to solve the TSP (Travelling salesman problem).
-* [Blazor client-side app with CRUD operations against a Web API endpoint](http://blog.medhat.ca/2019/05/blazor-app-with-crud-operations-from.html) - May 31, 2019 - Blazor client-side app with CRUD operations against a Web API endpoint. [Source code](https://github.com/medhatelmasry/BlazingSchool) (1:star:) . [Video](https://www.youtube.com/watch?v=wkSR3eo4Tek).
-* [Get .NET Core 3 and Blazor running on a Raspberry PI](https://gist.github.com/shawty/a55f6d09edc2d381c8bd5bf2f639b2de) - April 24, 2019 - Instructions on how to get the latest .NET Core 3 (as of 24th April 2019) and Blazor running on a Raspberry PI.
-* [Blazor TODO list](https://github.com/exceptionnotfound/BlazorToDoList) (25:star:) - April 22, 2019 - Blazor TODO list.
 * [Blazor workshop](https://github.com/dotnet-presentations/blazor-workshop/) - Blazor app building workshop by [.NET Foundation](https://www.dotnetfoundation.org/), Blazzing Pizza.
+* [Realtime Blazor Tic-Tac-Toe Game - Bot Vs Multiplayer Using SignalR](https://www.c-sharpcorner.com/article/realtime-blazor-tic-tac-toe-game-bot-vs-multiplayer-using-signalr/) - July 17, 2019 - How to create a realtime bot vs. multiplayer tic-tac-toe game in Blazor using SignalR.
+* [TSP with GeneticSharp and Blazor](http://diegogiacomelli.com.br/tsp-with-geneticsharp-and-blazor/) - July 10, 2019 - Using a Blazor client-side app and [GeneticSharp](https://github.com/giacomelli/GeneticSharp) ![GitHub stars](https://img.shields.io/github/stars/giacomelli/GeneticSharp?style=flat-square&cacheSeconds=604800) to solve the TSP (Travelling salesman problem).
+* [Blazor client-side app with CRUD operations against a Web API endpoint](http://blog.medhat.ca/2019/05/blazor-app-with-crud-operations-from.html) - May 31, 2019 - Blazor client-side app with CRUD operations against a Web API endpoint. [Source code](https://github.com/medhatelmasry/BlazingSchool) ![GitHub stars](https://img.shields.io/github/stars/medhatelmasry/BlazingSchool?style=flat-square&cacheSeconds=604800). [Video](https://www.youtube.com/watch?v=wkSR3eo4Tek).
+* [Get .NET Core 3 and Blazor running on a Raspberry PI](https://gist.github.com/shawty/a55f6d09edc2d381c8bd5bf2f639b2de) - April 24, 2019 - Instructions on how to get the latest .NET Core 3 (as of 24th April 2019) and Blazor running on a Raspberry PI.
+* [Blazor TODO list](https://github.com/exceptionnotfound/BlazorToDoList) - ![GitHub stars](https://img.shields.io/github/stars/exceptionnotfound/BlazorToDoList?style=flat-square&cacheSeconds=604800) April 22, 2019 - Blazor TODO list.
 * [Archives of 2018](https://github.com/AdrienTorris/awesome-blazor/blob/master/Archives/2018.md#tutorials)
 
 ## Libraries & Extensions
 ### Components
 *Reusable components like buttons, inputs, grids and more.*
-* [MatBlazor](https://github.com/SamProf/MatBlazor) (368:star:)  - Material Design components for Blazor. ([Demo](https://www.matblazor.com/)).
-* [BlazorStrap](https://github.com/chanan/BlazorStrap) (233:star:)  - Bootstrap 4 components for Blazor ([Demo](https://chanan.github.io/BlazorStrap/)).
-* [Blazorise](https://github.com/stsrki/Blazorise) (204:star:)  - Components for Blazor with support for Bootstrap, Bulma and Material CSS. ([Demo](https://bootstrapdemo.blazorise.com/)).
-* [BlazorMaterial](https://github.com/BlazorExtensions/BlazorMaterial) (104:star:)  - Blazor components implementing Google's Material components for web.
-* [Canvas](https://github.com/BlazorExtensions/Canvas) (95:star:)  - HTML5 Canvas API implementation for Microsoft Blazor.
-* [BlazorContextMenu](https://github.com/stavroskasidis/BlazorContextMenu) (89:star:)  - A context menu component for Blazor ([Demo](https://blazor-context-menu-demo.azurewebsites.net/)).
-* [Blazor.FlexGrid](https://github.com/Mewriick/Blazor.FlexGrid) (82:star:) - GridView component for Blazor.
-* [DevExpress Blazor UI Components](https://github.com/DevExpress/RazorComponents) (68:star:)  - UI components including Data Grid, Pivot Grid, and several data editors.
-* [ChartJs.Blazor](https://github.com/mariusmuntean/ChartJs.Blazor) (53:star:) - Blazor Component that wraps ChartJS.
-* [Blazored.Toast](https://github.com/Blazored/Toast) (52:star:) - A JavaScript free toast library for Blazor and Razor Component applications.
-* [BlazorComponents](https://github.com/muqeet-khan/BlazorComponents) (46:star:) - Reusable components for Blazor. Starting with ChartJS interop.
-* [Blazored.Modal](https://github.com/Blazored/Modal) (42:star:) - A JavaScript free modal library for Blazor and Razor Components applications.
- * [Syncfusion Blazor UI Components](https://github.com/syncfusion/ej2-aspnet-core-blazor-samples) (37:star:) - Robust UI components including [Data Grid](https://ej2.syncfusion.com/aspnet-core-razor-components/Grid/DefaultFunctionalities), [Charts](https://ej2.syncfusion.com/aspnet-core-razor-components/Charts/polar), [Scheduler](https://ej2.syncfusion.com/aspnet-core-razor-components/Schedule/TimelineResourceGroup), [Inputs](https://ej2.syncfusion.com/aspnet-core-razor-components/TextBox/DefaultFunctionalities) and several [Editor](https://ej2.syncfusion.com/aspnet-core-razor-components/RichTextEditor/DefaultFunctionalities) components.
-* [BlazorGrid](https://github.com/AnkitSharma-007/BlazorGrid) (34:star:) - This is a reusable grid component for Blazor which also supports client side pagination.
- * [Sotsera.Blazor.Toaster](https://github.com/sotsera/sotsera.blazor.toaster) (34:star:) - A Blazor port of Toastr.js. [Demo](https://blazor-toaster.sotsera.com/).
-* [Blazor LoadingBar](https://github.com/jsakamoto/Toolbelt.Blazor.LoadingBar) (31:star:) - Loading bar UI for Client-Side Blazor application.
-* [Blazor-Charts](https://github.com/Misfits-Rebels-Outcasts/Blazor-Charts) (25:star:) - SVG charts for Blazor.
-* [Grid.Blazor](https://github.com/gustavnavar/Grid.Blazor) (22:star:) - Grid component for Blazor and ASP.NET MVC, supporting filtering, sorting, searching, paging, subgrids and others ([Demo](http://gridblazor.azurewebsites.net)).
-* [Blazored.Menu](https://github.com/Blazored/Menu) (20:star:) - A JavaScript free menu library for Blazor and Razor Components applications.
-* [Blazored.Typeahead](https://github.com/Blazored/Typeahead) (20:star:) - Auto-complete textbox with local and remote data source, for both Client-side and Server-Side Blazor.
- * [NodaTimePicker](https://github.com/nheath99/NodaTimePicker) (20:star:)  - A Date/Time picker component library for Blazor using NodaTime. [Demo](https://nodatimepicker.azurewebsites.net/).
- * [Radzen.Blazor](https://github.com/akorchev/razor.radzen.com/) (20:star:) - Native UI components for Blazor. DataGrid, DataList, Tabs, Dialog and more. ([Demo](https://razor.radzen.com/)).
-* [BlazorStyled](https://github.com/chanan/BlazorStyled) (19:star:)  - CSS in Blazor Components ([Demo](https://chanan.github.io/BlazorStyled)).
-* [BlazorBits](https://github.com/BlazorBits/BlazorBits) (18:star:) - Components including [Monaco editor](https://github.com/Microsoft/monaco-editor) (16183:star:) .
-* [BlazorVirtualGrid](https://github.com/Lupusa87/BlazorVirtualGrid) (13:star:) - Reusable, fully configurable component with rows and columns fast virtualization ([Demo](https://lupblazorvirtualgrid.z13.web.core.windows.net/)).
+* [MatBlazor](https://github.com/SamProf/MatBlazor) - ![GitHub stars](https://img.shields.io/github/stars/SamProf/MatBlazor?style=flat-square&cacheSeconds=604800) Material Design components for Blazor. ([Demo](https://www.matblazor.com/)).
+* [BlazorStrap](https://github.com/chanan/BlazorStrap) - ![GitHub stars](https://img.shields.io/github/stars/chanan/BlazorStrap?style=flat-square&cacheSeconds=604800) Bootstrap 4 components for Blazor ([Demo](https://chanan.github.io/BlazorStrap/)).
+* [Blazorise](https://github.com/stsrki/Blazorise) - ![GitHub stars](https://img.shields.io/github/stars/stsrki/Blazorise?style=flat-square&cacheSeconds=604800) Components for Blazor with support for Bootstrap, Bulma and Material CSS. ([Demo](https://bootstrapdemo.blazorise.com/)).
+* [BlazorMaterial](https://github.com/BlazorExtensions/BlazorMaterial) - ![GitHub stars](https://img.shields.io/github/stars/BlazorExtensions/BlazorMaterial?style=flat-square&cacheSeconds=604800) Blazor components implementing Google's Material components for web.
+* [Canvas](https://github.com/BlazorExtensions/Canvas) - ![GitHub stars](https://img.shields.io/github/stars/BlazorExtensions/Canvas?style=flat-square&cacheSeconds=604800) HTML5 Canvas API implementation for Microsoft Blazor.
+* [BlazorContextMenu](https://github.com/stavroskasidis/BlazorContextMenu) - ![GitHub stars](https://img.shields.io/github/stars/stavroskasidis/BlazorContextMenu?style=flat-square&cacheSeconds=604800) A context menu component for Blazor ([Demo](https://blazor-context-menu-demo.azurewebsites.net/)).
+* [Blazor.FlexGrid](https://github.com/Mewriick/Blazor.FlexGrid) - ![GitHub stars](https://img.shields.io/github/stars/Mewriick/Blazor.FlexGrid?style=flat-square&cacheSeconds=604800) GridView component for Blazor.
+* [DevExpress Blazor UI Components](https://github.com/DevExpress/RazorComponents) - ![GitHub stars](https://img.shields.io/github/stars/DevExpress/RazorComponents?style=flat-square&cacheSeconds=604800) UI components including Data Grid, Pivot Grid, and several data editors.
+* [ChartJs.Blazor](https://github.com/mariusmuntean/ChartJs.Blazor) - ![GitHub stars](https://img.shields.io/github/stars/mariusmuntean/ChartJs.Blazor?style=flat-square&cacheSeconds=604800) Blazor Component that wraps ChartJS.
+* [Blazored.Toast](https://github.com/Blazored/Toast) - ![GitHub stars](https://img.shields.io/github/stars/Blazored/Toast?style=flat-square&cacheSeconds=604800) A JavaScript free toast library for Blazor and Razor Component applications.
+* [BlazorComponents](https://github.com/muqeet-khan/BlazorComponents) - ![GitHub stars](https://img.shields.io/github/stars/muqeet-khan/BlazorComponents?style=flat-square&cacheSeconds=604800) Reusable components for Blazor. Starting with ChartJS interop.
+* [Blazored.Modal](https://github.com/Blazored/Modal) - ![GitHub stars](https://img.shields.io/github/stars/Blazored/Modal?style=flat-square&cacheSeconds=604800) A JavaScript free modal library for Blazor and Razor Components applications.
+* [Syncfusion Blazor UI Components](https://github.com/syncfusion/ej2-aspnet-core-blazor-samples) - ![GitHub stars](https://img.shields.io/github/stars/syncfusion/ej2-aspnet-core-blazor-samples?style=flat-square&cacheSeconds=604800) Robust UI components including [Data Grid](https://ej2.syncfusion.com/aspnet-core-razor-components/Grid/DefaultFunctionalities), [Charts](https://ej2.syncfusion.com/aspnet-core-razor-components/Charts/polar), [Scheduler](https://ej2.syncfusion.com/aspnet-core-razor-components/Schedule/TimelineResourceGroup), [Inputs](https://ej2.syncfusion.com/aspnet-core-razor-components/TextBox/DefaultFunctionalities) and several [Editor](https://ej2.syncfusion.com/aspnet-core-razor-components/RichTextEditor/DefaultFunctionalities) components.
+* [BlazorGrid](https://github.com/AnkitSharma-007/BlazorGrid) - ![GitHub stars](https://img.shields.io/github/stars/AnkitSharma-007/BlazorGrid?style=flat-square&cacheSeconds=604800) This is a reusable grid component for Blazor which also supports client side pagination.
+* [Sotsera.Blazor.Toaster](https://github.com/sotsera/sotsera.blazor.toaster) - ![GitHub stars](https://img.shields.io/github/stars/sotsera/sotsera.blazor.toaster?style=flat-square&cacheSeconds=604800) A Blazor port of Toastr.js. [Demo](https://blazor-toaster.sotsera.com/).
+* [Blazor LoadingBar](https://github.com/jsakamoto/Toolbelt.Blazor.LoadingBar) - ![GitHub stars](https://img.shields.io/github/stars/jsakamoto/Toolbelt.Blazor.LoadingBar?style=flat-square&cacheSeconds=604800) Loading bar UI for Client-Side Blazor application.
+* [Blazor-Charts](https://github.com/Misfits-Rebels-Outcasts/Blazor-Charts) - ![GitHub stars](https://img.shields.io/github/stars/Misfits-Rebels-Outcasts/Blazor-Charts?style=flat-square&cacheSeconds=604800) SVG charts for Blazor.
+* [Grid.Blazor](https://github.com/gustavnavar/Grid.Blazor) - ![GitHub stars](https://img.shields.io/github/stars/gustavnavar/Grid.Blazor?style=flat-square&cacheSeconds=604800) Grid component for Blazor and ASP.NET MVC, supporting filtering, sorting, searching, paging, subgrids and others ([Demo](http://gridblazor.azurewebsites.net)).
+* [Blazored.Menu](https://github.com/Blazored/Menu) - ![GitHub stars](https://img.shields.io/github/stars/Blazored/Menu?style=flat-square&cacheSeconds=604800) A JavaScript free menu library for Blazor and Razor Components applications.
+* [Blazored.Typeahead](https://github.com/Blazored/Typeahead) - ![GitHub stars](https://img.shields.io/github/stars/Blazored/Typeahead?style=flat-square&cacheSeconds=604800) Auto-complete textbox with local and remote data source, for both Client-side and Server-Side Blazor.
+* [NodaTimePicker](https://github.com/nheath99/NodaTimePicker) - ![GitHub stars](https://img.shields.io/github/stars/nheath99/NodaTimePicker?style=flat-square&cacheSeconds=604800) A Date/Time picker component library for Blazor using NodaTime. [Demo](https://nodatimepicker.azurewebsites.net/).
+* [Radzen.Blazor](https://github.com/akorchev/razor.radzen.com) - ![GitHub stars](https://img.shields.io/github/stars/akorchev/razor.radzen.com?style=flat-square&cacheSeconds=604800) Native UI components for Blazor. DataGrid, DataList, Tabs, Dialog and more. ([Demo](https://razor.radzen.com/)).
+* [BlazorStyled](https://github.com/chanan/BlazorStyled) - ![GitHub stars](https://img.shields.io/github/stars/chanan/BlazorStyled?style=flat-square&cacheSeconds=604800) CSS in Blazor Components ([Demo](https://chanan.github.io/BlazorStyled)).
+* [BlazorBits](https://github.com/BlazorBits/BlazorBits) - ![GitHub stars](https://img.shields.io/github/stars/BlazorBits/BlazorBits?style=flat-square&cacheSeconds=604800) Components including [Monaco editor](https://github.com/Microsoft/monaco-editor) ![GitHub stars](https://img.shields.io/github/stars/Microsoft/monaco-editor?style=flat-square&cacheSeconds=604800).
+* [BlazorVirtualGrid](https://github.com/Lupusa87/BlazorVirtualGrid) - ![GitHub stars](https://img.shields.io/github/stars/Lupusa87/BlazorVirtualGrid?style=flat-square&cacheSeconds=604800) Reusable, fully configurable component with rows and columns fast virtualization ([Demo](https://lupblazorvirtualgrid.z13.web.core.windows.net/)).
 * [BlazorVirtualScrolling](https://github.com/SamProf/BlazorVirtualScrolling) - Virtual Scrolling Component for Blazor
  ([Demo](https://samprof.github.io/BlazorVirtualScrolling/)).
- * [BlazorScrollbar](https://github.com/Lupusa87/BlazorScrollbar) - Reusable, fully configurable component with vertical and horizontal scrollbars ([Demo](https://lupblazorscrollbar.z20.web.core.windows.net/)).
- * [BlazorSplitter](https://github.com/Lupusa87/BlazorSplitter) - Reusable, fully configurable component with vertical and horizontal splitters and diagonal resizer ([Demo](https://lupblazorsplitter.z20.web.core.windows.net/)).
- * [BlazorConfirm](https://github.com/ctrl-alt-d/BlazorConfirm) - A Blazor Wrapper for JS's `Window.confirm()` and `onbeforeunload` as .Net Blazor Component ([Demo](https://ctrl-alt-d.github.io/BlazorConfirm/)).
- * [BlazorQuery](https://github.com/kevinjpetersen/BlazorQuery) - jQuery for Blazor (Blazor Library that wraps jQuery completely in C# for use in Blazor).
- * [Telerik UI for Blazor](https://www.telerik.com/blazor-ui) - A native set of UI components for Blazor, including grid, charting, and calendar components.
+* [BlazorScrollbar](https://github.com/Lupusa87/BlazorScrollbar) - Reusable, fully configurable component with vertical and horizontal scrollbars ([Demo](https://lupblazorscrollbar.z20.web.core.windows.net/)).
+* [BlazorSplitter](https://github.com/Lupusa87/BlazorSplitter) - Reusable, fully configurable component with vertical and horizontal splitters and diagonal resizer ([Demo](https://lupblazorsplitter.z20.web.core.windows.net/)).
+* [BlazorConfirm](https://github.com/ctrl-alt-d/BlazorConfirm) - A Blazor Wrapper for JS's `Window.confirm()` and `onbeforeunload` as .Net Blazor Component ([Demo](https://ctrl-alt-d.github.io/BlazorConfirm/)).
+* [BlazorQuery](https://github.com/kevinjpetersen/BlazorQuery) - jQuery for Blazor (Blazor Library that wraps jQuery completely in C# for use in Blazor).
+* [Telerik UI for Blazor](https://www.telerik.com/blazor-ui) - A native set of UI components for Blazor, including grid, charting, and calendar components.
 * [TwitterShareButton](https://github.com/jsakamoto/Toolbelt.Blazor.TwitterShareButton) - A Tweet Button component for Blazor.
 * [Flexor](https://github.com/DerekChasse/Flexor) - Highly configurable components which let you take full advantage of Flexbox CSS.([Demo](http://flexor.azurewebsites.net/)).
 * [Blazor.Validation.DataAnnotation](https://github.com/RemiBou/Blazor.Validation.DataAnnotation) - Library for validating form on a Blazor application using Data Annotation.
 * [Blazor.LoadingIndicator](https://github.com/h3x4d3c1m4l/Blazor.LoadingIndicator) - Simple to use loading indicator helper library 
+* [BlazorDateRangePicker](https://github.com/jdtcn/BlazorDateRangePicker) - A date range picker component library for Blazor. [Demo](https://BlazorDateRangePicker.azurewebsites.net/).
+* [BlazorTypography](https://github.com/chanan/BlazorTypography) - A powerful toolkit for building websites with beautiful design ([Demo](https://chanan.github.io/BlazorTypography/)).
+
 ### Tools & Utilities
 *Libraries and extensions for state management, cookies, local storage and other specific tools.*
-* [Blazor-Redux](https://github.com/torhovland/blazor-redux) (330:star:)  - Connecting a Redux state store with Blazor.
-* [SignalR](https://github.com/BlazorExtensions/SignalR) (90:star:)  - SignalR Core implementation for Blazor. It uses the JavaScript client.
-* [Blazor-Fluxor](https://github.com/mrpmorris/blazor-fluxor) (87:star:)  - A low-boilerplate Flux/Redux state library for Blazor.
-* [Logging](https://github.com/BlazorExtensions/Logging) (73:star:)  - Microsoft Extension Logging implementation for Blazor.4
-* [Storage](https://github.com/BlazorExtensions/Storage) (71:star:)  - HTML5 Storage API implementation for Microsoft Blazor.
-* [Blazor-State](https://github.com/TimeWarpEngineering/blazor-state) (69:star:)  - Manage client side state in Blazor using MediatR pipeline.
-* [BlazorStorage](https://github.com/cloudcrate/BlazorStorage) (59:star:) - Local and session storage support for Blazor.
-* [BlazorDB](https://github.com/chanan/BlazorDB) (52:star:) - In-memory, persisted to local storage, database for Blazor.
-* [BlazorSignalR](https://github.com/csnewman/BlazorSignalR) (45:star:)  - SignalR Core .NET client library for Blazor. It uses the C# client.
-* [Blazor.Auth0](https://github.com/Pegazux/Blazor.Auth0) (31:star:) - Library for Blazor authentication with OIDC Authorization Code-Grant and Implicit-Grant flows, using Auth0's Universal Login and Silent Login.
-* [Notifications](https://github.com/BlazorExtensions/Notifications) (29:star:)  - HTML5 Notifications API implementation for Microsoft Blazor.
-* [Blazor.Polyfill](https://github.com/Daddoon/Blazor.Polyfill) (25:star:)  - Polyfills for Blazor (for Internet Explorer 11 support and some other browsers).
-* [Blazored.LocalStorage](https://github.com/chrissainty/BlazoredLocalStorage) (21:star:) - [Archived] Local storage for Blazor applications.
-* [CssBuilder](https://github.com/EdCharbeneau/CssBuilder) (19:star:) - CssBuilder is a Builder pattern for CSS classes to be used with Razor Components.
-* [Blazor I18n/Localization Text](https://github.com/jsakamoto/Toolbelt.Blazor.I18nText) (17:star:)  - Localizing contents text in Blazor ([Demo](https://jsakamoto.github.io/Toolbelt.Blazor.I18nText/)).
-* [Blazor.Payments](https://github.com/philipblaquiere/Blazor.Payments) (17:star:) - Blazor Web Agent port of the Web Payment API standard developed by W3C .
-* [Blazored.Localisation](https://github.com/Blazored/Localisation) (16:star:) - A library to provide localisation in client-side Blazor applications.
-* [Blazor.Geolocation](https://github.com/AspNetMonsters/Blazor.Geolocation) (13:star:)  - Blazor interop for browers Geolocation apis.
-* [Blazor Time Zone Kit](https://github.com/jsakamoto/Toolbelt.Blazor.TimeZoneKit) (12:star:) - A library to provide system time zones and local time zone initialization in Blazor apps.
-* [EmbeddedBlazorContent](https://github.com/SamProf/EmbeddedBlazorContent) (11:star:) - Library to load embedded content files (js and css) from Blazor libraries in server-side Blazor mode.
-* [Blazor Svg Helper](https://github.com/Lupusa87/BlazorSvgHelper) (10:star:)  - Create SVG elements with children (circle, rectangle, image, text, and others) and render with RenderTreeBuilder.
+* [Blazor-Redux](https://github.com/torhovland/blazor-redux) - ![GitHub stars](https://img.shields.io/github/stars/torhovland/blazor-redux?style=flat-square&cacheSeconds=604800) Connecting a Redux state store with Blazor.
+* [SignalR](https://github.com/BlazorExtensions/SignalR) - ![GitHub stars](https://img.shields.io/github/stars/BlazorExtensions/SignalR?style=flat-square&cacheSeconds=604800) SignalR Core implementation for Blazor. It uses the JavaScript client.
+* [Blazor-Fluxor](https://github.com/mrpmorris/blazor-fluxor) - ![GitHub stars](https://img.shields.io/github/stars/mrpmorris/blazor-fluxor?style=flat-square&cacheSeconds=604800) A low-boilerplate Flux/Redux state library for Blazor.
+* [Logging](https://github.com/BlazorExtensions/Logging) - ![GitHub stars](https://img.shields.io/github/stars/BlazorExtensions/Logging?style=flat-square&cacheSeconds=604800) Microsoft Extension Logging implementation for Blazor.4
+* [Storage](https://github.com/BlazorExtensions/Storage) - ![GitHub stars](https://img.shields.io/github/stars/BlazorExtensions/Storage?style=flat-square&cacheSeconds=604800) HTML5 Storage API implementation for Microsoft Blazor.
+* [Blazor-State](https://github.com/TimeWarpEngineering/blazor-state) - ![GitHub stars](https://img.shields.io/github/stars/TimeWarpEngineering/blazor-state?style=flat-square&cacheSeconds=604800) Manage client side state in Blazor using MediatR pipeline.
+* [BlazorStorage](https://github.com/cloudcrate/BlazorStorage) - ![GitHub stars](https://img.shields.io/github/stars/cloudcrate/BlazorStorage?style=flat-square&cacheSeconds=604800) Local and session storage support for Blazor.
+* [BlazorDB](https://github.com/chanan/BlazorDB) - ![GitHub stars](https://img.shields.io/github/stars/chanan/BlazorDB?style=flat-square&cacheSeconds=604800) In-memory, persisted to local storage, database for Blazor.
+* [BlazorSignalR](https://github.com/csnewman/BlazorSignalR) - ![GitHub stars](https://img.shields.io/github/stars/csnewman/BlazorSignalR?style=flat-square&cacheSeconds=604800) SignalR Core .NET client library for Blazor. It uses the C# client.
+* [Blazored.LocalStorage](https://github.com/Blazored/LocalStorage) - ![GitHub stars](https://img.shields.io/github/stars/Blazored/LocalStorage?style=flat-square&cacheSeconds=604800) A library to provide access to local storage in Blazor applications.
+* [Blazor.Auth0](https://github.com/Pegazux/Blazor.Auth0) - ![GitHub stars](https://img.shields.io/github/stars/Pegazux/Blazor.Auth0?style=flat-square&cacheSeconds=604800) Library for Blazor authentication with OIDC Authorization Code-Grant and Implicit-Grant flows, using Auth0's Universal Login and Silent Login.
+* [Notifications](https://github.com/BlazorExtensions/Notifications) - ![GitHub stars](https://img.shields.io/github/stars/BlazorExtensions/Notifications?style=flat-square&cacheSeconds=604800) HTML5 Notifications API implementation for Microsoft Blazor.
+* [Blazor.Polyfill](https://github.com/Daddoon/Blazor.Polyfill) - ![GitHub stars](https://img.shields.io/github/stars/Daddoon/Blazor.Polyfill?style=flat-square&cacheSeconds=604800) Polyfills for Blazor (for Internet Explorer 11 support and some other browsers).
+* [CssBuilder](https://github.com/EdCharbeneau/CssBuilder) - ![GitHub stars](https://img.shields.io/github/stars/EdCharbeneau/CssBuilder?style=flat-square&cacheSeconds=604800) CssBuilder is a Builder pattern for CSS classes to be used with Razor Components.
+* [Blazor I18n/Localization Text](https://github.com/jsakamoto/Toolbelt.Blazor.I18nText) - ![GitHub stars](https://img.shields.io/github/stars/jsakamoto/Toolbelt.Blazor.I18nText?style=flat-square&cacheSeconds=604800) Localizing contents text in Blazor ([Demo](https://jsakamoto.github.io/Toolbelt.Blazor.I18nText/)).
+* [Blazor.Payments](https://github.com/philipblaquiere/Blazor.Payments) - ![GitHub stars](https://img.shields.io/github/stars/philipblaquiere/Blazor.Payments?style=flat-square&cacheSeconds=604800) Blazor Web Agent port of the Web Payment API standard developed by W3C .
+* [Blazored.Localisation](https://github.com/Blazored/Localisation) - ![GitHub stars](https://img.shields.io/github/stars/Blazored/Localisation?style=flat-square&cacheSeconds=604800) A library to provide localisation in client-side Blazor applications.
+* [Blazor.Geolocation](https://github.com/AspNetMonsters/Blazor.Geolocation) - ![GitHub stars](https://img.shields.io/github/stars/AspNetMonsters/Blazor.Geolocation?style=flat-square&cacheSeconds=604800) Blazor interop for browers Geolocation apis.
+* [Blazor Time Zone Kit](https://github.com/jsakamoto/Toolbelt.Blazor.TimeZoneKit) - ![GitHub stars](https://img.shields.io/github/stars/jsakamoto/Toolbelt.Blazor.TimeZoneKit?style=flat-square&cacheSeconds=604800) A library to provide system time zones and local time zone initialization in Blazor apps.
+* [EmbeddedBlazorContent](https://github.com/SamProf/EmbeddedBlazorContent) - ![GitHub stars](https://img.shields.io/github/stars/SamProf/EmbeddedBlazorContent?style=flat-square&cacheSeconds=604800) Library to load embedded content files (js and css) from Blazor libraries in server-side Blazor mode.
+* [Blazor Svg Helper](https://github.com/Lupusa87/BlazorSvgHelper) - ![GitHub stars](https://img.shields.io/github/stars/Lupusa87/BlazorSvgHelper?style=flat-square&cacheSeconds=604800) Create SVG elements with children (circle, rectangle, image, text, and others) and render with RenderTreeBuilder.
 * [Blazor Analytics](https://github.com/isc30/blazor-analytics) - Blazor extensions for Analytics.
 * [BlazorPrettyCode](https://github.com/chanan/BlazorPrettyCode) - Blazor Code Component for documentation sites. [Demo](https://chanan.github.io/BlazorPrettyCode/).
 * [Blazor.EventAggregator](https://github.com/mikoskinen/Blazor.EventAggregator) - Lightweight Event Aggregator for Blazor (Razor Components).
@@ -222,20 +225,24 @@ Here is the documentation of Microsoft, [Get started](https://docs.microsoft.com
 * [Blazor.SpeechSynthesis](https://github.com/jsakamoto/Toolbelt.Blazor.SpeechSynthesis) - A library to provide Speech Synthesis API access for Blazor.
 * [Blazor BarCode](https://barcoderesource.com/blazorbarcode.shtml) &ndash; A barcode library for Blazor using barcode fonts.
 ### Others
-* [Blazor Extensions Home](https://github.com/BlazorExtensions/Home) (32:star:) - Home for Blazor Extensions.
-* [Bolero](https://github.com/fsbolero/Bolero) (254:star:)  - Blazor for F# with hot reloaded templates, type-safe endpoints and routing, remoting, and much more.
-* [BlazorMobile](https://github.com/Daddoon/BlazorMobile) (64:star:)  - Launch Blazor application as a standalone application.
-* [NObservable](https://github.com/kekekeks/NObservable) (38:star:)  - MobX-like observables and component instrumentation.
-* [Blazor-Dashboard](https://github.com/Misfits-Rebels-Outcasts/Blazor-Dashboard) (24:star:)  - Admin Dashboard Template Theme for Blazor.
-* [BlazorOfficeUIFabric](https://github.com/BlazorExtensions/BlazorOfficeUIFabric) (22:star:)  - Microsoft Office Fabric UI port for Blazor.
-* [BlazorEmbedLibrary](https://github.com/SQL-MisterMagoo/BlazorEmbedLibrary) (22:star:) - Provides Blazor-style embedded static content files for Razor Components projects.
-* [WebSocketHelper](https://github.com/Lupusa87/BlazorWebSocketHelper) (12:star:)  - Helper for Web Socket in Blazor.
+* [Blazor Extensions Home](https://github.com/BlazorExtensions/Home) - ![GitHub stars](https://img.shields.io/github/stars/BlazorExtensions/Home?style=flat-square&cacheSeconds=604800) Home for Blazor Extensions.
+* [Bolero](https://github.com/fsbolero/Bolero) - ![GitHub stars](https://img.shields.io/github/stars/fsbolero/Bolero?style=flat-square&cacheSeconds=604800) Blazor for F# with hot reloaded templates, type-safe endpoints and routing, remoting, and much more.
+* [BlazorMobile](https://github.com/Daddoon/BlazorMobile) - ![GitHub stars](https://img.shields.io/github/stars/Daddoon/BlazorMobile?style=flat-square&cacheSeconds=604800) Launch Blazor application as a standalone application.
+* [NObservable](https://github.com/kekekeks/NObservable) - ![GitHub stars](https://img.shields.io/github/stars/kekekeks/NObservable?style=flat-square&cacheSeconds=604800) MobX-like observables and component instrumentation.
+* [Blazor-Dashboard](https://github.com/Misfits-Rebels-Outcasts/Blazor-Dashboard) - ![GitHub stars](https://img.shields.io/github/stars/Misfits-Rebels-Outcasts/Blazor-Dashboard?style=flat-square&cacheSeconds=604800) Admin Dashboard Template Theme for Blazor.
+* [BlazorOfficeUIFabric](https://github.com/BlazorExtensions/BlazorOfficeUIFabric) - ![GitHub stars](https://img.shields.io/github/stars/BlazorExtensions/BlazorOfficeUIFabric?style=flat-square&cacheSeconds=604800) Microsoft Office Fabric UI port for Blazor.
+* [BlazorEmbedLibrary](https://github.com/SQL-MisterMagoo/BlazorEmbedLibrary) - ![GitHub stars](https://img.shields.io/github/stars/SQL-MisterMagoo/BlazorEmbedLibrary?style=flat-square&cacheSeconds=604800) Provides Blazor-style embedded static content files for Razor Components projects.
+* [WebSocketHelper](https://github.com/Lupusa87/BlazorWebSocketHelper) - ![GitHub stars](https://img.shields.io/github/stars/Lupusa87/BlazorWebSocketHelper?style=flat-square&cacheSeconds=604800) Helper for Web Socket in Blazor.
 * [Bionic](https://bionicframework.github.io/Documentation/) - An Ionic CLI clone for Blazor projects.
 * [BlazorFabric](https://github.com/limefrogyank/BlazorFabric) - Blazor port of Microsoft UI Fabric with fluent design. ([Demo](https://blazorfabric.azurewebsites.net/)).
 * [BlazorFileSaver](https://github.com/IvanJosipovic/BlazorFileSaver) - Blazor Component wrapper for FileSaver.js. 
 
 ## Videos
+* [Blazor StateHasChanged](https://www.twitch.tv/videos/460574001) - July 31, 2019 - Blazor StateHasChanged Community round up & BlazePort. [Source Code](https://github.com/EdCharbeneau/BlazePort) ![GitHub stars](https://img.shields.io/github/stars/EdCharbeneau/BlazePort?style=flat-square&cacheSeconds=604800).
+* [Let's learn Blazor!](https://www.twitch.tv/videos/460080201) - July 30, 2019 - Let's learn Blazor!
+* [Let's Learn Blazor: Getting Started](https://www.youtube.com/watch?v=zbXESHQQVsE) - July 29, 2019 - In this video, we install Blazor and create our first Blazor application. Watch as I try to understand how Blazor startup works, create bindings, and add event handlers.
 * [Why use Blazor?](https://clips.twitch.tv/WealthyDeliciousNeanderthalPhilosoraptor) - July 24, 2019 - Why use Blazor? Live on Twitch by Jeffrey T. Fritz.
+* [Build Your First Web Application with Blazor](https://www.youtube.com/watch?v=aqSinXoStAU) - July 22, 2019 - Join Jeff Fritz as he takes you through the steps to build your first application that runs IN the browser with C# and Blazor. By the end of this video, you'll learn how to build a next-generation SPA (single-page application) using HTML, CSS, JavaScript interop, and Blazor.
 * [Reporting with a CSS grid and converting to Blazor Client-Side technology](https://www.twitch.tv/videos/455920947) - July 21, 2019 - Reporting with a CSS grid and converting to Blazor Client-Side technology.
 * [Razor: Into the Razor'verse](https://www.youtube.com/watch?v=cQeSTdgmPGQ) - July 19, 2019 - The Razor template markup syntax is used throughout ASP.NET. In the next version of ASP.NET, Core Razor is evolving into multiple Razor adaptations such as Razor Tag Helpers, Razor Pages, Blazor, and Razor Components . Learn in this video the key differences between theses variations and see where they align in the ASP.NET road map.
 * [Blazor Workshop!](https://www.twitch.tv/videos/454955014) - July 19, 2019 - Blazor Workshop! Learn about WebAssembly and C# in this all day event.
@@ -243,18 +250,19 @@ Here is the documentation of Microsoft, [Get started](https://docs.microsoft.com
 * [Blazor Component Events using EventCallback](https://www.youtube.com/watch?v=vdEQBhPoTes&list=PLvmaC-XMqeBYPTwcm478vs8Rujq2tiVJo&index=3) - July 17, 2019 - Blazor Component Events using EventCallback, from the Telerik UI for Blazor serie.
 * [Blazor Component Basics](https://www.youtube.com/watch?v=z9BOkBFDbc0&list=PLvmaC-XMqeBYPTwcm478vs8Rujq2tiVJo&index=2) - July 17, 2019 - Blazor Component Basics, from the Telerik UI for Blazor serie.
 * [Blazor Quick Start Guide](https://www.youtube.com/watch?v=aaRAZYaJ4xc&list=PLvmaC-XMqeBYPTwcm478vs8Rujq2tiVJo&index=1) - July 17, 2019 - Blazor Quick Start Guide, from the Telerik UI for Blazor serie.
+* [Building a Raffle App with C#, Blazor, and Twilio](https://www.twitch.tv/videos/451354500) - July 11, 2019 - Building a Raffle App with C#, Blazor, and Twilio.
 * [The Freeze Team - A Blazor Console](https://www.twitch.tv/videos/447594138) - July 3, 2019 -  - The Freeze Team - A Blazor Console.
 * [The Freeze Team - A Blazor CLI](https://www.twitch.tv/videos/444377657) - June 26, 2019 - The Freeze Team - A Blazor CLI.
-* [Blazor StateHasChanged: BlazePort part 5](https://www.twitch.tv/videos/443598774) - June 24, 2019 - Blazor StateHasChanged: BlazePort part  5, about creating BlazePort, a futuristic ride share app for space travel written in full stack .NET with Blazor. [Source Code](https://github.com/EdCharbeneau/BlazePort) (6:star:) .
-* [Blazor StateHasChanged: BlazePort part 4](https://www.twitch.tv/videos/442689869) - June 22, 2019 - Blazor StateHasChanged: BlazePort part  4, about creating BlazePort, a futuristic ride share app for space travel written in full stack .NET with Blazor. [Source Code](https://github.com/EdCharbeneau/BlazePort) (6:star:) .
+* [Blazor StateHasChanged: BlazePort part 5](https://www.twitch.tv/videos/443598774) - June 24, 2019 - Blazor StateHasChanged: BlazePort part  5, about creating BlazePort, a futuristic ride share app for space travel written in full stack .NET with Blazor. [Source Code](https://github.com/EdCharbeneau/BlazePort) ![GitHub stars](https://img.shields.io/github/stars/EdCharbeneau/BlazePort?style=flat-square&cacheSeconds=604800).
+* [Blazor StateHasChanged: BlazePort part 4](https://www.twitch.tv/videos/442689869) - June 22, 2019 - Blazor StateHasChanged: BlazePort part  4, about creating BlazePort, a futuristic ride share app for space travel written in full stack .NET with Blazor. [Source Code](https://github.com/EdCharbeneau/BlazePort) ![GitHub stars](https://img.shields.io/github/stars/EdCharbeneau/BlazePort?style=flat-square&cacheSeconds=604800).
 * [Working Through the Blazor Workshop From Scratch](https://www.youtube.com/watch?v=QkVQ6XdIsE0) - June 21, 2019 - Working Through the Blazor Workshop From Scratch, by Ardalis.
-* [Blazor, a new framework for browser-based .NET apps](https://www.youtube.com/watch?v=uW-Kk7Qpv5U) - June 20, 2019 - Blazor, a new framework for browser-based .NET apps by Steve Sanderson at the NDC Oslo 2019. [Demo's source code](https://github.com/SteveSandersonMS/presentation-2019-06-NDCOslo) (66:star:) .
+* [Blazor, a new framework for browser-based .NET apps](https://www.youtube.com/watch?v=uW-Kk7Qpv5U) - June 20, 2019 - Blazor, a new framework for browser-based .NET apps by Steve Sanderson at the NDC Oslo 2019. [Demo's source code](https://github.com/SteveSandersonMS/presentation-2019-06-NDCOslo) ![GitHub stars](https://img.shields.io/github/stars/SteveSandersonMS/presentation-2019-06-NDCOslo?style=flat-square&cacheSeconds=604800).
 * [.NET Core 3.0 with Scott Hunter](https://channel9.msdn.com/Shows/On-NET/NET-Core-30-with-Scott-Hunter) - June 20, 2019 - In this episode, Richard Lander and Scott Hunter get together to discuss some of the highlights that developers can look forward to in this new release of .NET Core.
 * [Server-side Blazor in .NET Core 3.0](https://channel9.msdn.com/Shows/On-NET/Server-side-Blazor-in-NET-Core-30) - June 18, 2019 - Server-side Blazor in .NET Core 3.0.
 * [ASP.NET Community Standup - .NET Core 3.0 Preview 6](https://www.youtube.com/watch?v=SKnIzX6WFfI&list=PL1rZQsJPBU2StolNg0aqvQswETPcYnNKL&index=0) - June 18, 2019 - ASP.NET Community Standup - .NET Core 3.0 Preview 6.
-* [Blazor StateHasChanged: BlazePort part 3](https://www.twitch.tv/videos/440348759) - June 17, 2019 - Blazor StateHasChanged: BlazePort part  3. Video about creating BlazePort, a futuristic ride share app for space travel written in full stack .NET with Blazor. [Source Code](https://github.com/EdCharbeneau/BlazePort) (6:star:) .
+* [Blazor StateHasChanged: BlazePort part 3](https://www.twitch.tv/videos/440348759) - June 17, 2019 - Blazor StateHasChanged: BlazePort part  3. Video about creating BlazePort, a futuristic ride share app for space travel written in full stack .NET with Blazor. [Source Code](https://github.com/EdCharbeneau/BlazePort) ![GitHub stars](https://img.shields.io/github/stars/EdCharbeneau/BlazePort?style=flat-square&cacheSeconds=604800).
 * [Blazor with Material Design Framework, part 1](https://www.youtube.com/watch?v=X4QYcVX6NCw) - June 16, 2019 - Blazor with Material Design Framework - MatBlazor (Part - 1).
-* [Blazor StateHasChanged: BlazePort part 2](https://www.twitch.tv/videos/438942939) - June 14, 2019 - Blazor StateHasChanged: BlazePort part  2. Second video about creating BlazePort, a futuristic ride share app for space travel written in full stack .NET with Blazor. [Source Code](https://github.com/EdCharbeneau/BlazePort) (6:star:) .
+* [Blazor StateHasChanged: BlazePort part 2](https://www.twitch.tv/videos/438942939) - June 14, 2019 - Blazor StateHasChanged: BlazePort part  2. Second video about creating BlazePort, a futuristic ride share app for space travel written in full stack .NET with Blazor. [Source Code](https://github.com/EdCharbeneau/BlazePort) ![GitHub stars](https://img.shields.io/github/stars/EdCharbeneau/BlazePort?style=flat-square&cacheSeconds=604800).
 * [Blazing Pizza Deep Dive with Daniel Roth](https://www.youtube.com/watch?v=HxZTD0isAxQ) - June 11, 2019 - ASP.NET Community Standup - June 11th, 2019 - Blazing Pizza Deep Dive with Daniel Roth.
 * [Blazor - You Want To Run .NET Where?!](https://www.youtube.com/watch?v=t9g-GogZDeo) - June 11, 2019 - Blazor - You Want To Run .NET Where?!.
 * [Blazor SPA Framework C# with MongoDB - Part 1](https://www.youtube.com/watch?v=XHbOyEFoPV0) - June 9, 2019 - Blazor SPA Framework C# with MongoDB - Part 1.
@@ -262,13 +270,13 @@ Here is the documentation of Microsoft, [Get started](https://docs.microsoft.com
 * [Building a C# Interactive shell in a browser with Blazor (WebAssembly) and Roslyn](https://www.strathweb.com/2019/06/building-a-c-interactive-shell-in-a-browser-with-blazor-webassembly-and-roslyn/) - June 7, 2019 - Building a C# Interactive shell in a browser with Blazor (WebAssembly) and Roslyn.
 * [Blazor - Getting Started with Daniel and Mehul](https://www.youtube.com/watch?v=93OtjA8VUgc) - June 6, 2019 - Blazor - Getting Started with Daniel Roth and Mehul Harry, published by DevExpress.
 * [Blazor client-side app with CRUD operations against a Web API endpoint](https://www.youtube.com/watch?v=wkSR3eo4Tek) - June 1, 2019 - Blazor client-side app with CRUD operations against a Web API endpoint.
-* [Blazor StateHasChanged: BlazePort part 1](https://www.twitch.tv/videos/430658092) - May 27, 2019 - First video about creating BlazePort, a futuristic ride share app for space travel written in full stack .NET with Blazor. [Source Code](https://github.com/EdCharbeneau/BlazePort) (6:star:) .
+* [Blazor StateHasChanged: BlazePort part 1](https://www.twitch.tv/videos/430658092) - May 27, 2019 - First video about creating BlazePort, a futuristic ride share app for space travel written in full stack .NET with Blazor. [Source Code](https://github.com/EdCharbeneau/BlazePort) ![GitHub stars](https://img.shields.io/github/stars/EdCharbeneau/BlazePort?style=flat-square&cacheSeconds=604800).
 * [Blazor CRUD app tutorial - SPA Framework for .NET developers (Part - 2)](https://www.youtube.com/watch?v=TMiFNM_1oZI) - May 22, 2019 - Blazor CRUD app tutorial - SPA Framework for .NET developers (Part - 2).
 * [Blazor application state management basics](https://www.youtube.com/watch?v=1o-_78ONM1s) - May 14, 2019 - Blazor application state management basics.
 * [Blazor Q/A Live with Daniel Roth from Microsoft Build 2019](https://www.youtube.com/watch?v=zp9wQt8J6hY) - May 14, 2019 - Blazor Q/A Live with Daniel Roth from Microsoft Build 2019.
 * [Upgrading to Blazor Preview 4 and Hacking SEO in Client-side Blazor](https://www.youtube.com/watch?v=i2eVseMWidQ) - May 14, 2019 - Upgrading to Blazor Preview 4 and Hacking SEO in Client-side Blazor.
 * [.NET is now your Browser OS with Blazor](https://www.recallact.com/presentation/net-now-your-browser-os-blazor) - May 13, 2019 - Talk by Jeremy Likness at the Atlanta DotNetSouth 2019.
-* [Continuation of the Tulsa .NET User Group website](https://www.twitch.tv/videos/422982467) - May 10, 2019 - Continuation of the Tulsa .NET User Group website. [Source code](https://github.com/devsgarage/tulsa-dnug-website) (5:star:) here.
+* [Continuation of the Tulsa .NET User Group website](https://www.twitch.tv/videos/422982467) - May 10, 2019 - Continuation of the Tulsa .NET User Group website. [Source code](https://github.com/devsgarage/tulsa-dnug-website) ![GitHub stars](https://img.shields.io/github/stars/devsgarage/tulsa-dnug-website?style=flat-square&cacheSeconds=604800) here.
 * [Scott Hunter Demos Telerik UI for Blazor](https://clips.twitch.tv/SpookyProudPineapplePeanutButterJellyTime) - May 10, 2019 - Scott Hunter Demos Telerik UI for Blazor.
 * [Blazor: C# running in the browser via WebAssembly](https://www.youtube.com/watch?v=8De8DlrCzoY) - May 8, 2019 - "Blazor: C# running in the browser via WebAssembly" by Scott Sauber at the NDC Conference Minnesota. Slides and source code [here](https://scottsauber.com/2019/05/08/ndc-minnesota-talk-blazor-c-running-in-the-browser-via-webassembly/).
 * [WebAssembly: Into the WASM'verse](https://www.youtube.com/watch?v=P8rSdOXiyEc) - May 8, 2019 - WebAssembly: Into the WASM'verse.
@@ -277,8 +285,8 @@ Here is the documentation of Microsoft, [Get started](https://docs.microsoft.com
 * [SPA revolution with WebAssembly and ASP.NET Blazor](https://www.youtube.com/watch?v=_gYgkZ1UBQ4) - April 23, 2019 - DevOneConf 2019 - Rainer Stropek - SPA revolution with WebAssembly and ASP.NET Blazor.
 * [ASP.NET Community Standup](https://www.youtube.com/watch?v=ap60h3eQE5Y) - April 16, 2019 - ASP.NET Community Standup - Blazor Updates with Dan Roth and Steve Sanderson.
 * [ASP NET Core + Blazor](https://www.youtube.com/watch?v=AXwD9S4rOFM) - April 12, 2019 - ASP NET Core + Blazor at the philly.NET Code Camp.
-* [Continuation of the Tulsa .NET User Group website](https://www.twitch.tv/videos/409976640) - April 12, 2019 - Continuation of the Tulsa .NET User Group website. [Source code](https://github.com/devsgarage/tulsa-dnug-website) (5:star:) here.
-* [Continuation of the Tulsa .NET User Group website](https://www.twitch.tv/videos/409075153) - April 10, 2019 - Continuation of the Tulsa .NET User Group website. [Source code](https://github.com/devsgarage/tulsa-dnug-website) (5:star:) here.
+* [Continuation of the Tulsa .NET User Group website](https://www.twitch.tv/videos/409976640) - April 12, 2019 - Continuation of the Tulsa .NET User Group website. [Source code](https://github.com/devsgarage/tulsa-dnug-website) ![GitHub stars](https://img.shields.io/github/stars/devsgarage/tulsa-dnug-website?style=flat-square&cacheSeconds=604800) here.
+* [Continuation of the Tulsa .NET User Group website](https://www.twitch.tv/videos/409075153) - April 10, 2019 - Continuation of the Tulsa .NET User Group website. [Source code](https://github.com/devsgarage/tulsa-dnug-website) ![GitHub stars](https://img.shields.io/github/stars/devsgarage/tulsa-dnug-website?style=flat-square&cacheSeconds=604800) here.
 * [Blazor tutorial - SPA framework for .NET developers (Part - 1)](https://www.youtube.com/watch?v=hYAOWoL3mmA) - April 10, 2019 - Blazor tutorial - SPA framework for .NET developers (Part - 1).
 * [Blazor StateHasChanged: Blazor radio buttons and NuGet packages](https://www.youtube.com/watch?v=GBUGjmZlr7o) - April 9, 2019 - Blazor radio buttons and NuGet packages.
 * [What’s Coming with .NET Core 3.0](https://channel9.msdn.com/Events/Visual-Studio/Visual-Studio-2019-Launch-Event/Whats-Coming-with-NET-Core-30) - April 2, 2019 - What’s Coming with .NET Core 3.0.
@@ -291,6 +299,7 @@ Here is the documentation of Microsoft, [Get started](https://docs.microsoft.com
 * [Archives of 2017](https://github.com/AdrienTorris/awesome-blazor/blob/master/Archives/2017.md#videos)
 
 ## Articles
+* [Configuring Policy-based Authorization with Blazor](https://chrissainty.com/securing-your-blazor-apps-configuring-policy-based-authorization-with-blazor/) - July 30, 2019 - Part 4 of the serie "Securing Your Blazor Apps", by Chris Sainty.
 * [Authentication in server-side Blazor applications](https://gunnarpeipman.com/blazor/server-side-blazor-authentication/) - July 25, 2019 - Preview 6 version of ASP.NET Core 3.0 is released and one interesting new feature is authentication and authorization for server-side Blazor applications. This blog post goes through work currently done and shows how authentication works with server-side Blazor applications.
 * [ASP.NET Core and Blazor updates in .NET Core 3.0 Preview 7](https://devblogs.microsoft.com/aspnet/asp-net-core-and-blazor-updates-in-net-core-3-0-preview-7/) - July 23, 2019 - ASP.NET Core and Blazor updates in .NET Core 3.0 Preview 7.
 * [Configuring Role-based Authorization with client-side Blazor](https://chrissainty.com/securing-your-blazor-apps-configuring-role-based-authorization-with-client-side-blazor/) - July 23, 2019 - Configuring Role-based Authorization with client-side Blazor.
@@ -403,6 +412,7 @@ Here is the documentation of Microsoft, [Get started](https://docs.microsoft.com
 * [Archives of 2017](https://github.com/AdrienTorris/awesome-blazor/blob/master/Archives/2017.md#articles)
   
 ## Podcasts
+* [Daniel Roth on Blazor](http://azuredevopspodcast.clear-measure.com/daniel-roth-on-blazor-devops-episode-47) - July 29, 2019 - Azure DevOps Podcast, Episode 47: Daniel Roth on Blazor DevOps. 
 * [Blazor with Ed Charbeneau](http://codingafterwork.se/2019/07/17/episode-43-blazor-with-ed-charbeneau/) - July 17, 2019 - Coding After Work podcast, Episode 43 – Blazor with Ed Charbeneau.
 * [MS Dev Show - Blazor with Ed Charbeneau](https://msdevshow.com/2019/06/blazor-with-ed-charbeneau/) - June 24, 2019 - MS Dev Show - Blazor with Ed Charbeneau.
 * [.NET Core Show Podcast, Episode 27 - Blazored with Chris Sainty](https://dotnetcore.show/episode-27-blazroed-with-chris-sainty/) - June 14, 2019 - .NET Core Show Podcast, Episode 27 - Blazored with Chris Sainty.
@@ -414,19 +424,19 @@ Here is the documentation of Microsoft, [Get started](https://docs.microsoft.com
 * [Archives of 2017](https://github.com/AdrienTorris/awesome-blazor/blob/master/Archives/2017.md#podcasts)
 
 ## Presentations slides
-* [Blazor, a new framework for browser-based .NET apps](https://github.com/SteveSandersonMS/presentation-2019-06-NDCOslo) (66:star:) - June 20, 2019 - Blazor, a new framework for browser-based .NET apps, by Steve Sanderson at the NDC Oslo.
+* [Blazor, a new framework for browser-based .NET apps](https://github.com/SteveSandersonMS/presentation-2019-06-NDCOslo) - ![GitHub stars](https://img.shields.io/github/stars/SteveSandersonMS/presentation-2019-06-NDCOslo?style=flat-square&cacheSeconds=604800) June 20, 2019 - Blazor, a new framework for browser-based .NET apps, by Steve Sanderson at the NDC Oslo.
 * [Hidden gems in ASP.Core and .NET Core 3.0](https://speakerdeck.com/davidfowl/hidden-gems-in-asp-dot-core-and-net-core-3-dot-0) - June 19, 2019 - Hidden gems in ASP.Core and .NET Core 3.0, by David Fowler and Damian Edwards at the NDC Oslo.
 * [Meet the production-ready Blazor aka Razor Components](https://codecamp.ro/timisoaraSpring) - May 25, 2019 - Slides: [PPTX](https://codecampro.blob.core.windows.net/sessions-upload/1306-CCBlazor.pptx).
-* [Iowa .NET User Group – Blazor: C# Running in the Browser via WebAssembly](https://scottsauber.com/2019/05/02/iowa-net-user-group-blazor-c-running-in-the-browser-via-webassembly/) - May 2, 2019 - Slides: [PDF](https://scottsauber.files.wordpress.com/2019/05/blazor.pdf) or [PPTX](https://scottsauber.files.wordpress.com/2019/05/blazor.pptx). Code: [Blazor ToDoMVC](https://github.com/scottsauber/BlazorToDoMVC) (2:star:) and [Blazor on Electron](https://github.com/SteveSandersonMS/BlazorElectronExperiment.Sample) (152:star:) .
-* [WebAssembly, C#, and Blazor at CodeStock 2019](https://blog.jeremylikness.com/presentation-webassembly-c-and-blazor-at-codestock-2019-ab2f8636356) - April 16, 2019 - Slides: [PDF](https://jlikme.blob.core.windows.net/presentations/ATaleOfShortLinks.pdf). Demo's source code: [GitHub](https://github.com/JeremyLikness/blazor-wasm) (24:star:) .
+* [Iowa .NET User Group – Blazor: C# Running in the Browser via WebAssembly](https://scottsauber.com/2019/05/02/iowa-net-user-group-blazor-c-running-in-the-browser-via-webassembly/) - May 2, 2019 - Slides: [PDF](https://scottsauber.files.wordpress.com/2019/05/blazor.pdf) or [PPTX](https://scottsauber.files.wordpress.com/2019/05/blazor.pptx). Code: [Blazor ToDoMVC](https://github.com/scottsauber/BlazorToDoMVC) ![GitHub stars](https://img.shields.io/github/stars/scottsauber/BlazorToDoMVC?style=flat-square&cacheSeconds=604800) and [Blazor on Electron](https://github.com/SteveSandersonMS/BlazorElectronExperiment.Sample) ![GitHub stars](https://img.shields.io/github/stars/SteveSandersonMS/BlazorElectronExperiment.Sample?style=flat-square&cacheSeconds=604800).
+* [WebAssembly, C#, and Blazor at CodeStock 2019](https://blog.jeremylikness.com/presentation-webassembly-c-and-blazor-at-codestock-2019-ab2f8636356) - April 16, 2019 - Slides: [PDF](https://jlikme.blob.core.windows.net/presentations/ATaleOfShortLinks.pdf). Demo's source code: [GitHub](https://github.com/JeremyLikness/blazor-wasm) ![GitHub stars](https://img.shields.io/github/stars/JeremyLikness/blazor-wasm?style=flat-square&cacheSeconds=604800).
 * [Archives of 2018](https://github.com/AdrienTorris/awesome-blazor/blob/master/Archives/2018.md#presentations-slides)
 
 ## Tooling
-* [ASP.NET Core Blazor Language Services](https://marketplace.visualstudio.com/items?itemName=aspnet.blazor) - Provides Visual Studio support for ASP.NET Core Blazor.
+* [ASP.NET Core Blazor Language Services](https://marketplace.visualstudio.com/items?itemName=aspnet.blazor) - ![Status](https://img.shields.io/static/v1?label=status&message=obsolete&color=lightgrey) Provides Visual Studio support for ASP.NET Core Blazor. Note: this Blazor Visual Studio extension is obsolete and no longer required to use Blazor since Visual Studio 2019 Preview 16.3.0.
 * [BlazorFiddle](https://blazorfiddle.com) - Blazor .Net Developer Playground and Code Editor in the Browser.
-* [Blazor Minimum Project Templates](https://github.com/jsakamoto/BlazorMinimumTemplates) (5:star:) - A project templates package of Blazor apps without JavaScript and CSS libraries.
+* [Blazor Minimum Project Templates](https://github.com/jsakamoto/BlazorMinimumTemplates) - ![GitHub stars](https://img.shields.io/github/stars/jsakamoto/BlazorMinimumTemplates?style=flat-square&cacheSeconds=604800) A project templates package of Blazor apps without JavaScript and CSS libraries.
 * [Blazor Snippets Visual Studio Code extension](https://marketplace.visualstudio.com/items?itemName=ScottSauber.blazorsnippets) - A Visual Studio Code extension that offers Blazor and Razor snippets.
-* [BlazorSourceMangler](https://github.com/Lupusa87/BlazorSourceMangler) (1:star:) - A console app to mangle blazor dlls. Check this [YouTube video](https://www.youtube.com/watch?v=nlXax81b1UE) for more details. You can also check this [Blazor TODO app](https://lupblazortodo.z20.web.core.windows.net/) to see result of this app (downloaded blazortodos.dll is mangled and decompilation shows uglyfied code).
+* [BlazorSourceMangler](https://github.com/Lupusa87/BlazorSourceMangler) - ![GitHub stars](https://img.shields.io/github/stars/Lupusa87/BlazorSourceMangler?style=flat-square&cacheSeconds=604800) A console app to mangle blazor dlls. Check this [YouTube video](https://www.youtube.com/watch?v=nlXax81b1UE) for more details. You can also check this [Blazor TODO app](https://lupblazortodo.z20.web.core.windows.net/) to see result of this app (downloaded blazortodos.dll is mangled and decompilation shows uglyfied code).
 * [.NET Core](https://www.microsoft.com/net/download/dotnet-core) - .NET Core.
 * [Razor+ Visual Studio Code extension](https://marketplace.visualstudio.com/items?itemName=austincummings.razor-plus) - A Visual Studio Code extension that offers improved Razor support.
 * [Visual Studio](https://www.visualstudio.com/vs/preview) - Latest preview of Visual Studio.
@@ -440,8 +450,8 @@ Here is the documentation of Microsoft, [Get started](https://docs.microsoft.com
 * [Dockerizing ASP.NET Core and Blazor Applications on Mac](https://www.c-sharpcorner.com/ebooks/dockerizing-asp-net-core-and-blazor-applications-on-mac) - Dockerizing ASP.NET Core and Blazor Applications on Mac (Published October 30, 2018).
 
 ## Courses
-* [Blazor First Look on LinkedIn Learning](https://www.linkedin.com/learning/blazor-first-look) - Blazor First Look on LinkedIn Learning. [Source code](https://github.com/Dedac/Beam) (9:star:) .
-* [Free Blazor Training Course](https://www.devexpress.com/support/training/blazor/) - DevExpress Blazor free training course [Source code](https://github.com/DevExpress/blazor-training-samples) (15:star:) .
+* [Blazor First Look on LinkedIn Learning](https://www.linkedin.com/learning/blazor-first-look) - Blazor First Look on LinkedIn Learning. [Source code](https://github.com/Dedac/Beam) ![GitHub stars](https://img.shields.io/github/stars/Dedac/Beam?style=flat-square&cacheSeconds=604800).
+* [Free Blazor Training Course](https://www.devexpress.com/support/training/blazor/) - DevExpress Blazor free training course [Source code](https://github.com/DevExpress/blazor-training-samples) ![GitHub stars](https://img.shields.io/github/stars/DevExpress/blazor-training-samples?style=flat-square&cacheSeconds=604800).
   
 ## Community
 * [Awesome Blazor on Twitter](https://twitter.com/awesomeblazor) - This repository's Twitter feed.
