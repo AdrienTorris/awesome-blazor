@@ -8,21 +8,33 @@ Blazor is a .NET web framework using C#/Razor and HTML that runs in the browser 
 Contributions are always welcome! Please take a look at the [contribution guidelines](https://github.com/AdrienTorris/awesome-blazor/blob/master/CONTRIBUTING.md) pages first. Thanks to all [contributors](https://github.com/AdrienTorris/awesome-blazor/graphs/contributors), you're awesome and wouldn't be possible without you!
 
 ## Contents
-* [Introduction](#introduction)
-* [General](#general)
-* [Sample Projects](#sample-projects)
-* [Tutorials](#tutorials)
-* [Libraries & Extensions](#libraries--extensions)
-* [Videos](#videos)
-* [Articles](#articles)
-* [Podcasts](#podcasts)
-* [Presentations slides](#presentations-slides)
-* [Tooling](#tooling)
-* [Books](#books)
-* [E-Books](#e-books)
-* [Courses](#courses)
-* [Community](#community)
-* [Other Languages](#other-languages)
+- [Awesome Blazor ![Awesome](https://awesome.re)](#awesome-blazor-awesomehttpsawesomere)
+  - [Contents](#contents)
+  - [Introduction](#introduction)
+    - [What is Blazor](#what-is-blazor)
+    - [Requirements](#requirements)
+  - [General](#general)
+  - [Sample Projects](#sample-projects)
+    - [CMS](#cms)
+    - [Games](#games)
+    - [ToDos](#todos)
+    - [Others](#others)
+  - [Tutorials](#tutorials)
+  - [Libraries & Extensions](#libraries--extensions)
+    - [Components](#components)
+    - [Tools & Utilities](#tools--utilities)
+    - [Others](#others-1)
+  - [Videos](#videos)
+  - [Articles](#articles)
+  - [Podcasts](#podcasts)
+  - [Presentations slides](#presentations-slides)
+  - [Tooling](#tooling)
+  - [Books](#books)
+  - [E-Books](#e-books)
+  - [Courses](#courses)
+  - [Community](#community)
+  - [Other Languages](#other-languages)
+  - [License](#license)
 
 ## Introduction
 ### What is Blazor
@@ -187,6 +199,7 @@ Here is the documentation of Microsoft, [Get started](https://docs.microsoft.com
 * [Blazor.Validation.DataAnnotation](https://github.com/RemiBou/Blazor.Validation.DataAnnotation) - Library for validating form on a Blazor application using Data Annotation.
 * [BlazorDateRangePicker](https://github.com/jdtcn/BlazorDateRangePicker) - A date range picker component library for Blazor. [Demo](https://BlazorDateRangePicker.azurewebsites.net/).
 * [BlazorTypography](https://github.com/chanan/BlazorTypography) - A powerful toolkit for building websites with beautiful design ([Demo](https://chanan.github.io/BlazorTypography/)).
+* [UnblockedPlatform](https://github.com/blockandchainco/documentation) - A blazor based platform for creating distributed applications using a blockchain ([Demo]https://blockandchainco.github.io/BasicSample/)).
 ### Tools & Utilities
 *Libraries and extensions for state management, cookies, local storage and other specific tools.*
 * [Blazor-Redux](https://github.com/torhovland/blazor-redux) - ![GitHub stars](https://img.shields.io/github/stars/torhovland/blazor-redux?style=flat-square&cacheSeconds=604800) Connecting a Redux state store with Blazor.
