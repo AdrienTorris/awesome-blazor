@@ -238,6 +238,7 @@ Here is the documentation of Microsoft, [Get started](https://docs.microsoft.com
 * [BlazorFileSaver](https://github.com/IvanJosipovic/BlazorFileSaver) - Blazor Component wrapper for FileSaver.js. 
 
 ## Videos
+* [Let's learn Blazor!](https://www.twitch.tv/videos/463380254) - August 06, 2019 - Let's learn Blazor! about Blazor validation.
 * [Create Blazor App From Scratch Using Oceanware NuGet Packages](https://www.youtube.com/watch?v=0ZLzjLpaNjE) - August 04, 2019 - This video is a live coding session creating a new Blazor server-side app and brining in the Ocean NuGet packages, have a forms app with two-way data binding and rich validation in a few minutes.
 * [Demo Blazor App Validation](https://www.youtube.com/watch?v=pBWIafqBf3M) - August 04, 2019 - In this Demo Blazor App Validation for the Ocean Validation Library, I show a Blazor server-side app using the Ocean Validation Library.
 * [Blazor StateHasChanged](https://www.twitch.tv/videos/461504625) - August 2, 2019 - Blazor StateHasChanged Community round up & BlazePort. [Source Code](https://github.com/EdCharbeneau/BlazePort) ![GitHub stars](https://img.shields.io/github/stars/EdCharbeneau/BlazePort?style=flat-square&cacheSeconds=604800).
