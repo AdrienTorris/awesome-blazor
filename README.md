@@ -56,6 +56,7 @@ Here is the documentation of Microsoft, [Get started](https://docs.microsoft.com
 ## Sample Projects
 ### CMS
 * [BlogCore](https://github.com/thangchung/blog-core) - ![GitHub stars](https://img.shields.io/github/stars/thangchung/blog-core?style=flat-square&cacheSeconds=604800) Modern CMS on Domain-driven Design and Clean Architecture patterns.
+* [RapidCMS](https://github.com/ThomasBleijendaal/RapidCMS) - A code-first, extensible Blazor app that generates a CMS for your own database.
 * [WordDaze](https://github.com/chrissainty/worddaze) - ![GitHub stars](https://img.shields.io/github/stars/chrissainty/worddaze?style=flat-square&cacheSeconds=604800) Blogging application written using Blazor with a WebAPI backend.
 ### Games
 * [AsteroidsWasm](https://github.com/aesalazar/AsteroidsWasm) - ![GitHub stars](https://img.shields.io/github/stars/aesalazar/AsteroidsWasm?style=flat-square&cacheSeconds=604800) A mixed bag of C# projects to see if a single .NET Standard base can run across all common platforms include WebAssembly. [Demo](https://aesalazar.github.io/AsteroidsWasm/).
