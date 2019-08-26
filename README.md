@@ -225,6 +225,8 @@ Here is the documentation of Microsoft, [Get started](https://docs.microsoft.com
 * [BlazorIntersectionObserver](https://github.com/ljbc1994/BlazorIntersectionObserver) - A Blazor wrapper for the Intersection Observer API.
 * [Blazor.SpeechSynthesis](https://github.com/jsakamoto/Toolbelt.Blazor.SpeechSynthesis) - A library to provide Speech Synthesis API access for Blazor.
 * [Blazor BarCode](https://barcoderesource.com/blazorbarcode.shtml) &ndash; A barcode library for Blazor using barcode fonts.
+* [Blazor Controls](http://blazor.loresoft.com/) - Collection of Blazor controls including Typeahead, ToggleSwitch and DatePicker.
+
 ### Others
 * [Blazor Extensions Home](https://github.com/BlazorExtensions/Home) - ![GitHub stars](https://img.shields.io/github/stars/BlazorExtensions/Home?style=flat-square&cacheSeconds=604800) Home for Blazor Extensions.
 * [Bolero](https://github.com/fsbolero/Bolero) - ![GitHub stars](https://img.shields.io/github/stars/fsbolero/Bolero?style=flat-square&cacheSeconds=604800) Blazor for F# with hot reloaded templates, type-safe endpoints and routing, remoting, and much more.
