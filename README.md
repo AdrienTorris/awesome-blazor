@@ -238,6 +238,7 @@ Here is the documentation of Microsoft, [Get started](https://docs.microsoft.com
 * [BlazorFileSaver](https://github.com/IvanJosipovic/BlazorFileSaver) - Blazor Component wrapper for FileSaver.js. 
 
 ## Videos
+* [Exploring Blazor - Building Interactive Web Apps Using C#](https://www.youtube.com/watch?v=BjCgD7sW8FA) - August 25, 2019 - There’s been a ton of buzz in the .NET community lately around Blazor. Unlike many hyped technologies however, Blazor seems to have earned the attention. It earned it in part by delivering a solution that gives C# developers what they want but doing so in a way that relied on open web standards. In this session, Microsoft’s Jeremy Likness will go deeper into what Blazor is, how it works and how you can use it to build web apps.
 * [Blazor Tips and Tricks](https://www.youtube.com/watch?v=KlPaM0yWWbQ) - August 22, 2019 - Ed Charbeneau shares and answers some of the most frequently asked questions he receives when showing folks Blazor.
 * [Let's learn Blazor!](https://www.twitch.tv/videos/463380254) - August 06, 2019 - Let's learn Blazor! about Blazor validation.
 * [Create Blazor App From Scratch Using Oceanware NuGet Packages](https://www.youtube.com/watch?v=0ZLzjLpaNjE) - August 04, 2019 - This video is a live coding session creating a new Blazor server-side app and brining in the Ocean NuGet packages, have a forms app with two-way data binding and rich validation in a few minutes.
