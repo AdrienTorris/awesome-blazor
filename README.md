@@ -430,6 +430,7 @@ Here is the documentation of Microsoft, [Get started](https://docs.microsoft.com
 * [Archives of 2017](https://github.com/AdrienTorris/awesome-blazor/blob/master/Archives/2017.md#articles)
   
 ## Podcasts
+* [Building Applications using Server-Side Blazor with Shaun Walker](https://www.dotnetrocks.com/default.aspx?ShowNum=1649) - August 22, 2019 - .NET Rocks! podcast, episode 1649: Building Applications using Server-Side Blazor with Shaun Walker.
 * [Daniel Roth on Blazor](http://azuredevopspodcast.clear-measure.com/daniel-roth-on-blazor-devops-episode-47) - July 29, 2019 - Azure DevOps Podcast, Episode 47: Daniel Roth on Blazor DevOps. 
 * [Blazor with Ed Charbeneau](http://codingafterwork.se/2019/07/17/episode-43-blazor-with-ed-charbeneau/) - July 17, 2019 - Coding After Work podcast, Episode 43 – Blazor with Ed Charbeneau.
 * [MS Dev Show - Blazor with Ed Charbeneau](https://msdevshow.com/2019/06/blazor-with-ed-charbeneau/) - June 24, 2019 - MS Dev Show - Blazor with Ed Charbeneau.
