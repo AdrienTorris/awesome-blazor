@@ -51,7 +51,7 @@ Here is the documentation of Microsoft, [Get started](https://docs.microsoft.com
 * ['Hello World' sample](https://github.com/dodyg/practical-aspnetcore/tree/master/projects/blazor) - 'Hello World' sample.
 * [Introduction to ASP.NET Core](https://docs.microsoft.com/en-us/aspnet/core/) - Introduction to ASP.NET Core.
 * [Study Blazor](https://studyblazor.com) - Blazor tutorial for beginners, in simple and easy steps starting from basics to advanced concepts with more code snippets.
-* [Workshop](https://github.com/dotnet-presentations/blazor-workshop/) - Blazor workshop.
+* [Workshop](https://github.com/dotnet-presentations/blazor-workshop/) - ![GitHub stars](https://img.shields.io/github/stars/dotnet-presentations/blazor-workshop?style=flat-square&cacheSeconds=604800) Build a complete Blazor app and learn about the various Blazor framework features along the way.
 
 ## Sample Projects
 ### CMS
