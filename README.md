@@ -318,6 +318,7 @@ Here is the documentation of Microsoft, [Get started](https://docs.microsoft.com
 * [Archives of 2017](https://github.com/AdrienTorris/awesome-blazor/blob/master/Archives/2017.md#videos)
 
 ## Articles
+* [Telerik and Kendo UI R3 Release 2019 is Here!](https://www.telerik.com/blogs/telerik-and-kendo-ui-r3-release-2019-is-here!) - September 18, 2019 - Telerik and Kendo UI R3 Release 2019 is Here!
 * [An Introduction to OwningComponentBase](https://chrissainty.com/an-introduction-to-owningcomponentbase/) - September 17, 2019 - This post  explores the OwningComponentBase class, which was added to Blazor in .NET Core 3 Preview 9. This class has a single purpose, create a service provider scope.
 * [ASP.NET Core and Blazor updates in .NET Core 3.0 Release Candidate 1](https://devblogs.microsoft.com/aspnet/asp-net-core-and-blazor-updates-in-net-core-3-0-release-candidate-1/) - September 16, 2019 - ASP.NET Core and Blazor updates in .NET Core 3.0 Release Candidate 1.
 * [Quick Tip: Blazor App Hosted as Azure Static Website in Blob Storage](https://visualstudiomagazine.com/blogs/data-driver/2019/09/blazor-app.aspx) - September 13, 2019 - Quick Tip: Blazor App Hosted as Azure Static Website in Blob Storage.
