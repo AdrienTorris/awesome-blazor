@@ -25,18 +25,20 @@ Contributions are always welcome! Please take a look at the [contribution guidel
 * [Other Languages](#other-languages)
 
 ## Introduction
+
 ### What is Blazor
 Blazor is a .NET web framework to build client web apps with C#.
+
 Blazor lets you build interactive web UIs using C# instead of JavaScript. Blazor apps are composed of reusable web UI components implemented using C#, HTML, and CSS. Both client and server code is written in C#, allowing you to share code and libraries.
-More information on the [official website](https://dotnet.microsoft.com/apps/aspnet/web-apps/client).
+More information on the [official Blazor website](https://blazor.net).
 
-### Requirements
-Please note that if you want to open Blazor projects in Visual Studio, you must have [Visual Studio 15.7 Preview 1](https://www.visualstudio.com/vs/preview/) or later and the [.NET Core 2.1 Preview 1 SDK](https://www.microsoft.com/net/download/dotnet-core/sdk-2.1.300-preview1).
-Recommended: the latest [Visual Studio 2019 Preview](https://visualstudio.microsoft.com/) and the latest [.NET Core SDK](https://dotnet.microsoft.com/download/dotnet-core/3.0).
+### Get started
 
-Note: the Blazor Visual Studio extension is no longer required since the [ASP.NET Core Preview 7](https://dotnet.microsoft.com/download/dotnet-core/3.0).
+To get started with Blazor, follow the instructions in the [Blazor Get Started](https://docs.microsoft.com/aspnet/core/blazor/get-started) documentation.
 
-Here is the documentation of Microsoft, [Get started](https://docs.microsoft.com/en-us/aspnet/core/blazor/get-started?view=aspnetcore-3.0&tabs=visual-studio) with Blazor.
+To open Blazor projects in Visual Studio, you must have [Visual Studio 2019 16.3](https://www.visualstudio.com/vs/) or later and the [.NET Core 3.0 SDK](https://dot.net/get-core3).
+
+Note: the Blazor Visual Studio extension is no longer required since .NET Core 3.0 Preview 7. Uninstall the extension if you still have it installed.
 
 ## General
 * [ASP.NET Blog's archives](https://devblogs.microsoft.com/aspnet/category/blazor/) - Archives of the ASP.NET blog about Blazor.
