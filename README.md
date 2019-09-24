@@ -246,6 +246,7 @@ Here is the documentation of Microsoft, [Get started](https://docs.microsoft.com
 * [Blazor.DynamicJavascriptRuntime.Evaluator](https://github.com/jameschch/Blazor.DynamicJavascriptRuntime.Evaluator) - Execute dynamic object expressions as Javascript in Blazor client-side apps.
 
 ## Videos
+* [Building Full-stack C# Web Apps with Blazor in .NET Core 3.0](https://channel9.msdn.com/Events/dotnetConf/NET-Conf-2019/B106) - September 24, 2019 - Session of the .NET Conf 2019, Building Full-stack C# Web Apps with Blazor in .NET Core 3.0, by Daniel Roth.
 * [Talking about Blazor with ASP.NET Web Forms developers](https://www.youtube.com/watch?v=a-NXfAvkp6I&feature=youtu.be) - September 19, 2019 - It's .NET ROCKS! Talking about Blazor with ASP.NET Web Forms developers.
 * [Blazor OwningComponentBase Lifecycle](https://www.youtube.com/watch?v=-zyCAN7jfX0) - September 17, 2019 - Short video about the lifecycle of services managed by OwningComponentBase.
 * [Blazor StateHasChanged Community round up & BlazePort](https://www.twitch.tv/videos/474464917) - August 30, 2019 - Full stack app review. Blazor + MLNET + CosmosDB. [Source Code](https://github.com/EdCharbeneau/BlazePort) ![GitHub stars](https://img.shields.io/github/stars/EdCharbeneau/BlazePort?style=flat-square&cacheSeconds=604800).
