@@ -326,6 +326,8 @@ Note: the Blazor Visual Studio extension is no longer required since .NET Core 3
 * [Archives of 2017](https://github.com/AdrienTorris/awesome-blazor/blob/master/Archives/2017.md#videos)
 
 ## Articles
+* [The Future of Client-Side Blazor: PWAs, Desktop/Mobile, Native (and even Flutter?)](https://visualstudiomagazine.com/articles/2019/09/26/blazor-future.aspx) - September 26, 2019 - The Future of Client-Side Blazor: PWAs, Desktop/Mobile, Native (and even Flutter?), by Visual Studio Magazine.
+* [Telerik UI for Blazor 2.1.0](https://www.telerik.com/blogs/telerik-ui-for-blazor-2.1.0-asp.net-core-3.0-compatibility-scatter-scatter-line-and-bubble-charts!) - September 25, 2019 - Telerik UI for Blazor 2.1.0 – ASP.NET Core 3.0 Compatibility, Scatter, Scatter Line and Bubble Charts!
 * [What's new in ASP.NET Core 3.0](https://docs.microsoft.com/en-us/aspnet/core/release-notes/aspnetcore-3.0?view=aspnetcore-3.0) - September 23, 2019 - What's new in ASP.NET Core 3.0.
 * [Telerik and Kendo UI R3 Release 2019 is Here!](https://www.telerik.com/blogs/telerik-and-kendo-ui-r3-release-2019-is-here!) - September 18, 2019 - Telerik and Kendo UI R3 Release 2019 is Here!
 * [An Introduction to OwningComponentBase](https://chrissainty.com/an-introduction-to-owningcomponentbase/) - September 17, 2019 - This post  explores the OwningComponentBase class, which was added to Blazor in .NET Core 3 Preview 9. This class has a single purpose, create a service provider scope.
