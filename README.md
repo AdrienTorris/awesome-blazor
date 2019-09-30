@@ -144,7 +144,7 @@ Note: the Blazor Visual Studio extension is no longer required since .NET Core 3
 * [C# Regex Tester online](https://github.com/lsvhome/regex-tester) - Online tool for verify .Net regex syntax. ([Demo](https://lsvhome.github.io/regex-tester/)).
 * [CssBuilder](https://www.nuget.org/packages/BlazorComponentUtilities/) &ndash; A clean code approach to conditional CSS classes for Razor components in Blazor.
 * [EncFS over Google Drive](https://encfs-gdrive.github.io) - Online tool written in Blazor for encrypt/decrypt files in Google Drive.
-* [BlazorPoint](https://github.com/smjltd/BlazorPoint) - Sample App to help you get started with hosting Blazor on SharePoint Pages, Completely 
+* [BlazorPoint](https://github.com/smjltd/BlazorPoint) - Sample App to help you get started with hosting Blazor on SharePoint Pages, Completely Client Side. 
 * [BlazorGrpc](https://github.com/razfriman/BlazorGrpc) - Ssample project that demonstrates how you can use the power of Blazor, ASP.NET Core, and gRPC to create a web application which can communicate with a backend that uses gRPC.
 
 ## Tutorials
