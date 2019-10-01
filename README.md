@@ -146,6 +146,7 @@ Note: the Blazor Visual Studio extension is no longer required since .NET Core 3
 * [EncFS over Google Drive](https://encfs-gdrive.github.io) - Online tool written in Blazor for encrypt/decrypt files in Google Drive.
 * [BlazorPoint](https://github.com/smjltd/BlazorPoint) - Sample App to help you get started with hosting Blazor on SharePoint Pages, Completely Client Side. 
 * [BlazorGrpc](https://github.com/razfriman/BlazorGrpc) - Sample project that demonstrates how you can use the power of Blazor, ASP.NET Core, and gRPC to create a web application which can communicate with a backend that uses gRPC.
+* [Blazor Weather](https://github.com/danroth27/BlazorWeather) - A Blazor Weather sample app that shows the current weather for your current location and a collection of pinned locations. Demonstrated at .NET Conf 2019. [Demo](https://aka.ms/blazorweather).
 
 ## Tutorials
 * [Blazor workshop](https://github.com/dotnet-presentations/blazor-workshop/) - ![GitHub stars](https://img.shields.io/github/stars/dotnet-presentations/blazor-workshop?style=flat-square&cacheSeconds=604800) Blazor app building workshop by [.NET Foundation](https://www.dotnetfoundation.org/), Blazzing Pizza.
