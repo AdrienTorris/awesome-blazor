@@ -333,6 +333,7 @@ Note: the Blazor Visual Studio extension is no longer required since .NET Core 3
 * [Archives of 2017](https://github.com/AdrienTorris/awesome-blazor/blob/master/Archives/2017.md#videos)
 
 ## Articles
+* [Blazor Roundup From .NET Conf 2019](https://chrissainty.com/blazor-roundup-from-dot-net-conf-2019/) - October 01, 2019 - Blazor Roundup From .NET Conf 2019.
 * [Blazor Simple CQRS with MediatR](https://oceanware.wordpress.com/2019/09/29/blazor-simple-cqrs-with-mediatr/) - September 29, 2019 - Blazor Simple CQRS with MediatR.
 * [The Future of Client-Side Blazor: PWAs, Desktop/Mobile, Native (and even Flutter?)](https://visualstudiomagazine.com/articles/2019/09/26/blazor-future.aspx) - September 26, 2019 - The Future of Client-Side Blazor: PWAs, Desktop/Mobile, Native (and even Flutter?), by Visual Studio Magazine.
 * [Migrate Protogen To Blazor](https://remibou.github.io/Migrate-protogen-to-Blazor/) - September 26, 2019 - Migrate Protogen To Blazor.
