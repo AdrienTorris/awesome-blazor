@@ -485,6 +485,7 @@ Note: the Blazor Visual Studio extension is no longer required since .NET Core 3
 * [Archives of 2017](https://github.com/AdrienTorris/awesome-blazor/blob/master/Archives/2017.md#articles)
   
 ## Podcasts
+* [.NET Core 3 Launch with Scott Hunter](https://www.dotnetrocks.com/?show=1654) - September 26, 2019 - .NET Rocks Podcast, episode 1654: .NET Core 3 Launch with Scott Hunter.
 * [Moving from Web Forms to Blazor with Jeff Fritz](https://www.dotnetrocks.com/default.aspx?ShowNum=1652) - September 12, 2019 - .NET Rocks Podcast, episode 1652: Moving from Web Forms to Blazor with Jeff Fritz.
 * [Blazor with Daniel Roth](https://devchat.tv/adventures-in-dotnet/net-003-blazor-with-daniel-roth/) - September 03, 2019 - Daniel Roth starts by introducing Web Assembly and how this changed web development. Blazor allows full-stack development through .NET with C#. The panel asks Dan about Blazor's capabilities and future. Dan shares Blazor’s origin story.
 * [What is WebAssembly](https://cynicaldeveloper.com/podcast/122/) - September 02, 2019 - What is WebAssembly, episode 122 of the Cynical Developer podcast.
