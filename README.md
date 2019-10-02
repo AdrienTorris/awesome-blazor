@@ -259,6 +259,7 @@ Note: the Blazor Visual Studio extension is no longer required since .NET Core 3
 ## Videos
 * [The Future of Blazor on the Client](https://channel9.msdn.com/Events/dotnetConf/NET-Conf-2019/B202) - September 25, 2019 - The Future of Blazor on the Client, by Daniel Roth on Channel 9.
 * [Building Full-stack C# Web Apps with Blazor in .NET Core 3.0](https://channel9.msdn.com/Events/dotnetConf/NET-Conf-2019/B106) - September 24, 2019 - Session of the .NET Conf 2019, Building Full-stack C# Web Apps with Blazor in .NET Core 3.0, by Daniel Roth.
+* [Blazor and Azure Functions for Serverless Websites](https://www.youtube.com/watch?v=noG3rxt38VI) - September 24, 2019 - Blazor and Azure Functions for Serverless Websites, from the .NET Conf 2019.
 * [Talking about Blazor with ASP.NET Web Forms developers](https://www.youtube.com/watch?v=a-NXfAvkp6I&feature=youtu.be) - September 19, 2019 - It's .NET ROCKS! Talking about Blazor with ASP.NET Web Forms developers.
 * [Blazor OwningComponentBase Lifecycle](https://www.youtube.com/watch?v=-zyCAN7jfX0) - September 17, 2019 - Short video about the lifecycle of services managed by OwningComponentBase.
 * [Blazor StateHasChanged Community round up & BlazePort](https://www.twitch.tv/videos/474464917) - August 30, 2019 - Full stack app review. Blazor + MLNET + CosmosDB. [Source Code](https://github.com/EdCharbeneau/BlazePort) ![GitHub stars](https://img.shields.io/github/stars/EdCharbeneau/BlazePort?style=flat-square&cacheSeconds=604800).
