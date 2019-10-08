@@ -158,8 +158,7 @@ Note: the Blazor Visual Studio extension is no longer required since .NET Core 3
 * [Realtime Blazor Tic-Tac-Toe Game - Bot Vs Multiplayer Using SignalR](https://www.c-sharpcorner.com/article/realtime-blazor-tic-tac-toe-game-bot-vs-multiplayer-using-signalr/) - July 17, 2019 - How to create a realtime bot vs. multiplayer tic-tac-toe game in Blazor using SignalR.
 * [TSP with GeneticSharp and Blazor](http://diegogiacomelli.com.br/tsp-with-geneticsharp-and-blazor/) - July 10, 2019 - Using a Blazor client-side app and [GeneticSharp](https://github.com/giacomelli/GeneticSharp) ![GitHub stars](https://img.shields.io/github/stars/giacomelli/GeneticSharp?style=flat-square&cacheSeconds=604800) to solve the TSP (Travelling salesman problem).
 * [Blazor client-side app with CRUD operations against a Web API endpoint](http://blog.medhat.ca/2019/05/blazor-app-with-crud-operations-from.html) - May 31, 2019 - Blazor client-side app with CRUD operations against a Web API endpoint. [Source code](https://github.com/medhatelmasry/BlazingSchool) ![GitHub stars](https://img.shields.io/github/stars/medhatelmasry/BlazingSchool?style=flat-square&cacheSeconds=604800). [Video](https://www.youtube.com/watch?v=wkSR3eo4Tek).
-* [Archives of 2019](https://github.com/AdrienTorris/awesome-blazor/blob/master/Archives/2019.md#tutorials)
-* [Archives of 2018](https://github.com/AdrienTorris/awesome-blazor/blob/master/Archives/2018.md#tutorials)
+* [Archives](https://github.com/AdrienTorris/awesome-blazor/tree/master/Archives) - [2019](https://github.com/AdrienTorris/awesome-blazor/blob/master/Archives/2019.md#tutorials), [2018](https://github.com/AdrienTorris/awesome-blazor/blob/master/Archives/2018.md#tutorials).
 
 ## Libraries & Extensions
 ### Components
@@ -324,9 +323,7 @@ Note: the Blazor Visual Studio extension is no longer required since .NET Core 3
 * [WebAssembly: Into the WASM'verse](https://www.youtube.com/watch?v=P8rSdOXiyEc) - May 8, 2019 - WebAssembly: Into the WASM'verse.
 * [Full stack web development with ASP.NET Core 3.0 and Blazor](https://mybuild.techcommunity.microsoft.com/sessions/77033) - May 7, 2019 - Microsoft Build 2019: Full stack web development with ASP.NET Core 3.0 and Blazor.
 * [Serverless web apps with Blazor, Azure Functions, and Azure Storage](https://mybuild.techcommunity.microsoft.com/sessions/77336) - May 6, 2019 - Microsoft Build 2019: Serverless web apps with Blazor, Azure Functions, and Azure Storage.
-* [Archives of 2019](https://github.com/AdrienTorris/awesome-blazor/blob/master/Archives/2019.md#videos)
-* [Archives of 2018](https://github.com/AdrienTorris/awesome-blazor/blob/master/Archives/2018.md#videos)
-* [Archives of 2017](https://github.com/AdrienTorris/awesome-blazor/blob/master/Archives/2017.md#videos)
+* [Archives](https://github.com/AdrienTorris/awesome-blazor/tree/master/Archives) - [2019](https://github.com/AdrienTorris/awesome-blazor/blob/master/Archives/2019.md#videos), [2018](https://github.com/AdrienTorris/awesome-blazor/blob/master/Archives/2018.md#videos), [2017](https://github.com/AdrienTorris/awesome-blazor/blob/master/Archives/2017.md#videos).
 
 ## Articles
 * [3 Ways to Bind Blazor Data to DOM](https://wellsb.com/csharp/aspnet/3-ways-to-bind-blazor-variables-to-dom/) - October 07, 2019 - One of the most useful Blazor features is the ability to pass data between your front-end DOM elements and back-end C# code. In this tutorial, you will learn techniques for binding C# variables such that they can be displayed in the browser or modified via user input in the browser.
@@ -433,9 +430,7 @@ Note: the Blazor Visual Studio extension is no longer required since .NET Core 3
 * [Unable to find debuggable browser tab in Blazor](https://coderethinked.com/unable-to-find-debuggable-browser-tab-in-blazor/) - May 4, 2019 - Unable to find debuggable browser tab in Blazor.
 * [Introducing Telerik UI for Blazor 1.0.0](https://www.telerik.com/blogs/introducing-telerik-ui-for-blazor-1-0-0) - May 2, 2019 - Introducing Telerik UI for Blazor 1.0.0.
 * [Get Some Sass Into Your Blazor App](https://chrissainty.com/get-some-sass-into-your-blazor-app/) - May 1, 2019 - Get Some Sass Into Your Blazor App.
-* [Archives of 2019](https://github.com/AdrienTorris/awesome-blazor/blob/master/Archives/2019.md#articles)
-* [Archives of 2018](https://github.com/AdrienTorris/awesome-blazor/blob/master/Archives/2018.md#articles)
-* [Archives of 2017](https://github.com/AdrienTorris/awesome-blazor/blob/master/Archives/2017.md#articles)
+* [Archives](https://github.com/AdrienTorris/awesome-blazor/tree/master/Archives) - [2019](https://github.com/AdrienTorris/awesome-blazor/blob/master/Archives/2019.md#articles), [2018](https://github.com/AdrienTorris/awesome-blazor/blob/master/Archives/2018.md#articles), [2017](https://github.com/AdrienTorris/awesome-blazor/blob/master/Archives/2017.md#articles).
   
 ## Podcasts
 * [.NET Core 3 Launch with Scott Hunter](https://www.dotnetrocks.com/?show=1654) - September 26, 2019 - .NET Rocks Podcast, episode 1654: .NET Core 3 Launch with Scott Hunter.
@@ -451,8 +446,7 @@ Note: the Blazor Visual Studio extension is no longer required since .NET Core 3
 * [Blazor - You Want To Run .NET Where?!](https://dotnetcore.show/episode-25-blazor-you-want-to-run-net-where/) - May 17, 2019 - .NET Core Show - Episode 25 - Blazor - You Want To Run .NET Where?!
 * [The Cynical Developer - Blazor](https://cynicaldeveloper.com/podcast/108) - February 18, 2019 - Episode 108 of The Cynical Developer - Blazor.
 * [Blazor in 2019 with Steve Sanderson and Dan Roth](https://player.fm/series/net-rocks-2353294/blazor-in-2019-with-steve-sanderson-and-dan-roth) - February 14, 2019 - .NET Rocks, Blazor in 2019 with Steve Sanderson and Dan Roth.
-* [Archives of 2018](https://github.com/AdrienTorris/awesome-blazor/blob/master/Archives/2018.md#podcasts)
-* [Archives of 2017](https://github.com/AdrienTorris/awesome-blazor/blob/master/Archives/2017.md#podcasts)
+* [Archives](https://github.com/AdrienTorris/awesome-blazor/tree/master/Archives) - [2018](https://github.com/AdrienTorris/awesome-blazor/blob/master/Archives/2018.md#podcasts), [2017](https://github.com/AdrienTorris/awesome-blazor/blob/master/Archives/2017.md#podcasts).
 
 ## Presentations slides
 * [Blazor, a new framework for browser-based .NET apps](https://github.com/SteveSandersonMS/presentation-2019-06-NDCOslo) - ![GitHub stars](https://img.shields.io/github/stars/SteveSandersonMS/presentation-2019-06-NDCOslo?style=flat-square&cacheSeconds=604800) June 20, 2019 - Blazor, a new framework for browser-based .NET apps, by Steve Sanderson at the NDC Oslo.
@@ -460,7 +454,7 @@ Note: the Blazor Visual Studio extension is no longer required since .NET Core 3
 * [Meet the production-ready Blazor aka Razor Components](https://codecamp.ro/timisoaraSpring) - May 25, 2019 - Slides: [PPTX](https://codecampro.blob.core.windows.net/sessions-upload/1306-CCBlazor.pptx).
 * [Iowa .NET User Group – Blazor: C# Running in the Browser via WebAssembly](https://scottsauber.com/2019/05/02/iowa-net-user-group-blazor-c-running-in-the-browser-via-webassembly/) - May 2, 2019 - Slides: [PDF](https://scottsauber.files.wordpress.com/2019/05/blazor.pdf) or [PPTX](https://scottsauber.files.wordpress.com/2019/05/blazor.pptx). Code: [Blazor ToDoMVC](https://github.com/scottsauber/BlazorToDoMVC) ![GitHub stars](https://img.shields.io/github/stars/scottsauber/BlazorToDoMVC?style=flat-square&cacheSeconds=604800) and [Blazor on Electron](https://github.com/SteveSandersonMS/BlazorElectronExperiment.Sample) ![GitHub stars](https://img.shields.io/github/stars/SteveSandersonMS/BlazorElectronExperiment.Sample?style=flat-square&cacheSeconds=604800).
 * [WebAssembly, C#, and Blazor at CodeStock 2019](https://blog.jeremylikness.com/presentation-webassembly-c-and-blazor-at-codestock-2019-ab2f8636356) - April 16, 2019 - Slides: [PDF](https://jlikme.blob.core.windows.net/presentations/ATaleOfShortLinks.pdf). Demo's source code: [GitHub](https://github.com/JeremyLikness/blazor-wasm) ![GitHub stars](https://img.shields.io/github/stars/JeremyLikness/blazor-wasm?style=flat-square&cacheSeconds=604800).
-* [Archives of 2018](https://github.com/AdrienTorris/awesome-blazor/blob/master/Archives/2018.md#presentations-slides)
+* [Archives](https://github.com/AdrienTorris/awesome-blazor/tree/master/Archives) - [2018](https://github.com/AdrienTorris/awesome-blazor/blob/master/Archives/2018.md#presentations-slides).
 
 ## Tooling
 * [BlazorFiddle](https://blazorfiddle.com) - Blazor .Net Developer Playground and Code Editor in the Browser.
@@ -479,7 +473,7 @@ Note: the Blazor Visual Studio extension is no longer required since .NET Core 3
 ## E-Books
 * [Blazor for ASP.NET Web Forms developers](https://dotnet.microsoft.com/learn/aspnet/architecture#blazor-for-web-forms-devs-ebook-swim) - Blazor for ASP.NET Web Forms developers, a free e-book from Microsoft.
 * [An Introduction to Building Applications with Blazor](https://www.amazon.com/Introduction-Building-Applications-Blazor-applications-ebook/dp/B07WPQTT6H) - August 24, 2019 - An Introduction to Building Applications with Blazor: How to get started creating applications using this exciting easy to use Microsoft C# framework
-* [Archives of 2018](https://github.com/AdrienTorris/awesome-blazor/blob/master/Archives/2018.md#e-books)
+* [Archives](https://github.com/AdrienTorris/awesome-blazor/tree/master/Archives) - [2018](https://github.com/AdrienTorris/awesome-blazor/blob/master/Archives/2018.md#e-books).
 
 ## Courses
 * [Blazor and Razor Components in a nutshell](https://www.udemy.com/course/blazor-and-razor-components-in-a-nutshell/) - Learn how to use a framework that allows you to run your compiled code directly in the browser on top of WebAssembly, a course by Udemy.
