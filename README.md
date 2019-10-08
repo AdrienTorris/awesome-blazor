@@ -446,53 +446,7 @@ Note: the Blazor Visual Studio extension is no longer required since .NET Core 3
 * [Unable to find debuggable browser tab in Blazor](https://coderethinked.com/unable-to-find-debuggable-browser-tab-in-blazor/) - May 4, 2019 - Unable to find debuggable browser tab in Blazor.
 * [Introducing Telerik UI for Blazor 1.0.0](https://www.telerik.com/blogs/introducing-telerik-ui-for-blazor-1-0-0) - May 2, 2019 - Introducing Telerik UI for Blazor 1.0.0.
 * [Get Some Sass Into Your Blazor App](https://chrissainty.com/get-some-sass-into-your-blazor-app/) - May 1, 2019 - Get Some Sass Into Your Blazor App.
-* [Blazor on the Server: The Good and the Unfortunate](https://visualstudiomagazine.com/articles/2019/04/01/razor-components.aspx) - April 30, 2019 - Blazor on the Server: The Good and the Unfortunate.
-* [Using Blazor to Build a Client-Side Single-Page App with .NET Core](https://exceptionnotfound.net/using-blazor-to-build-a-client-side-single-page-app-with-net-core) - April 22, 2019 - Using Blazor to Build a Client-Side Single-Page App with .NET Core.
-* [Working with the View in Blazor MVVM](https://itnext.io/working-with-the-view-in-blazor-mvvm-functions-vs-code-behind-vs-viewmodel-ed3508dba86a) - April 20, 2019 - Working with the View in Blazor MVVM : functions{} vs code behind vs ViewModel.
-* [Blazor now in official preview!](https://devblogs.microsoft.com/aspnet/blazor-now-in-official-preview/) - April 18, 2019 - Blazor now in official preview!
-* [ASP.NET Core updates in .NET Core 3.0 Preview 4](https://devblogs.microsoft.com/aspnet/asp-net-core-updates-in-net-core-3-0-preview-4/) - April 18, 2019 - ASP.NET Core updates in .NET Core 3.0 Preview 4.
-* [Updated Razor support in Visual Studio Code, now with Blazor support](https://devblogs.microsoft.com/aspnet/updated-razor-support-in-visual-studio-code-now-with-blazor-support/) - April 18, 2019 - Updated Razor support in Visual Studio Code, now with Blazor support.
-* [Why Blazor Grid Templates will make you question everything](https://www.telerik.com/blogs/why-blazor-grid-templates-will-make-you-question-everything) - April 18, 2019 - Why Blazor Grid Templates will make you question everything.
-* [Blazor Update: 'The End of the Experiment Is in Sight'](https://visualstudiomagazine.com/articles/2019/04/18/blazor-update.aspx) - April 18, 2019 - Blazor Update: 'The End of the Experiment Is in Sight'.
-* [3 Ways to Communicate Between Components in Blazor](https://chrissainty.com/3-ways-to-communicate-between-components-in-blazor/) - April 17, 2019 - 3 Ways to Communicate Between Components in Blazor.
-* [Adding features to a simple Blazor MVVM client with composition](https://itnext.io/adding-features-to-a-simple-blazor-mvvm-client-with-composition-f31bfb01e20a) - April 12, 2019 - Adding features to a simple Blazor MVVM client with composition.
-* [Introducing Syncfusion’s ASP.NET Core Blazor / Razor Components](https://blog.syncfusion.com/post/introducing-syncfusions-asp-net-core-blazor-razor-components.aspx) - April 10, 2019 - Introducing Syncfusion’s ASP.NET Core Blazor / Razor Components.
-* [Getting Started with TypeScript for JSInterop in Blazor](https://chrissainty.com/getting-started-with-typescript-for-jsinterop-in-blazor/) - April 9, 2019 - Getting Started with TypeScript for JSInterop in Blazor.
-* [Using The Blazor Form Validation](https://remibou.github.io/Using-the-Blazor-form-validation/) - April 9, 2019 - Using The Blazor Form Validation.
-* [Pure HTML Validation in Blazor](https://shawtyds.wordpress.com/2019/04/05/pure-html-validation-in-blazor/) - April 5, 2019 - Pure HTML Validation in Blazor.
-* [Building Components Manually via RenderTreeBuilder](https://chrissainty.com/building-components-via-rendertreebuilder/) - April 3, 2019 - Building Components Manually via RenderTreeBuilder.
-* [How to localize texts in your Blazor App?](https://dev.to/j_sakamoto/how-to-localize-texts-in-your-blazor-app-phn) - April 2, 2019 - Localizing contents text in Blazor.
-* [Client-side or Server-side](https://thefreezeteam.com/blazor/) - March 31, 2019 - Client-side or Server-side.
-* [Managing Page Layouts in Blazor](https://visualstudiomagazine.com/articles/2019/03/01/managing-page-layouts-in-blazor.aspx) - March 29, 2019 - Managing Page Layouts in Blazor.
-* [Using FluentValidation for Forms Validation in Razor Components](https://chrissainty.com/using-fluentvalidation-for-forms-validation-in-razor-components/) - March 26, 2019 - Using FluentValidation for Forms Validation in Razor Components.
-* [Implementing Client Side Search As You Type Using bind-value-oninput](https://scottsauber.com/2019/03/25/blazor-implementing-client-side-search-as-you-type-using-bind-value-oninput/) - March 25, 2019 - Blazor: Implementing Client Side Search As You Type Using bind-value-oninput.
-* [What is Blazor and what is Razor Components?](https://www.hanselman.com/blog/WhatIsBlazorAndWhatIsRazorComponents.aspx) - March 19, 2019 - What is Blazor and what is Razor Components?
-* [Using JavaScript Interop in Razor Components and Blazor](https://chrissainty.com/using-javascript-interop-in-razor-components-and-blazor/) - March 19, 2019 - Using JavaScript Interop in Razor Components and Blazor.
-* [Deploying Blazor Apps Using Azure Pipelines](https://chrissainty.com/deploying-blazor-apps-using-azure-pipelines/) - March 12, 2019 - Deploying Blazor Apps Using Azure Pipelines.
-* [Blazor 0.9.0 experimental release now available](https://devblogs.microsoft.com/aspnet/blazor-0-9-0-experimental-release-now-available/) - March 7, 2019 - Blazor 0.9.0 experimental release now available.
-* [Full Stack C# with Blazor](https://msdn.microsoft.com/magazine/mt833288) - March 7, 2019, Full Stack C# with Blazor.
-* [Understanding cascading values & cascading parameters](https://chrissainty.com/understanding-cascading-values-and-cascading-parameters/) - February 26, 2019 - Understanding cascading values & cascading parameters.
-* [What’s the Difference Between Razor and Blazor?](https://espressocoder.com/2019/02/21/whats-the-difference-between-razor-and-blazor/) - February 21, 2019 - What’s the Difference Between Razor and Blazor?
-* [No need to duel! Use Blazor Components Dynamic Dual Mode!](https://thefreezeteam.com/razor-components-dynamic-dual-mode/) - February 20, 2019 - No need to duel! Use Blazor Components Dynamic Dual Mode!
-* [Configuring a Blazor app](https://remibou.github.io/Configuring-a-Blazor-app/) - February 18, 2019 - Configuring a Blazor app.
-* [Microsoft updates Blazor, now built on Razor Components](https://visualstudiomagazine.com/articles/2019/02/13/blazor-0-8-0.aspx) - February 13, 2019 - Microsoft updates Blazor, now built on Razor Components.
-* [Dealing with Forms in Blazor](https://msdn.microsoft.com/en-us/magazine/mt833274.aspx) - February 8, 2019 - Dealing with Forms in Blazor.
-* [Blazor 0.8.0 experimental release now available](https://blogs.msdn.microsoft.com/webdev/2019/02/05/blazor-0-8-0-experimental-release-now-available/) - February 5, 2019 - Blazor 0.8.0 experimental release now available.
-* [Blazored modal released](https://chrissainty.com/blazored-modal-released/) - February 5, 2019 - Blazored modal released.
-* [Event Aggregator for ASP.NET Core 3 Razor Components / Blazor](https://mikaelkoskinen.net/post/blazor-event-aggregator-razor-components) - February 4, 2019 - Blazor.EventAggregator - Event Aggregator for ASP.NET Core 3 Razor Components / Blazor.
-* [ASP.NET Core updates in .NET Core 3.0 Preview 2](https://blogs.msdn.microsoft.com/webdev/2019/01/29/aspnet-core-3-preview-2/) - January 29, 2019 - ASP.NET Core updates in .NET Core 3.0 Preview 2.
-* [Blazor Notes from NDC London](https://edcharbeneau.com/blazor-ndc-london) - January 29, 2019 - Blazor Notes from NDC London.
-* [Creating a Reusable, JavaScript-Free Blazor Modal](https://www.telerik.com/blogs/creating-a-reusable-javascript-free-blazor-modal) - January 28, 2019 - Creating a Reusable, JavaScript-Free Blazor Modal.
-* [Google authentication in Server-Side Blazor](http://lightswitchhelpwebsite.com/Blog/tabid/61/EntryId/4323/Google-Authentication-in-Server-Side-Blazor-Razor-Components.aspx) - January 21, 2019 - Google authentication in Server-Side Blazor (Razor components).
-* [Announcing Blazored and Blazored Toast](https://chrissainty.com/announcing-blazored-and-blazored-toast) - January 21, 2019 - Announcing Blazored and Blazored Toast.
-* [Blazor Full-Stack Web Dev in ASP .NET Core](https://wakeupandcode.com/blazor-full-stack-web-dev-in-asp-net-core/) - January 16, 2019 - Blazor Full-Stack Web Dev in ASP .NET Core.
-* [Introducing the Telerik UI for Blazor Early Preview](https://www.telerik.com/blogs/introducing-the-telerik-ui-for-blazor-early-preview) - January 16, 2019 - Introducing the Telerik UI for Blazor Early Preview.
-* [Creating a top menu search bar in Blazor](https://streamwriter.net/creating-a-top-menu-search-bar-in-blazor/) - January 12, 2019 - Creating a top menu search bar in Blazor.
-* [Exception Handling In Blazor](https://remibou.github.io/Exception-handling-in-Blazor/) - January 10, 2019 - Exception Handling In Blazor.
-* [Zero to Azure Hero with ASP.NET Core, Blazor, Azure DevOps, Cognitive Services, SonarCloud and App Services](https://stevenknox.net/zero-to-azure-hero-with-asp-net-core-blazor-azure-devops-cognitive-services-and-app-services/) - January 5, 2019 - Zero to Azure Hero with ASP.NET Core, Blazor, Azure DevOps, Cognitive Services, SonarCloud and App Services.
-* [MVVM Support in Blazor](https://blog.jeremylikness.com/blog/2019-01-04_mvvm-support-in-blazor) - January 4, 2019 - MVVM Support in Blazor.
-* [From Angular to Blazor: The Health App](https://blog.jeremylikness.com/from-angular-to-blazor-the-health-app-2e36077d641c) - January 3, 2019 - From Angular to Blazor: The Health App.
-* [An Introduction to Templated Components in Blazor](https://visualstudiomagazine.com/articles/2018/12/01/blazor-templated-components.aspx) - January 3, 2019 - An Introduction to Templated Components in Blazor.
+* [Archives of 2019](https://github.com/AdrienTorris/awesome-blazor/blob/master/Archives/2019.md#articles)
 * [Archives of 2018](https://github.com/AdrienTorris/awesome-blazor/blob/master/Archives/2018.md#articles)
 * [Archives of 2017](https://github.com/AdrienTorris/awesome-blazor/blob/master/Archives/2017.md#articles)
   
