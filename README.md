@@ -331,6 +331,7 @@ Note: the Blazor Visual Studio extension is no longer required since .NET Core 3
 * [Archives](https://github.com/AdrienTorris/awesome-blazor/tree/master/Archives) - [2019](https://github.com/AdrienTorris/awesome-blazor/blob/master/Archives/2019.md#videos), [2018](https://github.com/AdrienTorris/awesome-blazor/blob/master/Archives/2018.md#videos), [2017](https://github.com/AdrienTorris/awesome-blazor/blob/master/Archives/2017.md#videos).
 
 ## Articles
+* [Uploading files in Blazor](https://www.mikesdotnetting.com/article/341/uploading-files-in-blazor) - October 17, 2019 - Uploading files in Blazor.
 * [Blazor pages get partial class support](https://gunnarpeipman.com/blazor-partial-page-class/) - October 16, 2019 - Blazor pages get partial class support.
 * [ASP.NET Core updates in .NET Core 3.1 Preview 1](https://devblogs.microsoft.com/aspnet/asp-net-core-updates-in-net-core-3-1-preview-1/) - October 15, 2019 - ASP.NET Core updates in .NET Core 3.1 Preview 1 by Daniel Roth. Interesting stuff for Blazor developers: partial class support and the ability to pass parameters to top-level components.
 * [Blazor Server in .NET Core 3.0 scenarios and performance](https://devblogs.microsoft.com/aspnet/blazor-server-in-net-core-3-0-scenarios-and-performance/) - October 10, 2019 - Blazor Server in .NET Core 3.0 scenarios and performance, by Daniel Roth.
