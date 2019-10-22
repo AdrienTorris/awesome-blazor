@@ -333,6 +333,7 @@ Note: the Blazor Visual Studio extension is no longer required since .NET Core 3
 * [Archives](https://github.com/AdrienTorris/awesome-blazor/tree/master/Archives) - [2019](https://github.com/AdrienTorris/awesome-blazor/blob/master/Archives/2019.md#videos), [2018](https://github.com/AdrienTorris/awesome-blazor/blob/master/Archives/2018.md#videos), [2017](https://github.com/AdrienTorris/awesome-blazor/blob/master/Archives/2017.md#videos).
 
 ## Articles
+* [Introduction to Routing in Blazor](https://chrissainty.com/introduction-to-routing-in-blazor/) - October 22, 2019 - Introduction to Routing in Blazor.
 * [Uploading files in Blazor](https://www.mikesdotnetting.com/article/341/uploading-files-in-blazor) - October 17, 2019 - Uploading files in Blazor.
 * [Blazor pages get partial class support](https://gunnarpeipman.com/blazor-partial-page-class/) - October 16, 2019 - Blazor pages get partial class support.
 * [Goodbye Javascript! Build an Authenticated Web App in C# with Blazor + ASP.NET Core 3.0 ](https://developer.okta.com/blog/2019/10/16/csharp-blazor-authentication) - October 16, 2019 - Goodbye Javascript! Build an Authenticated Web App in C# with Blazor + ASP.NET Core 3.0 .
