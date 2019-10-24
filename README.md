@@ -126,7 +126,7 @@ Note: the Blazor Visual Studio extension is no longer required since .NET Core 3
 * [Blazor Charts](https://github.com/SQL-MisterMagoo/Mister-Magoo-Goes-Charting) - Chart components for Blazor.
 * [Blazor Converters](https://github.com/lohithgn/blazor-converters) - Blazor Converters is simple converter app written using Blazor, influenced by Windows 10 Calculator.
 * [BlazorCRUD](https://github.com/thbst16/BlazorCrud) - Sample line of business application that illustrates key features of Blazor. [Demo](https://becksblazor.azurewebsites.net/).
-* [Blazor FIRE Calculators](https://github.com/bradwellsb/blazor-fire-calculators) - Client-side financial calculators built using Blazor WebAssembly. Also demonstrates currency and custom number formatting. [Demo](https://fire.wellsb.com/).
+* [Blazor FIRE Calculators](https://github.com/bradwellsb/blazor-fire-calculators) - Client-side financial calculators built using Blazor WebAssembly. Demonstrates custom number formatting and offline Progressive Web App (PWA) functionality. [Demo](https://fire.wellsb.com/).
 * [BlazorFormsValidation](https://github.com/Dallas411/BlazorFormsValidation) - Blazor form validation sample.
 * [BlazorPaint](https://github.com/Lupusa87/BlazorPaint) - A paint sample with Blazor ([demo](https://lupblazorpaint.z20.web.core.windows.net/)).
 * [BlazorPages](https://github.com/fernandreu/blazor-pages) - A sample client-side Blazor app showcasing automatic deployment to GitHub Pages via Azure Pipelines.
@@ -335,6 +335,7 @@ Note: the Blazor Visual Studio extension is no longer required since .NET Core 3
 
 ## Articles
 * [Introduction to Routing in Blazor](https://chrissainty.com/introduction-to-routing-in-blazor/) - October 22, 2019 - Introduction to Routing in Blazor.
+* [Create PWA using Blazor](https://wellsb.com/csharp/aspnet/create-pwa-from-blazor-app/) - October 17, 2019 - How to convert a Blazor app into an installable PWA.
 * [Uploading files in Blazor](https://www.mikesdotnetting.com/article/341/uploading-files-in-blazor) - October 17, 2019 - Uploading files in Blazor.
 * [Blazor pages get partial class support](https://gunnarpeipman.com/blazor-partial-page-class/) - October 16, 2019 - Blazor pages get partial class support.
 * [Goodbye Javascript! Build an Authenticated Web App in C# with Blazor + ASP.NET Core 3.0 ](https://developer.okta.com/blog/2019/10/16/csharp-blazor-authentication) - October 16, 2019 - Goodbye Javascript! Build an Authenticated Web App in C# with Blazor + ASP.NET Core 3.0 .
