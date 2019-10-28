@@ -205,6 +205,7 @@ Note: the Blazor Visual Studio extension is no longer required since .NET Core 3
 * [BlazorGoogleMaps](https://github.com/rungwiroon/BlazorGoogleMaps) - Blazor interop for GoogleMap library.
 * [Razor.SweetAlert2](https://github.com/Basaingeal/Razor.SweetAlert2) - Blazor component implementing the popular SweetAlert2 JavaScript Library. 
 * [Blazor.SpinKit](https://github.com/faso/Faso.Blazor.SpinKit) - Blazor components for [SpinKit](https://tobiasahlin.com/spinkit/) spinners.
+* [Blorc.PatternFly](https://github.com/WildGums/Blorc.PatternFly) - Blazor wrappers for [PatternFly](https://www.patternfly.org).
 * [ChartJs.Blazor](https://github.com/mariusmuntean/ChartJs.Blazor) - ![GitHub stars](https://img.shields.io/github/stars/mariusmuntean/ChartJs.Blazor?style=flat-square&cacheSeconds=604800) ![Status](https://img.shields.io/static/v1?label=status&message=Not%20maintained%20anymore&color=lightgrey) Blazor Component that wraps ChartJS.
 * [ChartJSBlazor](https://github.com/Joelius300/ChartJSBlazor) - ![GitHub stars](https://img.shields.io/github/stars/Joelius300/ChartJSBlazor?style=flat-square&cacheSeconds=604800) ![Status](https://img.shields.io/static/v1?label=status&message=archived&color=lightgrey) Blazor Component that wraps ChartJS. (New fork of [ChartJs.Blazor](https://github.com/mariusmuntean/ChartJs.Blazor) that is maintained).
 
