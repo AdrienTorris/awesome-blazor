@@ -189,6 +189,7 @@ Note: the Blazor Visual Studio extension is no longer required since .NET Core 3
 * [NodaTimePicker](https://github.com/nheath99/NodaTimePicker) - ![GitHub stars](https://img.shields.io/github/stars/nheath99/NodaTimePicker?style=flat-square&cacheSeconds=604800) A Date/Time picker component library for Blazor using NodaTime. [Demo](https://nodatimepicker.z13.web.core.windows.net/).
 * [BlazorBits](https://github.com/BlazorBits/BlazorBits) - ![GitHub stars](https://img.shields.io/github/stars/BlazorBits/BlazorBits?style=flat-square&cacheSeconds=604800) Components including [Monaco editor](https://github.com/Microsoft/monaco-editor) ![GitHub stars](https://img.shields.io/github/stars/Microsoft/monaco-editor?style=flat-square&cacheSeconds=604800).
 * [BlazorVirtualGrid](https://github.com/Lupusa87/BlazorVirtualGrid) - ![GitHub stars](https://img.shields.io/github/stars/Lupusa87/BlazorVirtualGrid?style=flat-square&cacheSeconds=604800) Reusable, fully configurable component with rows and columns fast virtualization ([Demo](https://lupblazorvirtualgrid.z13.web.core.windows.net/)).
+* [BlazorGoogleMaps](https://github.com/rungwiroon/BlazorGoogleMaps) - ![GitHub stars](https://img.shields.io/github/stars/rungwiroon/BlazorGoogleMaps?style=flat-square&cacheSeconds=604800) Blazor interop for GoogleMap library.
 * [BlazorVirtualScrolling](https://github.com/SamProf/BlazorVirtualScrolling) - Virtual Scrolling Component for Blazor
  ([Demo](https://samprof.github.io/BlazorVirtualScrolling/)).
 * [BlazorScrollbar](https://github.com/Lupusa87/BlazorScrollbar) - Reusable, fully configurable component with vertical and horizontal scrollbars ([Demo](https://lupblazorscrollbar.z20.web.core.windows.net/)).
@@ -202,7 +203,6 @@ Note: the Blazor Visual Studio extension is no longer required since .NET Core 3
 * [Blazor.LoadingIndicator](https://github.com/h3x4d3c1m4l/Blazor.LoadingIndicator) - Simple to use loading indicator helper library.
 * [BlazorDateRangePicker](https://github.com/jdtcn/BlazorDateRangePicker) - A date range picker component library for Blazor. [Demo](https://BlazorDateRangePicker.azurewebsites.net/).
 * [BlazorTypography](https://github.com/chanan/BlazorTypography) - A powerful toolkit for building websites with beautiful design ([Demo](https://chanan.github.io/BlazorTypography/)).
-* [BlazorGoogleMaps](https://github.com/rungwiroon/BlazorGoogleMaps) - Blazor interop for GoogleMap library.
 * [Razor.SweetAlert2](https://github.com/Basaingeal/Razor.SweetAlert2) - Blazor component implementing the popular SweetAlert2 JavaScript Library. 
 * [Blazor.SpinKit](https://github.com/faso/Faso.Blazor.SpinKit) - Blazor components for [SpinKit](https://tobiasahlin.com/spinkit/) spinners.
 * [Blorc.PatternFly](https://github.com/WildGums/Blorc.PatternFly) - Blazor wrappers for [PatternFly](https://www.patternfly.org).
