@@ -320,18 +320,6 @@ Note: the Blazor Visual Studio extension is no longer required since .NET Core 3
 * [Building a C# Interactive shell in a browser with Blazor (WebAssembly) and Roslyn](https://www.strathweb.com/2019/06/building-a-c-interactive-shell-in-a-browser-with-blazor-webassembly-and-roslyn/) - June 7, 2019 - Building a C# Interactive shell in a browser with Blazor (WebAssembly) and Roslyn.
 * [Blazor - Getting Started with Daniel and Mehul](https://www.youtube.com/watch?v=93OtjA8VUgc) - June 6, 2019 - Blazor - Getting Started with Daniel Roth and Mehul Harry, published by DevExpress.
 * [Blazor client-side app with CRUD operations against a Web API endpoint](https://www.youtube.com/watch?v=wkSR3eo4Tek) - June 1, 2019 - Blazor client-side app with CRUD operations against a Web API endpoint.
-* [Blazor StateHasChanged: BlazePort part 1](https://www.twitch.tv/videos/430658092) - May 27, 2019 - First video about creating BlazePort, a futuristic ride share app for space travel written in full stack .NET with Blazor. [Source Code](https://github.com/EdCharbeneau/BlazePort) ![GitHub stars](https://img.shields.io/github/stars/EdCharbeneau/BlazePort?style=flat-square&cacheSeconds=604800).
-* [Blazor CRUD app tutorial - SPA Framework for .NET developers (Part - 2)](https://www.youtube.com/watch?v=TMiFNM_1oZI) - May 22, 2019 - Blazor CRUD app tutorial - SPA Framework for .NET developers (Part - 2).
-* [Blazor application state management basics](https://www.youtube.com/watch?v=1o-_78ONM1s) - May 14, 2019 - Blazor application state management basics.
-* [Blazor Q/A Live with Daniel Roth from Microsoft Build 2019](https://www.youtube.com/watch?v=zp9wQt8J6hY) - May 14, 2019 - Blazor Q/A Live with Daniel Roth from Microsoft Build 2019.
-* [Upgrading to Blazor Preview 4 and Hacking SEO in Client-side Blazor](https://www.youtube.com/watch?v=i2eVseMWidQ) - May 14, 2019 - Upgrading to Blazor Preview 4 and Hacking SEO in Client-side Blazor.
-* [.NET is now your Browser OS with Blazor](https://www.recallact.com/presentation/net-now-your-browser-os-blazor) - May 13, 2019 - Talk by Jeremy Likness at the Atlanta DotNetSouth 2019.
-* [Continuation of the Tulsa .NET User Group website](https://www.twitch.tv/videos/422982467) - May 10, 2019 - Continuation of the Tulsa .NET User Group website. [Source code](https://github.com/devsgarage/tulsa-dnug-website) ![GitHub stars](https://img.shields.io/github/stars/devsgarage/tulsa-dnug-website?style=flat-square&cacheSeconds=604800) here.
-* [Scott Hunter Demos Telerik UI for Blazor](https://clips.twitch.tv/SpookyProudPineapplePeanutButterJellyTime) - May 10, 2019 - Scott Hunter Demos Telerik UI for Blazor.
-* [Blazor: C# running in the browser via WebAssembly](https://www.youtube.com/watch?v=8De8DlrCzoY) - May 8, 2019 - "Blazor: C# running in the browser via WebAssembly" by Scott Sauber at the NDC Conference Minnesota. Slides and source code [here](https://scottsauber.com/2019/05/08/ndc-minnesota-talk-blazor-c-running-in-the-browser-via-webassembly/).
-* [WebAssembly: Into the WASM'verse](https://www.youtube.com/watch?v=P8rSdOXiyEc) - May 8, 2019 - WebAssembly: Into the WASM'verse.
-* [Full stack web development with ASP.NET Core 3.0 and Blazor](https://mybuild.techcommunity.microsoft.com/sessions/77033) - May 7, 2019 - Microsoft Build 2019: Full stack web development with ASP.NET Core 3.0 and Blazor.
-* [Serverless web apps with Blazor, Azure Functions, and Azure Storage](https://mybuild.techcommunity.microsoft.com/sessions/77336) - May 6, 2019 - Microsoft Build 2019: Serverless web apps with Blazor, Azure Functions, and Azure Storage.
 * [Archives](https://github.com/AdrienTorris/awesome-blazor/tree/master/Archives) - [2019](https://github.com/AdrienTorris/awesome-blazor/blob/master/Archives/2019.md#videos), [2018](https://github.com/AdrienTorris/awesome-blazor/blob/master/Archives/2018.md#videos), [2017](https://github.com/AdrienTorris/awesome-blazor/blob/master/Archives/2017.md#videos).
 
 ## Articles
@@ -419,34 +407,6 @@ Note: the Blazor Visual Studio extension is no longer required since .NET Core 3
 * [What’s new in Azure SignalR 1.1.0 Preview 1](https://devblogs.microsoft.com/aspnet/whats-new-in-azure-signalr-1-1-0-preview-1/) - June 3, 2019 - What’s new in Azure SignalR 1.1.0 Preview 1.
 * [Forwarding Refs in Blazor](https://www.samprof.com/2019/06/03/blazor-forwardref) - June 3, 2019 - Technique for automatically passing a ElementRef through a component to one of its children or back from children to parent or among independent components.
 * [Building Cross-Platform Desktop Apps using Blazor and Electron.NET](https://maherjendoubi.io/blazor-electron/) - June 1, 2019 - Building Cross-Platform Desktop Apps using Blazor and Electron.NET.
-* [WebAssembly and Blazor: A Decades Old Problem Solved](https://www.infoq.com/articles/webassembly-blazor) - May 30, 2019 - WebAssembly and Blazor: A Decades Old Problem Solved.
-* [How does Blazor works ? Part 1 : building class from .razor](https://remibou.github.io/Blazor-how-it-works-part-1/) - May 29, 2019 - How does Blazor works ? Part 1 : building class from .razor.
-* [Calling gRPC Services With Server-side Blazor](https://chrissainty.com/calling-grpc-services-with-server-side-blazor) - May 29, 2019 - Calling gRPC Services With Server-side Blazor.
-* [Architecting Blazor applications: an Angular approach](http://danpatrascu.com/architecting-blazor-applications-an-angular-approach/) - May 29, 2019 - Architecting Blazor applications: an Angular approach.
-* [Using MediatR with Blazor](https://talkdotnet.wordpress.com/2019/05/29/using-mediatr-with-blazor/) - May 29, 2019 - Using MediatR with Blazor.
-* [Using reference objects in Blazor server-side](https://www.billbogaiv.com/posts/using-reference-objects-in-blazor-server-side) - May 26, 2019 - Using reference objects in Blazor server-side.
-* [Why WebAssembly Matters?](https://byterot.blogspot.com/2019/05/why-webassembly-matters.html) - May 18, 2019 - Why WebAssembly Matters?
-* [Dynamic components in Blazor](https://www.oqtane.org/Resources/Blog/PostId/522/dynamic-components-in-blazor) - May 16, 2019 - Dynamic components in Blazor.
-* [Custom routing in Blazor](https://www.oqtane.org/Resources/Blog/PostId/521/custom-routing-in-blazor) - May 16, 2019 - Custom routing in Blazor.
-* [A detailed look at data binding in Blazor](https://chrissainty.com/a-detailed-look-at-data-binding-in-blazor/) - May 15, 2019 - A detailed look at data binding in Blazor.
-* [Simple Blazor Game Development Using .NET Core 3.0 Preview, Web API, And Visual Studio 2019](https://www.c-sharpcorner.com/article/asp-net-core-blazor-simple-game-development-using-net-core-3-0-preview-web-api/) - May 14, 2019 - Simple Blazor Game Development Using .NET Core 3.0 Preview, Web API, And Visual Studio 2019.
-* [WebAssembly-ifying .NET with Blazor](https://www.telerik.com/blogs/webassembly-ifying-net-with-blazor) - May 14, 2019 - WebAssembly-ifying .NET with Blazor.
-* [Exploring Blazor by Making An HTML Table Sortable in .NET Core](https://exceptionnotfound.net/exploring-blazor-by-making-an-html-table-sortable-in-net-core/) - May 13, 2019 - Exploring Blazor by Making An HTML Table Sortable in .NET Core.
-* [Data binding in Blazor](https://coderethinked.com/data-binding-in-blazor/) - May 13, 2019 - Data binding in Blazor.
-* [Progressive Web Apps and Blazor is combination you should not miss!](https://medium.com/@janne_mattila/progressive-web-apps-and-blazor-is-combination-you-should-not-miss-c59d9ae91d42) - May 12, 2019 - Progressive Web Apps and Blazor is combination you should not miss.
-* [Separating code and presentation of Blazor pages](https://gunnarpeipman.com/blazor/blazor-code-behind/) - May 10, 2019 - Separating code and presentation of Blazor pages.
-* [Implementing a List/Details Page in Blazor](https://www.telerik.com/blogs/implementing-a-list-details-page-in-blazor) - May 9, 2019 - Implementing a List/Details Page in Blazor.
-* [Blazor Bites Updated and Build 2019 Blazor Roundup](https://chrissainty.com/blazor-bites-updated-and-build-2019-blazor-roundup/) - May 8, 2019 - Blazor Bites Updated and Build 2019 Blazor Roundup.
-* [Creating a Database Driven Module For Blazor Oqtane](http://lightswitchhelpwebsite.com/Blog/tabid/61/EntryId/4331/Creating-a-Database-Driven-Module-For-Blazor-Oqtane.aspx) - May 8, 2019 - Creating a Database Driven Module For Blazor Oqtane.
-* [Creating a Hello World Module For Blazor Oqtane](http://lightswitchhelpwebsite.com/Blog/tabid/61/EntryId/4330/Creating-a-Hello-World-Module-For-Blazor-Oqtane.aspx) - May 7, 2019 - Creating a Hello World Module For Blazor Oqtane.
-* [.NET Core is the Future of .NET](https://devblogs.microsoft.com/dotnet/net-core-is-the-future-of-net/) - May 6, 2019 - .NET Core is the Future of .NET.
-* [Unified .NET 5 Unveiled: 'Just One .NET Going Forward'](https://visualstudiomagazine.com/articles/2019/05/06/net-5.aspx) - May 6, 2019 - Unified .NET 5 Unveiled: 'Just One .NET Going Forward'.
-* [Comparing Native Blazor Components to Wrapped JavaScript Components](https://www.telerik.com/blogs/comparing-native-blazor-components-to-wrapped-javascript-components) - May 6, 2019 - Comparing Native Blazor Components to Wrapped JavaScript Components.
-* [Building a Wizard in Blazor with components and MVVM](https://itnext.io/building-a-wizard-in-blazor-with-components-and-mvvm-96219a7b221c) - May 5, 2019 - Building a Wizard in Blazor with components and MVVM.
-* [Announcing Oqtane a modular application framework for Blazor](https://www.oqtane.org/Resources/Blog/PostId/520/announcing-oqtane-a-modular-application-framework-for-blazor) - May 5, 2019 - Announcing Oqtane a modular application framework for Blazor.
-* [Unable to find debuggable browser tab in Blazor](https://coderethinked.com/unable-to-find-debuggable-browser-tab-in-blazor/) - May 4, 2019 - Unable to find debuggable browser tab in Blazor.
-* [Introducing Telerik UI for Blazor 1.0.0](https://www.telerik.com/blogs/introducing-telerik-ui-for-blazor-1-0-0) - May 2, 2019 - Introducing Telerik UI for Blazor 1.0.0.
-* [Get Some Sass Into Your Blazor App](https://chrissainty.com/get-some-sass-into-your-blazor-app/) - May 1, 2019 - Get Some Sass Into Your Blazor App.
 * [Archives](https://github.com/AdrienTorris/awesome-blazor/tree/master/Archives) - [2019](https://github.com/AdrienTorris/awesome-blazor/blob/master/Archives/2019.md#articles), [2018](https://github.com/AdrienTorris/awesome-blazor/blob/master/Archives/2018.md#articles), [2017](https://github.com/AdrienTorris/awesome-blazor/blob/master/Archives/2017.md#articles).
   
 ## Podcasts
