@@ -253,9 +253,9 @@ Note: the Blazor Visual Studio extension is no longer required since .NET Core 3
 * [BlazorOfficeUIFabric](https://github.com/BlazorExtensions/BlazorOfficeUIFabric) - ![GitHub stars](https://img.shields.io/github/stars/BlazorExtensions/BlazorOfficeUIFabric?style=flat-square&cacheSeconds=604800) Microsoft Office Fabric UI port for Blazor.
 * [Blazor-Dashboard](https://github.com/Misfits-Rebels-Outcasts/Blazor-Dashboard) - ![GitHub stars](https://img.shields.io/github/stars/Misfits-Rebels-Outcasts/Blazor-Dashboard?style=flat-square&cacheSeconds=604800) Admin Dashboard Template Theme for Blazor.
 * [BlazorEmbedLibrary](https://github.com/SQL-MisterMagoo/BlazorEmbedLibrary) - ![GitHub stars](https://img.shields.io/github/stars/SQL-MisterMagoo/BlazorEmbedLibrary?style=flat-square&cacheSeconds=604800) Provides Blazor-style embedded static content files for Razor Components projects.
+* [BlazorFabric](https://github.com/limefrogyank/BlazorFabric) - ![GitHub stars](https://img.shields.io/github/stars/limefrogyank/BlazorFabric?style=flat-square&cacheSeconds=604800) Blazor port of Microsoft UI Fabric with fluent design. ([Demo](https://blazorfabric.azurewebsites.net/)).
 * [WebSocketHelper](https://github.com/Lupusa87/BlazorWebSocketHelper) - ![GitHub stars](https://img.shields.io/github/stars/Lupusa87/BlazorWebSocketHelper?style=flat-square&cacheSeconds=604800) Helper for Web Socket in Blazor.
 * [Bionic](https://bionicframework.github.io/Documentation/) - An Ionic CLI clone for Blazor projects.
-* [BlazorFabric](https://github.com/limefrogyank/BlazorFabric) - Blazor port of Microsoft UI Fabric with fluent design. ([Demo](https://blazorfabric.azurewebsites.net/)).
 * [BlazorFileSaver](https://github.com/IvanJosipovic/BlazorFileSaver) - Blazor Component wrapper for FileSaver.js. 
 * [Blazor.DynamicJavascriptRuntime.Evaluator](https://github.com/jameschch/Blazor.DynamicJavascriptRuntime.Evaluator) - Execute dynamic object expressions as Javascript in Blazor client-side apps.
 * [Blazor.AdaptiveCards](https://github.com/mikoskinen/Blazor.AdaptiveCards) - Adaptive Cards for Blazor. [Documentation](https://adaptivecardsblazor.com/).
