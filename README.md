@@ -62,6 +62,8 @@ Note: the Blazor Visual Studio extension is no longer required since .NET Core 3
 * [Blazor.JWTTest](https://github.com/shawty/blazor.jwttest) - ![GitHub stars](https://img.shields.io/github/stars/shawty/blazor.jwttest?style=flat-square&cacheSeconds=604800) JWT authentication for a Blazor hosted (Client/Server-side) app with API and Authentication.
 * [Blazor.OpenId](https://github.com/jbomhold3/Blazor.Openid) - Easy authentication and client refresh using OpenId.
 * [BlazorAuthenticationSample](https://github.com/christiansparre/BlazorAuthenticationSample) - A sample showing some of the ASP.NET Core Blazor authentication features (also some testing...).
+### Cloud
+* [BlazorFile2Azure](https://github.com/daltskin/BlazorFile2Azure) - Upload a file from Blazor WebAssembly to Azure Blob Storage.
 ### CMS
 * [BlogCore](https://github.com/thangchung/blog-core) - ![GitHub stars](https://img.shields.io/github/stars/thangchung/blog-core?style=flat-square&cacheSeconds=604800) Modern CMS on Domain-driven Design and Clean Architecture patterns.
 * [WordDaze](https://github.com/chrissainty/worddaze) - ![GitHub stars](https://img.shields.io/github/stars/chrissainty/worddaze?style=flat-square&cacheSeconds=604800) Blogging application written using Blazor with a WebAPI backend.
