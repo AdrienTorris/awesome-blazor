@@ -329,6 +329,8 @@ Note: the Blazor Visual Studio extension is no longer required since .NET Core 3
 ## Articles
 * [Blazor Component Lifecycle Diagram](https://knowledge-base.havit.eu/2019/11/02/blazor-component-lifecycle-diagram/) - November 2, 2019 - Blazor component lifecycle methods and when they are called.
 * [Exploring lighter alternatives to Electron for hosting a Blazor desktop app](http://blog.stevensanderson.com/2019/11/01/exploring-lighter-alternatives-to-electron-for-hosting-a-blazor-desktop-app/) - November 1, 2019 - Exploring lighter alternatives to Electron for hosting a Blazor desktop app, by Steve Sanderson.
+* [A New Era of Productivity with Blazor](https://www.codemag.com/article/1911052) - November 2019 - A New Era of Productivity with Blazor, by Ed Charbeneau for CODE magazine.
+* [One solution (setup) to rule them all](https://visionsincode.wordpress.com/2019/11/01/one-solution-setup-to-rule-them-all-blazor-webassembly-blazor-server-blazor-electron/) - November 1, 2019 - One solution (setup) to rule them all – Blazor Webassembly, Blazor Server, Blazor Electron.
 * [An In-depth Look at Routing in Blazor](https://chrissainty.com/an-in-depth-look-at-routing-in-blazor/) - October 29, 2019 - An In-depth Look at Routing in Blazor.
 * [Introduction to Routing in Blazor](https://chrissainty.com/introduction-to-routing-in-blazor/) - October 22, 2019 - Introduction to Routing in Blazor.
 * [Create PWA using Blazor](https://wellsb.com/csharp/aspnet/create-pwa-from-blazor-app/) - October 17, 2019 - How to convert a Blazor app into an installable PWA.
