@@ -264,7 +264,7 @@ Note: the Blazor Visual Studio extension is no longer required since .NET Core 3
 * [BlazorFabric](https://github.com/limefrogyank/BlazorFabric) - ![GitHub stars](https://img.shields.io/github/stars/limefrogyank/BlazorFabric?style=flat-square&cacheSeconds=604800) Blazor port of Microsoft UI Fabric with fluent design. ([Demo](https://blazorfabric.azurewebsites.net/)).
 * [WebSocketHelper](https://github.com/Lupusa87/BlazorWebSocketHelper) - ![GitHub stars](https://img.shields.io/github/stars/Lupusa87/BlazorWebSocketHelper?style=flat-square&cacheSeconds=604800) Helper for Web Socket in Blazor.
 * [Bionic](https://bionicframework.github.io/Documentation/) - An Ionic CLI clone for Blazor projects.
-* [BlazorFileSaver](https://github.com/IvanJosipovic/BlazorFileSaver) - Blazor Component wrapper for FileSaver.js. 
+* [BlazorFileSaver](https://github.com/IvanJosipovic/BlazorFileSaver) - ![GitHub stars](https://img.shields.io/github/stars/IvanJosipovic/BlazorFileSaver?style=flat-square&cacheSeconds=604800) Blazor Component wrapper for FileSaver.js ([Demo](https://blazorfilesaver.netlify.com)).
 * [Blazor.DynamicJavascriptRuntime.Evaluator](https://github.com/jameschch/Blazor.DynamicJavascriptRuntime.Evaluator) - Execute dynamic object expressions as Javascript in Blazor client-side apps.
 * [Blazor.AdaptiveCards](https://github.com/mikoskinen/Blazor.AdaptiveCards) - Adaptive Cards for Blazor. [Documentation](https://adaptivecardsblazor.com/).
 
