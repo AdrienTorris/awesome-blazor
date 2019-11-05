@@ -334,7 +334,7 @@ Note: the Blazor Visual Studio extension is no longer required since .NET Core 3
 * [Archives](https://github.com/AdrienTorris/awesome-blazor/tree/master/Archives) - [2019](https://github.com/AdrienTorris/awesome-blazor/blob/master/Archives/2019.md#videos), [2018](https://github.com/AdrienTorris/awesome-blazor/blob/master/Archives/2018.md#videos), [2017](https://github.com/AdrienTorris/awesome-blazor/blob/master/Archives/2017.md#videos).
 
 ## Articles
-* [Building a Custom Router for Blazor](https://chrissainty.com/building-a-custom-router-for-blazor/) - November 5, 2019 - Building a Custom Router for Blazor.
+* [Building a Custom Router for Blazor](https://chrissainty.com/building-a-custom-router-for-blazor/) - November 5, 2019 - Building a Custom Router for Blazor. [Source code](https://github.com/chrissainty/BuildingACustomRouterForBlazor).
 * [ASP.NET Core updates in .NET Core 3.1 Preview 2](https://devblogs.microsoft.com/aspnet/asp-net-core-updates-in-net-core-3-1-preview-2/) - November 4, 2019 - ASP.NET Core updates in .NET Core 3.1 Preview 2.
 * [Visual Studio 2019 for Mac version 8.4 Preview 2](https://devblogs.microsoft.com/visualstudio/visual-studio-2019-for-mac-version-8-4-preview-2-now-available/) - November 4, 2019 - Visual Studio 2019 for Mac version 8.4 Preview 2, now available (and supports Blazor).
 * [Building Blazor “Hello, Blinky” IoT application](https://gunnarpeipman.com/blazor-hello-blinky-iot/) - November 3, 2019 - Building Blazor “Hello, Blinky” IoT application.
