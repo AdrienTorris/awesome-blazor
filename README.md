@@ -157,6 +157,7 @@ Note: the Blazor Visual Studio extension is no longer required since .NET Core 3
 * [EncFS over Google Drive](https://encfs-gdrive.github.io) - Online tool written in Blazor for encrypt/decrypt files in Google Drive.
 * [BlazorPoint](https://github.com/smjltd/BlazorPoint) - Sample App to help you get started with hosting Blazor on SharePoint Pages, Completely Client Side. 
 * [Return](https://github.com/Sebazzz/Return) - Realtime retrospective tool built in ASP.NET Core and Blazor.
+* [Blazor Tour of Heroes](https://github.com/georgemathieson/blazor-tour-of-heroes) - Blazor Tour of Heroes, using [Blazor-State](https://github.com/TimeWarpEngineering/blazor-state)(State Management architecture utilizing the MediatR pipeline) for the Redux style state.
 
 ## Tutorials
 * [Blazor workshop](https://github.com/dotnet-presentations/blazor-workshop/) - ![GitHub stars](https://img.shields.io/github/stars/dotnet-presentations/blazor-workshop?style=flat-square&cacheSeconds=604800) Blazor app building workshop by [.NET Foundation](https://www.dotnetfoundation.org/), Blazzing Pizza.
