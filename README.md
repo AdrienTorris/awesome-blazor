@@ -257,6 +257,7 @@ Note: the Blazor Visual Studio extension is no longer required since .NET Core 3
 * [Blazor BarCode](https://barcoderesource.com/blazorbarcode.shtml) &ndash; A barcode library for Blazor using barcode fonts.
 * [BlazorState.Redux](https://github.com/BerserkerDotNet/BlazorState.Redux) - Develop Blazor apps with Redux.
 * [BlazorLeaflet](https://github.com/Mehigh17/BlazorLeaflet) - BlazorLeaflet is a wrapper offering easy-to-use Blazor components that expose the Leaflet API in C#.
+* [Simple logging server](https://github.com/shawty/simpleloggingserver) - An ultra simple remote log message server written in Blazor and .NET Core 3.
 ### Others
 * [Blazor Extensions Home](https://github.com/BlazorExtensions/Home) - ![GitHub stars](https://img.shields.io/github/stars/BlazorExtensions/Home?style=flat-square&cacheSeconds=604800) Home for Blazor Extensions.
 * [Bolero](https://github.com/fsbolero/Bolero) - ![GitHub stars](https://img.shields.io/github/stars/fsbolero/Bolero?style=flat-square&cacheSeconds=604800) Blazor for F# with hot reloaded templates, type-safe endpoints and routing, remoting, and much more.
