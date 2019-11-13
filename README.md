@@ -62,6 +62,7 @@ Note: the Blazor Visual Studio extension is no longer required since .NET Core 3
 * [Blazor.JWTTest](https://github.com/shawty/blazor.jwttest) - ![GitHub stars](https://img.shields.io/github/stars/shawty/blazor.jwttest?style=flat-square&cacheSeconds=604800) ![GitHub stars](https://img.shields.io/github/last-commit/shawty/blazor.jwttest?style=flat-square&cacheSeconds=86400) JWT authentication for a Blazor hosted (Client/Server-side) app with API and Authentication.
 * [Blazor.OpenId](https://github.com/jbomhold3/Blazor.Openid) - Easy authentication and client refresh using OpenId.
 * [BlazorAuthenticationSample](https://github.com/christiansparre/BlazorAuthenticationSample) - A sample showing some of the ASP.NET Core Blazor authentication features (also some testing...).
+* [Blazor.Msal](https://github.com/cradle77/Blazor.Msal) - Sample implementation for MSAL in Blazor, it shows how to integrate a Single Page Web Application made in Blazor WebAssembly with Azure Active Directory. It allows to authenticate the user and then acquire an access token to make a secure call to an external API. The code internally uses [MSAL.js](https://docs.microsoft.com/en-us/azure/active-directory/develop/msal-overview) to implement the OpenID Connect and OAuth2 flows.
 ### Cloud
 * [BlazorAzure.WebApp](https://github.com/gpeipman/BlazorDemo/tree/master/BlazorAzure.WebApp) - Blazor Azure web app.
 * [BlazorAzure.Functions](https://github.com/gpeipman/BlazorDemo/tree/master/BlazorAzure.Functions) - Azure function with Blazor.
