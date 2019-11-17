@@ -220,6 +220,7 @@ Note: the Blazor Visual Studio extension is no longer required since .NET Core 3
 * [Blazor.SpinKit](https://github.com/faso/Faso.Blazor.SpinKit) - Blazor components for [SpinKit](https://tobiasahlin.com/spinkit/) spinners.
 * [Blorc.PatternFly](https://github.com/WildGums/Blorc.PatternFly) - Blazor wrappers for [PatternFly](https://www.patternfly.org).
 * [Head Element Helper](https://github.com/jsakamoto/Toolbelt.Blazor.HeadElement) - `<Title>` and `<Meta>` components for changing the document titile and meta elements, with server-side prerendering support for SEO/OGP. ([Demo](https://demo-blazor-headelement.azurewebsites.net/)).
+* [Localized Data Annotations Validator](https://github.com/jsakamoto/Toolbelt.Blazor.LocalizedDataAnnotationsValidator/) - The data annotations validator for Blazor to localize validation error messages. ([Demo](https://demo-blazor-localized-data-annotations-validator.azurewebsites.net/)).
 
 ### Tools & Utilities
 *Libraries and extensions for state management, cookies, local storage and other specific tools.*
