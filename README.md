@@ -48,6 +48,7 @@ Note: the Blazor Visual Studio extension is no longer required since .NET Core 3
 * [Blazor Extensions](https://github.com/BlazorExtensions) - Curated extensions for Microsoft ASP.Net Core Blazor.
 * [Blazor University](http://blazor-university.com/) - Unofficial documentation website.
 * [Demo](https://blazor-demo.github.io/) - Official demo website.
+* [eShopOnBlazor](https://github.com/dotnet-architecture/eShopOnBlazor) - Migration of a traditional ASP.NET Web Forms app to Blazor, sample by Microsoft Architecture.
 * [FAQ](https://github.com/aspnet/Blazor/wiki/FAQ) - FAQ.
 * [GitHub repository](https://github.com/aspnet/Blazor) - ![GitHub stars](https://img.shields.io/github/stars/aspnet/Blazor?style=flat-square&cacheSeconds=604800) The official Blazor repository.
 * ['Hello World' sample](https://github.com/dodyg/practical-aspnetcore/tree/master/projects/blazor) - 'Hello World' sample.
