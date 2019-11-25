@@ -349,6 +349,7 @@ Note: the Blazor Visual Studio extension is no longer required since .NET Core 3
 ## Articles
 * [Creating a rich text editor in Blazor using Quill](http://blazorhelpwebsite.com/Blog/tabid/61/EntryId/4364/Creating-A-Rich-Text-Editor-In-Blazor-Using-Quill.aspx) - November 20, 2019 - Creating a rich text editor in Blazor using Quill.
 * [Introducing the Ignite UI for Blazor Preview](https://www.infragistics.com/community/blogs/b/infragistics/posts/introducing-the-ignite-ui-for-blazor-preview) - November 18, 2019 - Introducing the Ignite UI for Blazor Preview.
+* [Create a Blazor Server SPA with Dapper](https://www.c-sharpcorner.com/article/create-a-blazor-server-spa-with-dapper/) - November 17, 2019 - Create a Blazor Server SPA with Dapper, on C# Corner.
 * [Using IHttpClientFactory with Blazor WebAssembly](https://medium.com/@marcodesanctis2/using-ihttpclientfactory-with-blazor-webassembly-7cc702f5e9f8) - November 13, 2019 - Using IHttpClientFactory with Blazor WebAssembly.
 * [Blazor Write to LocalStorage](https://wellsb.com/csharp/aspnet/blazor-write-to-localstorage/) - November 12, 2019 - Blazor Write to LocalStorage.
 * [What is Blazor? A Tutorial on Building Web Apps with Authentication](https://auth0.com/blog/what-is-blazor-tutorial-on-building-webapp-with-authentication) - November 11, 2019 - Learn how to build client-side Web apps using Blazor and how to secure them with Auth0.
