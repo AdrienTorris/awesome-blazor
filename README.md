@@ -85,6 +85,7 @@ Note: the Blazor Visual Studio extension is no longer required since .NET Core 3
 * [BlazorDice](https://github.com/shahedc/BlazorDemos/tree/master/BlazorDice) - Roll the dice.
 * [BlazorPong](https://github.com/MACEL94/BlazorPong) - Pong in Blazor server side using SignalR Core. [Demo](https://blazorpong-dev-as.azurewebsites.net).
 * [BlazorTictactoe](https://github.com/kodebot/BlazorTicTacToe) - Tic-tac-toe in Blazor WebAssembly. [Demo](https://tic-tac-toe.kodebot.com/).
+* [BlazorSimpleTictactoe](https://github.com/sabitertan/BlazorSimpleTicTacToe) - Simple Tic-Tac-Toe game converted from React Example https://github.com/sabitertan/tic-tac-toe-react-hooks .
 * [DiabloBlazor](https://github.com/n-stefan/diabloblazor) - Blazor port of DiabloWeb, making it a double WebAssembly app: a WebAssembly (C#) PWA hosting a WebAssembly (C++) game. [Demo](https://n-stefan.github.io/diabloblazor).
 * [BlazorConnectFour](https://github.com/exceptionnotfound/BlazorConnectFour) - Classic childhood game ConnectFour in Blazor.
 ### Machine Learning
