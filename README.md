@@ -352,6 +352,7 @@ Note: the Blazor Visual Studio extension is no longer required since .NET Core 3
 * [Deploying your Blazor app using GitHub action](http://blazorhelpwebsite.com/Blog/tabid/61/EntryId/4367/Deploying-Your-Blazor-App-Using-GitHub-Actions.aspx) - November 28, 2019 - Deploying your Blazor app using GitHub actions.
 * [Share data between child and parent components](https://www.c-sharpcorner.com/article/share-data-between-child-and-parent-components-in-blazor/) - November 27, 2019 - Share data between child and parent components in Blazor.
 * [Deploying your Blazor app using Azure pipelines](http://blazorhelpwebsite.com/Blog/tabid/61/EntryId/4366/Deploying-Your-Blazor-App-Using-Azure-Pipelines.aspx) - November 27, 2019 - Deploying your Blazor app using Azure pipelines.
+* [Shared models, Blazor's (not so) secret super power](https://jonhilton.net/blazor-shared-models/) - November 26, 2019 - Shared models, Blazor's (not so) secret super power.
 * [An introduction to Blazor and Web Assembly](https://www.grapecity.com/blogs/intro-to-blazor-and-web-assembly) - November 25, 2019 - An introduction to Blazor and Web Assembly.
 * [Improvements on Error Handling](https://medium.com/@alexandre.malavasi/improvements-on-error-handling-microsoft-blazor-net-core-3-1-6528efd13a9a) - November 23, 2019 - Improvements on Error Handling.
 * [Creating a rich text editor in Blazor using Quill](http://blazorhelpwebsite.com/Blog/tabid/61/EntryId/4364/Creating-A-Rich-Text-Editor-In-Blazor-Using-Quill.aspx) - November 20, 2019 - Creating a rich text editor in Blazor using Quill.
