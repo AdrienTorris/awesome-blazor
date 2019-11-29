@@ -348,6 +348,11 @@ Note: the Blazor Visual Studio extension is no longer required since .NET Core 3
 * [Archives](https://github.com/AdrienTorris/awesome-blazor/tree/master/Archives) - [2019](https://github.com/AdrienTorris/awesome-blazor/blob/master/Archives/2019.md#videos), [2018](https://github.com/AdrienTorris/awesome-blazor/blob/master/Archives/2018.md#videos), [2017](https://github.com/AdrienTorris/awesome-blazor/blob/master/Archives/2017.md#videos).
 
 ## Articles
+* [Where to put your domain logic](https://jonhilton.net/blazor-architecture/) - November 28, 2019 - Where to put your domain logic?
+* [Deploying your Blazor app using GitHub action](http://blazorhelpwebsite.com/Blog/tabid/61/EntryId/4367/Deploying-Your-Blazor-App-Using-GitHub-Actions.aspx) - November 28, 2019 - Deploying your Blazor app using GitHub actions.
+* [Share data between child and parent components](https://www.c-sharpcorner.com/article/share-data-between-child-and-parent-components-in-blazor/) - November 27, 2019 - Share data between child and parent components in Blazor.
+* [Deploying your Blazor app using Azure pipelines](http://blazorhelpwebsite.com/Blog/tabid/61/EntryId/4366/Deploying-Your-Blazor-App-Using-Azure-Pipelines.aspx) - November 27, 2019 - Deploying your Blazor app using Azure pipelines.
+* [An introduction to Blazor and Web Assembly](https://www.grapecity.com/blogs/intro-to-blazor-and-web-assembly) - November 25, 2019 - An introduction to Blazor and Web Assembly.
 * [Improvements on Error Handling](https://medium.com/@alexandre.malavasi/improvements-on-error-handling-microsoft-blazor-net-core-3-1-6528efd13a9a) - November 23, 2019 - Improvements on Error Handling.
 * [Creating a rich text editor in Blazor using Quill](http://blazorhelpwebsite.com/Blog/tabid/61/EntryId/4364/Creating-A-Rich-Text-Editor-In-Blazor-Using-Quill.aspx) - November 20, 2019 - Creating a rich text editor in Blazor using Quill.
 * [Introducing the Ignite UI for Blazor Preview](https://www.infragistics.com/community/blogs/b/infragistics/posts/introducing-the-ignite-ui-for-blazor-preview) - November 18, 2019 - Introducing the Ignite UI for Blazor Preview.
