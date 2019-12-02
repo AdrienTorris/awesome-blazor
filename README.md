@@ -348,6 +348,7 @@ Note: the Blazor Visual Studio extension is no longer required since .NET Core 3
 * [Archives](https://github.com/AdrienTorris/awesome-blazor/tree/master/Archives) - [2019](https://github.com/AdrienTorris/awesome-blazor/blob/master/Archives/2019.md#videos), [2018](https://github.com/AdrienTorris/awesome-blazor/blob/master/Archives/2018.md#videos), [2017](https://github.com/AdrienTorris/awesome-blazor/blob/master/Archives/2017.md#videos).
 
 ## Articles
+* [Implementing Search in Blazor WebAssembly With Lucene.NET](https://www.aaron-powell.com/posts/2019-11-29-implementing-search-in-blazor-webassembly-with-lucenenet/) - November 29, 2019 - Implementing Search in Blazor WebAssembly With Lucene.NET.
 * [Where to put your domain logic](https://jonhilton.net/blazor-architecture/) - November 28, 2019 - Where to put your domain logic?
 * [Deploying your Blazor app using GitHub action](http://blazorhelpwebsite.com/Blog/tabid/61/EntryId/4367/Deploying-Your-Blazor-App-Using-GitHub-Actions.aspx) - November 28, 2019 - Deploying your Blazor app using GitHub actions.
 * [Share data between child and parent components](https://www.c-sharpcorner.com/article/share-data-between-child-and-parent-components-in-blazor/) - November 27, 2019 - Share data between child and parent components in Blazor.
