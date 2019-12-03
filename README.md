@@ -282,6 +282,7 @@ Note: the Blazor Visual Studio extension is no longer required since .NET Core 3
 * [Blazor.AdaptiveCards](https://github.com/mikoskinen/Blazor.AdaptiveCards) - Adaptive Cards for Blazor. [Documentation](https://adaptivecardsblazor.com/).
 
 ## Videos
+* [Blazor Update with Daniel Roth](https://www.youtube.com/watch?v=PaemestFrt0&list=PL1rZQsJPBU2St9-Mz1Kaa7rofciyrwWVx&index=0) - December 3, 2019 - ASP.NET Community Standup - Dec 3rd, 2019 - Blazor Update with Daniel Roth.
 * [Share Blazor Pages and JavaScript across assemblies](https://www.youtube.com/watch?v=HGoPwLu4qDI) - November 17, 2019 - Share Blazor Pages and JavaScript across assemblies.
 * [Blazor Server : Razor Components | Lifecycle Methods](https://www.youtube.com/watch?v=VM4i-_YnGMo) - November 11, 2019 - Lifecycle Methods, Going through the life cycle of page/component in Blazor Apps. [Source code](https://github.com/CuriousDrive/PublicProjects/tree/master/BlazorApp/BlazorApp).
 * [SPA Revolution with WebAssembly and ASP.NET Blazor](https://www.youtube.com/watch?v=kTBW94GcRJY&feature=youtu.be) - October 23, 2019 - Recording of the session by Rainer Stropek at the Tech Days Stockholm 2019, "SPA Revolution with WebAssembly and ASP.NET Blazor" ([Event](https://www.tdswe.se/activity/spa-revolution-with-webassembly-and-asp-net-blazor/)). WebAssembly (WASM) is challenging JavaScript’s monopoly in the browser. Many higher-level languages are currently evaluating whether WASM is a way for them to conquer the web client. .NET is spearheading this movement.
@@ -348,7 +349,9 @@ Note: the Blazor Visual Studio extension is no longer required since .NET Core 3
 * [Archives](https://github.com/AdrienTorris/awesome-blazor/tree/master/Archives) - [2019](https://github.com/AdrienTorris/awesome-blazor/blob/master/Archives/2019.md#videos), [2018](https://github.com/AdrienTorris/awesome-blazor/blob/master/Archives/2018.md#videos), [2017](https://github.com/AdrienTorris/awesome-blazor/blob/master/Archives/2017.md#videos).
 
 ## Articles
+* [Building Custom Input Components for Blazor using InputBase](https://chrissainty.com/building-custom-input-components-for-blazor-using-inputbase/) - December 3, 2019 - Building Custom Input Components for Blazor using InputBase.
 * [Blazor, HttpClientFactory, and Web API](https://wellsb.com/csharp/aspnet/blazor-httpclientfactory-and-web-api) - December 2, 2019 - Create a server-side Blazor application that interacts with an external web API using HttpClientFactory. [Source code](https://github.com/bradwellsb/blazor-contacts/tree/tutorial-part1) ![last commit](https://img.shields.io/github/last-commit/bradwellsb/blazor-contacts?style=flat-square&cacheSeconds=86000).
+* [Hosting a Containerized Client Side Blazor Application On Azure](https://medium.com/@waelkdouh/hosting-containerized-client-side-blazor-applications-on-azure-e090af738619) - December 2, 2019 - Hosting a Containerized Client Side Blazor Application On Azure.
 * [Implementing Search in Blazor WebAssembly With Lucene.NET](https://www.aaron-powell.com/posts/2019-11-29-implementing-search-in-blazor-webassembly-with-lucenenet/) - November 29, 2019 - Implementing Search in Blazor WebAssembly With Lucene.NET.
 * [Where to put your domain logic](https://jonhilton.net/blazor-architecture/) - November 28, 2019 - Where to put your domain logic?
 * [Deploying your Blazor app using GitHub action](http://blazorhelpwebsite.com/Blog/tabid/61/EntryId/4367/Deploying-Your-Blazor-App-Using-GitHub-Actions.aspx) - November 28, 2019 - Deploying your Blazor app using GitHub actions.
