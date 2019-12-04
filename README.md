@@ -349,6 +349,7 @@ Note: the Blazor Visual Studio extension is no longer required since .NET Core 3
 * [Archives](https://github.com/AdrienTorris/awesome-blazor/tree/master/Archives) - [2019](https://github.com/AdrienTorris/awesome-blazor/blob/master/Archives/2019.md#videos), [2018](https://github.com/AdrienTorris/awesome-blazor/blob/master/Archives/2018.md#videos), [2017](https://github.com/AdrienTorris/awesome-blazor/blob/master/Archives/2017.md#videos).
 
 ## Articles
+* [ASP.NET Core updates in .NET Core 3.1](https://devblogs.microsoft.com/aspnet/asp-net-core-updates-in-net-core-3-1/) - December 3, 2019 - ASP.NET Core updates in .NET Core 3.1. 
 * [Building Custom Input Components for Blazor using InputBase](https://chrissainty.com/building-custom-input-components-for-blazor-using-inputbase/) - December 3, 2019 - Building Custom Input Components for Blazor using InputBase.
 * [Blazor, HttpClientFactory, and Web API](https://wellsb.com/csharp/aspnet/blazor-httpclientfactory-and-web-api) - December 2, 2019 - Create a server-side Blazor application that interacts with an external web API using HttpClientFactory. [Source code](https://github.com/bradwellsb/blazor-contacts/tree/tutorial-part1) ![last commit](https://img.shields.io/github/last-commit/bradwellsb/blazor-contacts?style=flat-square&cacheSeconds=86000).
 * [Hosting a Containerized Client Side Blazor Application On Azure](https://medium.com/@waelkdouh/hosting-containerized-client-side-blazor-applications-on-azure-e090af738619) - December 2, 2019 - Hosting a Containerized Client Side Blazor Application On Azure.
