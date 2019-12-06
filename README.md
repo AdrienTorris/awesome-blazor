@@ -283,6 +283,7 @@ Note: the Blazor Visual Studio extension is no longer required since .NET Core 3
 * [Blazor.AdaptiveCards](https://github.com/mikoskinen/Blazor.AdaptiveCards) - Adaptive Cards for Blazor. [Documentation](https://adaptivecardsblazor.com/).
 
 ## Videos
+* [Building Serverless web applications with Blazor and Azure Functions](https://channel9.msdn.com/Shows/On-NET/Blazor-and-Azure-Functions) - December 5, 2019 - Building Serverless web applications with Blazor and Azure Functions, on Channel 9.
 * [Blazor Update with Daniel Roth](https://www.youtube.com/watch?v=PaemestFrt0&list=PL1rZQsJPBU2St9-Mz1Kaa7rofciyrwWVx&index=0) - December 3, 2019 - ASP.NET Community Standup - Dec 3rd, 2019 - Blazor Update with Daniel Roth.
 * [Share Blazor Pages and JavaScript across assemblies](https://www.youtube.com/watch?v=HGoPwLu4qDI) - November 17, 2019 - Share Blazor Pages and JavaScript across assemblies.
 * [Blazor Server : Razor Components | Lifecycle Methods](https://www.youtube.com/watch?v=VM4i-_YnGMo) - November 11, 2019 - Lifecycle Methods, Going through the life cycle of page/component in Blazor Apps. [Source code](https://github.com/CuriousDrive/PublicProjects/tree/master/BlazorApp/BlazorApp).
