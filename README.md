@@ -164,6 +164,7 @@ Note: the Blazor Visual Studio extension is no longer required since .NET Core 3
 * [Return](https://github.com/Sebazzz/Return) - Realtime retrospective tool built in ASP.NET Core and Blazor.
 * [Blazor Tour of Heroes](https://github.com/georgemathieson/blazor-tour-of-heroes) - Blazor Tour of Heroes, using [Blazor-State](https://github.com/TimeWarpEngineering/blazor-state)(State Management architecture utilizing the MediatR pipeline) for the Redux style state.
 * [Blazor.Console](https://github.com/ardacetinkaya/Blazor.Console) - ![last commit](https://img.shields.io/github/last-commit/ardacetinkaya/Blazor.Console?style=flat-square&cacheSeconds=86000) A simple component to mock CLI for ASP.NET Core 3.0 Blazor applications to execute some custom commands for an application.
+* [Cognitive Services Explorer](https://github.com/jernejk/CognitiveServices.Explorer) - ![last commit](https://img.shields.io/github/last-commit/jernejk/CognitiveServices.Explorer?style=flat-square&cacheSeconds=86000) PWA enabled app used to showcase what Cognitive Services can do, built-in client-side Blazor. [Demo](https://jernejk.github.io/CognitiveServices.Explorer/).
 
 ## Tutorials
 * [Blazor workshop](https://github.com/dotnet-presentations/blazor-workshop/) - ![GitHub stars](https://img.shields.io/github/stars/dotnet-presentations/blazor-workshop?style=flat-square&cacheSeconds=604800) Blazor app building workshop by [.NET Foundation](https://www.dotnetfoundation.org/), Blazzing Pizza.
