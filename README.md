@@ -353,6 +353,7 @@ Note: the Blazor Visual Studio extension is no longer required since .NET Core 3
 * [Archives](https://github.com/AdrienTorris/awesome-blazor/tree/master/Archives) - [2019](https://github.com/AdrienTorris/awesome-blazor/blob/master/Archives/2019.md#videos), [2018](https://github.com/AdrienTorris/awesome-blazor/blob/master/Archives/2018.md#videos), [2017](https://github.com/AdrienTorris/awesome-blazor/blob/master/Archives/2017.md#videos).
 
 ## Articles
+* [Use Blazor in your existing ASP.NET Core 3.x application](https://jonhilton.net/use-blazor-in-existing-app/) - December 4, 2019 - Use Blazor in your existing ASP.NET Core 3.x application.
 * [ASP.NET Core updates in .NET Core 3.1](https://devblogs.microsoft.com/aspnet/asp-net-core-updates-in-net-core-3-1/) - December 3, 2019 - ASP.NET Core updates in .NET Core 3.1. 
 * [Building Custom Input Components for Blazor using InputBase](https://chrissainty.com/building-custom-input-components-for-blazor-using-inputbase/) - December 3, 2019 - Building Custom Input Components for Blazor using InputBase.
 * [Localization in Blazor UI](https://www.telerik.com/blogs/localization-in-blazor-ui) - December 3, 2019 - Localization in Blazor UI, by Telerik. [Code sample](https://github.com/telerik/blazor-ui/tree/master/common/localization/) ![last commit](https://img.shields.io/github/last-commit/telerik/blazor-ui?style=flat-square&cacheSeconds=86400).
