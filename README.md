@@ -7,6 +7,9 @@ Blazor is a .NET web framework using C#/Razor and HTML that runs in the browser 
 
 Contributions are always welcome! Please take a look at the [contribution guidelines](https://github.com/AdrienTorris/awesome-blazor/blob/master/CONTRIBUTING.md) pages first. Thanks to all [contributors](https://github.com/AdrienTorris/awesome-blazor/graphs/contributors), you're awesome and wouldn't be possible without you!
 
+## Special event: "Focus on Blazor", January 14, 2020. Save the date!
+[<img src="https://adrientorris.github.io/wwwroot/images/blazor/dotnet-conf-focus-on-blazor.PNG" align="center" width="100%">](https://focus.dotnetconf.net)
+
 ## Contents
 * [Introduction](#introduction)
 * [General](#general)
