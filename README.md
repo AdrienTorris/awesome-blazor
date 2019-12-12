@@ -358,6 +358,9 @@ Note: the Blazor Visual Studio extension is no longer required since .NET Core 3
 * [Archives](https://github.com/AdrienTorris/awesome-blazor/tree/master/Archives) - [2019](https://github.com/AdrienTorris/awesome-blazor/blob/master/Archives/2019.md#videos), [2018](https://github.com/AdrienTorris/awesome-blazor/blob/master/Archives/2018.md#videos), [2017](https://github.com/AdrienTorris/awesome-blazor/blob/master/Archives/2017.md#videos).
 
 ## Articles
+* [Blazor: Chained Binds](https://rolandguijt.com/blazor-chained-binds/) - December 12, 2019 - Blazor: Chained Binds.
+* [Optimising Our Blazor Search App](https://www.aaron-powell.com/posts/2019-12-11-optimising-our-blazor-search-app/) - December 11, 2019 - Optimising Our Blazor Search App.
+* [MSGraph with Blazor](https://www.radzen.com/blog/msgraph-with-blazor/) - December 10, 2019 - [MSGraph](https://docs.microsoft.com/en-us/graph/overview) with Blazor.
 * [Creating Bespoke Input Components for Blazor from Scratch](https://chrissainty.com/creating-bespoke-input-components-for-blazor-from-scratch/) - December 10, 2019 - Creating Bespoke Input Components for Blazor from Scratch.
 * [Modular Monoliths And Composite UIs With .NET Core Razor Class Libraries](https://dev.to/jamesmh/modular-monoliths-and-composite-uis-with-net-core-razor-class-libraries-2394) - December 10, 2019 - Modular Monoliths And Composite UIs With .NET Core Razor Class Libraries. [Code](https://github.com/jamesmh/net-core-modular-monolith-razor-lib).
 * [A Blazor image file manager](http://blazorhelpwebsite.com/Blog/tabid/61/EntryId/4368/A-Blazor-Image-File-Manager.aspx) - December 9, 2019 - A Blazor image file manager.
