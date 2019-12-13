@@ -531,7 +531,8 @@ Note: the Blazor Visual Studio extension is no longer required since .NET Core 3
 * [Archives](https://github.com/AdrienTorris/awesome-blazor/tree/master/Archives) - [2018](https://github.com/AdrienTorris/awesome-blazor/blob/master/Archives/2018.md#e-books).
 
 ## Courses
-* [Blazor: Getting Started](https://www.pluralsight.com/courses/getting-started-blazor) - December, 2019 - Learn how to build your first application in a hands-on way using Blazor, Microsoft's solution to use C# to write interactive web UIs without JavaScript.
+* [Authentication and Authorization in Blazor Applications](https://www.pluralsight.com/courses/authentication-authorization-blazor-applications) - December, 2019 - Learn how to secure your Blazor application using a variety of best practice techniques for authentication and authorization. On Pluralsight.
+* [Blazor: Getting Started](https://www.pluralsight.com/courses/getting-started-blazor) - December, 2019 - Learn how to build your first application in a hands-on way using Blazor, Microsoft's solution to use C# to write interactive web UIs without JavaScript. On Pluralsight.
 * [Blazor and Razor Components in a nutshell](https://www.udemy.com/course/blazor-and-razor-components-in-a-nutshell/) - October 2019 - Learn how to use a framework that allows you to run your compiled code directly in the browser on top of WebAssembly, a course on Udemy.
 * [Blazor on ASP.NET Core 3.0](https://www.skillshare.com/site/join?teacherRef=102575464&t=Blazor-on-ASP.NET-Core-3.0&sku=1662883580) - October 2019 - Blazor on ASP.NET Core 3.0, a course on SkillShare.
 * [Blazor First Look on LinkedIn Learning](https://www.linkedin.com/learning/blazor-first-look) - Blazor First Look on LinkedIn Learning. [Source code](https://github.com/Dedac/Beam) ![GitHub stars](https://img.shields.io/github/stars/Dedac/Beam?style=flat-square&cacheSeconds=604800).
