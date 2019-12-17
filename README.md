@@ -360,6 +360,7 @@ Note: the Blazor Visual Studio extension is no longer required since .NET Core 3
 * [Archives](https://github.com/AdrienTorris/awesome-blazor/tree/master/Archives) - [2019](https://github.com/AdrienTorris/awesome-blazor/blob/master/Archives/2019.md#videos), [2018](https://github.com/AdrienTorris/awesome-blazor/blob/master/Archives/2018.md#videos), [2017](https://github.com/AdrienTorris/awesome-blazor/blob/master/Archives/2017.md#videos).
 
 ## Articles
+* [Getting Started with Blazor: All There is to Know From the Experts](https://www.telerik.com/campaigns/blazor-ui/getting-started-with-blazor-all-there-is-to-know-from-the-experts) - December 13, 2019 A chat with some of the most active members of the Blazor community.
 * [Blazor Consume IdentityServer4 Protected API](https://wellsb.com/csharp/aspnet/blazor-consume-identityserver4-protected-api/) - December 12, 2019 - Blazor Consume IdentityServer4 Protected API. [Source code](https://github.com/bradwellsb/blazor-contacts/tree/tutorial-part2).
 * [Blazor: Chained Binds](https://rolandguijt.com/blazor-chained-binds/) - December 12, 2019 - Blazor: Chained Binds.
 * [Optimising Our Blazor Search App](https://www.aaron-powell.com/posts/2019-12-11-optimising-our-blazor-search-app/) - December 11, 2019 - Optimising Our Blazor Search App.
