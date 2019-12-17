@@ -9,6 +9,7 @@ Contributions are always welcome! Please take a look at the [contribution guidel
 
 ## Special event: "Focus on Blazor", January 14, 2020. Save the date!
 [<img src="https://adrientorris.github.io/wwwroot/images/blazor/dotnet-conf-focus-on-blazor.PNG" align="center" width="100%">](https://focus.dotnetconf.net)
+Speakers and schedule announced! Check out the [agenda](https://focus.dotnetconf.net/Agenda).
 
 ## Contents
 * [Introduction](#introduction)
