@@ -362,6 +362,7 @@ Note: the Blazor Visual Studio extension is no longer required since .NET Core 3
 * [Archives](https://github.com/AdrienTorris/awesome-blazor/tree/master/Archives) - [2019](https://github.com/AdrienTorris/awesome-blazor/blob/master/Archives/2019.md#videos), [2018](https://github.com/AdrienTorris/awesome-blazor/blob/master/Archives/2018.md#videos), [2017](https://github.com/AdrienTorris/awesome-blazor/blob/master/Archives/2017.md#videos).
 
 ## Articles
+* [App Settings in Client-Side Blazor](https://hutchcodes.net/2019/12/blazor-wasm-app-settings/) - December 17, 2019 - Get environment specific app settings into Client Side Blazor.
 * [Introduction to Blazor Component Testing](https://chrissainty.com/introduction-to-blazor-component-testing/) - December 17, 2019 - Introduction to Blazor Component Testing.
 * [Adaptive Cards for Blazor 2.0.0 released with support for .NET Core 3.1](https://mikaelkoskinen.net/post/adaptive-cards-blazor-new-relase-core-31) - December 17, 2019 - Adaptive Cards for Blazor 2.0.0 released with support for .NET Core 3.1.
 * [Getting Started with Blazor: All There is to Know From the Experts](https://www.telerik.com/campaigns/blazor-ui/getting-started-with-blazor-all-there-is-to-know-from-the-experts) - December 13, 2019 - A chat with some of the most active members of the Blazor community.
