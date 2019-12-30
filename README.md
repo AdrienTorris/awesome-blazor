@@ -364,6 +364,7 @@ Note: the Blazor Visual Studio extension is no longer required since .NET Core 3
 
 ## Articles
 * [Creating anchor links in Blazor applications](https://mikaberglund.com/2019/12/28/creating-anchor-links-in-blazor-applications/) - December 28, 2019 - Creating anchor links in Blazor applications.
+* [How Blazor is going to change Web Development](https://www.jeremymorgan.com/blog/blazor/what-is-blazor/) - December 27, 2019 - How Blazor is going to change Web Development.
 * [Blazor and network status](https://www.neptuo.com/blog/2019/12/blazor-network-status/) - December 25, 2019 - Making Blazor reusable component for PWA application that reacts to disconnection from the internet.
 * [App Settings in Client-Side Blazor](https://hutchcodes.net/2019/12/blazor-wasm-app-settings/) - December 17, 2019 - Get environment specific app settings into Client Side Blazor.
 * [Introduction to Blazor Component Testing](https://chrissainty.com/introduction-to-blazor-component-testing/) - December 17, 2019 - Introduction to Blazor Component Testing.
