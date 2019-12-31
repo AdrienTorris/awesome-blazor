@@ -370,6 +370,7 @@ Note: the Blazor Visual Studio extension is no longer required since .NET Core 3
 ## Articles
 * [Blazor easy access token management](https://wellsb.com/csharp/aspnet/blazor-easy-access-token-management/) - December 30, 2019 - Blazor easy access token management.
 * [Hosting Blazor applications on GitHub Pages](https://mikaberglund.com/2019/12/29/hosting-blazor-applications-on-github-pages/) - December 29, 2019 - Hosting Blazor applications on GitHub Pages.
+* [Install a blazor app as globaltool and service](https://blog.delegate.at/2019/12/29/install-a-blazor-app-as-globaltool-and-service.html) - December 29, 2019 - Install a blazor app as globaltool and service.
 * [Creating anchor links in Blazor applications](https://mikaberglund.com/2019/12/28/creating-anchor-links-in-blazor-applications/) - December 28, 2019 - Creating anchor links in Blazor applications.
 * [How Blazor is going to change Web Development](https://www.jeremymorgan.com/blog/blazor/what-is-blazor/) - December 27, 2019 - How Blazor is going to change Web Development.
 * [Blazor and network status](https://www.neptuo.com/blog/2019/12/blazor-network-status/) - December 25, 2019 - Making Blazor reusable component for PWA application that reacts to disconnection from the internet.
