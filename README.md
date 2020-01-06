@@ -236,6 +236,7 @@ Note: the Blazor Visual Studio extension is no longer required since .NET Core 3
 * [Localized Data Annotations Validator](https://github.com/jsakamoto/Toolbelt.Blazor.LocalizedDataAnnotationsValidator/) - The data annotations validator for Blazor to localize validation error messages. ([Demo](https://demo-blazor-localized-data-annotations-validator.azurewebsites.net/)).
 * [BlazorWebFormsComponents](https://github.com/FritzAndFriends/BlazorWebFormsComponents) - A collection of Blazor components that emulate the web forms components of the same name.
 * [BlazorSize](https://github.com/EdCharbeneau/BlazorSize) - BlazorSize is a JavaScript interop library for Blazor that is used to detect the Broswer's current size, change in size, and test media queries.
+* [LiquidTechnologies.Blazor.ModalDialog](https://github.com/LiquidTechnologies/blazor-modal-dialog) - Turns Blazor components into Modal Dialogs, allows values to be returned from the dialogs (var result = await ShowDialogAsync(...)), includes simple MessageBox and data capture dialogs (for Blazor Client & Server).
 
 ### Tools & Utilities
 *Libraries and extensions for state management, cookies, local storage and other specific tools.*
