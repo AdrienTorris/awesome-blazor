@@ -295,6 +295,7 @@ Note: the Blazor Visual Studio extension is no longer required since .NET Core 3
 * [Blazor.AdaptiveCards](https://github.com/mikoskinen/Blazor.AdaptiveCards) - Adaptive Cards for Blazor. [Documentation](https://adaptivecardsblazor.com/).
 
 ## Videos
+* [Create new Blazor CRUD application with Radzen](https://www.youtube.com/watch?v=rTVspBBuAz4) - January 7, 2020 - How to create new Blazor CRUD application from Microsoft SQL Server database using Radzen.
 * [Blazor Tutorial : Handling Exceptions](https://www.youtube.com/watch?v=NGS_Brbxdkk) - December 30, 2019 - Blazor Tutorial : Handling Exceptions.
 * [AutoComplete in Blazor](https://www.youtube.com/watch?v=SswX4KAf1d8) - December 29, 2019 - How to use the [Blazored.Typeahead](https://github.com/Blazored/Typeahead) AutoComplete Combobox in Blazor.
 * [Blazor StateHasChanged](https://www.youtube.com/watch?v=WbLW4c1yIac&feature=youtu.be) - December 19, 2019 - Blazor StateHasChanged: Mixing Razor Pages and Blazor.
