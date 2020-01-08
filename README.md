@@ -297,6 +297,10 @@ Note: the Blazor Visual Studio extension is no longer required since .NET Core 3
 
 ## Videos
 * [Create new Blazor CRUD application with Radzen](https://www.youtube.com/watch?v=rTVspBBuAz4) - January 7, 2020 - How to create new Blazor CRUD application from Microsoft SQL Server database using Radzen.
+* [Blazor Forms with Validation - Part IV](https://www.youtube.com/watch?v=SzlsRdV5z_8) - January 1, 2020 - This video will show you how to include a radio button, checkbox, and select/dropdown in a blazor form.  There are a couple of options when working with the select and this video takes you through them.
+* [Blazor Forms with Validation - Part III](https://www.youtube.com/watch?v=fAwba0bpiSs) - January 1, 2020 - This video shows you how to add validation messages at the field level instead of or in addition to at the form level.
+* [Blazor Forms with Validation - Part II](https://www.youtube.com/watch?v=wFcK_IPlw78) - December 30, 2019 - The [prior video](https://www.youtube.com/watch?v=7AtzojuYKP4) had one minor issue.  Did you catch it?  This video shows you what it is and gives you 2 different ways to address it.
+* [Blazor Forms with Validation - Part I](https://www.youtube.com/watch?v=7AtzojuYKP4) - December 30, 2019 - This video shows you how to use the Editform and Input components to create a form and integrate it with validation.
 * [Blazor Tutorial : Handling Exceptions](https://www.youtube.com/watch?v=NGS_Brbxdkk) - December 30, 2019 - Blazor Tutorial : Handling Exceptions.
 * [AutoComplete in Blazor](https://www.youtube.com/watch?v=SswX4KAf1d8) - December 29, 2019 - How to use the [Blazored.Typeahead](https://github.com/Blazored/Typeahead) AutoComplete Combobox in Blazor.
 * [Blazor StateHasChanged](https://www.youtube.com/watch?v=WbLW4c1yIac&feature=youtu.be) - December 19, 2019 - Blazor StateHasChanged: Mixing Razor Pages and Blazor.
