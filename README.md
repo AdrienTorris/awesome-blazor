@@ -296,6 +296,7 @@ Note: the Blazor Visual Studio extension is no longer required since .NET Core 3
 * [Blazor.AdaptiveCards](https://github.com/mikoskinen/Blazor.AdaptiveCards) - Adaptive Cards for Blazor. [Documentation](https://adaptivecardsblazor.com/).
 
 ## Videos
+* [.NET Conf: Focus on Blazor Teaser](https://channel9.msdn.com/Shows/Visual-Studio-Toolbox/NET-Conf-Focus-on-Blazor-Teaser) - January 9, 2020 - In this episode, Robert is joined by Daniel Roth, who provides a look at the upcoming (Tuesday January 14) .NET Conf: Focus on Blazor. This is a free, one-day livestream event that features speakers from the community and .NET product teams that are working on building web apps with C# and Blazor. He also gives a nice overview of Blazor.
 * [Create new Blazor CRUD application with Radzen](https://www.youtube.com/watch?v=rTVspBBuAz4) - January 7, 2020 - How to create new Blazor CRUD application from Microsoft SQL Server database using Radzen.
 * [Blazor Forms with Validation - Part IV](https://www.youtube.com/watch?v=SzlsRdV5z_8) - January 1, 2020 - This video will show you how to include a radio button, checkbox, and select/dropdown in a blazor form.  There are a couple of options when working with the select and this video takes you through them.
 * [Blazor Forms with Validation - Part III](https://www.youtube.com/watch?v=fAwba0bpiSs) - January 1, 2020 - This video shows you how to add validation messages at the field level instead of or in addition to at the form level.
