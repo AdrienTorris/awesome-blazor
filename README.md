@@ -384,6 +384,7 @@ Note: the Blazor Visual Studio extension is no longer required since .NET Core 3
 * [Archives](https://github.com/AdrienTorris/awesome-blazor/tree/master/Archives) - [2019](https://github.com/AdrienTorris/awesome-blazor/blob/master/Archives/2019.md#videos), [2018](https://github.com/AdrienTorris/awesome-blazor/blob/master/Archives/2018.md#videos), [2017](https://github.com/AdrienTorris/awesome-blazor/blob/master/Archives/2017.md#videos).
 
 ## Articles
+* [Blazor Azure AD B2C Custom URL](https://wellsb.com/csharp/aspnet/blazor-azure-ad-b2c-custom-url/) - January 13, 2020 - Blazor Azure AD B2C Custom URL.
 * [OData API, EF Core, and Blazor](https://wellsb.com/csharp/aspnet/odata-api-ef-core-blazor/) - January 7, 2020 - Learn how to configure an OData API, integrate it with Entity Framework Core, and call the API from a server-side Blazor front-end targeting .NET Core 3.1.
 * [What’s Old is New Again – Web Forms meets Blazor](https://jeffreyfritz.com/2020/01/whats-old-is-new-again-web-forms-meets-blazor/) - January 6, 2020 - What’s Old is New Again – Web Forms meets Blazor.
 * [Re-Using Angular components in a Blazor WebAssembly application using Angular Elements](https://www.thinktecture.com/blazor/integrations/angular-elements-web-components/) - January 2, 2020 - Re-Using Angular components in a Blazor WebAssembly application using Angular Elements - Web Components custom elements, FTW!
