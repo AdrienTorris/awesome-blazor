@@ -238,7 +238,6 @@ Note: the Blazor Visual Studio extension is no longer required since .NET Core 3
 * [BlazorWebFormsComponents](https://github.com/FritzAndFriends/BlazorWebFormsComponents) - A collection of Blazor components that emulate the web forms components of the same name.
 * [BlazorSize](https://github.com/EdCharbeneau/BlazorSize) - BlazorSize is a JavaScript interop library for Blazor that is used to detect the Broswer's current size, change in size, and test media queries.
 * [LiquidTechnologies.Blazor.ModalDialog](https://github.com/LiquidTechnologies/blazor-modal-dialog) - Turns Blazor components into Modal Dialogs, allows values to be returned from the dialogs (var result = await ShowDialogAsync(...)), includes simple MessageBox and data capture dialogs (for Blazor Client & Server).
-
 ### Tools & Utilities
 *Libraries and extensions for state management, cookies, local storage and other specific tools.*
 * [Blazor-Redux](https://github.com/torhovland/blazor-redux) - ![GitHub stars](https://img.shields.io/github/stars/torhovland/blazor-redux?style=flat-square&cacheSeconds=604800) Connecting a Redux state store with Blazor.
@@ -281,7 +280,6 @@ Note: the Blazor Visual Studio extension is no longer required since .NET Core 3
 * [Simple logging server](https://github.com/shawty/simpleloggingserver) - An ultra simple remote log message server written in Blazor and .NET Core 3.
 * [Howler.Blazor](https://github.com/StefH/WebDAV-AudioPlayer/tree/master/src/Howler.Blazor) - A Blazor JSInterop wrapper for Howler.js, an audio library.
 * [DataJuggler.Blazor.FileUpload](https://github.com/DataJuggler/BlazorFileUpload) - Wrapper for Steve Sanderson's BlazorFileInput component.
-
 ### Others
 * [Blazor Extensions Home](https://github.com/BlazorExtensions/Home) - ![GitHub stars](https://img.shields.io/github/stars/BlazorExtensions/Home?style=flat-square&cacheSeconds=604800) Home for Blazor Extensions.
 * [Bolero](https://github.com/fsbolero/Bolero) - ![GitHub stars](https://img.shields.io/github/stars/fsbolero/Bolero?style=flat-square&cacheSeconds=604800) Blazor for F# with hot reloaded templates, type-safe endpoints and routing, remoting, and much more.
