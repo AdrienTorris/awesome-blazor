@@ -13,6 +13,7 @@ Contributions are always welcome! Please take a look at the [contribution guidel
 * Speakers and schedule announced! Check out the [agenda](https://focus.dotnetconf.net/Agenda). [Teaser here! (Video)](https://channel9.msdn.com/Shows/Visual-Studio-Toolbox/NET-Conf-Focus-on-Blazor-Teaser).
 * [Source code](https://github.com/danroth27/BestForYouRecipes) of the Dan Roth's demo (Best For You recipes).
 * Find all the videos of the sessions on [Channel 9](https://channel9.msdn.com/Events/dotnetConf/Focus-on-Blazor).
+* [Twitter's newsfeed](https://twitter.com/hashtag/dotNETConf?f=live).
 
 ## Contents
 * [Introduction](#introduction)
