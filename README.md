@@ -10,6 +10,7 @@ Contributions are always welcome! Please take a look at the [contribution guidel
 ## Special event: "Focus on Blazor", January 14, 2020. Save the date!
 [<img src="https://adrientorris.github.io/wwwroot/images/blazor/dotnet-conf-focus-on-blazor.PNG" align="center" width="100%">](https://focus.dotnetconf.net)
 Speakers and schedule announced! Check out the [agenda](https://focus.dotnetconf.net/Agenda). [Teaser here! (Video)](https://channel9.msdn.com/Shows/Visual-Studio-Toolbox/NET-Conf-Focus-on-Blazor-Teaser).
+[Source code](https://github.com/danroth27/BestForYouRecipes) of the Dan Roth's demo (Best For You recipes).
 
 ## Contents
 * [Introduction](#introduction)
