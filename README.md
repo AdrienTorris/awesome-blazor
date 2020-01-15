@@ -409,6 +409,7 @@ Note: the Blazor Visual Studio extension is no longer required since .NET Core 3
 * [Archives](https://github.com/AdrienTorris/awesome-blazor/tree/master/Archives) - [2019](https://github.com/AdrienTorris/awesome-blazor/blob/master/Archives/2019.md#videos), [2018](https://github.com/AdrienTorris/awesome-blazor/blob/master/Archives/2018.md#videos), [2017](https://github.com/AdrienTorris/awesome-blazor/blob/master/Archives/2017.md#videos).
 
 ## Articles
+* [Announcements from .NET Conf: Focus on Blazor](https://gunnarpeipman.com/focus-on-blazor-announcements/) - January 15, 2019 - Announcements from .NET Conf: Focus on Blazor.
 * [Announcing Experimental Mobile Blazor Bindings](https://devblogs.microsoft.com/aspnet/mobile-blazor-bindings-experiment/) - January 14, 2020 - Announcing Experimental Mobile Blazor Bindings.
 * [Blazor Azure AD B2C Custom URL](https://wellsb.com/csharp/aspnet/blazor-azure-ad-b2c-custom-url/) - January 13, 2020 - Blazor Azure AD B2C Custom URL.
 * [OData API, EF Core, and Blazor](https://wellsb.com/csharp/aspnet/odata-api-ef-core-blazor/) - January 7, 2020 - Learn how to configure an OData API, integrate it with Entity Framework Core, and call the API from a server-side Blazor front-end targeting .NET Core 3.1.
