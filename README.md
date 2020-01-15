@@ -7,13 +7,9 @@ Blazor is a .NET web framework using C#/Razor and HTML that runs in the browser 
 
 Contributions are always welcome! Please take a look at the [contribution guidelines](https://github.com/AdrienTorris/awesome-blazor/blob/master/CONTRIBUTING.md) pages first. Thanks to all [contributors](https://github.com/AdrienTorris/awesome-blazor/graphs/contributors), you're awesome and wouldn't be possible without you!
 
-## Special event: "Focus on Blazor". IT'S LIVE NOW!
+## Special event: "Focus on Blazor". [OVER]
 [<img src="https://adrientorris.github.io/wwwroot/images/blazor/dotnet-conf-focus-on-blazor.PNG" align="center" width="100%">](https://focus.dotnetconf.net)
-* .NET Conf: Focus on Blazor is a free, one-day livestream event that features speakers from the community and .NET product teams that are working on building web apps with C# and Blazor. You don't need to use JavaScript anymore with Blazor technology! Blazor lets you build interactive web UIs using C# instead of JavaScript.
-* Speakers and schedule announced! Check out the [agenda](https://focus.dotnetconf.net/Agenda). [Teaser here! (Video)](https://channel9.msdn.com/Shows/Visual-Studio-Toolbox/NET-Conf-Focus-on-Blazor-Teaser).
-* [Source code](https://github.com/danroth27/BestForYouRecipes) of the Dan Roth's demo (Best For You recipes).
-* Find all the videos of the sessions on [Channel 9](https://channel9.msdn.com/Events/dotnetConf/Focus-on-Blazor).
-* [Twitter's newsfeed](https://twitter.com/hashtag/dotNETConf?f=live).
+* If you missed it, you can find all the videos of the sessions on [Channel 9](https://channel9.msdn.com/Events/dotnetConf/Focus-on-Blazor).
 
 ## Contents
 * [Introduction](#introduction)
