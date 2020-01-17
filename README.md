@@ -408,6 +408,7 @@ Note: the Blazor Visual Studio extension is no longer required since .NET Core 3
 * [Archives](https://github.com/AdrienTorris/awesome-blazor/tree/master/Archives) - [2019](https://github.com/AdrienTorris/awesome-blazor/blob/master/Archives/2019.md#videos), [2018](https://github.com/AdrienTorris/awesome-blazor/blob/master/Archives/2018.md#videos), [2017](https://github.com/AdrienTorris/awesome-blazor/blob/master/Archives/2017.md#videos).
 
 ## Articles
+* [Should I Peek Blazor?](https://remibou.github.io/Should-I-peek-Blazor/) - January 16, 2020 - Should I Peek Blazor?
 * [Using gRPC-Web with Blazor WebAssembly](https://blog.stevensanderson.com/2020/01/15/2020-01-15-grpc-web-in-blazor-webassembly/) - January 15, 2020 - gRPC-Web is a convenient, high-performance alternative to JSON-over-HTTP for single-page applications, by Steve Sanderson.
 * [Announcements from .NET Conf: Focus on Blazor](https://gunnarpeipman.com/focus-on-blazor-announcements/) - January 15, 2019 - Announcements from .NET Conf: Focus on Blazor.
 * [Announcing Experimental Mobile Blazor Bindings](https://devblogs.microsoft.com/aspnet/mobile-blazor-bindings-experiment/) - January 14, 2020 - Announcing Experimental Mobile Blazor Bindings.
