@@ -582,6 +582,7 @@ Note: the Blazor Visual Studio extension is no longer required since .NET Core 3
 * [Archives](https://github.com/AdrienTorris/awesome-blazor/tree/master/Archives) - [2018](https://github.com/AdrienTorris/awesome-blazor/blob/master/Archives/2018.md#podcasts), [2017](https://github.com/AdrienTorris/awesome-blazor/blob/master/Archives/2017.md#podcasts).
 
 ## Presentations slides
+* [Authoring custom components - .NET Conf "Focus on Blazor"](https://github.com/EdCharbeneau/DotnetConfBlazor) - January 14, 2020 - Slides and demo of the presentation by Ed Charbeneau at the .NET Conf "Focus on Blazor".
 * [Routing A-Z - .NET Conf "Focus on Blazor"](https://github.com/chrissainty/Talks-DotNetConf-01-2020) - January 14, 2020 - Slides and demo of the presentation by Chris Sainty at the .NET Conf "Focus on Blazor" about routing.
 * [Blazor, a new framework for browser-based .NET apps](https://github.com/SteveSandersonMS/presentation-2019-06-NDCOslo) - ![GitHub stars](https://img.shields.io/github/stars/SteveSandersonMS/presentation-2019-06-NDCOslo?style=flat-square&cacheSeconds=604800) June 20, 2019 - Blazor, a new framework for browser-based .NET apps, by Steve Sanderson at the NDC Oslo.
 * [Hidden gems in ASP.Core and .NET Core 3.0](https://speakerdeck.com/davidfowl/hidden-gems-in-asp-dot-core-and-net-core-3-dot-0) - June 19, 2019 - Hidden gems in ASP.Core and .NET Core 3.0, by David Fowler and Damian Edwards at the NDC Oslo.
