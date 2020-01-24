@@ -616,6 +616,7 @@ Note: the Blazor Visual Studio extension is no longer required since .NET Core 3
 * [Archives](https://github.com/AdrienTorris/awesome-blazor/tree/master/Archives) - [2018](https://github.com/AdrienTorris/awesome-blazor/blob/master/Archives/2018.md#e-books).
 
 ## Courses
+* [Programming in Blazor - ASP.NET Core 3.1](https://www.udemy.com/course/programming-in-blazor-aspnet-core) - Create interactive web applications with C#, on Udemy.
 * [Creating Blazor Components](https://www.pluralsight.com/courses/creating-blazor-components) - December, 2019 - Building a Blazor app is building components. This course is essential for gaining a good understanding of components. On Pluralsight.
 * [Authentication and Authorization in Blazor Applications](https://www.pluralsight.com/courses/authentication-authorization-blazor-applications) - December, 2019 - Learn how to secure your Blazor application using a variety of best practice techniques for authentication and authorization. On Pluralsight.
 * [Blazor: Getting Started](https://www.pluralsight.com/courses/getting-started-blazor) - December, 2019 - Learn how to build your first application in a hands-on way using Blazor, Microsoft's solution to use C# to write interactive web UIs without JavaScript. On Pluralsight.
