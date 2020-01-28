@@ -176,6 +176,7 @@ Note: the Blazor Visual Studio extension is no longer required since .NET Core 3
 * [Cognitive Services Explorer](https://github.com/jernejk/CognitiveServices.Explorer) - ![last commit](https://img.shields.io/github/last-commit/jernejk/CognitiveServices.Explorer?style=flat-square&cacheSeconds=86000) PWA enabled app used to showcase what Cognitive Services can do, built-in client-side Blazor. [Demo](https://jernejk.github.io/CognitiveServices.Explorer/).
 * [Blazor Wake-on-LAN](https://github.com/georg-jung/BlazorWoL) - ![Last commit](https://img.shields.io/github/last-commit/georg-jung/BlazorWoL?style=flat-square&cacheSeconds=86000) Wake-on-LAN app for local networks. Blazor Server + EF Core + DI + CI.
 * [BlazorOCR](https://github.com/daltskin/BlazorOCR) - ![Last commit](https://img.shields.io/github/last-commit/daltskin/BlazorOCR?style=flat-square&cacheSeconds=86000) A Blazor WebAssembly application for reading receipts.
+* [Dcidr](https://github.com/timplourde/dcidr-blazor) - Blazor WebAssembly decision-making app with PWA (offline), localstorage, and Excel export. [Demo](https://dcidr.z20.web.core.windows.net/).
 
 ## Tutorials
 * [Blazor workshop](https://github.com/dotnet-presentations/blazor-workshop/) - ![GitHub stars](https://img.shields.io/github/stars/dotnet-presentations/blazor-workshop?style=flat-square&cacheSeconds=604800) Blazor app building workshop by [.NET Foundation](https://www.dotnetfoundation.org/), Blazzing Pizza.
