@@ -410,6 +410,7 @@ Note: the Blazor Visual Studio extension is no longer required since .NET Core 3
 
 
 ## Articles
+* [Blazor by Example - Build a simple markdown editor](https://jonhilton.net/blazor-markdown-editor/) - January 27, 2020 - Blazor by Example - Build a simple markdown editor.
 * [Getting Started with Blazor Server Apps in Visual Studio for Mac](https://devblogs.microsoft.com/visualstudio/getting-started-with-blazor-server-apps-in-visual-studio-for-mac/) - January 22, 2020 - Getting Started with Blazor Server Apps in Visual Studio for Mac.
 * [Blazor's Future: gRPC Is Key](https://visualstudiomagazine.com/articles/2020/01/17/blazor-future.aspx) - January 21, 2020 - Blazor's Future: gRPC Is Key, by the Visual Studio Magazine.
 * [Embedding Power BI in Blazor](http://blazorhelpwebsite.com/Blog/tabid/61/EntryId/4373/Embedding-Power-BI-in-Blazor.aspx) - January 21, 2020 - You can embed Power BI reports into a Server Side Blazor Application. This method allows you to display a Power BI report without requiring the user to have a Power BI account.
