@@ -410,6 +410,7 @@ Note: the Blazor Visual Studio extension is no longer required since .NET Core 3
 
 
 ## Articles
+* [Exploring WebWindow examples for Blazor on desktop](https://gunnarpeipman.com/blazor-on-desktop-webwindow-experiment) - January 29, 2020 - Exploring WebWindow examples for Blazor on desktop.
 * [Test Your Jsinterop Code With Cypress](https://remibou.github.io/Test-your-JSInterop-code-with-cypress/) - January 29, 2020 - Test your JSInterop code with cypress.io.
 * [Blazor WebAssembly 3.2.0 Preview 1 release now available](https://devblogs.microsoft.com/aspnet/blazor-webassembly-3-2-0-preview-1-release-now-available/) - January 28, 2020 - Blazor WebAssembly 3.2.0 Preview 1 release now available.
 * [Blazor by Example - Build a simple markdown editor](https://jonhilton.net/blazor-markdown-editor/) - January 27, 2020 - Blazor by Example - Build a simple markdown editor.
