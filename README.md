@@ -98,6 +98,7 @@ Note: the Blazor Visual Studio extension is no longer required since .NET Core 3
 * [Baseball Machine Learning Workbench](https://github.com/bartczernicki/MachineLearning-BaseballPrediction-BlazorApp) - ![last-commit](https://img.shields.io/github/last-commit/bartczernicki/MachineLearning-BaseballPrediction-BlazorApp?style=flat-square&cacheSeconds=86000) A web application that showcases performing what-if analysis using in-memory Machine Learning models. [Live demo](https://baseballmlworkbench-v1.azurewebsites.net).
 ### Mobile
 * [Mobile Blazor Bindings](https://aka.ms/mobileblazorbindings) - Experimental Mobile Blazor Bindings - Build native mobile apps with Blazor.
+* [Android Application Example](https://play.google.com/store/apps/details?id=ru.voiplab.theverbs) - Experimental Mobile Blazor Application for studing phrasal verbs.
 ### ToDos
 * [BlazorTasks](https://github.com/BorowskiKamil/blazor-tasks) - ![GitHub stars](https://img.shields.io/github/stars/BorowskiKamil/blazor-tasks?style=flat-square&cacheSeconds=604800) ![GitHub stars](https://img.shields.io/github/last-commit/BorowskiKamil/blazor-tasks?style=flat-square&cacheSeconds=86000) To-Do App.
 * [Bolero.TodoMVC](https://github.com/fsbolero/TodoMVC) - ![GitHub stars](https://img.shields.io/github/stars/fsbolero/TodoMVC?style=flat-square&cacheSeconds=604800) ![GitHub stars](https://img.shields.io/github/last-commit/fsbolero/TodoMVC?style=flat-square&cacheSeconds=86000) A TodoMVC clone using Bolero.
