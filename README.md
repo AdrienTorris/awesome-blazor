@@ -338,6 +338,7 @@ Note: the Blazor Visual Studio extension is no longer required since .NET Core 3
 * [From console app to blazor app in about 20 minutes](https://www.youtube.com/watch?v=QvpQQiDrxn4) - December 14, 2019 - Shows you how to create a Blazor Application from a Console Application using Visual Studio 2019 and .Net Core 3.1.
 * [Visual Studio 2019 & .Net Core 3.1 SDK Install](https://www.youtube.com/watch?v=8ZWs_g2aR9g) - December 13, 2019 - Install and verify Visual Studio 2019 and .Net Core 3.1 SDK.
 * [Blazor StateHasChanged](https://www.youtube.com/watch?v=sxJG1J-H8TQ&feature=youtu.be) - December 9, 2019 - Blazor StateHasChanged: Hot take on hot questions from the community.
+* [Blazor for Web Forms Developers - Components to make migration easier](https://www.youtube.com/watch?v=6iy316pdRXg) - December 5, 2019 - Blazor for Web Forms Developers - Components to make migration easier.
 * [Building Serverless web applications with Blazor and Azure Functions](https://channel9.msdn.com/Shows/On-NET/Blazor-and-Azure-Functions) - December 5, 2019 - Building Serverless web applications with Blazor and Azure Functions, on Channel 9.
 * [Blazor Update with Daniel Roth](https://www.youtube.com/watch?v=PaemestFrt0&list=PL1rZQsJPBU2St9-Mz1Kaa7rofciyrwWVx&index=0) - December 3, 2019 - ASP.NET Community Standup - Dec 3rd, 2019 - Blazor Update with Daniel Roth.
 * [Blazor Tutorial : Authentication | Out of the box](https://www.youtube.com/watch?v=StjyKhy9e7M) - December 3, 2019 - Blazor Tutorial : Authentication | Out of the box.
