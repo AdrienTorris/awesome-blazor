@@ -412,6 +412,7 @@ Note: the Blazor Visual Studio extension is no longer required since .NET Core 3
 
 
 ## Articles
+* [Reuse Blazor WASM UI in Blazor Server](http://www.appvnext.com/blog/2020/2/2/reuse-blazor-wasm-ui-in-blazor-server) - February 2, 2020 - Reuse Blazor WASM UI in Blazor Server using a technique showed by Steve Sanderson at the NDC London.
 * [Building experimental hybrid Blazor WebAssembly application](https://gunnarpeipman.com/blazor-hybrid-application-experimental/) - January 30, 2020 - Building experimental hybrid Blazor WebAssembly application, by Gunnar Peipman.
 * [Exploring WebWindow examples for Blazor on desktop](https://gunnarpeipman.com/blazor-on-desktop-webwindow-experiment) - January 29, 2020 - Exploring WebWindow examples for Blazor on desktop.
 * [Test Your Jsinterop Code With Cypress](https://remibou.github.io/Test-your-JSInterop-code-with-cypress/) - January 29, 2020 - Test your JSInterop code with cypress.io.
