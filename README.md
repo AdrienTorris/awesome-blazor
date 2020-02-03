@@ -412,6 +412,7 @@ Note: the Blazor Visual Studio extension is no longer required since .NET Core 3
 
 
 ## Articles
+* [Blazor WebAssembly, Monaco and Antlr – Building the AutoStep Editor as a Blazor App](https://alistairevans.co.uk/2020/02/03/blazor-webassembly-monaco-and-antlr-building-the-autostep-editor-as-a-blazor-app/) - February 3, 2020 - Blazor WebAssembly, Monaco and Antlr – Building the AutoStep Editor as a Blazor App.
 * [Reuse Blazor WASM UI in Blazor Server](http://www.appvnext.com/blog/2020/2/2/reuse-blazor-wasm-ui-in-blazor-server) - February 2, 2020 - Reuse Blazor WASM UI in Blazor Server using a technique showed by Steve Sanderson at the NDC London.
 * [Building experimental hybrid Blazor WebAssembly application](https://gunnarpeipman.com/blazor-hybrid-application-experimental/) - January 30, 2020 - Building experimental hybrid Blazor WebAssembly application, by Gunnar Peipman.
 * [Telerik UI for Blazor 2.7.0](https://www.telerik.com/blogs/telerik-ui-for-blazor-270-multiselect-grid-webassembly-more) - January 30, 2020 - Telerik UI for Blazor 2.7.0 - MultiSelect, New Grid Features, WebAssembly Support and More.
