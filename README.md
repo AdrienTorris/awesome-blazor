@@ -415,6 +415,7 @@ Note: the Blazor Visual Studio extension is no longer required since .NET Core 3
 * [Reuse Blazor WASM UI in Blazor Server](http://www.appvnext.com/blog/2020/2/2/reuse-blazor-wasm-ui-in-blazor-server) - February 2, 2020 - Reuse Blazor WASM UI in Blazor Server using a technique showed by Steve Sanderson at the NDC London.
 * [Building experimental hybrid Blazor WebAssembly application](https://gunnarpeipman.com/blazor-hybrid-application-experimental/) - January 30, 2020 - Building experimental hybrid Blazor WebAssembly application, by Gunnar Peipman.
 * [Telerik UI for Blazor 2.7.0](https://www.telerik.com/blogs/telerik-ui-for-blazor-270-multiselect-grid-webassembly-more) - January 30, 2020 - Telerik UI for Blazor 2.7.0 - MultiSelect, New Grid Features, WebAssembly Support and More.
+* [Microsoft Blazor to become mainstream in 2020](https://jaxenter.com/blazor-2020-167525.html) - January 29, 2020 - Microsoft Blazor to become mainstream in 2020.
 * [Exploring WebWindow examples for Blazor on desktop](https://gunnarpeipman.com/blazor-on-desktop-webwindow-experiment) - January 29, 2020 - Exploring WebWindow examples for Blazor on desktop.
 * [Test Your Jsinterop Code With Cypress](https://remibou.github.io/Test-your-JSInterop-code-with-cypress/) - January 29, 2020 - Test your JSInterop code with cypress.io.
 * [Blazor WebAssembly 3.2.0 Preview 1 release now available](https://devblogs.microsoft.com/aspnet/blazor-webassembly-3-2-0-preview-1-release-now-available/) - January 28, 2020 - Blazor WebAssembly 3.2.0 Preview 1 release now available.
