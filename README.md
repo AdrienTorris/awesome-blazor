@@ -306,7 +306,8 @@ Note: the Blazor Visual Studio extension is no longer required since .NET Core 3
 * [Blazor.AdaptiveCards](https://github.com/mikoskinen/Blazor.AdaptiveCards) - Adaptive Cards for Blazor. [Documentation](https://adaptivecardsblazor.com/).
 
 ## Videos
-* [Blazor Tutorial : Register User & Generate JWT](https://www.youtube.com/watch?v=kGbdWtxFhRI) - February 5, 2020 - Blazor Tutorial : Register User & Generate JWT.
+* [Blazor Tutorial: Role-based Authorization](https://www.youtube.com/watch?v=rk5uIA6s574&feature=youtu.be) - February 7, 2020 - Blazor Tutorial: Role-based Authorization. [Source code](https://github.com/CuriousDrive/BookStores).
+* [Blazor Tutorial: Register User & Generate JWT](https://www.youtube.com/watch?v=kGbdWtxFhRI) - February 5, 2020 - Blazor Tutorial : Register User & Generate JWT.
 * [How to use BlazorStyled with Blazor to dynamically change CSS](https://youtu.be/frtetHgfdIo) - January 22, 2029 - I show how to install BlazorStyled for SSB and how I built a ProgressBar and Sprite Component to do simple animaitons.
 * [Blazor Tutorial : HttpClient | Login User](https://www.youtube.com/watch?v=X6cBnOhaYhk&feature=youtu.be) - January 21, 2020 - This video covers how we can use HttpClient in your Blazor app to make API calls to login user into the system. [Source code](https://github.com/CuriousDrive/BlazorApp).
 * [Microsoft, Google and Cookie Authentication and Authorization](https://www.youtube.com/watch?v=v2OsI7qJdoc) - January 15, 2020 - This video by Microsoft covers how you can use authentication and authorization within your Blazor application.
