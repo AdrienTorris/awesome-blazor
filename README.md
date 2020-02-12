@@ -415,6 +415,8 @@ Note: the Blazor Visual Studio extension is no longer required since .NET Core 3
 
 
 ## Articles
+* [Tinkering with client-side Blazor and the AWS SDK for .NET](https://matteo.tech.blog/2020/02/11/tinkering-with-client-side-blazor-and-the-aws-sdk-for-net/amp/) - February 11, 2020 - Tinkering with client-side Blazor and the AWS SDK for .NET.
+* [Why Blazor, via WebAssembly, is the future](https://www.linkedin.com/pulse/why-blazor-via-webassembly-future-akash-limbani/) - February 11, 2020 - Why Blazor, via WebAssembly, is the future.
 * [Announcing Experimental Mobile Blazor Bindings February update](https://devblogs.microsoft.com/aspnet/mobile-blazor-bindings-feb-2020-update/) - February 10, 2020 - Announcing Experimental Mobile Blazor Bindings February update.
 * [Multi-Language Translator Using Blazor And Azure Cognitive Services](https://ankitsharmablogs.com/multi-language-translator-using-blazor-and-azure-cognitive-services/) - February 10, 2020 - Multi-Language Translator Using Blazor And Azure Cognitive Services.
 * [Mobile Blazor Bindings – Getting Started + Why You Should Care](https://www.dylanberry.com/2020/02/05/mobile-blazor-bindings-getting-started-why-you-should-care/) - February 5, 2020 - Mobile Blazor Bindings – Getting Started + Why You Should Care.
