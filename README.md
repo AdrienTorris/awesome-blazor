@@ -416,6 +416,7 @@ Note: the Blazor Visual Studio extension is no longer required since .NET Core 3
 
 
 ## Articles
+* [Profiling in Blazor](https://remibou.github.io/Profiling-in-Blazor/) - February 12, 2020 - How to profile a production Blazor client-side app?
 * [Microsoft Blazor Enables Native App Development in C# and .NET](https://www.semaphore-software.com/blog/microsoft-blazor-enables-native-app-development-in-c-and-net/) - February 12, 2020 - Microsoft Blazor Enables Native App Development in C# and .NET.
 * [Tinkering with client-side Blazor and the AWS SDK for .NET](https://matteo.tech.blog/2020/02/11/tinkering-with-client-side-blazor-and-the-aws-sdk-for-net/amp/) - February 11, 2020 - Tinkering with client-side Blazor and the AWS SDK for .NET.
 * [Why Blazor, via WebAssembly, is the future](https://www.linkedin.com/pulse/why-blazor-via-webassembly-future-akash-limbani/) - February 11, 2020 - Why Blazor, via WebAssembly, is the future.
