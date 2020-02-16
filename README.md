@@ -100,7 +100,8 @@ Note: the Blazor Visual Studio extension is no longer required since .NET Core 3
 ### Mobile
 * [Mobile Blazor Bindings](https://aka.ms/mobileblazorbindings) - Experimental Mobile Blazor Bindings - Build native mobile apps with Blazor.
 ### ToDos
-* [BlazorTasks](https://github.com/BorowskiKamil/blazor-tasks) - ![GitHub stars](https://img.shields.io/github/stars/BorowskiKamil/blazor-tasks?style=flat-square&cacheSeconds=604800) ![GitHub stars](https://img.shields.io/github/last-commit/BorowskiKamil/blazor-tasks?style=flat-square&cacheSeconds=86000) To-Do App.
+* [Minimal ToDo by David Fowler](https://github.com/davidfowl/Todos/tree/davidfowl/todo-blazor/TodoBlazor) - ![stars](https://img.shields.io/github/stars/davidfowl/Todos?style=flat-square&cacheSeconds=604800) ![last commit](https://img.shields.io/github/last-commit/davidfowl/Todos?style=flat-square&cacheSeconds=86000) Minimal ToDo backend API implementation by David Fowler from Microsoft.
+* [BlazorTasks](https://github.com/BorowskiKamil/blazor-tasks) - ![stars](https://img.shields.io/github/stars/BorowskiKamil/blazor-tasks?style=flat-square&cacheSeconds=604800) ![last commit](https://img.shields.io/github/last-commit/BorowskiKamil/blazor-tasks?style=flat-square&cacheSeconds=86000) To-Do App.
 * [Bolero.TodoMVC](https://github.com/fsbolero/TodoMVC) - ![GitHub stars](https://img.shields.io/github/stars/fsbolero/TodoMVC?style=flat-square&cacheSeconds=604800) ![GitHub stars](https://img.shields.io/github/last-commit/fsbolero/TodoMVC?style=flat-square&cacheSeconds=86000) A TodoMVC clone using Bolero.
 * [BlazorAdvancedTodo](https://github.com/EdCharbeneau/BlazorAdvancedTodo) - A Blazor to-do app with state and undo function.
 ### Others
