@@ -420,6 +420,7 @@ Note: the Blazor Visual Studio extension is no longer required since .NET Core 3
 
 
 ## Articles
+* [Building an Application with Blazorade Bootstrap, Part 3](https://mikaberglund.com/2020/02/17/building-an-application-with-blazorade-bootstrap-part-3/) - February 17, 2020 - Building an Application with Blazorade Bootstrap, Part 3. [Source code](https://mikaberglund.github.io/Blazor-Bootstrap-Demo/).
 * [Blazor WebAssembly Rest Client](https://christianfindlay.com/2020/02/14/blazor-webassembly-rest-client/) - February 14, 2020 - This article focuses on client-side rendering and explains how to use [RestClient.Net](https://github.com/MelbourneDeveloper/RestClient.Net) to make calls to a RESTful API. [Source code](https://github.com/MelbourneDeveloper/RestClient.Net/tree/master/RestClient.Net.Samples.Blazor).
 * [Mono: From Xamarin to WebAssembly, Blazor, and .NET 5 - Q&A with Miguel de Icaza](https://www.infoq.com/articles/mono-xamarin-webassembly-net5/) - February 13, 2020 - Mono: From Xamarin to WebAssembly, Blazor, and .NET 5 - Q&A with Miguel de Icaza.
 * [Profiling in Blazor](https://remibou.github.io/Profiling-in-Blazor/) - February 12, 2020 - How to profile a production Blazor client-side app?
