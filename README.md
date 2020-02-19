@@ -309,6 +309,7 @@ Note: the Blazor Visual Studio extension is no longer required since .NET Core 3
 * [Blazor.AdaptiveCards](https://github.com/mikoskinen/Blazor.AdaptiveCards) - Adaptive Cards for Blazor. [Documentation](https://adaptivecardsblazor.com/).
 
 ## Videos
+* [Is Blazor the new Silverlight?](https://www.youtube.com/watch?v=s9Nkry1l5Tg&feature=youtu.be) - February 2, 2020 - Very short video (2min) by Carl Franklin from the [Blazor Road Show](http://www.blazorroadshow.com) who speaks about "Is Blazor the new Silverlight?".
 * [Blazor Tutorial : Procedural Logic | Authentication & Authorization in C#](https://www.youtube.com/watch?v=EdnrUGmECS4&feature=youtu.be) - February 18, 2020 - Blazor Tutorial : Procedural Logic | Authentication & Authorization in C#, by Curious Drive. [Source code](https://github.com/CuriousDrive/BookStores).
 * [Open Source C#, Blazor, and the DataBinder](https://www.twitch.tv/videos/552921602) - February 16, 2020 - Open Source C#, Blazor, and the DataBinder, by Jeffrey Fritz. [BlazorWebFormsComponents](https://github.com/FritzAndFriends/BlazorWebFormsComponents).
 * [Coding with Squirrel - and Blazor !coffee](https://www.twitch.tv/videos/551829522) - February 14, 2020 - Coding with Squirrel, and Blazor !coffee, by Jeffrey Fritz. [BlazorWebFormsComponents](https://github.com/FritzAndFriends/BlazorWebFormsComponents).
