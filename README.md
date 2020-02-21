@@ -309,6 +309,7 @@ Note: the Blazor Visual Studio extension is no longer required since .NET Core 3
 * [Blazor.AdaptiveCards](https://github.com/mikoskinen/Blazor.AdaptiveCards) - Adaptive Cards for Blazor. [Documentation](https://adaptivecardsblazor.com/).
 
 ## Videos
+* [Deploying Blazor WebAssembly Backend](https://www.twitch.tv/videos/555713221) - February 21, 2020 - Deploying Blazor WebAssembly Backend, on Twitch.
 * [Blazor Tutorial : Templated Components | Html Table](https://www.youtube.com/watch?v=BBFF2l1FlE0&feature=youtu.be) - February 20, 2020 - Blazor Tutorial : Templated Components | Html Table by CuriousDrive. [Source code](https://github.com/CuriousDrive/BookStores). 
 * [Is Blazor the new Silverlight?](https://www.youtube.com/watch?v=s9Nkry1l5Tg&feature=youtu.be) - February 19, 2020 - Very short video (2min) by Carl Franklin from the [Blazor Road Show](http://www.blazorroadshow.com) who speaks about "Is Blazor the new Silverlight?".
 * [Blazor Tutorial : Procedural Logic | Authentication & Authorization in C#](https://www.youtube.com/watch?v=EdnrUGmECS4&feature=youtu.be) - February 18, 2020 - Blazor Tutorial : Procedural Logic | Authentication & Authorization in C#, by Curious Drive. [Source code](https://github.com/CuriousDrive/BookStores).
