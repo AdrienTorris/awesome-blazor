@@ -434,6 +434,7 @@ Note: the Blazor Visual Studio extension is no longer required since .NET Core 3
 
 
 ## Articles
+* [Blazor live reload preview](https://medium.com/@MartinPocius/blazor-live-reload-preview-4505015fd589) - February 23, 2020 - In react we have hot module replacement this feature allows us to change code and see changes immediately in your browser. We can make a similar feature in blazor using Roslyn compiler. Compiling down razor components in runtime and serving with WebSockets on every file change using file watcher. [Source code](https://github.com/martasp/BlazorLiveReload).
 * [Hundreds of practical ASP.NET Core samples to learn the fundamentals](https://www.hanselman.com/blog/HundredsOfPracticalASPNETCoreSamplesToLearnTheFundamentals.aspx) - February 19, 2020 - Hundreds of practical ASP.NET Core samples to learn the fundamentals, and there are great samples about Blazor.
 * [Is Blazor For Everyone?](http://www.appvnext.com/blog/2020/2/18/is-blazor-for-everyone) - February 18, 2020 - Is Blazor For Everyone?, by Carl Franklin.
 * [Hosting a Blazor App in WinUI 3 with WebView2 and call a Blazor Component Method from WinUI](https://www.thomasclaudiushuber.com/2020/02/18/hosting-blazor-app-in-winui-3-with-webview-2-and-call-blazor-component-method-from-winui/) - February 18, 2020 - Hosting a Blazor App in WinUI 3 with WebView2 and call a Blazor Component Method from WinUI.
