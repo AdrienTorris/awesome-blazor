@@ -266,6 +266,7 @@ Note: the Blazor Visual Studio extension is no longer required since .NET Core 3
 * [Blazor.AdaptiveCards](https://github.com/mikoskinen/Blazor.AdaptiveCards) - Adaptive Cards for Blazor. [Documentation](https://adaptivecardsblazor.com/).
 
 ## Videos
+* [Ed Charbeneau talks about Blazor components on CsharpFritz](https://www.twitch.tv/videos/544128754) - February 25, 2020 - Ed Charbeneau talks about Blazor components contributes BlazorComponentUtilities to our project.
 * [Deploying Blazor WebAssembly Backend](https://www.twitch.tv/videos/555713221) - February 21, 2020 - Deploying Blazor WebAssembly Backend, on Twitch.
 * [Blazor Tutorial : Templated Components | Html Table](https://www.youtube.com/watch?v=BBFF2l1FlE0&feature=youtu.be) - February 20, 2020 - Blazor Tutorial : Templated Components | Html Table by CuriousDrive. [Source code](https://github.com/CuriousDrive/BookStores). 
 * [Is Blazor the new Silverlight?](https://www.youtube.com/watch?v=s9Nkry1l5Tg&feature=youtu.be) - February 19, 2020 - Very short video (2min) by Carl Franklin from the [Blazor Road Show](http://www.blazorroadshow.com) who speaks about "Is Blazor the new Silverlight?".
@@ -325,7 +326,6 @@ Note: the Blazor Visual Studio extension is no longer required since .NET Core 3
 * [Share Blazor Pages and JavaScript across assemblies](https://www.youtube.com/watch?v=HGoPwLu4qDI) - November 17, 2019 - Share Blazor Pages and JavaScript across assemblies.
 * [Blazor Server : Razor Components | Lifecycle Methods](https://www.youtube.com/watch?v=VM4i-_YnGMo) - November 11, 2019 - Lifecycle Methods, Going through the life cycle of page/component in Blazor Apps. [Source code](https://github.com/CuriousDrive/PublicProjects/tree/master/BlazorApp/BlazorApp).
 * [Archives](https://github.com/AdrienTorris/awesome-blazor/tree/master/Archives) - [2019](https://github.com/AdrienTorris/awesome-blazor/blob/master/Archives/2019.md#videos), [2018](https://github.com/AdrienTorris/awesome-blazor/blob/master/Archives/2018.md#videos), [2017](https://github.com/AdrienTorris/awesome-blazor/blob/master/Archives/2017.md#videos).
-
 
 ## Articles
 * [From WebForms to Blazor?](https://jonhilton.net/migrate-webforms-to-blazor/) - February 24, 2020 - From WebForms to Blazor?.
