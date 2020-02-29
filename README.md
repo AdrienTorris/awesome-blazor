@@ -144,6 +144,7 @@ Note: the Blazor Visual Studio extension is no longer required since .NET Core 3
 * [BlazorOCR](https://github.com/daltskin/BlazorOCR) - ![Last commit](https://img.shields.io/github/last-commit/daltskin/BlazorOCR?style=flat-square&cacheSeconds=86000) A Blazor WebAssembly application for reading receipts.
 * [Dcidr](https://github.com/timplourde/dcidr-blazor) - ![Last commit](https://img.shields.io/github/last-commit/timplourde/dcidr-blazor?style=flat-square&cacheSeconds=86000) Blazor WebAssembly decision-making app with PWA (offline), localstorage, and Excel export. [Demo](https://dcidr.z20.web.core.windows.net/).
 * [BlazorForum](https://github.com/ElliottBrand/BlazorForum) - ![Last commit](https://img.shields.io/github/last-commit/ElliottBrand/BlazorForum?style=flat-square&cacheSeconds=86000) Forum application built with Blazor.
+* [Blazor + Umbraco Heartcore](https://github.com/umbraco/Umbraco.Headless.Client.Net/tree/master/samples/Umbraco.Headless.Client.Samples.BlazorServer) Example of using [Umbraco Heartcore](https://umbraco.com/products/umbraco-heartcore/) with Blazor. 
 
 ## Tutorials
 * [Blazor workshop](https://github.com/dotnet-presentations/blazor-workshop/) - ![GitHub stars](https://img.shields.io/github/stars/dotnet-presentations/blazor-workshop?style=flat-square&cacheSeconds=604800) Blazor app building workshop by [.NET Foundation](https://www.dotnetfoundation.org/), Blazzing Pizza.
