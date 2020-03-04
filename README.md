@@ -335,6 +335,7 @@ Note: the Blazor Visual Studio extension is no longer required since .NET Core 3
 
 ## Articles
 * [Integrating Tailwind CSS with Blazor using Gulp - Part 2](https://chrissainty.com/integrating-tailwind-css-with-blazor-using-gulp-part-2/) - March 3, 2020 - Integrating Tailwind CSS with Blazor using Gulp - Part 2.
+* [What's the Difference Between Blazor vs Razor](https://www.telerik.com/blogs/difference-between-blazor-vs-razor) - March 2, 2020 - What is Razor? How does it relate to Blazor, and which should you be using? Learn the difference between Blazor and Razor and how to use them in your web applications.
 * [How to send callback method to JSInterop in Blazor?](https://remibou.github.io/How-to-send-callback-to-JS-Interop-in-Blazor/) - February 29, 2020 - How to send callback method to JSInterop in Blazor?
 * [Yet another way to changing the page title in Blazor, and more](https://dev.to/j_sakamoto/yet-another-way-to-changing-the-page-title-in-blazor-and-more-43k) - February 2020, 27 - Yet another way to changing the page title in Blazor, and more.
 * [What’s behind the hype about Blazor?](https://stackoverflow.blog/2020/02/26/whats-behind-the-hype-about-blazor/) - February 26, 2020 - Blazor is a new client-side UI framework from the ASP.NET team. Its big selling point is the ability to write rich web UI experiences using HTML, CSS, and C# instead of JavaScript—something a lot of developers have been dreaming of. By Chris Sainty.
