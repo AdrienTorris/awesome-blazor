@@ -268,6 +268,7 @@ Note: the Blazor Visual Studio extension is no longer required since .NET Core 3
 * [Blazor.AdaptiveCards](https://github.com/mikoskinen/Blazor.AdaptiveCards) - Adaptive Cards for Blazor. [Documentation](https://adaptivecardsblazor.com/).
 
 ## Videos
+* [Build your first Blazor app with Carl Franklin](https://www.youtube.com/watch?v=hAB4fHy6Cfo&feature=youtu.be) - March 3, 2020 - Build your first Blazor app with Carl Franklin, by DevExpress.
 * [Blazor, GitHub CLI, Excel? and more](https://www.twitch.tv/videos/557921454) - February 26, 2020 - Blazor, GitHub CLI, Excel? and more by Michael Crump on Twitch.
 * [Ed Charbeneau talks about Blazor components on CsharpFritz](https://www.twitch.tv/videos/544128754) - February 25, 2020 - Ed Charbeneau talks about Blazor components contributes BlazorComponentUtilities to our project.
 * [Deploying Blazor WebAssembly Backend](https://www.twitch.tv/videos/555713221) - February 21, 2020 - Deploying Blazor WebAssembly Backend, on Twitch.
@@ -332,6 +333,7 @@ Note: the Blazor Visual Studio extension is no longer required since .NET Core 3
 * [Archives](https://github.com/AdrienTorris/awesome-blazor/tree/master/Archives) - [2019](https://github.com/AdrienTorris/awesome-blazor/blob/master/Archives/2019.md#videos), [2018](https://github.com/AdrienTorris/awesome-blazor/blob/master/Archives/2018.md#videos), [2017](https://github.com/AdrienTorris/awesome-blazor/blob/master/Archives/2017.md#videos).
 
 ## Articles
+* [Integrating Tailwind CSS with Blazor using Gulp - Part 2](https://chrissainty.com/integrating-tailwind-css-with-blazor-using-gulp-part-2/) - March 3, 2020 - Integrating Tailwind CSS with Blazor using Gulp - Part 2.
 * [How to send callback method to JSInterop in Blazor?](https://remibou.github.io/How-to-send-callback-to-JS-Interop-in-Blazor/) - February 29, 2020 - How to send callback method to JSInterop in Blazor?
 * [Yet another way to changing the page title in Blazor, and more](https://dev.to/j_sakamoto/yet-another-way-to-changing-the-page-title-in-blazor-and-more-43k) - February 2020, 27 - Yet another way to changing the page title in Blazor, and more.
 * [What’s behind the hype about Blazor?](https://stackoverflow.blog/2020/02/26/whats-behind-the-hype-about-blazor/) - February 26, 2020 - Blazor is a new client-side UI framework from the ASP.NET team. Its big selling point is the ability to write rich web UI experiences using HTML, CSS, and C# instead of JavaScript—something a lot of developers have been dreaming of. By Chris Sainty.
