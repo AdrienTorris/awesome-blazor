@@ -269,8 +269,8 @@ Note: the Blazor Visual Studio extension is no longer required since .NET Core 3
 * [Blazor.AdaptiveCards](https://github.com/mikoskinen/Blazor.AdaptiveCards) - Adaptive Cards for Blazor. [Documentation](https://adaptivecardsblazor.com/).
 
 ## Videos
-* [Blazor Tutorial : Event Handling](https://www.youtube.com/watch?v=wxU6wWTT4mQ&feature=youtu.be) - ![duration](https://img.shields.io/badge/Duration:%20-12%10min-%230094FF?style=flat-square&cacheSeconds=maxAge) March 4, 2020 - Episode about event handling by Curious Drive.
-* [Build your first Blazor app with Carl Franklin](https://www.youtube.com/watch?v=hAB4fHy6Cfo&feature=youtu.be) - ![duration](https://img.shields.io/badge/Duration:%20-71%10min-%230094FF?style=flat-square&cacheSeconds=maxAge) March 3, 2020 - Build your first Blazor app with Carl Franklin, by DevExpress.
+* [Blazor Tutorial : Event Handling](https://www.youtube.com/watch?v=wxU6wWTT4mQ&feature=youtu.be) - ![duration](https://img.shields.io/badge/Duration:%20-12%20min-%230094FF?style=flat-square&cacheSeconds=maxAge) March 4, 2020 - Episode about event handling by Curious Drive.
+* [Build your first Blazor app with Carl Franklin](https://www.youtube.com/watch?v=hAB4fHy6Cfo&feature=youtu.be) - ![duration](https://img.shields.io/badge/Duration:%20-71%20min-%230094FF?style=flat-square&cacheSeconds=maxAge) March 3, 2020 - Build your first Blazor app with Carl Franklin, by DevExpress.
 * [Blazor, GitHub CLI, Excel? and more](https://www.twitch.tv/videos/557921454) - February 26, 2020 - Blazor, GitHub CLI, Excel? and more by Michael Crump on Twitch.
 * [Ed Charbeneau talks about Blazor components on CsharpFritz](https://www.twitch.tv/videos/544128754) - February 25, 2020 - Ed Charbeneau talks about Blazor components contributes BlazorComponentUtilities to our project.
 * [Deploying Blazor WebAssembly Backend](https://www.twitch.tv/videos/555713221) - February 21, 2020 - Deploying Blazor WebAssembly Backend, on Twitch.
