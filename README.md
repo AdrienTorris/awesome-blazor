@@ -269,6 +269,7 @@ Note: the Blazor Visual Studio extension is no longer required since .NET Core 3
 * [Blazor.AdaptiveCards](https://github.com/mikoskinen/Blazor.AdaptiveCards) - Adaptive Cards for Blazor. [Documentation](https://adaptivecardsblazor.com/).
 
 ## Videos
+* [Building Chat App using Blazor WebAssembly](https://www.twitch.tv/curiousdrive/clip/BashfulSpeedyPuddingHeyGirl) - March 6, 2020 - Building Chat App using Blazor WebAssembly, day 10 by Curious Drive.
 * [Blazor Tutorial : Event Handling](https://www.youtube.com/watch?v=wxU6wWTT4mQ&feature=youtu.be) - ![duration](https://img.shields.io/badge/Duration:%20-12%20min-%230094FF?style=flat-square&cacheSeconds=maxAge&logo=youtube) March 4, 2020 - Episode about event handling by Curious Drive.
 * [Build your first Blazor app with Carl Franklin](https://www.youtube.com/watch?v=hAB4fHy6Cfo&feature=youtu.be) - ![duration](https://img.shields.io/badge/Duration:%20-71%20min-%230094FF?style=flat-square&cacheSeconds=maxAge&logo=youtube) March 3, 2020 - Build your first Blazor app with Carl Franklin, by DevExpress.
 * [Blazor, GitHub CLI, Excel? and more](https://www.twitch.tv/videos/557921454) - ![duration](https://img.shields.io/badge/Duration:%20-106%20min-%230094FF?style=flat-square&cacheSeconds=maxAge&logo=twitch) February 26, 2020 - Blazor, GitHub CLI, Excel? and more by Michael Crump on Twitch.
