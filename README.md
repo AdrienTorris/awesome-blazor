@@ -337,6 +337,7 @@ Note: the Blazor Visual Studio extension is no longer required since .NET Core 3
 * [Archives](https://github.com/AdrienTorris/awesome-blazor/tree/master/Archives) - [2019](https://github.com/AdrienTorris/awesome-blazor/blob/master/Archives/2019.md#videos), [2018](https://github.com/AdrienTorris/awesome-blazor/blob/master/Archives/2018.md#videos), [2017](https://github.com/AdrienTorris/awesome-blazor/blob/master/Archives/2017.md#videos).
 
 ## Articles
+* [Event Aggregator for Blazor updated to 2.0.0](https://mikaelkoskinen.net/post/blazor-eventaggregator-2-0-0-auto-refresh) - March 8, 2020 - Event Aggregator for Blazor updated to 2.0.0.
 * [Blazor WASM Debugging Planned for Visual Studio](https://visualstudiomagazine.com/articles/2020/03/03/vs-roadmap.aspx?m=1) - March 3, 2020 - Blazor WASM Debugging Planned for Visual Studio, on Visual Studio Magazine.
 * [Integrating Tailwind CSS with Blazor using Gulp - Part 2](https://chrissainty.com/integrating-tailwind-css-with-blazor-using-gulp-part-2/) - March 3, 2020 - Integrating Tailwind CSS with Blazor using Gulp - Part 2.
 * [What's the Difference Between Blazor vs Razor](https://www.telerik.com/blogs/difference-between-blazor-vs-razor) - March 2, 2020 - What is Razor? How does it relate to Blazor, and which should you be using? Learn the difference between Blazor and Razor and how to use them in your web applications.
