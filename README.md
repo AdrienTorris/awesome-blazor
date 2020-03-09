@@ -462,6 +462,7 @@ Note: the Blazor Visual Studio extension is no longer required since .NET Core 3
 * [Archives](https://github.com/AdrienTorris/awesome-blazor/tree/master/Archives) - [2019](https://github.com/AdrienTorris/awesome-blazor/blob/master/Archives/2019.md#articles), [2018](https://github.com/AdrienTorris/awesome-blazor/blob/master/Archives/2018.md#articles), [2017](https://github.com/AdrienTorris/awesome-blazor/blob/master/Archives/2017.md#articles).
   
 ## Podcasts
+* [Blazor with guest Carl Franklin](https://weeklydevtips.com/episodes/blazor-with-guest-carl-franklin) - March 9, 2020 - Carl Franklin is the guest to Weekly Dev Tips. Carl Franklin and Steve Smith (aka Ardalis) discuss Blazor in general and look at how to create a generic object picker control for Blazor.
 * [Podcast: Occam’s Blazor](https://stackoverflow.blog/2020/01/14/podcast-occams-blazor/) - January 14, 2020 - Podcast by Stack Overflow.
 * [.NET Core 3 Launch with Scott Hunter](https://www.dotnetrocks.com/?show=1654) - September 26, 2019 - .NET Rocks Podcast, episode 1654: .NET Core 3 Launch with Scott Hunter.
 * [Moving from Web Forms to Blazor with Jeff Fritz](https://www.dotnetrocks.com/default.aspx?ShowNum=1652) - September 12, 2019 - .NET Rocks Podcast, episode 1652: Moving from Web Forms to Blazor with Jeff Fritz.
