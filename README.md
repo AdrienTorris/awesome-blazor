@@ -338,6 +338,7 @@ Note: the Blazor Visual Studio extension is no longer required since .NET Core 3
 * [Archives](https://github.com/AdrienTorris/awesome-blazor/tree/master/Archives) - [2019](https://github.com/AdrienTorris/awesome-blazor/blob/master/Archives/2019.md#videos), [2018](https://github.com/AdrienTorris/awesome-blazor/blob/master/Archives/2018.md#videos), [2017](https://github.com/AdrienTorris/awesome-blazor/blob/master/Archives/2017.md#videos).
 
 ## Articles
+* [Blazor Shopping Cart Sample using Local Storage to Persist State](http://www.appvnext.com/blog/2020/3/7/blazor-shopping-cart-sample-using-local-storage-to-persist-state) - March 10, 2020 - Blazor Shopping Cart Sample using Local Storage to Persist State, by Carl Franklin.
 * [Event Aggregator for Blazor updated to 2.0.0](https://mikaelkoskinen.net/post/blazor-eventaggregator-2-0-0-auto-refresh) - March 8, 2020 - Event Aggregator for Blazor updated to 2.0.0.
 * [Blazor WASM Debugging Planned for Visual Studio](https://visualstudiomagazine.com/articles/2020/03/03/vs-roadmap.aspx?m=1) - March 3, 2020 - Blazor WASM Debugging Planned for Visual Studio, on Visual Studio Magazine.
 * [Integrating Tailwind CSS with Blazor using Gulp - Part 2](https://chrissainty.com/integrating-tailwind-css-with-blazor-using-gulp-part-2/) - March 3, 2020 - Integrating Tailwind CSS with Blazor using Gulp - Part 2.
