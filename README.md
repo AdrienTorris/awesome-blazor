@@ -340,6 +340,7 @@ Note: the Blazor Visual Studio extension is no longer required since .NET Core 3
 
 ## Articles
 * [Blazor WebAssembly 3.2.0 Preview 2 release now available](https://devblogs.microsoft.com/aspnet/blazor-webassembly-3-2-0-preview-2-release-now-available/) - March 11, 2020 - Blazor WebAssembly 3.2.0 Preview 2 release now available, by Daniel Roth from Microsoft.
+* [New Blazor and CSLA .NET Book](https://blog.lhotka.net/2020/03/11/New-Blazor-and-CSLA-Book) - March 11, 2020 - New Blazor and CSLA .NET Book. [Link to buy it](https://store.lhotka.net/using-csla-5-blazor-and-webassembly).
 * [Blazor Shopping Cart Sample using Local Storage to Persist State](http://www.appvnext.com/blog/2020/3/7/blazor-shopping-cart-sample-using-local-storage-to-persist-state) - March 10, 2020 - Blazor Shopping Cart Sample using Local Storage to Persist State, by Carl Franklin.
 * [Event Aggregator for Blazor updated to 2.0.0](https://mikaelkoskinen.net/post/blazor-eventaggregator-2-0-0-auto-refresh) - March 8, 2020 - Event Aggregator for Blazor updated to 2.0.0.
 * [Blazor WASM Debugging Planned for Visual Studio](https://visualstudiomagazine.com/articles/2020/03/03/vs-roadmap.aspx?m=1) - March 3, 2020 - Blazor WASM Debugging Planned for Visual Studio, on Visual Studio Magazine.
