@@ -542,6 +542,7 @@ Note: the Blazor Visual Studio extension is no longer required since .NET Core 3
 * [Stack Overflow](https://stackoverflow.com/questions/tagged/blazor) - Blazor questions feed on Stack Overflow.
 * [Twitter](https://twitter.com/hashtag/blazor) - Hashtag on Twitter.
 * [WebAssemblyMan](https://www.webassemblyman.com/) - Man page for Blazor and WebAssembly.
+* [Toilet Paper Stash](https://www.toiletpaperstash.com/) - Tool for determing how much TP you need during the Coronavirus pandemic.
 
 ## Other Languages
 * [Blaze of Code](https://blazeofcode.com/) - [Portuguese] Blog about Blazor.
