@@ -340,7 +340,10 @@ Note: the Blazor Visual Studio extension is no longer required since .NET Core 3
 * [Archives](https://github.com/AdrienTorris/awesome-blazor/tree/master/Archives) - [2019](https://github.com/AdrienTorris/awesome-blazor/blob/master/Archives/2019.md#videos), [2018](https://github.com/AdrienTorris/awesome-blazor/blob/master/Archives/2018.md#videos), [2017](https://github.com/AdrienTorris/awesome-blazor/blob/master/Archives/2017.md#videos).
 
 ## Articles
+* [Using Highcharts with Blazor](http://engstromjimmy.se/post/2020-03-21-UsingHighchartsWithBlazor) - March 21, 2020 - Using Highcharts with Blazor.
+* [CSS live reloading on Blazor](https://dev.to/j_sakamoto/css-live-reloading-on-blazor-27nc) - March 20, 2020 - CSS live reloading on Blazor.
 * [Unifying .NET 5 arrives in Preview 1](https://visualstudiomagazine.com/articles/2020/03/17/net-5-preview.aspx) - March 17, 2020 - Microsoft released .NET 5 Preview 1, the first iteration of what will become one framework to handle all .NET development projects.
+* [Blazor - Reload the browser on disconnect](http://engstromjimmy.se/post/2020-03-14-ReloadBlazor%20-%20Copy) - March 14, 2020 - Blazor - Reload the browser on disconnect.
 * [The Open Source Project that Wants to Reboot Silverlight](https://medium.com/young-coder/the-open-source-project-that-wants-to-reboot-silverlight-74817b430ee7) - March 13, 2020 - OpenSilver uses impressive tech to run Microsoft’s stone-dead app platform, Silverlight.
 * [Blazor WebAssembly 3.2.0 Preview 2 release now available](https://devblogs.microsoft.com/aspnet/blazor-webassembly-3-2-0-preview-2-release-now-available/) - March 11, 2020 - Blazor WebAssembly 3.2.0 Preview 2 release now available, by Daniel Roth from Microsoft.
 * [New Blazor and CSLA .NET Book](https://blog.lhotka.net/2020/03/11/New-Blazor-and-CSLA-Book) - March 11, 2020 - New Blazor and CSLA .NET Book. [Link to buy it](https://store.lhotka.net/using-csla-5-blazor-and-webassembly).
