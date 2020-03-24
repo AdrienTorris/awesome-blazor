@@ -341,6 +341,8 @@ Note: the Blazor Visual Studio extension is no longer required since .NET Core 3
 * [Archives](https://github.com/AdrienTorris/awesome-blazor/tree/master/Archives) - [2019](https://github.com/AdrienTorris/awesome-blazor/blob/master/Archives/2019.md#videos), [2018](https://github.com/AdrienTorris/awesome-blazor/blob/master/Archives/2018.md#videos), [2017](https://github.com/AdrienTorris/awesome-blazor/blob/master/Archives/2017.md#videos).
 
 ## Articles
+* [Replacing AJAX calls in Razor Pages with Razor Components and Blazor](https://andrewlock.net/replacing-ajax-calls-in-razor-pages-using-razor-components-and-blazor/) - March 24, 2020 - Replacing AJAX calls in Razor Pages with Razor Components and Blazor.
+* [Introduction to .NET 5 for ASP.NET Developers](http://www.binaryintellect.net/articles/567c6c06-a2aa-44da-a443-78dafedebe65.aspx) - March 23, 2020 - Introduction to .NET 5 for ASP.NET Developers.
 * [Using Highcharts with Blazor](http://engstromjimmy.se/post/2020-03-21-UsingHighchartsWithBlazor) - March 21, 2020 - Using Highcharts with Blazor.
 * [CSS live reloading on Blazor](https://dev.to/j_sakamoto/css-live-reloading-on-blazor-27nc) - March 20, 2020 - CSS live reloading on Blazor.
 * [Unifying .NET 5 arrives in Preview 1](https://visualstudiomagazine.com/articles/2020/03/17/net-5-preview.aspx) - March 17, 2020 - Microsoft released .NET 5 Preview 1, the first iteration of what will become one framework to handle all .NET development projects.
