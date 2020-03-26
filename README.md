@@ -348,6 +348,7 @@ Note: the Blazor Visual Studio extension is no longer required since .NET Core 3
 
 ## Articles
 * [Working with Query Strings in Blazor](https://chrissainty.com/working-with-query-strings-in-blazor/) - March 25, 2020 - This post covers how to deal with Query Strings in Blazor.
+* [Why you should use Blazor over JavaScript Frameworks](https://www.telerik.com/blogs/why-you-should-use-blazor-over-javascript-frameworks-to-build-your-single-page-application) - March 24, 2020 - Why you should use Blazor over JavaScript Frameworks to build your single-page application.
 * [Replacing AJAX calls in Razor Pages with Razor Components and Blazor](https://andrewlock.net/replacing-ajax-calls-in-razor-pages-using-razor-components-and-blazor/) - March 24, 2020 - Replacing AJAX calls in Razor Pages with Razor Components and Blazor.
 * [Introduction to .NET 5 for ASP.NET Developers](http://www.binaryintellect.net/articles/567c6c06-a2aa-44da-a443-78dafedebe65.aspx) - March 23, 2020 - Introduction to .NET 5 for ASP.NET Developers.
 * [Using Highcharts with Blazor](http://engstromjimmy.se/post/2020-03-21-UsingHighchartsWithBlazor) - March 21, 2020 - Using Highcharts with Blazor.
