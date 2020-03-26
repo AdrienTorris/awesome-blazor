@@ -273,6 +273,11 @@ Note: the Blazor Visual Studio extension is no longer required since .NET Core 3
 * [Blazor.AdaptiveCards](https://github.com/mikoskinen/Blazor.AdaptiveCards) - Adaptive Cards for Blazor. [Documentation](https://adaptivecardsblazor.com/).
 
 ## Videos
+* [Create a Blazor Server App and Add Syncfusion Blazor Components](https://www.youtube.com/watch?v=cQZYzOlTm0Q) - March 24, 2020 - Learn to create a new Blazor Server App and add Blazor Components of Syncfusion to it using Visual Studio 2019 and Visual Studio Code.
+* [Minimal March - Linux and Blazor. PRs, Finishing the FormView, C#, HTML, and !coffee](https://www.twitch.tv/videos/572751843) - March 22, 2020 - Minimal March - Linux and Blazor. PRs, Finishing the FormView, C#, HTML, and !coffee, by Csharpfritz.
+* [Minimal March - Linux and Blazor. PRs, Finishing the FormView, C#, HTML, and !coffee](https://www.twitch.tv/videos/571161098) - March 20, 2020 - Minimal March - Linux and Blazor. PRs, Finishing the FormView, C#, HTML, and !coffee, by Csharpfritz.
+* [Minimal March - Linux and Blazor. PRs, Finishing the FormView, C#, HTML, and !coffee](https://www.twitch.tv/videos/570365905) - March 19, 2020 - Minimal March - Linux and Blazor. PRs, Finishing the FormView, C#, HTML, and !coffee, by Csharpfritz.
+* [Minimal March - Linux and Blazor. PRs, Finishing the FormView, C#, HTML, and !coffee](https://www.twitch.tv/videos/569662576) - March 18, 2020 - Minimal March - Linux and Blazor. PRs, Finishing the FormView, C#, HTML, and !coffee, by Csharpfritz.
 * [Building Chat App using Blazor WebAssembly](https://www.twitch.tv/curiousdrive/clip/BashfulSpeedyPuddingHeyGirl) - March 6, 2020 - Building Chat App using Blazor WebAssembly, day 10 by Curious Drive.
 * [Blazor Tutorial : Event Handling](https://www.youtube.com/watch?v=wxU6wWTT4mQ&feature=youtu.be) - ![duration](https://img.shields.io/badge/Duration:%20-12%20min-%230094FF?style=flat-square&cacheSeconds=maxAge&logo=youtube) March 4, 2020 - Episode about event handling by Curious Drive.
 * [Build your first Blazor app with Carl Franklin](https://www.youtube.com/watch?v=hAB4fHy6Cfo&feature=youtu.be) - ![duration](https://img.shields.io/badge/Duration:%20-71%20min-%230094FF?style=flat-square&cacheSeconds=maxAge&logo=youtube) March 3, 2020 - Build your first Blazor app with Carl Franklin, by DevExpress.
