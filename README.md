@@ -275,6 +275,7 @@ Note: the Blazor Visual Studio extension is no longer required since .NET Core 3
 ## Videos
 * [Create a Blazor Server App and Add Syncfusion Blazor Components](https://www.youtube.com/watch?v=cQZYzOlTm0Q) - March 24, 2020 - Learn to create a new Blazor Server App and add Blazor Components of Syncfusion to it using Visual Studio 2019 and Visual Studio Code.
 * [Minimal March - Linux and Blazor. PRs, Finishing the FormView, C#, HTML, and !coffee](https://www.twitch.tv/videos/572751843) - March 22, 2020 - Minimal March - Linux and Blazor. PRs, Finishing the FormView, C#, HTML, and !coffee, by Csharpfritz.
+* [Blazor StateHasChanged: Hot take on hot questions](https://www.twitch.tv/videos/571259404) - March 20, 2020 - Blazor StateHasChanged: Hot take on hot questions, by Ed Charbeneau.
 * [Minimal March - Linux and Blazor. PRs, Finishing the FormView, C#, HTML, and !coffee](https://www.twitch.tv/videos/571161098) - March 20, 2020 - Minimal March - Linux and Blazor. PRs, Finishing the FormView, C#, HTML, and !coffee, by Csharpfritz.
 * [Minimal March - Linux and Blazor. PRs, Finishing the FormView, C#, HTML, and !coffee](https://www.twitch.tv/videos/570365905) - March 19, 2020 - Minimal March - Linux and Blazor. PRs, Finishing the FormView, C#, HTML, and !coffee, by Csharpfritz.
 * [Minimal March - Linux and Blazor. PRs, Finishing the FormView, C#, HTML, and !coffee](https://www.twitch.tv/videos/569662576) - March 18, 2020 - Minimal March - Linux and Blazor. PRs, Finishing the FormView, C#, HTML, and !coffee, by Csharpfritz.
