@@ -273,6 +273,7 @@ Note: the Blazor Visual Studio extension is no longer required since .NET Core 3
 * [Blazor.AdaptiveCards](https://github.com/mikoskinen/Blazor.AdaptiveCards) - Adaptive Cards for Blazor. [Documentation](https://adaptivecardsblazor.com/).
 
 ## Videos
+* [Quarantined Coding! with Ed Charbeneau](https://www.twitch.tv/videos/575953710) - March 26, 2020 - Ed Charbeneau about Blazor for CodeItLive.
 * [Create a Blazor Server App and Add Syncfusion Blazor Components](https://www.youtube.com/watch?v=cQZYzOlTm0Q) - March 24, 2020 - Learn to create a new Blazor Server App and add Blazor Components of Syncfusion to it using Visual Studio 2019 and Visual Studio Code.
 * [Minimal March - Linux and Blazor. PRs, Finishing the FormView, C#, HTML, and !coffee](https://www.twitch.tv/videos/572751843) - March 22, 2020 - Minimal March - Linux and Blazor. PRs, Finishing the FormView, C#, HTML, and !coffee, by Csharpfritz.
 * [Blazor StateHasChanged: Hot take on hot questions](https://www.twitch.tv/videos/571259404) - March 20, 2020 - Blazor StateHasChanged: Hot take on hot questions, by Ed Charbeneau.
