@@ -353,6 +353,7 @@ Note: the Blazor Visual Studio extension is no longer required since .NET Core 3
 * [Archives](https://github.com/AdrienTorris/awesome-blazor/tree/master/Archives) - [2019](https://github.com/AdrienTorris/awesome-blazor/blob/master/Archives/2019.md#videos), [2018](https://github.com/AdrienTorris/awesome-blazor/blob/master/Archives/2018.md#videos), [2017](https://github.com/AdrienTorris/awesome-blazor/blob/master/Archives/2017.md#videos).
 
 ## Articles
+* [Routing in Blazor Apps](https://devblogs.microsoft.com/premier-developer/routing-in-blazor-apps/) - March 30, 2020 - In this post, App Dev Manager Billy Sun compares routing of popular web frameworks and Blazor.
 * [Blazor WebAssembly Marches On to GA: Now Debug from Visual Studio, VS Code](https://visualstudiomagazine.com/articles/2020/03/27/blazor-debugging.aspx) - March 27, 2020 - Blazor WebAssembly Marches On to GA: Now Debug from Visual Studio, VS Code, on Visual Studio Magazine.
 * [Blazor WebAssembly 3.2.0 Preview 3 release now available](https://devblogs.microsoft.com/aspnet/blazor-webassembly-3-2-0-preview-3-release-now-available/) - March 26, 2020 - Official post from Microsoft, by Dan Roth. Blazor WebAssembly 3.2.0 Preview 3 release now available.
 * [Adventures with Blazor: my first component, a busy button](http://www.mattruma.com/adventures-with-blazor-my-first-component-a-busy-button/) - March 26, 2020 - Adventures with Blazor: my first component, a busy button.
