@@ -358,6 +358,7 @@ Note: the Blazor Visual Studio extension is no longer required since .NET Core 3
 * [Archives](https://github.com/AdrienTorris/awesome-blazor/tree/master/Archives) - [2019](https://github.com/AdrienTorris/awesome-blazor/blob/master/Archives/2019.md#videos), [2018](https://github.com/AdrienTorris/awesome-blazor/blob/master/Archives/2018.md#videos), [2017](https://github.com/AdrienTorris/awesome-blazor/blob/master/Archives/2017.md#videos).
 
 ## Articles
+* [Mobile Blazor Bindings - Getting Started](https://chrissainty.com/getting-started-with-mobile-blazor-bindings/) - April 1, 2020 - Introduction by Chris Sainty to the Mobile Blazor Bindings (MBB) project, what it is, why you might be interesting in trying it, what is and isn't available and we'll finish with creating our first app.
 * [Routing in Blazor Apps](https://devblogs.microsoft.com/premier-developer/routing-in-blazor-apps/) - March 30, 2020 - In this post, App Dev Manager Billy Sun compares routing of popular web frameworks and Blazor.
 * [Updating JSON Validate to Blazor 3.2.0 Preview 3](https://dev.to/marcusturewicz/updating-json-validate-to-blazor-3-2-0-preview-3-59oa) - March 29, 2020 - Updating JSON Validate to Blazor 3.2.0 Preview 3.
 * [Blazor WebAssembly Marches On to GA: Now Debug from Visual Studio, VS Code](https://visualstudiomagazine.com/articles/2020/03/27/blazor-debugging.aspx) - March 27, 2020 - Blazor WebAssembly Marches On to GA: Now Debug from Visual Studio, VS Code, on Visual Studio Magazine.
