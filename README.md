@@ -247,6 +247,7 @@ Note: the Blazor Visual Studio extension is no longer required since .NET Core 3
 * [BlazorGoogleMaps](https://github.com/rungwiroon/BlazorGoogleMaps) - ![stars](https://img.shields.io/github/stars/rungwiroon/BlazorGoogleMaps?style=flat-square&cacheSeconds=604800) ![last commit](https://img.shields.io/github/last-commit/rungwiroon/BlazorGoogleMaps?style=flat-square&cacheSeconds=86400) Blazor interop for GoogleMap library.
 * [Blazor.Payments](https://github.com/philipblaquiere/Blazor.Payments) - ![GitHub stars](https://img.shields.io/github/stars/philipblaquiere/Blazor.Payments?style=flat-square&cacheSeconds=604800) ![last commit](https://img.shields.io/github/last-commit/philipblaquiere/Blazor.Payments?style=flat-square&cacheSeconds=86400) Blazor Web Agent port of the Web Payment API standard developed by W3C.
 * [Blazor SVG Helper](https://github.com/Lupusa87/BlazorSvgHelper) - ![stars](https://img.shields.io/github/stars/Lupusa87/BlazorSvgHelper?style=flat-square&cacheSeconds=604800) ![last commit](https://img.shields.io/github/last-commit/Lupusa87/BlazorSvgHelper?style=flat-square&cacheSeconds=86400) Create SVG elements with children (circle, rectangle, image, text, and others) and render with RenderTreeBuilder.
+* [Cortex.Net](https://github.com/jspuij/Cortex.Net) - ![GitHub stars](https://img.shields.io/github/stars/jspuij/Cortex.Net?style=flat-square&cacheSeconds=604800) ![last commit](https://img.shields.io/github/last-commit/jspuij/Cortex.Net?style=flat-square&cacheSeconds=86400) State management like MobX for .NET and Blazor. [Documentation](https://jspuij.github.io/Cortex.Net.Docs/pages/index.html).
 * [Blazor Analytics](https://github.com/isc30/blazor-analytics) - Blazor extensions for Analytics.
 * [BlazorPrettyCode](https://github.com/chanan/BlazorPrettyCode) - Blazor Code Component for documentation sites. [Demo](https://chanan.github.io/BlazorPrettyCode/).
 * [Blazor.EventAggregator](https://github.com/mikoskinen/Blazor.EventAggregator) - Lightweight Event Aggregator for Blazor (Razor Components).
@@ -264,7 +265,6 @@ Note: the Blazor Visual Studio extension is no longer required since .NET Core 3
 * [Simple logging server](https://github.com/shawty/simpleloggingserver) - An ultra simple remote log message server written in Blazor and .NET Core 3.
 * [Howler.Blazor](https://github.com/StefH/Howler.Blazor) - A Blazor JSInterop wrapper for Howler.js, an audio library.
 * [DataJuggler.Blazor.FileUpload](https://github.com/DataJuggler/BlazorFileUpload) - Wrapper for Steve Sanderson's BlazorFileInput component.
-* [Cortex.Net](https://github.com/jspuij/Cortex.Net) - State management like MobX for .NET and Blazor.
 * [Blazor.LazyStyleSheet](https://github.com/excubo-ag/Blazor.LazyStyleSheet) - Lazy loading for CSS style sheets.
 ### Others
 * [Blazor Extensions Home](https://github.com/BlazorExtensions/Home) - ![GitHub stars](https://img.shields.io/github/stars/BlazorExtensions/Home?style=flat-square&cacheSeconds=604800&logo=microsoft) Home for Blazor Extensions.
