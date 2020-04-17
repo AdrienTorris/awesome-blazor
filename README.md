@@ -84,6 +84,7 @@ Note: the Blazor Visual Studio extension is no longer required since .NET Core 3
 * [BlazorPong](https://github.com/MACEL94/BlazorPong) - Pong in Blazor server side using SignalR Core. [Demo](https://blazorpong-dev-as.azurewebsites.net).
 * [BlazorConnectFour](https://github.com/exceptionnotfound/BlazorConnectFour) - Classic childhood game ConnectFour in Blazor.
 * [Memory Game Wasm/PWA](https://github.com/HillPhelmuth/MemoryEtcWasm) - Simple Memory game with PWA support. [Demo](https://memoryetcwasmserver20200329202745.azurewebsites.net/).
+* [Trains.NET](https://github.com/davidwengier/Trains.NET) - ![last commit](https://img.shields.io/github/last-commit/davidwengier/Trains.NET?style=flat-square&cacheSeconds=86400) 2D game built with .NET and C#.
 ### Hybrid experiments
 * [Blazor + Electron](https://aka.ms/blazorelectron) - Host Razor Components inside an Electron shell. This allows for modern, high-performance cross-platform desktop apps built with .NET and web technologies.
 * [Blazor + WebWindow](https://aka.ms/webwindow) - [WebWindow](https://www.nuget.org/packages/WebWindow) is like Electron, but without bundling Node.js or Chromium, and without most of the APIs. [WebWindow source code](https://github.com/SteveSandersonMS/WebWindow). [Blazor + WebWindow sample here](https://github.com/SteveSandersonMS/WebWindow/tree/master/samples/BlazorDesktopApp).
