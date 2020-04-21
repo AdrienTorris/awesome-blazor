@@ -542,6 +542,7 @@ Note: the Blazor Visual Studio extension is no longer required since .NET Core 3
 * [Using CSLA 5: Blazor and WebAssembly](https://store.lhotka.net/using-csla-5-blazor-and-webassembly) - This book covers the new Blazor UI framework, including how to create server-side and client-side WebAssembly projects, how to implement authentication and authorization, and how to use data binding. It then covers how CSLA .NET supports Blazor, including walking through a complete sample app.
 * [An Introduction to Building Applications with Blazor](https://www.amazon.com/Introduction-Building-Applications-Blazor-applications-ebook/dp/B07WPQTT6H) - August 24, 2019 - An Introduction to Building Applications with Blazor: How to get started creating applications using this exciting easy to use Microsoft C# framework
 * [Archives](https://github.com/AdrienTorris/awesome-blazor/tree/master/Archives) - [2018](https://github.com/AdrienTorris/awesome-blazor/blob/master/Archives/2018.md#e-books).
+* [Blazor Succinctly](https://www.syncfusion.com/ebooks/blazor-succinctly) A free e-book for starting with the Blazor framework
 
 ## Courses
 * [Programming in Blazor - ASP.NET Core 3.1](https://www.udemy.com/course/programming-in-blazor-aspnet-core) - Create interactive web applications with C#, on Udemy.
