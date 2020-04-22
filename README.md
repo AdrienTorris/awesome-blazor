@@ -537,6 +537,7 @@ Note: the Blazor Visual Studio extension is no longer required since .NET Core 3
 * [Blazor Quick Start Guide: Build web applications using Blazor, EF Core, and SQL Server](https://www.amazon.in/gp/product/178934414X/ref=awesome_blazor) - Blazor Quick Start Guide: Build web applications using Blazor, EF Core, and SQL Server (Published October 31, 2018).
 
 ## E-Books
+* [Blazor Succinctly](https://www.syncfusion.com/ebooks/blazor-succinctly) - April 16, 2020 - A free e-book for starting with the Blazor framework.
 * [Blazor, A Beginners Guide](https://www.telerik.com/campaigns/blazor/wp-beginners-guide-ebook) - March 18, 2020 - A free e-book for getting started with the Blazor framework. [Examples source code](https://github.com/EdCharbeneau/BlazorBookExamples).
 * [Blazor for ASP.NET Web Forms developers](https://dotnet.microsoft.com/learn/aspnet/architecture#blazor-for-web-forms-devs-ebook-swim) - Blazor for ASP.NET Web Forms developers, a free e-book from Microsoft.
 * [Using CSLA 5: Blazor and WebAssembly](https://store.lhotka.net/using-csla-5-blazor-and-webassembly) - This book covers the new Blazor UI framework, including how to create server-side and client-side WebAssembly projects, how to implement authentication and authorization, and how to use data binding. It then covers how CSLA .NET supports Blazor, including walking through a complete sample app.
