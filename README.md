@@ -1,4 +1,4 @@
-# Awesome Blazor [![Awesome](https://awesome.re/badge-flat2.svg)](https://awesome.re)
+﻿# Awesome Blazor [![Awesome](https://awesome.re/badge-flat2.svg)](https://awesome.re)
 [<img src="https://adrientorris.github.io/wwwroot/images/blazor/logo-blazor.png" align="right" width="170">](https://dotnet.microsoft.com/apps/aspnet/web-apps/client)
 
 > A collection of awesome Blazor resources.
@@ -275,6 +275,7 @@ Note: the Blazor Visual Studio extension is no longer required since .NET Core 3
 ### Others
 * [Blazor Extensions Home](https://github.com/BlazorExtensions/Home) - ![GitHub stars](https://img.shields.io/github/stars/BlazorExtensions/Home?style=flat-square&cacheSeconds=604800&logo=microsoft) Home for Blazor Extensions.
 * [Bolero](https://github.com/fsbolero/Bolero) - ![GitHub stars](https://img.shields.io/github/stars/fsbolero/Bolero?style=flat-square&cacheSeconds=604800) ![last commit](https://img.shields.io/github/last-commit/fsbolero/Bolero?style=flat-square&cacheSeconds=86400) Blazor for F# with hot reloaded templates, type-safe endpoints and routing, remoting, and much more.
+* [BlazorLazyLoad](https://github.com/MarekPokornyOva/BlazorLazyLoad) - ![GitHub stars](https://img.shields.io/github/stars/MarekPokornyOva/BlazorLazyLoad?style=flat-square&cacheSeconds=604800) ![last commit](https://img.shields.io/github/last-commit/MarekPokornyOva/BlazorLazyLoad?style=flat-square&cacheSeconds=86400) BlazorLazyLoad is a implementation of assembly lazy load feature in Blazor WASM application on both page and component level.
 * [BlazorMobile](https://github.com/Daddoon/BlazorMobile) - ![GitHub stars](https://img.shields.io/github/stars/Daddoon/BlazorMobile?style=flat-square&cacheSeconds=604800) ![last commit](https://img.shields.io/github/last-commit/Daddoon/BlazorMobile?style=flat-square&cacheSeconds=86400) Launch Blazor as a mobile application on iOS, Android & UWP.
 * [NObservable](https://github.com/kekekeks/NObservable) - ![GitHub stars](https://img.shields.io/github/stars/kekekeks/NObservable?style=flat-square&cacheSeconds=604800) ![last commit](https://img.shields.io/github/last-commit/kekekeks/NObservable?style=flat-square&cacheSeconds=86400) MobX-like observables and component instrumentation.
 * [BlazorFabric](https://github.com/limefrogyank/BlazorFabric) - ![GitHub stars](https://img.shields.io/github/stars/limefrogyank/BlazorFabric?style=flat-square&cacheSeconds=604800) ![last commit](https://img.shields.io/github/last-commit/limefrogyank/BlazorFabric?style=flat-square&cacheSeconds=86400) Blazor port of Microsoft UI Fabric with fluent design. ([Demo](https://blazorfabric.azurewebsites.net/)).
