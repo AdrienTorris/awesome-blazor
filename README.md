@@ -7,9 +7,9 @@ Blazor is a .NET web framework using C#/Razor and HTML that runs in the browser 
 
 Contributions are always welcome! Please take a look at the [contribution guidelines](https://github.com/AdrienTorris/awesome-blazor/blob/master/CONTRIBUTING.md) pages first. Thanks to all [contributors](https://github.com/AdrienTorris/awesome-blazor/graphs/contributors), you're awesome and wouldn't be possible without you!
 
-## Special event: "Blazor Update". [Over]
-[<img src="https://adrientorris.github.io/wwwroot/images/blazor/aspnetcommunitystandupmlnetblazor.jpg" align="center" width="100%">](https://dotnet.microsoft.com/platform/community/standup)
-- ML.NET + Blazor with Bri Achtman and Luis Quintanilla.
+## Special event: "Virtual Meetup". [TODAY!]
+[<img src="https://secure.meetupstatic.com/photos/event/1/9/e/a/highres_490206634.jpeg" align="center" width="100%">](https://www.meetup.com/fr-FR/dotnetsouthwest/events/270194696/)
+- Virtual Meetup - What is Blazor? And why’s it so exciting? by Chris Sainty
 
 ## Contents
 * [Introduction](#introduction)
