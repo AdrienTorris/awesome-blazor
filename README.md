@@ -528,6 +528,7 @@ Note: the Blazor Visual Studio extension is no longer required since .NET Core 3
 * [Archives](https://github.com/AdrienTorris/awesome-blazor/tree/master/Archives) - [2018](https://github.com/AdrienTorris/awesome-blazor/blob/master/Archives/2018.md#presentations-slides).
 
 ## Tooling
+* [Awesome Blazor Browser](https://github.com/jsakamoto/awesome-blazor-browser) - A Blazor WebAssembly app for browsing the "Awesome Blazor" resources.
 * [Blazor Dev Server with CSS Live Reloader](https://github.com/jsakamoto/Toolbelt.Blazor.DevServer.WithCssLiveReloader) - ![GitHub stars](https://img.shields.io/github/stars/jsakamoto/Toolbelt.Blazor.DevServer.WithCssLiveReloader?style=flat-square&cacheSeconds=604800) ![GitHub last commit](https://img.shields.io/github/last-commit/jsakamoto/Toolbelt.Blazor.DevServer.WithCssLiveReloader?style=flat-square&cacheSeconds=86000) Alternative Blazor Dev Server to be available CSS live reloading.
 * [BlazorFiddle](https://blazorfiddle.com) - Blazor .Net Developer Playground and Code Editor in the Browser.
 * [Blazor Minimum Project Templates](https://github.com/jsakamoto/BlazorMinimumTemplates) - ![GitHub stars](https://img.shields.io/github/stars/jsakamoto/BlazorMinimumTemplates?style=flat-square&cacheSeconds=604800) ![GitHub last commit](https://img.shields.io/github/last-commit/jsakamoto/BlazorMinimumTemplates?style=flat-square&cacheSeconds=86000) A project templates package of Blazor apps without JavaScript and CSS libraries.
