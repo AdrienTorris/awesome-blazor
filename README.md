@@ -360,6 +360,7 @@ Note: the Blazor Visual Studio extension is no longer required since .NET Core 3
 * [Archives](https://github.com/AdrienTorris/awesome-blazor/tree/master/Archives) - [2019](https://github.com/AdrienTorris/awesome-blazor/blob/master/Archives/2019.md#videos), [2018](https://github.com/AdrienTorris/awesome-blazor/blob/master/Archives/2018.md#videos), [2017](https://github.com/AdrienTorris/awesome-blazor/blob/master/Archives/2017.md#videos).
 
 ## Articles
+* [Blazor WebAssembly 3.2.0 now available](https://devblogs.microsoft.com/aspnet/blazor-webassembly-3-2-0-now-available/) - May 19, 2020 - Blazor WebAssembly 3.2.0 now available.
 * [EF Core and Cosmos DB with Blazor WebAssembly](https://blog.jeremylikness.com/blog/ef-core-and-cosmosdb-with-blazor-webassembly) - May 14, 2020 - EF Core and Cosmos DB with Blazor WebAssembly.
 * [Blazor interview questions and answer](https://tutorialslink.com/Articles/Blazor-Interview-Questions-and-Answer/1413) - May 14, 2020 - Blazor interview questions and answer.
 * [Building a Progressive Web App with Blazor](https://devblogs.microsoft.com/visualstudio/building-a-progressive-web-app-with-blazor/) - May 13, 2020 - Building a Progressive Web App with Blazor.
