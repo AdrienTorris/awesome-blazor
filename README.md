@@ -12,7 +12,7 @@ Thanks @jsakamoto for this!
 
 ## Special event: "Microsoft Build 2020". [LIVE!]
 [<img src="https://adrientorris.github.io/wwwroot/images/microsoft/microsoft-build-banner.jpg" align="center" width="100%">](https://mybuild.microsoft.com/)
-- Microsoft Build is live! [MyBuild website](https://mybuild.microsoft.com/).
+- Microsoft Build is live! [MyBuild website](https://mybuild.microsoft.com/). [Sessions catalog](https://mybuild.microsoft.com/sessions].
 - You also can retrieve all the content on [Channel 9](https://channel9.msdn.com/Events/Build).
 
 ## Contents
