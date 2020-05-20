@@ -10,6 +10,11 @@ Contributions are always welcome! Please take a look at the [contribution guidel
 If you need to search on this list you can try this great website: [Awesome Blazor Browser](https://github.com/jsakamoto/awesome-blazor-browser).
 Thanks @jsakamoto for this!
 
+## Special event: "Microsoft Build 2020". [LIVE!]
+[<img src="https://adrientorris.github.io/wwwroot/images/microsoft/microsoft-build-banner.jpg" align="center" width="100%">](https://mybuild.microsoft.com/)
+- Microsoft Build is live! [MyBuild website](https://mybuild.microsoft.com/).
+- You also can retrieve all the content on [Channel 9](https://channel9.msdn.com/Events/Build).
+
 ## Contents
 * [Introduction](#introduction)
 * [General](#general)
