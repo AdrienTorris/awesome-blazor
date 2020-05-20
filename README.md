@@ -277,6 +277,7 @@ Note: the Blazor Visual Studio extension is no longer required since .NET Core 3
 * [Blazor.AdaptiveCards](https://github.com/mikoskinen/Blazor.AdaptiveCards) - Adaptive Cards for Blazor. [Documentation](https://adaptivecardsblazor.com/).
 
 ## Videos
+* [Modern Web UI with Blazor WebAssembly](https://channel9.msdn.com/Events/Build/2020/BOD104) - May 19, 2020 - Modern web development is here with Blazor! Be productive building beautiful interactive UI with .NET and C# that runs on any device via WebAssembly. PWAs, authentication, debugging and more. Video by Steve Sanderson from Microsoft.
 * [Blazor WASM authentication](https://www.twitch.tv/videos/614895872) - May 8, 2020 - Blazor WASM authentication, by Ed Charbeneau.
 * [Blazor Tutorial : Deploy to Azure App Services](https://www.youtube.com/watch?v=CFAE4_dwzAs&feature=youtu.be) - May 5, 2020 - Blazor Tutorial : Deploy to Azure App Services, by Curious Drive.
 * [Blazor StateHasChanged: E-book samples, code-behind, and office hours](https://www.twitch.tv/videos/608126510) - May 1, 2020 - Blazor StateHasChanged: E-book samples, code-behind, and office hours.
