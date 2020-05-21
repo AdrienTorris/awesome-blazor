@@ -61,6 +61,12 @@ To get started with Blazor, follow the instructions in the [Blazor Get Started](
 * [Introduction to ASP.NET Core](https://docs.microsoft.com/en-us/aspnet/core/) - Introduction to ASP.NET Core.
 * [Study Blazor](https://studyblazor.com) - Blazor tutorial for beginners, in simple and easy steps starting from basics to advanced concepts with more code snippets.
 * [Workshop](https://github.com/dotnet-presentations/blazor-workshop/) - ![GitHub stars](https://img.shields.io/github/stars/dotnet-presentations/blazor-workshop?style=flat-square&cacheSeconds=604800&logo=microsoft) ![last commit](https://img.shields.io/github/last-commit/aspnet/Blazor?style=flat-square&cacheSeconds=86400) Build a complete Blazor app and learn about the various Blazor framework features along the way.
+* [Blazui Server rendering Demo](http://blazui.com/) - Blazui Official server rendering demo website. The server is in China, so the access speed may be slow
+* [Blazor community](https://www.blazor.group) - A Blazor community, based on Blazui, Server rendering.The server is in China, so the access speed may be slow
+* [Blazor community management](https://admin.blazor.group) - Blazor community management website, based on Blazui.Admin.The server is in China, so the access speed may be slow
+* [Blazor community management](https://admin.blazor.group) - Blazor community management website, based on Blazui.Admin.The server is in China, so the access speed may be slow
+* [Blazui WASM PWA Demo](https://pwawasm.github.io) - Blazui WebAssembly rendering, PWA mode demo
+* [Blazui WASM Demo](https://blazorwasm.github.io) - Blazui WebAssembly rendering demo
 
 ## Sample Projects
 ### Authentication
@@ -219,6 +225,7 @@ To get started with Blazor, follow the instructions in the [Blazor Get Started](
 * [DnetOverlay](https://github.com/amuste/DnetOverlay) - ![last commit](https://img.shields.io/github/last-commit/amuste/DnetOverlay?style=flat-square&cacheSeconds=86400) Agular CDK Overlay implementation for Blazor.
 * [Table.Net](https://github.com/pablofrommars/TableNet) - ![last commit](https://img.shields.io/github/last-commit/pablofrommars/TableNet?style=flat-square&cacheSeconds=86400) Interactive and flexible Data Tables for Blazor Web Apps.
 * [Blazor-Sparkline](https://github.com/Misfits-Rebels-Outcasts/Blazor-Sparkline) - ![last commit](https://img.shields.io/github/last-commit/Misfits-Rebels-Outcasts/Blazor-Sparkline?style=flat-square&cacheSeconds=86400) Sparkline Charts for Blazor using Fonts.
+* [Blazui](https://github.com/wzxinchen/Blazui) - [![Nuget](https://img.shields.io/nuget/dt/Blazui.svg)](https://www.nuget.org/packages/Blazui/) ![GitHub stars](https://img.shields.io/github/stars/wzxinchen/Blazui?style=flat-square&cacheSeconds=604800) ![last commit](https://img.shields.io/github/last-commit/wzxinchen/Blazui?style=flat-square&cacheSeconds=86400) A full-featured Blazor component library using Element UI, inlcude markdown editor, admin management template
 ### Tools & Utilities
 *Libraries and extensions for state management, cookies, local storage and other specific tools.*
 * [Blazor-Redux](https://github.com/torhovland/blazor-redux) - ![GitHub stars](https://img.shields.io/github/stars/torhovland/blazor-redux?style=flat-square&cacheSeconds=604800) ![last commit](https://img.shields.io/github/last-commit/torhovland/blazor-redux?style=flat-square&cacheSeconds=86400) Connecting a Redux state store with Blazor.
