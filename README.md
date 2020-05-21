@@ -64,7 +64,6 @@ To get started with Blazor, follow the instructions in the [Blazor Get Started](
 * [Blazui Server rendering Demo](http://blazui.com/) - Blazui Official server rendering demo website. The server is in China, so the access speed may be slow
 * [Blazor community](https://www.blazor.group) - A Blazor community, based on Blazui, Server rendering.The server is in China, so the access speed may be slow
 * [Blazor community management](https://admin.blazor.group) - Blazor community management website, based on Blazui.Admin.The server is in China, so the access speed may be slow
-* [Blazor community management](https://admin.blazor.group) - Blazor community management website, based on Blazui.Admin.The server is in China, so the access speed may be slow
 * [Blazui WASM PWA Demo](https://pwawasm.github.io) - Blazui WebAssembly rendering, PWA mode demo
 * [Blazui WASM Demo](https://blazorwasm.github.io) - Blazui WebAssembly rendering demo
 
