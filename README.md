@@ -366,7 +366,7 @@ To get started with Blazor, follow the instructions in the [Blazor Get Started](
 * [Archives](https://github.com/AdrienTorris/awesome-blazor/tree/master/Archives) - [2019](https://github.com/AdrienTorris/awesome-blazor/blob/master/Archives/2019.md#videos), [2018](https://github.com/AdrienTorris/awesome-blazor/blob/master/Archives/2018.md#videos), [2017](https://github.com/AdrienTorris/awesome-blazor/blob/master/Archives/2017.md#videos).
 
 ## Articles
-* [Attach Blazor to Azure IoT Edge routing, showing live message feed](https://sandervandevelde.wordpress.com/2020/05/03/attach-blazor-to-azure-iot-edge-routing-showing-live-message-feed/) - May 21, 2020 - Attach Blazor to Azure IoT Edge routing, showing live message feed
+* [Attach Blazor to Azure IoT Edge routing, showing live message feed](https://sandervandevelde.wordpress.com/2020/05/03/attach-blazor-to-azure-iot-edge-routing-showing-live-message-feed/) - May 21, 2020 - Attach Blazor to Azure IoT Edge routing, showing live message feed.
 * [Blazor WebAssembly 3.2.0 now available](https://devblogs.microsoft.com/aspnet/blazor-webassembly-3-2-0-now-available/) - May 19, 2020 - Blazor WebAssembly 3.2.0 now available.
 * [EF Core and Cosmos DB with Blazor WebAssembly](https://blog.jeremylikness.com/blog/ef-core-and-cosmosdb-with-blazor-webassembly) - May 14, 2020 - EF Core and Cosmos DB with Blazor WebAssembly.
 * [Blazor interview questions and answer](https://tutorialslink.com/Articles/Blazor-Interview-Questions-and-Answer/1413) - May 14, 2020 - Blazor interview questions and answer.
