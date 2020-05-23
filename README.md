@@ -219,6 +219,7 @@ To get started with Blazor, follow the instructions in the [Blazor Get Started](
 * [DnetOverlay](https://github.com/amuste/DnetOverlay) - ![last commit](https://img.shields.io/github/last-commit/amuste/DnetOverlay?style=flat-square&cacheSeconds=86400) Agular CDK Overlay implementation for Blazor.
 * [Table.Net](https://github.com/pablofrommars/TableNet) - ![last commit](https://img.shields.io/github/last-commit/pablofrommars/TableNet?style=flat-square&cacheSeconds=86400) Interactive and flexible Data Tables for Blazor Web Apps.
 * [Blazor-Sparkline](https://github.com/Misfits-Rebels-Outcasts/Blazor-Sparkline) - ![last commit](https://img.shields.io/github/last-commit/Misfits-Rebels-Outcasts/Blazor-Sparkline?style=flat-square&cacheSeconds=86400) Sparkline Charts for Blazor using Fonts.
+* [Blazor-ApexCharts](https://github.com/joadan/Blazor-ApexCharts) - ![last commit](https://img.shields.io/github/last-commit/joadan/Blazor-ApexCharts?style=flat-square&cacheSeconds=86400) Blazor wrapper for ApexCharts. [Demo](https://joadan.github.io/Blazor-ApexCharts/basic-charts).
 ### Tools & Utilities
 *Libraries and extensions for state management, cookies, local storage and other specific tools.*
 * [Blazor-Redux](https://github.com/torhovland/blazor-redux) - ![GitHub stars](https://img.shields.io/github/stars/torhovland/blazor-redux?style=flat-square&cacheSeconds=604800) ![last commit](https://img.shields.io/github/last-commit/torhovland/blazor-redux?style=flat-square&cacheSeconds=86400) Connecting a Redux state store with Blazor.
