@@ -367,6 +367,7 @@ To get started with Blazor, follow the instructions in the [Blazor Get Started](
 * [Archives](https://github.com/AdrienTorris/awesome-blazor/tree/master/Archives) - [2019](https://github.com/AdrienTorris/awesome-blazor/blob/master/Archives/2019.md#videos), [2018](https://github.com/AdrienTorris/awesome-blazor/blob/master/Archives/2018.md#videos), [2017](https://github.com/AdrienTorris/awesome-blazor/blob/master/Archives/2017.md#videos).
 
 ## Articles
+* [Hosting Blazor WebAssembly in Azure Static Web Apps (Preview)](https://timheuer.com/blog/hosting-blazor-in-azure-static-web-apps/) - May 19, 2020 - Hosting Blazor WebAssembly in Azure Static Web Apps (Preview).
 * [Blazor WebAssembly 3.2.0 now available](https://devblogs.microsoft.com/aspnet/blazor-webassembly-3-2-0-now-available/) - May 19, 2020 - Blazor WebAssembly 3.2.0 now available.
 * [EF Core and Cosmos DB with Blazor WebAssembly](https://blog.jeremylikness.com/blog/ef-core-and-cosmosdb-with-blazor-webassembly) - May 14, 2020 - EF Core and Cosmos DB with Blazor WebAssembly.
 * [Blazor interview questions and answer](https://tutorialslink.com/Articles/Blazor-Interview-Questions-and-Answer/1413) - May 14, 2020 - Blazor interview questions and answer.
