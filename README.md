@@ -366,7 +366,6 @@ To get started with Blazor, follow the instructions in the [Blazor Get Started](
 * [Archives](https://github.com/AdrienTorris/awesome-blazor/tree/master/Archives) - [2019](https://github.com/AdrienTorris/awesome-blazor/blob/master/Archives/2019.md#videos), [2018](https://github.com/AdrienTorris/awesome-blazor/blob/master/Archives/2018.md#videos), [2017](https://github.com/AdrienTorris/awesome-blazor/blob/master/Archives/2017.md#videos).
 
 ## Articles
-* [Attach Blazor to Azure IoT Edge routing, showing live message feed](https://sandervandevelde.wordpress.com/2020/05/03/attach-blazor-to-azure-iot-edge-routing-showing-live-message-feed/) - May 21, 2020 - Attach Blazor to Azure IoT Edge routing, showing live message feed.
 * [Blazor WebAssembly 3.2.0 now available](https://devblogs.microsoft.com/aspnet/blazor-webassembly-3-2-0-now-available/) - May 19, 2020 - Blazor WebAssembly 3.2.0 now available.
 * [EF Core and Cosmos DB with Blazor WebAssembly](https://blog.jeremylikness.com/blog/ef-core-and-cosmosdb-with-blazor-webassembly) - May 14, 2020 - EF Core and Cosmos DB with Blazor WebAssembly.
 * [Blazor interview questions and answer](https://tutorialslink.com/Articles/Blazor-Interview-Questions-and-Answer/1413) - May 14, 2020 - Blazor interview questions and answer.
@@ -374,6 +373,7 @@ To get started with Blazor, follow the instructions in the [Blazor Get Started](
 * [Telerik UI for Blazor: 40+ Native Components with Telerik R2 2020 Release](https://www.telerik.com/blogs/telerik-ui-for-blazor-40-native-components-telerik-r2-2020-release) - May 13, 2020 - Telerik UI for Blazor: 40+ Native Components with Telerik R2 2020 Release.
 * [Unit Testing Blazor Components with bUnit and JustMock](https://www.telerik.com/blogs/unit-testing-blazor-components-bunit-justmock) - May 11, 2020 - Unit Testing Blazor Components with bUnit and JustMock.
 * [Auto saving form data in Blazor](https://chrissainty.com/auto-saving-form-data-in-blazor/) - May 5, 2020 - Auto saving form data in Blazor.
+* [Attach Blazor to Azure IoT Edge routing, showing live message feed](https://sandervandevelde.wordpress.com/2020/05/03/attach-blazor-to-azure-iot-edge-routing-showing-live-message-feed/) - May 3, 2020 - Attach Blazor to Azure IoT Edge routing, showing live message feed.
 * [Blazor WebAssembly 3.2.0 Release Candidate now available](https://devblogs.microsoft.com/aspnet/blazor-webassembly-3-2-0-release-candidate-now-available) - April 30, 2020 - Blazor WebAssembly 3.2.0 Release Candidate now available. The Blazor WebAssembly Release Candidate is here! This release contains all of the features and improvements that we expect to release for the upcoming Blazor WebAssembly release. There are no more breaking changes planned at this point.
 * [Quickly transform any mockup or design into a working Blazor prototype](https://jonhilton.net/build-anything-using-blazor-components/) - April 29, 2020 - Quickly transform any mockup or design into a working Blazor prototype.
 * [Copy to Clipboard in Blazor](https://chrissainty.com/copy-to-clipboard-in-blazor/) - April 29, 2020 - Copy to Clipboard in Blazor.
