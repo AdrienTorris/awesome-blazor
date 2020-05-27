@@ -10,10 +10,9 @@ Contributions are always welcome! Please take a look at the [contribution guidel
 If you need to search on this list you can try this great website: [Awesome Blazor Browser](https://github.com/jsakamoto/awesome-blazor-browser).
 Thanks @jsakamoto for this!
 
-## Special event: "Microsoft Build 2020". [Over]
-[<img src="https://adrientorris.github.io/wwwroot/images/microsoft/microsoft-build-banner.jpg" align="center" width="100%">](https://mybuild.microsoft.com/)
-- Microsoft Build is live! [MyBuild website](https://mybuild.microsoft.com/). [Sessions catalog](https://mybuild.microsoft.com/sessions).
-- You also can retrieve all the content on [Channel 9](https://channel9.msdn.com/Events/Build).
+## Special event: "Blazor WebAssembly 3.2 Release Party!". [Over]
+[<img src="https://pbs.twimg.com/media/EY9FPm1UcAAR4cj?format=jpg&name=medium" align="center" width="100%">](https://www.youtube.com/watch?v=onI2_Q0wrdM&list=PL1rZQsJPBU2St9-Mz1Kaa7rofciyrwWVx&index=0)
+- ASP.NET Community Standup - Blazor WebAssembly 3.2 Release Party!
 
 ## Contents
 * [Introduction](#introduction)
