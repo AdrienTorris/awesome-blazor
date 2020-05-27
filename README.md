@@ -353,6 +353,7 @@ To get started with Blazor, follow the instructions in the [Blazor Get Started](
 * [Archives](https://github.com/AdrienTorris/awesome-blazor/tree/master/Archives) - [2019](https://github.com/AdrienTorris/awesome-blazor/blob/master/Archives/2019.md#videos), [2018](https://github.com/AdrienTorris/awesome-blazor/blob/master/Archives/2018.md#videos), [2017](https://github.com/AdrienTorris/awesome-blazor/blob/master/Archives/2017.md#videos).
 
 ## Articles
+* [The best samples to teach yourself Blazor](https://medium.com/young-coder/the-best-samples-to-teach-yourself-blazor-4d29cec607f5) - May 27, 2020 - The best samples to teach yourself Blazor. Now that Microsoft’s C#-in-a-browser platform is an official release, it’s safe to dig in.
 * [Announcing Experimental Mobile Blazor Bindings May update](https://devblogs.microsoft.com/aspnet/announcing-experimental-mobile-blazor-bindings-may-update/) - May 26, 2020 - Announcing Experimental Mobile Blazor Bindings May update.
 * [Blazor news from Build 2020](https://chrissainty.com/blazor-news-from-build-2020/) - May 26, 2020 - Blazor news from Build 2020.
 * [Azure AD Secured Serverless Cosmos DB from Blazor WebAssembly](https://blog.jeremylikness.com/blog/azure-ad-secured-serverless-cosmosdb-from-blazor-webassembly) - May 25, 2020 - Azure AD Secured Serverless Cosmos DB from Blazor WebAssembly, an authentic look at static sites with dynamic attitudes.
