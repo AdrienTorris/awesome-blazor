@@ -7,8 +7,8 @@ Blazor is a .NET web framework using C#/Razor and HTML that runs in the browser 
 
 Contributions are always welcome! Please take a look at the [contribution guidelines](https://github.com/AdrienTorris/awesome-blazor/blob/master/CONTRIBUTING.md) pages first. Thanks to all [contributors](https://github.com/AdrienTorris/awesome-blazor/graphs/contributors), you're awesome and wouldn't be possible without you!
 
-If you need to search on this list you can try this great website: [Awesome Blazor Browser](https://github.com/jsakamoto/awesome-blazor-browser).
-Thanks @jsakamoto for this!
+If you need to search on this list you can try this great website: [Awesome Blazor Browser](https://jsakamoto.github.io/awesome-blazor-browser/).
+Thanks @jsakamoto for this! [Source code](https://github.com/jsakamoto/awesome-blazor-browser) ![stars](https://img.shields.io/github/stars/jsakamoto/awesome-blazor-browser?style=flat-square&cacheSeconds=604800) ![last commit](https://img.shields.io/github/last-commit/jsakamoto/awesome-blazor-browser?style=flat-square&cacheSeconds=86400).
 
 ## Special event: "Blazor WebAssembly 3.2 Release Party!". [Over]
 [<img src="https://pbs.twimg.com/media/EY9FPm1UcAAR4cj?format=jpg&name=medium" align="center" width="100%">](https://www.youtube.com/watch?v=onI2_Q0wrdM&list=PL1rZQsJPBU2St9-Mz1Kaa7rofciyrwWVx&index=0)
