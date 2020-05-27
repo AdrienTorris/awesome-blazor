@@ -283,6 +283,7 @@ To get started with Blazor, follow the instructions in the [Blazor Get Started](
 * [Blazor.AdaptiveCards](https://github.com/mikoskinen/Blazor.AdaptiveCards) - Adaptive Cards for Blazor. [Documentation](https://adaptivecardsblazor.com/).
 
 ## Videos
+* [Blazor WebAssembly 3.2 Release Party!](https://www.youtube.com/watch?v=onI2_Q0wrdM&list=PL1rZQsJPBU2St9-Mz1Kaa7rofciyrwWVx&index=0) - ![duration](https://img.shields.io/badge/Duration:%20-84%20min-%230094FF?style=flat-square&cacheSeconds=maxAge&logo=microsoft) May 26, 2020 - ASP.NET Community Standup - Blazor WebAssembly 3.2 Release Party!
 * [Modern Web UI with Blazor WebAssembly](https://channel9.msdn.com/Events/Build/2020/BOD104) - ![duration](https://img.shields.io/badge/Duration:%20-45%20min-%230094FF?style=flat-square&cacheSeconds=maxAge&logo=microsoft) May 19, 2020 - Modern web development is here with Blazor! Be productive building beautiful interactive UI with .NET and C# that runs on any device via WebAssembly. PWAs, authentication, debugging and more. Video by Steve Sanderson from Microsoft.
 * [Blazor WASM authentication](https://www.twitch.tv/videos/614895872) - ![duration](https://img.shields.io/badge/Duration:%20-99%20min-%230094FF?style=flat-square&cacheSeconds=maxAge&logo=twitch) May 8, 2020 - Blazor WASM authentication, by Ed Charbeneau.
 * [Blazor Tutorial : Deploy to Azure App Services](https://www.youtube.com/watch?v=CFAE4_dwzAs&feature=youtu.be) - May 5, 2020 - Blazor Tutorial : Deploy to Azure App Services, by Curious Drive.
