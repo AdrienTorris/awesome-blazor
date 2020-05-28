@@ -1,4 +1,4 @@
-# Awesome Blazor [![Awesome](https://awesome.re/badge-flat2.svg)](https://awesome.re)
+﻿# Awesome Blazor [![Awesome](https://awesome.re/badge-flat2.svg)](https://awesome.re)
 [<img src="https://adrientorris.github.io/wwwroot/images/blazor/logo-blazor.png" align="right" width="170">](https://dotnet.microsoft.com/apps/aspnet/web-apps/client)
 
 > A collection of awesome Blazor resources.
@@ -289,6 +289,7 @@ To get started with Blazor, follow the instructions in the [Blazor Get Started](
 * [BlazorFileSaver](https://github.com/IvanJosipovic/BlazorFileSaver) - Blazor Component wrapper for FileSaver.js ([Demo](https://blazorfilesaver.netlify.com)).
 * [Blazor.DynamicJavascriptRuntime.Evaluator](https://github.com/jameschch/Blazor.DynamicJavascriptRuntime.Evaluator) - Execute dynamic object expressions as Javascript in Blazor client-side apps.
 * [Blazor.AdaptiveCards](https://github.com/mikoskinen/Blazor.AdaptiveCards) - Adaptive Cards for Blazor. [Documentation](https://adaptivecardsblazor.com/).
+* [BlazorLazyLoad](https://github.com/MarekPokornyOva/BlazorLazyLoad) - ![GitHub stars](https://img.shields.io/github/stars/MarekPokornyOva/BlazorLazyLoad?style=flat-square&cacheSeconds=604800) ![last commit](https://img.shields.io/github/last-commit/MarekPokornyOva/BlazorLazyLoad?style=flat-square&cacheSeconds=86400) BlazorLazyLoad is a implementation of assembly lazy load feature in Blazor WASM application on both page and component level.
 
 ## Videos
 * [Blazor WebAssembly 3.2 Release Party!](https://www.youtube.com/watch?v=onI2_Q0wrdM&list=PL1rZQsJPBU2St9-Mz1Kaa7rofciyrwWVx&index=0) - ![duration](https://img.shields.io/badge/Duration:%20-84%20min-%230094FF?style=flat-square&cacheSeconds=maxAge&logo=microsoft) May 26, 2020 - ASP.NET Community Standup - Blazor WebAssembly 3.2 Release Party!
