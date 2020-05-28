@@ -225,6 +225,7 @@ To get started with Blazor, follow the instructions in the [Blazor Get Started](
 * [Blazor-ApexCharts](https://github.com/joadan/Blazor-ApexCharts) - ![last commit](https://img.shields.io/github/last-commit/joadan/Blazor-ApexCharts?style=flat-square&cacheSeconds=86400) Blazor wrapper for ApexCharts. [Demo](https://joadan.github.io/Blazor-ApexCharts/basic-charts).
 * [BlazorCss](https://github.com/tomlm/BlazorCss) - ![last commit](https://img.shields.io/github/last-commit/tomlm/BlazorCss?style=flat-square&cacheSeconds=604800) CSS Helper for BlazorStyled which provides auto complete CSS styles.
 * [BlazorCssGrid](https://github.com/tomlm/BlazorCssGrid) - ![last commit](https://img.shields.io/github/last-commit/tomlm/BlazorCssGrid?style=flat-square&cacheSeconds=604800) Css Helper for defining Grid SPA layouts in BlazorStyled.
+* [MComponents](https://github.com/manureini/MComponents) - ![last commit](https://img.shields.io/github/last-commit/manureini/MComponents?style=flat-square&cacheSeconds=86400) Open Source MIT Blazor Components: Grid, Select, Wizard etc.
 ### Tools & Utilities
 *Libraries and extensions for state management, cookies, local storage and other specific tools.*
 * [Blazor-Redux](https://github.com/torhovland/blazor-redux) - ![GitHub stars](https://img.shields.io/github/stars/torhovland/blazor-redux?style=flat-square&cacheSeconds=604800) ![last commit](https://img.shields.io/github/last-commit/torhovland/blazor-redux?style=flat-square&cacheSeconds=86400) Connecting a Redux state store with Blazor.
