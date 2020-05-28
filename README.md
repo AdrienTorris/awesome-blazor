@@ -155,6 +155,7 @@ To get started with Blazor, follow the instructions in the [Blazor Get Started](
 * [BlazorGrpcWebCodeFirst](https://github.com/hakenr/BlazorGrpcWebCodeFirst) - ![last commit](https://img.shields.io/github/last-commit/hakenr/BlazorGrpcWebCodeFirst?style=flat-square&cacheSeconds=86000) Sample project that demonstrates how you can use gRPC-Web with Blazor WebAssembly hosted on ASP.NET Core. Publish and consume your services without having to create .proto files - with the code-first approach.
 * [GTAVehicles](https://github.com/mytatuo/GTAVehicles) - ![last commit](https://img.shields.io/github/last-commit/mytatuo/GTAVehicles?style=flat-square&cacheSeconds=86000) Sample app to manage GTA vehicles. [Demo](https://gtavehicles.azurewebsites.net/).
 * [BlazingWaffles](https://github.com/gbiellem/BlazingWaffles) - ![last commit](https://img.shields.io/github/last-commit/gbiellem/BlazingWaffles?style=flat-square&cacheSeconds=86000) A Blazor app that wraps [Waffle Generator](https://github.com/SimonCropp/WaffleGenerator). The generator outputs readable gibberish that can be used in place of Lorum Ipsum. [Demo](http://wafflegen.azurewebsites.net/).
+* [Cærostris](https://github.com/tresoneur/Caerostris) - ![last commit](https://img.shields.io/github/last-commit/tresoneur/Caerostris?style=flat-square&cacheSeconds=86000) A Blazor Spotify client.
 
 ## Tutorials
 * [Blazor workshop](https://github.com/dotnet-presentations/blazor-workshop/) - ![GitHub stars](https://img.shields.io/github/stars/dotnet-presentations/blazor-workshop?style=flat-square&cacheSeconds=604800&logo=microsoft) Blazor app building workshop by [.NET Foundation](https://www.dotnetfoundation.org/), Blazzing Pizza.
@@ -289,6 +290,7 @@ To get started with Blazor, follow the instructions in the [Blazor Get Started](
 * [BlazorFileSaver](https://github.com/IvanJosipovic/BlazorFileSaver) - Blazor Component wrapper for FileSaver.js ([Demo](https://blazorfilesaver.netlify.com)).
 * [Blazor.DynamicJavascriptRuntime.Evaluator](https://github.com/jameschch/Blazor.DynamicJavascriptRuntime.Evaluator) - Execute dynamic object expressions as Javascript in Blazor client-side apps.
 * [Blazor.AdaptiveCards](https://github.com/mikoskinen/Blazor.AdaptiveCards) - Adaptive Cards for Blazor. [Documentation](https://adaptivecardsblazor.com/).
+* [SpotifyService](https://github.com/tresoneur/SpotifyService) - ![last commit](https://img.shields.io/github/last-commit/tresoneur/SpotifyService?style=flat-square&cacheSeconds=86000) A high-level Spotify API library for Blazor WebAssembly projects that enables Spotify playback in the browser, manages OAuth 2.0 authorization, provides easy access to the Spotify Web API and uses IndexedDB caching.
 
 ## Videos
 * [Blazor WebAssembly 3.2 Release Party!](https://www.youtube.com/watch?v=onI2_Q0wrdM&list=PL1rZQsJPBU2St9-Mz1Kaa7rofciyrwWVx&index=0) - ![duration](https://img.shields.io/badge/Duration:%20-84%20min-%230094FF?style=flat-square&cacheSeconds=maxAge&logo=microsoft) May 26, 2020 - ASP.NET Community Standup - Blazor WebAssembly 3.2 Release Party!
