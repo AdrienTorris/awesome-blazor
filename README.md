@@ -251,7 +251,7 @@ Note: the Blazor Visual Studio extension is no longer required since .NET Core 3
 * [BlazorSize](https://github.com/EdCharbeneau/BlazorSize) - BlazorSize is a JavaScript interop library for Blazor that is used to detect the Browser's current size, change in size, and test media queries.
 * [LiquidTechnologies.Blazor.ModalDialog](https://github.com/LiquidTechnologies/blazor-modal-dialog) - Turns Blazor components into Modal Dialogs, allows values to be returned from the dialogs (var result = await ShowDialogAsync(...)), includes simple MessageBox and data capture dialogs (for Blazor Client & Server).
 * [GG.Net Data Visualization](https://github.com/pablofrommars/GGNet) - Interactive and flexible charts for Blazor Web Apps. Taking its inspiration from the highly popular ggpplot2 R package, GG.Net provides natively rich features for your Data Analysis Workflow. Build publication quality charts with just a few lines of code. [Website](https://pablofrommars.github.io/).
-* [MComponents](https://github.com/manureini/MComponents) - ![MComponentsGitHub stars](https://img.shields.io/github/stars/manureini/MComponents?style=flat-square&cacheSeconds=86400) ![MComponentCommit](https://img.shields.io/github/last-commit/manureini/MComponents?style=flat-square&cacheSeconds=86400) Open Source MIT Blazor Components: Grid, Select, Wizard etc.
+* [MComponents](https://github.com/manureini/MComponents) - ![last commit](https://img.shields.io/github/last-commit/manureini/MComponents?style=flat-square&cacheSeconds=86400) Open Source MIT Blazor Components: Grid, Select, Wizard etc.
 ### Tools & Utilities
 *Libraries and extensions for state management, cookies, local storage and other specific tools.*
 * [Blazor-Redux](https://github.com/torhovland/blazor-redux) - ![GitHub stars](https://img.shields.io/github/stars/torhovland/blazor-redux?style=flat-square&cacheSeconds=604800) Connecting a Redux state store with Blazor.
@@ -432,7 +432,6 @@ Note: the Blazor Visual Studio extension is no longer required since .NET Core 3
 * [Blazor - Getting Started with Daniel and Mehul](https://www.youtube.com/watch?v=93OtjA8VUgc) - June 6, 2019 - Blazor - Getting Started with Daniel Roth and Mehul Harry, published by DevExpress.
 * [Blazor client-side app with CRUD operations against a Web API endpoint](https://www.youtube.com/watch?v=wkSR3eo4Tek) - June 1, 2019 - Blazor client-side app with CRUD operations against a Web API endpoint.
 * [Archives](https://github.com/AdrienTorris/awesome-blazor/tree/master/Archives) - [2019](https://github.com/AdrienTorris/awesome-blazor/blob/master/Archives/2019.md#videos), [2018](https://github.com/AdrienTorris/awesome-blazor/blob/master/Archives/2018.md#videos), [2017](https://github.com/AdrienTorris/awesome-blazor/blob/master/Archives/2017.md#videos).
-
 
 ## Articles
 * [Hundreds of practical ASP.NET Core samples to learn the fundamentals](https://www.hanselman.com/blog/HundredsOfPracticalASPNETCoreSamplesToLearnTheFundamentals.aspx) - February 19, 2020 - Hundreds of practical ASP.NET Core samples to learn the fundamentals, and there are great samples about Blazor.
