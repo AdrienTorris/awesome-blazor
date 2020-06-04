@@ -10,7 +10,7 @@ Contributions are always welcome! Please take a look at the [contribution guidel
 If you need to search on this list you can try this great website: [Awesome Blazor Browser](https://jsakamoto.github.io/awesome-blazor-browser/).
 Thanks @jsakamoto for this! [Source code](https://github.com/jsakamoto/awesome-blazor-browser) ![stars](https://img.shields.io/github/stars/jsakamoto/awesome-blazor-browser?style=flat-square&cacheSeconds=604800) ![last commit](https://img.shields.io/github/last-commit/jsakamoto/awesome-blazor-browser?style=flat-square&cacheSeconds=86400).
 
-## Special event: "Blazor Beyond the Web". [LIVE!]
+## Special event: "Blazor Beyond the Web". [Over]
 [<img src="https://adrientorris.github.io/wwwroot/images/blazor/blazor-beyond-the-web-banner.png" align="center" width="100%">](https://www.twitch.tv/videos/640062859)
 
 ## Contents
