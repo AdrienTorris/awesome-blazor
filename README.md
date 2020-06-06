@@ -229,6 +229,7 @@ To get started with Blazor, follow the instructions in the [Blazor Get Started](
 * [BlazorCssGrid](https://github.com/tomlm/BlazorCssGrid) - ![last commit](https://img.shields.io/github/last-commit/tomlm/BlazorCssGrid?style=flat-square&cacheSeconds=604800) Css Helper for defining Grid SPA layouts in BlazorStyled.
 * [MComponents](https://github.com/manureini/MComponents) - ![last commit](https://img.shields.io/github/last-commit/manureini/MComponents?style=flat-square&cacheSeconds=86400) Open Source MIT Blazor Components: Grid, Select, Wizard etc.
 * [GEmojiSharp.Blazor](https://github.com/hlaueriksson/GEmojiSharp) - ![last commit](https://img.shields.io/github/last-commit/hlaueriksson/GEmojiSharp?style=flat-square&cacheSeconds=86400) GitHub Emoji for Blazor ([Demo](https://hlaueriksson.github.io/GEmojiSharp/)).
+* [Sve-Blazor-DataTable](https://github.com/SveNord/Sve-Blazor-DataTable) - Blazor DataTable component with support for client/server side paging, filtering and sorting, build on top of bootstrap 4.
 ### Tools & Utilities
 *Libraries and extensions for state management, cookies, local storage and other specific tools.*
 * [Blazor-Redux](https://github.com/torhovland/blazor-redux) - ![GitHub stars](https://img.shields.io/github/stars/torhovland/blazor-redux?style=flat-square&cacheSeconds=604800) ![last commit](https://img.shields.io/github/last-commit/torhovland/blazor-redux?style=flat-square&cacheSeconds=86400) Connecting a Redux state store with Blazor.
