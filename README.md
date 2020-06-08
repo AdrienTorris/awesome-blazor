@@ -156,6 +156,7 @@ To get started with Blazor, follow the instructions in the [Blazor Get Started](
 * [GTAVehicles](https://github.com/mytatuo/GTAVehicles) - ![last commit](https://img.shields.io/github/last-commit/mytatuo/GTAVehicles?style=flat-square&cacheSeconds=86000) Sample app to manage GTA vehicles. [Demo](https://gtavehicles.azurewebsites.net/).
 * [BlazingWaffles](https://github.com/gbiellem/BlazingWaffles) - ![last commit](https://img.shields.io/github/last-commit/gbiellem/BlazingWaffles?style=flat-square&cacheSeconds=86000) A Blazor app that wraps [Waffle Generator](https://github.com/SimonCropp/WaffleGenerator). The generator outputs readable gibberish that can be used in place of Lorum Ipsum. [Demo](http://wafflegen.azurewebsites.net/).
 * [Cærostris](https://github.com/tresoneur/Caerostris) - ![last commit](https://img.shields.io/github/last-commit/tresoneur/Caerostris?style=flat-square&cacheSeconds=86000) A Blazor Spotify client.
+* [Blazor Chat](https://github.com/DataJuggler/BlazorChat) - ![last commit](https://img.shields.io/github/last-commit/DataJuggler/BlazorChat?style=flat-square&cacheSeconds=86000) A sample project that demonstrates using a Singleton class to communicate to all subscribers. Site is also live at https://blazorchat.com. 
 
 ## Tutorials
 * [Blazor workshop](https://github.com/dotnet-presentations/blazor-workshop/) - ![GitHub stars](https://img.shields.io/github/stars/dotnet-presentations/blazor-workshop?style=flat-square&cacheSeconds=604800&logo=microsoft) Blazor app building workshop by [.NET Foundation](https://www.dotnetfoundation.org/), Blazzing Pizza.
@@ -271,7 +272,7 @@ To get started with Blazor, follow the instructions in the [Blazor Get Started](
 * [BlazorLeaflet](https://github.com/Mehigh17/BlazorLeaflet) - BlazorLeaflet is a wrapper offering easy-to-use Blazor components that expose the Leaflet API in C#.
 * [Simple logging server](https://github.com/shawty/simpleloggingserver) - An ultra simple remote log message server written in Blazor and .NET Core 3.
 * [Howler.Blazor](https://github.com/StefH/Howler.Blazor) - A Blazor JSInterop wrapper for Howler.js, an audio library.
-* [DataJuggler.Blazor.FileUpload](https://github.com/DataJuggler/BlazorFileUpload) - Wrapper for Steve Sanderson's BlazorFileInput component.
+* [DataJuggler.Blazor.FileUpload](https://github.com/DataJuggler/BlazorFileUpload) - ![GitHub stars](https://img.shields.io/github/stars/DataJuggler/BlazorFileUpload?style=flat-square&cacheSeconds=604800) Wrapper for Steve Sanderson's BlazorFileInput component.
 * [Cortex.Net](https://github.com/jspuij/Cortex.Net) - State management like MobX for .NET and Blazor.
 * [Blazor.LazyStyleSheet](https://github.com/excubo-ag/Blazor.LazyStyleSheet) - ![last commit](https://img.shields.io/github/last-commit/excubo-ag/Blazor.LazyStyleSheet?style=flat-square&cacheSeconds=86400) Lazy loading for CSS style sheets.
 * [Blazor.ScriptInjection](https://github.com/excubo-ag/Blazor.ScriptInjection) - ![last commit](https://img.shields.io/github/last-commit/excubo-ag/Blazor.ScriptInjection?style=flat-square&cacheSeconds=86400) Smart script tags in Blazor components, ideal for lazy loading of javascript files.
