@@ -377,6 +377,7 @@ To get started with Blazor, follow the instructions in the [Blazor Get Started](
 * [Archives](https://github.com/AdrienTorris/awesome-blazor/tree/master/Archives) - [2019](https://github.com/AdrienTorris/awesome-blazor/blob/master/Archives/2019.md#videos), [2018](https://github.com/AdrienTorris/awesome-blazor/blob/master/Archives/2018.md#videos), [2017](https://github.com/AdrienTorris/awesome-blazor/blob/master/Archives/2017.md#videos).
 
 ## Articles
+* [How to detect unsupported browsers under a Blazor WebAssembly application?](https://medium.com/@waelkdouh/how-to-detect-unsupported-browsers-under-a-blazor-webassembly-application-bc11ab0ee015) - June 8, 2020 - How to detect unsupported browsers under a Blazor WebAssembly application?
 * [Blazor vs. React / Angular / Vue.js](https://christianfindlay.com/2020/06/04/blazor-vs-react-angular-vue-js/) - June 4, 2020 - Blazor is a new Microsoft technology that allows developers to write code for browsers in C#. This article compares Blazor to three other common SPA frameworks: React, Angular, and Vue.js.
 * [Adding React UI components to Blazor Web Assembly app](https://devkimchi.com/2020/06/03/adding-react-components-to-blazor-webassembly-app/) - June 3, 2020 - Adding React UI components to Blazor Web Assembly app.
 * [Custom connection details display](https://codyanhorn.tech/blog/blazor/2020/06/03/Blazor-Custom-Connection-Details-Display.html) - June 3, 2020 - Custom connection details display.
