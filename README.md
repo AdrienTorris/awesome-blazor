@@ -266,8 +266,7 @@ Note: the Blazor Visual Studio extension is no longer required since .NET Core 3
 * [DataJuggler.Blazor.FileUpload](https://github.com/DataJuggler/BlazorFileUpload) - Wrapper for Steve Sanderson's BlazorFileInput component.
 * [Cortex.Net](https://github.com/jspuij/Cortex.Net) - State management like MobX for .NET and Blazor.
 * [Blazor.LazyStyleSheet](https://github.com/excubo-ag/Blazor.LazyStyleSheet) - Lazy loading for CSS style sheets.
-* [Blazor Highcharts](https://github.com/Allegiance-Consulting/blazor-highcharts) ![Blazor Highcharts](https://github.com/Allegiance-Consulting/blazor-highcharts/workflows/Blazor%20Highcharts/badge.svg?branch=master) A port of the popular Highcarts library. [Demo](https://allegiance-consulting.github.io/blazor-highcharts/)
-
+* [Blazor Highcharts](https://github.com/Allegiance-Consulting/blazor-highcharts) - ![last commit](https://img.shields.io/github/last-commit/Allegiance-Consulting/blazor-highcharts?style=flat-square&cacheSeconds=86400) A port of the popular Highcharts library. [Demo](https://allegiance-consulting.github.io/blazor-highcharts/).
 ### Others
 * [Blazor Extensions Home](https://github.com/BlazorExtensions/Home) - ![GitHub stars](https://img.shields.io/github/stars/BlazorExtensions/Home?style=flat-square&cacheSeconds=604800&logo=microsoft) Home for Blazor Extensions.
 * [Bolero](https://github.com/fsbolero/Bolero) - ![GitHub stars](https://img.shields.io/github/stars/fsbolero/Bolero?style=flat-square&cacheSeconds=604800) ![last commit](https://img.shields.io/github/last-commit/fsbolero/Bolero?style=flat-square&cacheSeconds=86400) Blazor for F# with hot reloaded templates, type-safe endpoints and routing, remoting, and much more.
