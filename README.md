@@ -282,6 +282,7 @@ To get started with Blazor, follow the instructions in the [Blazor Get Started](
 * [Simple logging server](https://github.com/shawty/simpleloggingserver) - An ultra simple remote log message server written in Blazor and .NET Core 3.
 * [Howler.Blazor](https://github.com/StefH/Howler.Blazor) - A Blazor JSInterop wrapper for Howler.js, an audio library.
 * [Cortex.Net](https://github.com/jspuij/Cortex.Net) - State management like MobX for .NET and Blazor.
+* [Blazor Highcharts](https://github.com/Allegiance-Consulting/blazor-highcharts) - ![last commit](https://img.shields.io/github/last-commit/Allegiance-Consulting/blazor-highcharts?style=flat-square&cacheSeconds=86400) A port of the popular Highcharts library. [Demo](https://allegiance-consulting.github.io/blazor-highcharts/).
 * [Blazor.LazyStyleSheet](https://github.com/excubo-ag/Blazor.LazyStyleSheet) - ![last commit](https://img.shields.io/github/last-commit/excubo-ag/Blazor.LazyStyleSheet?style=flat-square&cacheSeconds=86400) Lazy loading for CSS style sheets.
 * [Blazor.ScriptInjection](https://github.com/excubo-ag/Blazor.ScriptInjection) - ![last commit](https://img.shields.io/github/last-commit/excubo-ag/Blazor.ScriptInjection?style=flat-square&cacheSeconds=86400) Smart script tags in Blazor components, ideal for lazy loading of javascript files.
 * [DnetIndexedDb](https://github.com/amuste/DnetIndexedDb) - ![last commit](https://img.shields.io/github/last-commit/amuste/DnetIndexedDb?style=flat-square&cacheSeconds=86400) Blazor Library for IndexedDB DOM API.
