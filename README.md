@@ -387,6 +387,7 @@ To get started with Blazor, follow the instructions in the [Blazor Get Started](
 * [Create new Blazor CRUD application with Radzen](https://www.youtube.com/watch?v=rTVspBBuAz4) - January 7, 2020 - How to create new Blazor CRUD application from Microsoft SQL Server database using Radzen.
 * [Blazor Forms with Validation - Part IV](https://www.youtube.com/watch?v=SzlsRdV5z_8) - January 1, 2020 - This video will show you how to include a radio button, checkbox, and select/dropdown in a blazor form.  There are a couple of options when working with the select and this video takes you through them.
 * [Blazor Forms with Validation - Part III](https://www.youtube.com/watch?v=fAwba0bpiSs) - January 1, 2020 - This video shows you how to add validation messages at the field level instead of or in addition to at the form level.
+* [Blazor Chat Guided Tour](https://www.youtube.com/watch?v=e7vcmskJYqQ&t=640s) - June 12, 2020 - This video demonstrates using a singleton class, shows the ValidationComponent and ProgressBar that are part of DataJuggler.Blazor.Components.
 * [Archives](https://github.com/AdrienTorris/awesome-blazor/tree/master/Archives) - [2019](https://github.com/AdrienTorris/awesome-blazor/blob/master/Archives/2019.md#videos), [2018](https://github.com/AdrienTorris/awesome-blazor/blob/master/Archives/2018.md#videos), [2017](https://github.com/AdrienTorris/awesome-blazor/blob/master/Archives/2017.md#videos).
 
 ## Articles
