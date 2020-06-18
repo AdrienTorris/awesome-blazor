@@ -10,11 +10,12 @@ Contributions are always welcome! Please take a look at the [contribution guidel
 If you need to search on this list you can try this great website: [Awesome Blazor Browser](https://jsakamoto.github.io/awesome-blazor-browser/).
 Thanks @jsakamoto for this! [Source code](https://github.com/jsakamoto/awesome-blazor-browser) ![stars](https://img.shields.io/github/stars/jsakamoto/awesome-blazor-browser?style=flat-square&cacheSeconds=604800) ![last commit](https://img.shields.io/github/last-commit/jsakamoto/awesome-blazor-browser?style=flat-square&cacheSeconds=86400).
 
-## Special event: "Blazor Day". [June 18th]
+## Special event: "Blazor Day". [TODAY!]
 [<img src="https://pbs.twimg.com/media/EaIoye6WAAAV2TO?format=jpg&name=medium" align="center" width="100%">](https://www.blazorday.net/)
 - Free online event. [Planning](https://www.blazorday.net/planning).
 - Starting today, June 18, at 8:00 AM Pacific Time or 5:00 PM Paris Time.
 - Stream available on their [website](https://blazorday.net/live), [YouTube](https://www.youtube.com/watch?v=XoizucRjxgU&feature=youtu.be), [Facebook](https://www.facebook.com/DevApps.be) and [Twitch](https://www.twitch.tv/devapps).
+- Don’t miss the keynote with Daniel Roth, the Blazor Program Manager at Microsoft. Daniel will be followed by 8 greats experts of the Blazor world.
 
 ## Contents
 * [Introduction](#introduction)
