@@ -167,6 +167,7 @@ To get started with Blazor, follow the instructions in the [Blazor Get Started](
 * [Cærostris](https://github.com/tresoneur/Caerostris) - ![last commit](https://img.shields.io/github/last-commit/tresoneur/Caerostris?style=flat-square&cacheSeconds=86000) A Blazor Spotify client.
 * [Blazor Chat](https://github.com/DataJuggler/BlazorChat) - ![last commit](https://img.shields.io/github/last-commit/DataJuggler/BlazorChat?style=flat-square&cacheSeconds=86000) A sample project that demonstrates using a Singleton class to communicate to all subscribers. Site is also live at https://blazorchat.com.
 * [Nethereum Playground](https://github.com/Nethereum/Nethereum.Playground) - ![last commit](https://img.shields.io/github/last-commit/Nethereum/Nethereum.Playground?style=flat-square&cacheSeconds=86000) Compile and run Nethereum snippets on the browser. You can run it here: http://playground.nethereum.com/.
+* [Blazor-Color-Picker](https://github.com/tossnet/Blazor-Color-Picker) - ![last commit](https://img.shields.io/github/last-commit/tossnet/Blazor-Color-Picker?style=flat-square&cacheSeconds=86000) Opens a palette with the Material colors for Blazor application.
 
 ## Tutorials
 * [Blazor workshop](https://github.com/dotnet-presentations/blazor-workshop/) - ![GitHub stars](https://img.shields.io/github/stars/dotnet-presentations/blazor-workshop?style=flat-square&cacheSeconds=604800&logo=microsoft) Blazor app building workshop by [.NET Foundation](https://www.dotnetfoundation.org/), Blazzing Pizza.
