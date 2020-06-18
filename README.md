@@ -13,6 +13,8 @@ Thanks @jsakamoto for this! [Source code](https://github.com/jsakamoto/awesome-b
 ## Special event: "Blazor Day". [June 18th]
 [<img src="https://pbs.twimg.com/media/EaIoye6WAAAV2TO?format=jpg&name=medium" align="center" width="100%">](https://www.blazorday.net/)
 - Free online event. [Planning](https://www.blazorday.net/planning).
+- Starting today, June 18, at 8:00 AM Pacific Time or 5:00 PM Paris Time.
+- Stream available on their [website](https://blazorday.net/live), [YouTube](https://www.youtube.com/watch?v=XoizucRjxgU&feature=youtu.be), [Facebook](https://www.facebook.com/DevApps.be) and [Twitch](https://www.twitch.tv/devapps).
 
 ## Contents
 * [Introduction](#introduction)
