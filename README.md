@@ -174,6 +174,7 @@ To get started with Blazor, follow the instructions in the [Blazor Get Started](
 * [Cærostris](https://github.com/tresoneur/Caerostris) - ![last commit](https://img.shields.io/github/last-commit/tresoneur/Caerostris?style=flat-square&cacheSeconds=86000) A Blazor Spotify client.
 * [Blazor Chat](https://github.com/DataJuggler/BlazorChat) - ![last commit](https://img.shields.io/github/last-commit/DataJuggler/BlazorChat?style=flat-square&cacheSeconds=86000) A sample project that demonstrates using a Singleton class to communicate to all subscribers. Site is also live at https://blazorchat.com.
 * [Nethereum Playground](https://github.com/Nethereum/Nethereum.Playground) - ![last commit](https://img.shields.io/github/last-commit/Nethereum/Nethereum.Playground?style=flat-square&cacheSeconds=86000) Compile and run Nethereum snippets on the browser. You can run it here: http://playground.nethereum.com/.
+* [BlazorAnimate](https://github.com/BlazorGuy/BlazorAnimate) - ![last commit](https://img.shields.io/github/last-commit/BlazorGuy/BlazorAnimate?style=flat-square&cacheSeconds=86000) A simple example of animating text along a path using Blazor Canvas Extensions. [Demo](https://blazorguy.net/simple-text-animation/).
 * [Realtime chat app with WebAssembly](https://github.com/wsdt/RealtimeChat_WebAssembly) - ![last commit](https://img.shields.io/github/last-commit/wsdt/RealtimeChat_WebAssembly?style=flat-square&cacheSeconds=86000) Real-time chat application with SignalR, .NET and Blazor/WebAssembly.
 
 ## Tutorials
