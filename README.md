@@ -13,9 +13,7 @@ Thanks @jsakamoto for this! [Source code](https://github.com/jsakamoto/awesome-b
 ## Special event: "Blazor Day". [Over]
 [<img src="https://pbs.twimg.com/media/EaIoye6WAAAV2TO?format=jpg&name=medium" align="center" width="100%">](https://www.blazorday.net/)
 - Free online event. [Planning](https://www.blazorday.net/planning).
-- Starting today, June 18, at 8:00 AM Pacific Time or 5:00 PM Paris Time.
-- Stream available on their [website](https://blazorday.net/live), [YouTube](https://www.youtube.com/watch?v=XoizucRjxgU&feature=youtu.be), [Facebook](https://www.facebook.com/DevApps.be) and [Twitch](https://www.twitch.tv/devapps).
-- Don’t miss the keynote with Daniel Roth, the Blazor Program Manager at Microsoft. Daniel will be followed by 8 greats experts of the Blazor world.
+- Video of the talks here: https://www.youtube.com/watch?v=XoizucRjxgU&feature=youtu.be
 
 ## Contents
 * [Introduction](#introduction)
@@ -320,6 +318,9 @@ To get started with Blazor, follow the instructions in the [Blazor Get Started](
 * [Blazor.AdaptiveCards](https://github.com/mikoskinen/Blazor.AdaptiveCards) - Adaptive Cards for Blazor. [Documentation](https://adaptivecardsblazor.com/).
 
 ## Videos
+* [Blazor Day 2020: Create An Optical Character Reader Using Blazor And Azure Computer Vision](https://www.youtube.com/watch?v=XoizucRjxgU&t=5474s) - ![duration](https://img.shields.io/badge/Duration:%20-23%20min-%230094FF?style=flat-square&cacheSeconds=maxAge&logo=youtube) June 18, 2020 - Create An Optical Character Reader Using Blazor And Azure Computer Vision, by Ankit Sharma at [Blazor Day 2020](https://www.blazorday.net).
+* [Blazor Day 2020: Secrets of a Blazor Component Artisan](https://www.youtube.com/watch?v=XoizucRjxgU&t=3715s) - ![duration](https://img.shields.io/badge/Duration:%20-30%20min-%230094FF?style=flat-square&cacheSeconds=maxAge&logo=youtube) June 18, 2020 - Secrets of a Blazor Component Artisan, by Ed Charbeneau at [Blazor Day 2020](https://www.blazorday.net).
+* [Blazor Day 2020: Bringing .NET to the Web and Beyond](https://www.youtube.com/watch?v=XoizucRjxgU&t=0s) - ![duration](https://img.shields.io/badge/Duration:%20-62%20min-%230094FF?style=flat-square&cacheSeconds=maxAge&logo=youtube) June 18, 2020 - Blazor: Bringing .NET to the Web and Beyond, by Dan Roth at [Blazor Day 2020](https://www.blazorday.net). 
 * [Blazor Chat Guided Tour](https://www.youtube.com/watch?v=e7vcmskJYqQ) - ![duration](https://img.shields.io/badge/Duration:%20-25%20min-%230094FF?style=flat-square&cacheSeconds=maxAge&logo=youtube) June 11, 2020 - This video demonstrates using a singleton class, shows the ValidationComponent and ProgressBar that are part of DataJuggler.Blazor.Components.
 * [Blazor WebAssembly : Entity Framework Core - EP06](https://www.youtube.com/watch?v=rACHqnkaORA&feature=youtu.be) - ![duration](https://img.shields.io/badge/Duration:%20-25%20min-%230094FF?style=flat-square&cacheSeconds=maxAge&logo=youtube) June 10, 2020 - Blazor WebAssembly : Entity Framework Core - EP06, by Curious Drive. In this episode, he shows how you can integrate Entity Framework Core in a Blazor WebAssembly application.
 * [Blazor Twitch Bot Examples for GitHub](https://www.twitch.tv/videos/645406357) - ![duration](https://img.shields.io/badge/Duration:%20-170%20min-%230094FF?style=flat-square&cacheSeconds=maxAge&logo=twitch) June 9, 2020 - Blazor Twitch Bot Examples for GitHub. [Source code](https://github.com/fiercekittenz/BlazorTwitchBotExample) ![stars](https://img.shields.io/github/stars/fiercekittenz/BlazorTwitchBotExample?style=flat-square&cacheSeconds=604800) ![last commit](https://img.shields.io/github/last-commit/fiercekittenz/BlazorTwitchBotExample?style=flat-square&cacheSeconds=86000).
