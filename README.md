@@ -10,21 +10,6 @@ Contributions are always welcome! Please take a look at the [contribution guidel
 If you need to search on this list you can try this great website: [Awesome Blazor Browser](https://jsakamoto.github.io/awesome-blazor-browser/).
 Thanks @jsakamoto for this! [Source code](https://github.com/jsakamoto/awesome-blazor-browser) ![stars](https://img.shields.io/github/stars/jsakamoto/awesome-blazor-browser?style=flat-square&cacheSeconds=604800) ![last commit](https://img.shields.io/github/last-commit/jsakamoto/awesome-blazor-browser?style=flat-square&cacheSeconds=86400).
 
-## Special event: "Blazor Day". [Over]
-[<img src="https://pbs.twimg.com/media/EaIoye6WAAAV2TO?format=jpg&name=medium" align="center" width="100%">](https://www.blazorday.net/)
-- Free online event. [Planning](https://www.blazorday.net/planning).
-- You missed it? Here the videos of the talks:
-- [Bringing .NET to the Web and Beyond](https://www.youtube.com/watch?v=XoizucRjxgU&t=0s) - ![duration](https://img.shields.io/badge/Duration:%20-62%20min-%230094FF?style=flat-square&cacheSeconds=maxAge&logo=youtube) by Dan Roth.
-- [Secrets of a Blazor Component Artisan](https://www.youtube.com/watch?v=XoizucRjxgU&t=3715s) - ![duration](https://img.shields.io/badge/Duration:%20-30%20min-%230094FF?style=flat-square&cacheSeconds=maxAge&logo=youtube) by Ed Charbeneau.
-- [Create An Optical Character Reader Using Blazor And Azure Computer Vision](https://www.youtube.com/watch?v=XoizucRjxgU&t=5474s) - ![duration](https://img.shields.io/badge/Duration:%20-23%20min-%230094FF?style=flat-square&cacheSeconds=maxAge&logo=youtube) by Ankit Sharma.
-- [Razor: Into the Razor-Verse](https://www.youtube.com/watch?v=XoizucRjxgU&t=6873s) - ![duration](https://img.shields.io/badge/Duration:%20-29%20min-%230094FF?style=flat-square&cacheSeconds=maxAge&logo=youtube) by Ed Charbeneau.
-- [Forms & Validation in Blazor](https://www.youtube.com/watch?v=XoizucRjxgU&t=8610s) - ![duration](https://img.shields.io/badge/Duration:%20-38%20min-%230094FF?style=flat-square&cacheSeconds=maxAge&logo=youtube) by Chris Sainty.
-- [Create a cross-platform application with Blazor & BlazorMobile](https://www.youtube.com/watch?v=XoizucRjxgU&t=10879s) - ![duration](https://img.shields.io/badge/Duration:%20-33%20min-%230094FF?style=flat-square&cacheSeconds=maxAge&logo=youtube) by Guillaume Zahra.
-- [Building Desktop Apps for Windows, Mac & Linux with Blazor & Electron](https://www.youtube.com/watch?v=XoizucRjxgU&t=12840s) - ![duration](https://img.shields.io/badge/Duration:%20-30%20min-%230094FF?style=flat-square&cacheSeconds=maxAge&logo=youtube) by Ahmad Mozaffar.
-- [Authentication and Authorization in Blazor](https://www.youtube.com/watch?v=XoizucRjxgU&t=14700s) - ![duration](https://img.shields.io/badge/Duration:%20-30%20min-%230094FF?style=flat-square&cacheSeconds=maxAge&logo=youtube) by Marco De Sanctis.
-- [Getting started with Blazor and Clean Code principles](https://www.youtube.com/watch?v=XoizucRjxgU&t=16540s) - ![duration](https://img.shields.io/badge/Duration:%20-33%20min-%230094FF?style=flat-square&cacheSeconds=maxAge&logo=youtube) by Bruno Barrette.
-- [Building a PWA (Progressive Web App) with Blazor WebAssembly](https://www.youtube.com/watch?v=XoizucRjxgU&t=18130s) - ![duration](https://img.shields.io/badge/Duration:%20-34%20min-%230094FF?style=flat-square&cacheSeconds=maxAge&logo=youtube) by Vivien Fabing.
-
 ## Contents
 * [Introduction](#introduction)
 * [General](#general)
@@ -178,6 +163,7 @@ To get started with Blazor, follow the instructions in the [Blazor Get Started](
 * [BlazorAnimate](https://github.com/BlazorGuy/BlazorAnimate) - ![last commit](https://img.shields.io/github/last-commit/BlazorGuy/BlazorAnimate?style=flat-square&cacheSeconds=86000) A simple example of animating text along a path using Blazor Canvas Extensions. [Demo](https://blazorguy.net/simple-text-animation/).
 * [Realtime chat app with WebAssembly](https://github.com/wsdt/RealtimeChat_WebAssembly) - ![last commit](https://img.shields.io/github/last-commit/wsdt/RealtimeChat_WebAssembly?style=flat-square&cacheSeconds=86000) Real-time chat application with SignalR, .NET and Blazor/WebAssembly.
 * [BlazorContrib](https://github.com/miguelhasse/BlazorContrib) - ![last commit](https://img.shields.io/github/last-commit/miguelhasse/BlazorContrib?style=flat-square&cacheSeconds=86000) Experiment of a Blazor renderer for Markdig, a Markdown component.
+* [LinqToTwitter Blazor sample](https://github.com/JoeMayo/LinqToTwitter/tree/main/Samples/LinqToTwitter5/net48/CSharp/AspNetSamples/BlazorDemo) - ![last commit](https://img.shields.io/github/last-commit/JoeMayo/LinqToTwitter?style=flat-square&cacheSeconds=86000) LINQ Provider for the Twitter API (Twitter Library).
 
 ## Tutorials
 * [Blazor workshop](https://github.com/dotnet-presentations/blazor-workshop/) - ![GitHub stars](https://img.shields.io/github/stars/dotnet-presentations/blazor-workshop?style=flat-square&cacheSeconds=604800&logo=microsoft) Blazor app building workshop by [.NET Foundation](https://www.dotnetfoundation.org/), Blazzing Pizza.
