@@ -15,6 +15,11 @@ Thanks @jsakamoto for this! [Source code](https://github.com/jsakamoto/awesome-b
 - Topic: Blazor Mobile Bindings (Eilon Lipton)
 - Live here: https://live.dot.net
 
+## Special event: "ASP.NET Community Standup: EF Core in Blazor". [June, 24]
+[<img src="https://adrientorris.github.io/wwwroot/images/blazor/aspnet-com-standup-ef-core-in-blazor.PNG" align="center" width="100%">](https://dotnet.microsoft.com/platform/community/standup)
+- Topic: Using Entity Framework Core in ASP.NET Core Blazor applications (Jeremy Likness)
+- Live here: https://live.dot.net
+
 ## Contents
 * [Introduction](#introduction)
 * [General](#general)
