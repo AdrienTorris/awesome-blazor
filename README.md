@@ -10,15 +10,20 @@ Contributions are always welcome! Please take a look at the [contribution guidel
 If you need to search on this list you can try this great website: [Awesome Blazor Browser](https://jsakamoto.github.io/awesome-blazor-browser/).
 Thanks @jsakamoto for this! [Source code](https://github.com/jsakamoto/awesome-blazor-browser) ![stars](https://img.shields.io/github/stars/jsakamoto/awesome-blazor-browser?style=flat-square&cacheSeconds=604800) ![last commit](https://img.shields.io/github/last-commit/jsakamoto/awesome-blazor-browser?style=flat-square&cacheSeconds=86400).
 
-## Special event: "ASP.NET Community Standup: Blazor Mobile Binding". [June, 23]
-[<img src="https://pbs.twimg.com/media/EbNMIOWUMAQFhvR?format=jpg&name=medium" align="center" width="100%">](https://dotnet.microsoft.com/platform/community/standup)
-- Topic: Blazor Mobile Bindings (Eilon Lipton)
-- Live here: https://live.dot.net
+## Special event: "Blazing into Summer with Ed Charbeneau". [June, 5]
+[<img src="https://dotnetdocs.dev/default-thumb.png" align="center" width="100%">](https://dotnet.microsoft.com/platform/community/standup)
+- Join Ed Charbeneau (@EdCharbeneau ), along with hosts Cam Soper, Scott Addie, David Pine for a captivating conversation about .NET.
+- Live/Replay here: https://dotnetdocs.dev
 
 ## Special event: "ASP.NET Community Standup: EF Core in Blazor". [June, 24]
 [<img src="https://adrientorris.github.io/wwwroot/images/blazor/aspnet-com-standup-ef-core-in-blazor.PNG" align="center" width="100%">](https://dotnet.microsoft.com/platform/community/standup)
 - Topic: Using Entity Framework Core in ASP.NET Core Blazor applications (Jeremy Likness)
-- Live here: https://live.dot.net
+- Live/Replay here: https://live.dot.net
+
+## Special event: "ASP.NET Community Standup: Blazor Mobile Binding". [June, 23]
+[<img src="https://pbs.twimg.com/media/EbNMIOWUMAQFhvR?format=jpg&name=medium" align="center" width="100%">](https://dotnet.microsoft.com/platform/community/standup)
+- Topic: Blazor Mobile Bindings (Eilon Lipton)
+- Live/Replay here: https://live.dot.net
 
 ## Contents
 * [Introduction](#introduction)
@@ -255,6 +260,7 @@ To get started with Blazor, follow the instructions in the [Blazor Get Started](
 * [Sve-Blazor-InfiniteScroll](https://github.com/SveNord/Sve-Blazor-InfiniteScroll) - ![last commit](https://img.shields.io/github/last-commit/SveNord/Sve-Blazor-InfiniteScroll?style=flat-square&cacheSeconds=86400) Simplistic implementation of an infinite scroll component for Blazor.
 * [Plotly.Blazor](https://github.com/LayTec-AG/Plotly.Blazor) - ![last commit](https://img.shields.io/github/last-commit/LayTec-AG/Plotly.Blazor?style=flat-square&cacheSeconds=86400) Brings the charting library [plotly.js](https://github.com/plotly/plotly.js) with over 40 chart types to Blazor ([Demo](https://plotly-blazor.azurewebsites.net/)).
 * [RazorComponents.Markdown](https://github.com/StardustDL/RazorComponents.Markdown) - ![last commit](https://img.shields.io/github/last-commit/StardustDL/RazorComponents.Markdown?style=flat-square&cacheSeconds=86400) A razor component for Markdown rendering which supports LaTeX, Mermaid diagram, code highlighting and extensions based on Markdig.
+* [Texnomic.Blazor.hCaptcha](https://github.com/Texnomic/hCaptcha) - ![last commit](https://img.shields.io/github/last-commit/Texnomic/hCaptcha?style=flat-square&cacheSeconds=86400) hCaptcha Component for Server-Side Blazor.
 * [Excubo.Blazor.Diagrams](https://github.com/excubo-ag/Blazor.Diagrams) - ![last commit](https://img.shields.io/github/last-commit/excubo-ag/Blazor.Diagrams?style=flat-square&cacheSeconds=604800) Interactive diagram component (flowcharts, UML, BPMN, ...), customizable and extensible according to user needs (node types, styles). [Demo](https://excubo-ag.github.io/Blazor.Diagrams/).
 * [Z.Blazor.Diagrams](https://github.com/zHaytam/Blazor.Diagrams) - ![last commit](https://img.shields.io/github/last-commit/zHaytam/Blazor.Diagrams?style=flat-square&cacheSeconds=86400) A fully customizable and extensible all-purpose diagrams library for Blazor, inspired by the popular react-diagrams library, with many additions. [Demo](https://blazor-diagrams.zhaytam.com/demos/simple).
 ### Tools & Utilities
