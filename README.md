@@ -11,7 +11,7 @@ If you need to search on this list you can try this great website: [Awesome Blaz
 Thanks @jsakamoto for this! [Source code](https://github.com/jsakamoto/awesome-blazor-browser) ![stars](https://img.shields.io/github/stars/jsakamoto/awesome-blazor-browser?style=flat-square&cacheSeconds=604800) ![last commit](https://img.shields.io/github/last-commit/jsakamoto/awesome-blazor-browser?style=flat-square&cacheSeconds=86400).
 
 ## Special event: "Blazing into Summer with Ed Charbeneau". [June, 5]
-[<img src="https://dotnetdocs.dev/default-thumb.png" align="center" width="100%">](https://dotnet.microsoft.com/platform/community/standup)
+[<img src="https://dotnetdocs.dev/default-thumb.png" align="center" width="100%">](https://dotnetdocs.dev)
 - Join Ed Charbeneau (@EdCharbeneau ), along with hosts Cam Soper, Scott Addie, David Pine for a captivating conversation about .NET.
 - Live/Replay here: https://dotnetdocs.dev
 
@@ -336,6 +336,7 @@ To get started with Blazor, follow the instructions in the [Blazor Get Started](
 
 ## Videos
 * [Blazor Train: Blazor Component Life Cycle](https://www.youtube.com/watch?v=dpyUcRdbAcc&feature=youtu.be) - ![duration](https://img.shields.io/badge/Duration:%20-19%20min-%230094FF?style=flat-square&cacheSeconds=maxAge&logo=youtube) June 26, 2020 - Blazor Train: Blazor Component Life Cycle. What is a Blazor Component? How long does it live? How can we hook it to make sure our app behaves properly? This episode of Blazor Train covers all about the component life cycle.
+* [Blazing into Summer with Ed Charbeneau](https://www.twitch.tv/videos/661159908) - ![duration](https://img.shields.io/badge/Duration:%20-45%20min-%230094FF?style=flat-square&cacheSeconds=maxAge&logo=twitch) June 25, 2020 - Blazing into Summer with Ed Charbeneau, by [The DOT.NET Docs Show](https://dotnetdocs.dev/).
 * [GameDev - Blazor with BabylonJS (Web Rendering)](https://www.twitch.tv/videos/660648746) - ![duration](https://img.shields.io/badge/Duration:%20-173%20min-%230094FF?style=flat-square&cacheSeconds=maxAge&logo=twitch) June 25, 2020 - Live development of a game with Blazor WebAssembly and BabylonJS.
 * [Blazor Day 2020: Building a PWA (Progressive Web App) with Blazor WebAssembly](https://www.youtube.com/watch?v=XoizucRjxgU&t=18130s) - ![duration](https://img.shields.io/badge/Duration:%20-34%20min-%230094FF?style=flat-square&cacheSeconds=maxAge&logo=youtube) June 18, 2020 - Building a PWA (Progressive Web App) with Blazor WebAssembly, by Vivien Fabing at [Blazor Day 2020](https://www.blazorday.net).
 * [Blazor Day 2020: Getting started with Blazor and Clean Code principles](https://www.youtube.com/watch?v=XoizucRjxgU&t=16540s) - ![duration](https://img.shields.io/badge/Duration:%20-33%20min-%230094FF?style=flat-square&cacheSeconds=maxAge&logo=youtube) June 18, 2020 - Getting started with Blazor and Clean Code principles, by Bruno Barrette at [Blazor Day 2020](https://www.blazorday.net).
