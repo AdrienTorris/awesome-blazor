@@ -183,6 +183,7 @@ To get started with Blazor, follow the instructions in the [Blazor Get Started](
 * [Realtime chat app with WebAssembly](https://github.com/wsdt/RealtimeChat_WebAssembly) - ![last commit](https://img.shields.io/github/last-commit/wsdt/RealtimeChat_WebAssembly?style=flat-square&cacheSeconds=86000) Real-time chat application with SignalR, .NET and Blazor/WebAssembly.
 * [BlazorContrib](https://github.com/miguelhasse/BlazorContrib) - ![last commit](https://img.shields.io/github/last-commit/miguelhasse/BlazorContrib?style=flat-square&cacheSeconds=86000) Experiment of a Blazor renderer for Markdig, a Markdown component.
 * [LinqToTwitter Blazor sample](https://github.com/JoeMayo/LinqToTwitter/tree/main/Samples/LinqToTwitter5/net48/CSharp/AspNetSamples/BlazorDemo) - ![last commit](https://img.shields.io/github/last-commit/JoeMayo/LinqToTwitter?style=flat-square&cacheSeconds=86000) LINQ Provider for the Twitter API (Twitter Library).
+* [BlazeReport](https://github.com/LeoVen/BlazeReport) - ![last commit](https://img.shields.io/github/last-commit/LeoVen/BlazeReport?style=flat-square&cacheSeconds=86000) A minimal example of a Blazor App with NUnit, Selenium, SpecFlow and ExtentReports.
 
 ## Tutorials
 * [Blazor workshop](https://github.com/dotnet-presentations/blazor-workshop/) - ![GitHub stars](https://img.shields.io/github/stars/dotnet-presentations/blazor-workshop?style=flat-square&cacheSeconds=604800&logo=microsoft) Blazor app building workshop by [.NET Foundation](https://www.dotnetfoundation.org/), Blazzing Pizza.
