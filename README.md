@@ -447,6 +447,7 @@ To get started with Blazor, follow the instructions in the [Blazor Get Started](
 * [Archives](https://github.com/AdrienTorris/awesome-blazor/tree/master/Archives) - [2019](https://github.com/AdrienTorris/awesome-blazor/blob/master/Archives/2019.md#videos), [2018](https://github.com/AdrienTorris/awesome-blazor/blob/master/Archives/2018.md#videos), [2017](https://github.com/AdrienTorris/awesome-blazor/blob/master/Archives/2017.md#videos).
 
 ## Articles
+* [Go faster with your own re-usable Blazor components](https://jonhilton.net/build-your-own-re-usable-blazor-components/) - June 30, 2020 - Go faster with your own re-usable Blazor components.
 * [Creating a Custom Validation Message Component for Blazor Forms](https://chrissainty.com/creating-a-custom-validation-message-component-for-blazor-forms/) - June 30, 2020 - Creating a Custom Validation Message Component for Blazor Forms, by Chris Sainty.
 * [Blazor Upload File to Azure Blob Storage](https://wellsb.com/csharp/aspnet/blazor-upload-file-azure-blob-storage/) - June 29, 2020 - Blazor Upload File to Azure Blob Storage, by Bradley Wells.
 * [Hosting both Blazor Server and WebAssembly in single website](http://www.duracellko.net/posts/2020/06/hosting-both-blazor-server-and-webassembly) - June 27, 2020 - Hosting both Blazor Server and WebAssembly in single website.
