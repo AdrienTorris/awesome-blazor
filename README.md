@@ -448,6 +448,7 @@ To get started with Blazor, follow the instructions in the [Blazor Get Started](
 
 ## Articles
 * [Blazor Upload File to Azure Blob Storage](https://wellsb.com/csharp/aspnet/blazor-upload-file-azure-blob-storage/) - June 29, 2020 - Blazor Upload File to Azure Blob Storage, by Bradley Wells.
+* [State Management with Blazor using Fluxor](https://betweentwobrackets.dev/posts/2020/06/state-management-with-blazor-using-fluxor-part-1/) - June 26, 2020 - Implementing the flux spec with Fluxor for Blazor applications
 * [ASP.NET Core updates in .NET 5 Preview 6](https://devblogs.microsoft.com/aspnet/asp-net-core-updates-in-net-5-preview-6/) - June 25, 2020 - .NET 5 Preview 6 is now available and is ready for evaluation. Here’s what’s new in this release: Blazor WebAssembly template now included, JSON extension methods for HttpRequest and HttpResponse, extension method to allow anonymous access to an endpoint, custom handling of authorization failures and SignalR Hub filters.
 * [Blazor WebAssembly Template Lands in .NET 5 Preview 6](https://visualstudiomagazine.com/articles/2020/06/25/net-5-blazor-template.aspx) - June 25, 2020 - Blazor WebAssembly Template Lands in .NET 5 Preview 6, by David Ramel on Visual Studio Magazine.
 * [Convert DateTime to user's time zone with server-side Blazor](https://www.meziantou.net/convert-datetime-to-user-s-time-zone-with-server-side-blazor.htm) - June 25, 2020 - Convert DateTime to user's time zone with server-side Blazor.
