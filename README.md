@@ -220,6 +220,7 @@ To get started with Blazor, follow the instructions in the [Blazor Get Started](
 ### Individual components
 #### API
 * [Canvas](https://github.com/BlazorExtensions/Canvas) - ![GitHub stars](https://img.shields.io/github/stars/BlazorExtensions/Canvas?style=flat-square&cacheSeconds=604800&logo=microsoft) ![last commit](https://img.shields.io/github/last-commit/BlazorExtensions/Canvas?style=flat-square&cacheSeconds=86400) Material Design components for Blazor. HTML5 Canvas API implementation for Microsoft Blazor.
+* [Blazor.Canvas](https://github.com/excubo-ag/Blazor.Canvas) - ![last commit](https://img.shields.io/github/last-commit/excubo-ag/Blazor.Canvas?style=flat-square&cacheSeconds=86400) Wrapper library around the HTML canvas API written in C# (no JS dependency) ([Demo](https://excubo-ag.github.io/Blazor.Canvas/)).
 * [Sve-Blazor-InfiniteScroll](https://github.com/SveNord/Sve-Blazor-InfiniteScroll) - ![last commit](https://img.shields.io/github/last-commit/SveNord/Sve-Blazor-InfiniteScroll?style=flat-square&cacheSeconds=86400) Simplistic implementation of an infinite scroll component for Blazor.
 * [Head Element Helper](https://github.com/jsakamoto/Toolbelt.Blazor.HeadElement) - ![last commit](https://img.shields.io/github/last-commit/jsakamoto/Toolbelt.Blazor.HeadElement?style=flat-square&cacheSeconds=86400) `<Title>` and `<Meta>` components for changing the document titile and meta elements, with server-side prerendering support for SEO/OGP. ([Demo](https://demo-blazor-headelement.azurewebsites.net/)).
 #### Charts
