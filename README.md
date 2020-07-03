@@ -10,20 +10,10 @@ Contributions are always welcome! Please take a look at the [contribution guidel
 If you need to search on this list you can try this great website: [Awesome Blazor Browser](https://jsakamoto.github.io/awesome-blazor-browser/).
 Thanks @jsakamoto for this! [Source code](https://github.com/jsakamoto/awesome-blazor-browser) ![stars](https://img.shields.io/github/stars/jsakamoto/awesome-blazor-browser?style=flat-square&cacheSeconds=604800) ![last commit](https://img.shields.io/github/last-commit/jsakamoto/awesome-blazor-browser?style=flat-square&cacheSeconds=86400).
 
-## Special event: "Blazing into Summer with Ed Charbeneau". [June, 25]
+## Special event: "An accessibility audit of .NET Blazor with Chris DeMars". [July, 9]
 [<img src="https://dotnetdocs.dev/default-thumb.png" align="center" width="100%">](https://dotnetdocs.dev)
-- Join Ed Charbeneau (@EdCharbeneau ), along with hosts Cam Soper, Scott Addie, David Pine for a captivating conversation about .NET.
-- Live/Replay here: https://dotnetdocs.dev
-
-## Special event: "ASP.NET Community Standup: EF Core in Blazor". [June, 24]
-[<img src="https://adrientorris.github.io/wwwroot/images/blazor/aspnet-com-standup-ef-core-in-blazor.PNG" align="center" width="100%">](https://dotnet.microsoft.com/platform/community/standup)
-- Topic: Using Entity Framework Core in ASP.NET Core Blazor applications (Jeremy Likness)
-- Live/Replay here: https://live.dot.net
-
-## Special event: "ASP.NET Community Standup: Blazor Mobile Binding". [June, 23]
-[<img src="https://pbs.twimg.com/media/EbNMIOWUMAQFhvR?format=jpg&name=medium" align="center" width="100%">](https://dotnet.microsoft.com/platform/community/standup)
-- Topic: Blazor Mobile Bindings (Eilon Lipton)
-- Live/Replay here: https://live.dot.net
+- Join Chris DeMars (@saltnburnem ), along with hosts Cam Soper, Scott Addie, David Pine for a captivating conversation about .NET.
+- Live here: https://dotnetdocs.dev
 
 ## Contents
 * [Introduction](#introduction)
