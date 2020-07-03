@@ -314,16 +314,16 @@ To get started with Blazor, follow the instructions in the [Blazor Get Started](
 * [Blazor Hotkeys](https://github.com/jsakamoto/Toolbelt.Blazor.Hotkeys) - A library to provide configuration-centric keyboard shortcuts for Blazor.
 * [BlazorRealm](https://dworthen.github.io/BlazorRealm/docs/quickstart.html) - Redux state management for Blazor.
 * [Blazor.LocalFiles](https://github.com/jburman/W8lessLabs.Blazor.LocalFiles) - Open files in your browser and load into Blazor.
-* [Blazor.Sensors](https://github.com/AspNetMonsters/Blazor.Sensors) - Blazor interop for browser sensor APIs.
-* [Rudder](https://github.com/kjeske/rudder) - Efficient state container for Blazor with concepts similar to the ones in redux, including reducers and sagas.
-* [BlazorIntersectionObserver](https://github.com/ljbc1994/BlazorIntersectionObserver) - A Blazor wrapper for the Intersection Observer API.
-* [Blazor.SpeechSynthesis](https://github.com/jsakamoto/Toolbelt.Blazor.SpeechSynthesis) - A library to provide Speech Synthesis API access for Blazor.
+* [Blazor.Sensors](https://github.com/AspNetMonsters/Blazor.Sensors) - ![last commit](https://img.shields.io/github/last-commit/AspNetMonsters/Blazor.Sensors?style=flat-square&cacheSeconds=86400) Blazor interop for browser sensor APIs.
+* [Rudder](https://github.com/kjeske/rudder) - ![last commit](https://img.shields.io/github/last-commit/kjeske/rudder?style=flat-square&cacheSeconds=86400) Efficient state container for Blazor with concepts similar to the ones in redux, including reducers and sagas.
+* [BlazorIntersectionObserver](https://github.com/ljbc1994/BlazorIntersectionObserver) - ![last commit](https://img.shields.io/github/last-commit/ljbc1994/BlazorIntersectionObserver?style=flat-square&cacheSeconds=86400) A Blazor wrapper for the Intersection Observer API.
+* [Blazor.SpeechSynthesis](https://github.com/jsakamoto/Toolbelt.Blazor.SpeechSynthesis) - ![last commit](https://img.shields.io/github/last-commit/jsakamoto/Toolbelt.Blazor.SpeechSynthesis?style=flat-square&cacheSeconds=86400) A library to provide Speech Synthesis API access for Blazor.
 * [Blazor BarCode](https://barcoderesource.com/blazorbarcode.shtml) &ndash; A barcode library for Blazor using barcode fonts.
-* [BlazorState.Redux](https://github.com/BerserkerDotNet/BlazorState.Redux) - Develop Blazor apps with Redux.
-* [BlazorLeaflet](https://github.com/Mehigh17/BlazorLeaflet) - BlazorLeaflet is a wrapper offering easy-to-use Blazor components that expose the Leaflet API in C#.
-* [Simple logging server](https://github.com/shawty/simpleloggingserver) - An ultra simple remote log message server written in Blazor and .NET Core 3.
-* [Howler.Blazor](https://github.com/StefH/Howler.Blazor) - A Blazor JSInterop wrapper for Howler.js, an audio library.
-* [jsMind.Blazor](https://github.com/StefH/jsMind.Blazor) - A Blazor JSInterop wrapper for jsMind, a MindMapping tool.
+* [BlazorState.Redux](https://github.com/BerserkerDotNet/BlazorState.Redux) - ![last commit](https://img.shields.io/github/last-commit/BerserkerDotNet/BlazorState.Redux?style=flat-square&cacheSeconds=86400) Develop Blazor apps with Redux.
+* [BlazorLeaflet](https://github.com/Mehigh17/BlazorLeaflet) - ![last commit](https://img.shields.io/github/last-commit/Mehigh17/BlazorLeaflet?style=flat-square&cacheSeconds=86400) BlazorLeaflet is a wrapper offering easy-to-use Blazor components that expose the Leaflet API in C#.
+* [Simple logging server](https://github.com/shawty/simpleloggingserver) - ![last commit](https://img.shields.io/github/last-commit/shawty/simpleloggingserver?style=flat-square&cacheSeconds=86400) An ultra simple remote log message server written in Blazor and .NET Core 3.
+* [Howler.Blazor](https://github.com/StefH/Howler.Blazor) - ![last commit](https://img.shields.io/github/last-commit/StefH/Howler.Blazor?style=flat-square&cacheSeconds=86400) A Blazor JSInterop wrapper for Howler.js, an audio library.
+* [jsMind.Blazor](https://github.com/StefH/jsMind.Blazor) - ![last commit](https://img.shields.io/github/last-commit/StefH/jsMind.Blazor?style=flat-square&cacheSeconds=86400) A Blazor JSInterop wrapper for jsMind, a MindMapping tool.
 * [Blazor Highcharts](https://github.com/Allegiance-Consulting/blazor-highcharts) - ![last commit](https://img.shields.io/github/last-commit/Allegiance-Consulting/blazor-highcharts?style=flat-square&cacheSeconds=86400) A port of the popular Highcharts library. [Demo](https://allegiance-consulting.github.io/blazor-highcharts/).
 * [Blazor.LazyStyleSheet](https://github.com/excubo-ag/Blazor.LazyStyleSheet) - ![last commit](https://img.shields.io/github/last-commit/excubo-ag/Blazor.LazyStyleSheet?style=flat-square&cacheSeconds=86400) Lazy loading for CSS style sheets.
 * [Blazor.ScriptInjection](https://github.com/excubo-ag/Blazor.ScriptInjection) - ![last commit](https://img.shields.io/github/last-commit/excubo-ag/Blazor.ScriptInjection?style=flat-square&cacheSeconds=86400) Smart script tags in Blazor components, ideal for lazy loading of javascript files.
