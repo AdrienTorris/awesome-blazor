@@ -346,6 +346,7 @@ To get started with Blazor, follow the instructions in the [Blazor Get Started](
 * [Blazor.AdaptiveCards](https://github.com/mikoskinen/Blazor.AdaptiveCards) - Adaptive Cards for Blazor. [Documentation](https://adaptivecardsblazor.com/).
 
 ## Videos
+* [Blazor WebAssembly : Using HttpClient in MVVM](https://www.youtube.com/watch?v=To-GSKOac10&feature=youtu.be) - ![duration](https://img.shields.io/badge/Duration:%20-16%20min-%230094FF?style=flat-square&cacheSeconds=maxAge&logo=youtube) July 6, 2020 - Blazor WebAssembly : Using HttpClient in MVVM, by Curious Drive. This video is about how to use IHttpClientFactory in a Blazor WebAssembly application.
 * [Blazor WebAssembly : Dependency Injection](https://www.youtube.com/watch?v=bxpSa0ZmwtY&feature=youtu.be) - ![duration](https://img.shields.io/badge/Duration:%20-14%20min-%230094FF?style=flat-square&cacheSeconds=maxAge&logo=youtube) July 3, 2020 - Blazor WebAssembly : Dependency Injection, by Curious Drive. 
 * [Blazor Train: Blazor Component Life Cycle](https://www.youtube.com/watch?v=dpyUcRdbAcc&feature=youtu.be) - ![duration](https://img.shields.io/badge/Duration:%20-19%20min-%230094FF?style=flat-square&cacheSeconds=maxAge&logo=youtube) June 26, 2020 - Blazor Train: Blazor Component Life Cycle. What is a Blazor Component? How long does it live? How can we hook it to make sure our app behaves properly? This episode of Blazor Train covers all about the component life cycle.
 * [Blazing into Summer with Ed Charbeneau](https://www.twitch.tv/videos/661159908) - ![duration](https://img.shields.io/badge/Duration:%20-45%20min-%230094FF?style=flat-square&cacheSeconds=maxAge&logo=twitch) June 25, 2020 - Blazing into Summer with Ed Charbeneau, by [The DOT.NET Docs Show](https://dotnetdocs.dev/).
@@ -446,6 +447,7 @@ To get started with Blazor, follow the instructions in the [Blazor Get Started](
 * [Archives](https://github.com/AdrienTorris/awesome-blazor/tree/master/Archives) - [2019](https://github.com/AdrienTorris/awesome-blazor/blob/master/Archives/2019.md#videos), [2018](https://github.com/AdrienTorris/awesome-blazor/blob/master/Archives/2018.md#videos), [2017](https://github.com/AdrienTorris/awesome-blazor/blob/master/Archives/2017.md#videos).
 
 ## Articles
+* [Blazor WebAssembly HttpClient – Consuming Web API](https://code-maze.com/blazor-webassembly-httpclient/) - July 3, 2020 - This article from Code Maze covers the Blazor WebAssembly HttpClient and how to use it to fetch data from the ASP.NET Core Web API server.
 * [Go faster with your own re-usable Blazor components](https://jonhilton.net/build-your-own-re-usable-blazor-components/) - June 30, 2020 - Go faster with your own re-usable Blazor components.
 * [Creating a Custom Validation Message Component for Blazor Forms](https://chrissainty.com/creating-a-custom-validation-message-component-for-blazor-forms/) - June 30, 2020 - Creating a Custom Validation Message Component for Blazor Forms, by Chris Sainty.
 * [Blazor Upload File to Azure Blob Storage](https://wellsb.com/csharp/aspnet/blazor-upload-file-azure-blob-storage/) - June 29, 2020 - Blazor Upload File to Azure Blob Storage, by Bradley Wells.
