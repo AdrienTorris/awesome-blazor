@@ -450,6 +450,7 @@ To get started with Blazor, follow the instructions in the [Blazor Get Started](
 
 ## Articles
 * [Securing a Blazor WebAssembly application with Azure Active Directory](https://medium.com/@waelkdouh/securing-a-blazor-webassembly-application-with-azure-active-directory-7822148f332b) - July 7, 2020 - Securing a Blazor WebAssembly application with Azure Active Directory. [Source code](https://github.com/waelkdouh/BlazorWebAssemblyAADImplicitGrantFlow) ![stars](https://img.shields.io/github/stars/waelkdouh/BlazorWebAssemblyAADImplicitGrantFlow?style=flat-square&cacheSeconds=604800) ![last commit](https://img.shields.io/github/last-commit/waelkdouh/BlazorWebAssemblyAADImplicitGrantFlow?style=flat-square&cacheSeconds=86400).
+* [Custom validation logic on client AND server with Blazor](https://jonhilton.net/blazor-client-server-validation-with-fluentvalidation/) - July 7, 2020 - Custom validation logic on client AND server with Blazor.
 * [The .NET Stacks #6](https://daveabrock.com/2020/07/05/dotnet-stacks-6) - July 5, 2020 - A rundown on mobile Blazor bindings, EF updates, ASP.NET Core A-Z, and more.
 * [Blazor WebAssembly HttpClient – Consuming Web API](https://code-maze.com/blazor-webassembly-httpclient/) - July 3, 2020 - This article from Code Maze covers the Blazor WebAssembly HttpClient and how to use it to fetch data from the ASP.NET Core Web API server.
 * [Go faster with your own re-usable Blazor components](https://jonhilton.net/build-your-own-re-usable-blazor-components/) - June 30, 2020 - Go faster with your own re-usable Blazor components.
