@@ -13,7 +13,13 @@ Thanks @jsakamoto for this! [Source code](https://github.com/jsakamoto/awesome-b
 ## Special event: "An accessibility audit of .NET Blazor with Chris DeMars". [July, 9]
 [<img src="https://dotnetdocs.dev/default-thumb.png" align="center" width="100%">](https://dotnetdocs.dev)
 - Join Chris DeMars (@saltnburnem ), along with hosts Cam Soper, Scott Addie, David Pine for a captivating conversation about .NET.
-- Live here: https://dotnetdocs.dev
+- Live here: [dotnetdocs.dev](https://dotnetdocs.dev).
+
+## Special event: "ASPNET Community Standup: FAST Framework". [July, 8]
+[<img src="https://pbs.twimg.com/media/EcVhia8UYAE-iek?format=jpg&name=small" align="center" width="100%">](https://dotnetdocs.dev)
+- Get ready for this week’s ASPNET Community Standup on the FAST Framework with @EisenbergEffect, @stevensanderson, and @danroth27. Check out how to use the new FAST Web Components with .NET and Blazor.
+- 10:00 AM Pacific | 17:00 UTC
+- Live here: [live.dot.net](https://live.dot.net), [twitch.tv/visualstudio](https://twitch.tv/visualstudio).
 
 ## Contents
 * [Introduction](#introduction)
