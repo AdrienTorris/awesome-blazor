@@ -10,17 +10,6 @@ Contributions are always welcome! Please take a look at the [contribution guidel
 If you need to search on this list you can try this great website: [Awesome Blazor Browser](https://jsakamoto.github.io/awesome-blazor-browser/).
 Thanks @jsakamoto for this! [Source code](https://github.com/jsakamoto/awesome-blazor-browser) ![stars](https://img.shields.io/github/stars/jsakamoto/awesome-blazor-browser?style=flat-square&cacheSeconds=604800) ![last commit](https://img.shields.io/github/last-commit/jsakamoto/awesome-blazor-browser?style=flat-square&cacheSeconds=86400).
 
-## Special event: "An accessibility audit of .NET Blazor with Chris DeMars". [July, 9]
-[<img src="https://dotnetdocs.dev/default-thumb.png" align="center" width="100%">](https://dotnetdocs.dev)
-- Join Chris DeMars (@saltnburnem ), along with hosts Cam Soper, Scott Addie, David Pine for a captivating conversation about .NET.
-- Live here: [dotnetdocs.dev](https://dotnetdocs.dev).
-
-## Special event: "ASPNET Community Standup: FAST Framework". [July, 8]
-[<img src="https://pbs.twimg.com/media/EcVhia8UYAE-iek?format=jpg&name=small" align="center" width="100%">](https://dotnet.microsoft.com/platform/community/standup)
-- Get ready for this week’s ASPNET Community Standup on the FAST Framework with @EisenbergEffect, @stevensanderson, and @danroth27. Check out how to use the new FAST Web Components with .NET and Blazor.
-- 10:00 AM Pacific | 17:00 UTC
-- Live here: [live.dot.net](https://live.dot.net), [twitch.tv/visualstudio](https://twitch.tv/visualstudio).
-
 ## Contents
 * [Introduction](#introduction)
 * [General](#general)
@@ -359,6 +348,7 @@ To get started with Blazor, follow the instructions in the [Blazor Get Started](
 
 ## Videos
 * [Blazor Wasm Localization and Globalization](https://www.twitch.tv/videos/675605430) - ![duration](https://img.shields.io/badge/Duration:%20-132%20min-%230094FF?style=flat-square&cacheSeconds=maxAge&logo=twitch) July 10, 2020 - Blazor Wasm Localization and Globalization, by Ed Charbeneau.
+* [An accessibility audit of .NET Blazor with Chris DeMars](https://www.twitch.tv/videos/674677859) - ![duration](https://img.shields.io/badge/Duration:%20-60%20min-%230094FF?style=flat-square&cacheSeconds=maxAge&logo=twitch) July 9, 2020 - An accessibility audit of .NET Blazor with Chris DeMars, on [The .NET Docs Show](https://dotnetdocs.dev).
 * [FAST Framework](https://www.youtube.com/watch?v=sYTH_xYH3iA&list=PL1rZQsJPBU2St9-Mz1Kaa7rofciyrwWVx&index=2) - ![duration](https://img.shields.io/badge/Duration:%20-78%20min-%230094FF?style=flat-square&cacheSeconds=maxAge&logo=youtube) July 7, 2020 - [ASP.NET Community Standup](https://dotnet.microsoft.com/platform/community/standup): FAST Framework. Check out how to use the new FAST Web Components with .NET and Blazor. Guests: Daniel Roth, Steve Sanderson and Rob Eisenberg.
 * [Blazor WebAssembly : Using HttpClient in MVVM](https://www.youtube.com/watch?v=To-GSKOac10&feature=youtu.be) - ![duration](https://img.shields.io/badge/Duration:%20-16%20min-%230094FF?style=flat-square&cacheSeconds=maxAge&logo=youtube) July 6, 2020 - Blazor WebAssembly : Using HttpClient in MVVM, by Curious Drive. This video is about how to use IHttpClientFactory in a Blazor WebAssembly application.
 * [Blazor WebAssembly : Dependency Injection](https://www.youtube.com/watch?v=bxpSa0ZmwtY&feature=youtu.be) - ![duration](https://img.shields.io/badge/Duration:%20-14%20min-%230094FF?style=flat-square&cacheSeconds=maxAge&logo=youtube) July 3, 2020 - Blazor WebAssembly : Dependency Injection, by Curious Drive. 
