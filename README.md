@@ -354,6 +354,7 @@ To get started with Blazor, follow the instructions in the [Blazor Get Started](
 * [BlazorFileSaver](https://github.com/IvanJosipovic/BlazorFileSaver) - Blazor Component wrapper for FileSaver.js ([Demo](https://blazorfilesaver.netlify.com)).
 * [Blazor.DynamicJavascriptRuntime.Evaluator](https://github.com/jameschch/Blazor.DynamicJavascriptRuntime.Evaluator) - Execute dynamic object expressions as Javascript in Blazor client-side apps.
 * [Blazor.AdaptiveCards](https://github.com/mikoskinen/Blazor.AdaptiveCards) - Adaptive Cards for Blazor. [Documentation](https://adaptivecardsblazor.com/).
+* [EventHorizon Blazor TypeScript Interop Generator](https://github.com/canhorn/EventHorizon.Blazor.TypeScript.Interop.Generator) - ![last commit](https://img.shields.io/github/last-commit/canhorn/EventHorizon.Blazor.TypeScript.Interop.Generator?style=flat-square&cacheSeconds=86400) This project takes in a TypeScript type definition file and creates a .NET Core project that will work with the provided Interop abstraction project.
 
 ## Videos
 * [Blazor Wasm Localization and Globalization](https://www.twitch.tv/videos/675605430) - ![duration](https://img.shields.io/badge/Duration:%20-132%20min-%230094FF?style=flat-square&cacheSeconds=maxAge&logo=twitch) July 10, 2020 - Blazor Wasm Localization and Globalization, by Ed Charbeneau.
