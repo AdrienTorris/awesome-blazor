@@ -11,9 +11,9 @@ If you need to search on this list you can try this great website: [Awesome Blaz
 Thanks @jsakamoto for this! [Source code](https://github.com/jsakamoto/awesome-blazor-browser) ![stars](https://img.shields.io/github/stars/jsakamoto/awesome-blazor-browser?style=flat-square&cacheSeconds=604800) ![last commit](https://img.shields.io/github/last-commit/jsakamoto/awesome-blazor-browser?style=flat-square&cacheSeconds=86400).
 
 ## Special event: Blazor July 2020 Sprint (On July 16th, 2020)
-Interested in contributing a pull request (or two!) to Blazor?
-Join the Blazor team and community members on July 16th for the first-ever Blazor virtual sprint!
-Registration link and more info are available at [https://github.com/dotnet/aspnetcore/wiki/Blazor-July-2020-Sprint](https://github.com/dotnet/aspnetcore/wiki/Blazor-July-2020-Sprint).
+- Interested in contributing a pull request (or two!) to Blazor?
+- Join the Blazor team and community members on July 16th for the first-ever Blazor virtual sprint!
+- Registration link and more info are available at [https://github.com/dotnet/aspnetcore/wiki/Blazor-July-2020-Sprint](https://github.com/dotnet/aspnetcore/wiki/Blazor-July-2020-Sprint).
 
 ## Contents
 * [Introduction](#introduction)
