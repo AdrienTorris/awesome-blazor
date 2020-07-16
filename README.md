@@ -451,6 +451,7 @@ To get started with Blazor, follow the instructions in the [Blazor Get Started](
 * [Blazor Forms with Validation - Part IV](https://www.youtube.com/watch?v=SzlsRdV5z_8) - January 1, 2020 - This video will show you how to include a radio button, checkbox, and select/dropdown in a blazor form.  There are a couple of options when working with the select and this video takes you through them.
 * [Blazor Forms with Validation - Part III](https://www.youtube.com/watch?v=fAwba0bpiSs) - January 1, 2020 - This video shows you how to add validation messages at the field level instead of or in addition to at the form level.
 * [Archives](https://github.com/AdrienTorris/awesome-blazor/tree/master/Archives) - [2019](https://github.com/AdrienTorris/awesome-blazor/blob/master/Archives/2019.md#videos), [2018](https://github.com/AdrienTorris/awesome-blazor/blob/master/Archives/2018.md#videos), [2017](https://github.com/AdrienTorris/awesome-blazor/blob/master/Archives/2017.md#videos).
+*[Blazor Web Bluetooth ](https://www.youtube.com/watch?v=CFaijQhkAwg&t=45s)- July 1, 2020 - In This video Jimmy Engström demonstratrs how to uses blazor and web bluetooth to  controls a bluetooth robot.
 
 ## Articles
 * [How to Build a CORS Proxy for Client-side Blazor](https://darnton.co.nz/2020/07/13/cors-proxy-for-client-side-blazor/) - July 13, 2020 - How to Build a CORS Proxy for Client-side Blazor.
