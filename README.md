@@ -14,6 +14,7 @@ Thanks @jsakamoto for this! [Source code](https://github.com/jsakamoto/awesome-b
 - Interested in contributing a pull request (or two!) to Blazor?
 - Join the Blazor team and community members on July 16th for the first-ever Blazor virtual sprint!
 - Registration link and more info are available at [https://github.com/dotnet/aspnetcore/wiki/Blazor-July-2020-Sprint](https://github.com/dotnet/aspnetcore/wiki/Blazor-July-2020-Sprint).
+- List of the community's Pull Requests: [https://github.com/dotnet/aspnetcore/issues?q=label%3Acommunity-contribution](https://github.com/dotnet/aspnetcore/issues?q=label%3Acommunity-contribution).
 
 ## Contents
 * [Introduction](#introduction)
