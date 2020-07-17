@@ -10,7 +10,7 @@ Contributions are always welcome! Please take a look at the [contribution guidel
 If you need to search on this list you can try this great website: [Awesome Blazor Browser](https://jsakamoto.github.io/awesome-blazor-browser/).
 Thanks @jsakamoto for this! [Source code](https://github.com/jsakamoto/awesome-blazor-browser) ![stars](https://img.shields.io/github/stars/jsakamoto/awesome-blazor-browser?style=flat-square&cacheSeconds=604800) ![last commit](https://img.shields.io/github/last-commit/jsakamoto/awesome-blazor-browser?style=flat-square&cacheSeconds=86400).
 
-## Special event: Blazor July 2020 Sprint (On July 16th, 2020)
+## Special event: Blazor July 2020 Sprint (Over)
 - Interested in contributing a pull request (or two!) to Blazor?
 - Join the Blazor team and community members on July 16th for the first-ever Blazor virtual sprint!
 - Registration link and more info are available at [https://github.com/dotnet/aspnetcore/wiki/Blazor-July-2020-Sprint](https://github.com/dotnet/aspnetcore/wiki/Blazor-July-2020-Sprint).
@@ -104,6 +104,7 @@ To get started with Blazor, follow the instructions in the [Blazor Get Started](
 * [Lights out Blazor](https://github.com/bjorndaniel/lightsoutpuzzle) - ![last commit](https://img.shields.io/github/last-commit/bjorndaniel/lightsoutpuzzle?style=flat-square&cacheSeconds=86400) Clone based on the 1995 game [Lights Out](https://en.wikipedia.org/wiki/Lights_Out_(game)) by Tiger Electronics [Demo](https://lights-out-puzzle.bjorndaniel.se/).
 * [Minesweeper](https://github.com/exceptionnotfound/BlazorGames) - ![last commit](https://img.shields.io/github/last-commit/exceptionnotfound/BlazorGames?style=flat-square&cacheSeconds=86400) Minesweeper using C# and Blazor WebAssembly.
 * [TicTacToe](https://github.com/ysflghou/Tic-Tac-Toe) - ![last commit](https://img.shields.io/github/last-commit/ysflghou/Tic-Tac-Toe?style=flat-square&cacheSeconds=86400) Tic Tac Toe game using blazor webassembly. Here is a [Demo](https://ysflghou.github.io/BlazorTicTacToe/) and a [Blog post](https://lghou.com/blog/blazor-webassembly).
+* [ZXSpectrum](https://github.com/EngstromJimmy/ZXSpectrum) - ![last commit](https://img.shields.io/github/last-commit/EngstromJimmy/ZXSpectrum?style=flat-square&cacheSeconds=86400) ZX Spectrum emulator running on Blazor WebAssembly. [Demo](https://zxspectrum.azurewebsites.net/).
 ### Hybrid
 * [Blazor + Electron](https://aka.ms/blazorelectron) - Host Razor Components inside an Electron shell. This allows for modern, high-performance cross-platform desktop apps built with .NET and web technologies.
 * [Blazor + WebWindow](https://aka.ms/webwindow) - [WebWindow](https://www.nuget.org/packages/WebWindow) is like Electron, but without bundling Node.js or Chromium, and without most of the APIs. [WebWindow source code](https://github.com/SteveSandersonMS/WebWindow). [Blazor + WebWindow sample here](https://github.com/SteveSandersonMS/WebWindow/tree/master/samples/BlazorDesktopApp).
