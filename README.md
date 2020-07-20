@@ -10,12 +10,6 @@ Contributions are always welcome! Please take a look at the [contribution guidel
 If you need to search on this list you can try this great website: [Awesome Blazor Browser](https://jsakamoto.github.io/awesome-blazor-browser/).
 Thanks @jsakamoto for this! [Source code](https://github.com/jsakamoto/awesome-blazor-browser) ![stars](https://img.shields.io/github/stars/jsakamoto/awesome-blazor-browser?style=flat-square&cacheSeconds=604800) ![last commit](https://img.shields.io/github/last-commit/jsakamoto/awesome-blazor-browser?style=flat-square&cacheSeconds=86400).
 
-## Special event: Blazor July 2020 Sprint (Over)
-- Interested in contributing a pull request (or two!) to Blazor?
-- Join the Blazor team and community members on July 16th for the first-ever Blazor virtual sprint!
-- Registration link and more info are available at [https://github.com/dotnet/aspnetcore/wiki/Blazor-July-2020-Sprint](https://github.com/dotnet/aspnetcore/wiki/Blazor-July-2020-Sprint).
-- List of the community's Pull Requests: [https://github.com/dotnet/aspnetcore/issues?q=label%3Acommunity-contribution](https://github.com/dotnet/aspnetcore/issues?q=label%3Acommunity-contribution).
-
 ## Contents
 * [Introduction](#introduction)
 * [General](#general)
@@ -118,6 +112,7 @@ To get started with Blazor, follow the instructions in the [Blazor Get Started](
 * [gRPC-Web](https://github.com/waelkdouh/gRPC-Web) - ![stars](https://img.shields.io/github/stars/waelkdouh/gRPC-Web?style=flat-square&cacheSeconds=604800) ![last commit](https://img.shields.io/github/last-commit/waelkdouh/gRPC-Web?style=flat-square&cacheSeconds=86400) Sample about gRPC-Web and Blazor WebAssembly.
 * [Blazor + Umbraco Heartcore](https://github.com/umbraco/Umbraco.Headless.Client.Net/tree/master/samples/Umbraco.Headless.Client.Samples.BlazorServer) - ![Last commit](https://img.shields.io/github/last-commit/umbraco/Umbraco.Headless.Client.Net?style=flat-square&cacheSeconds=86000) Example of using [Umbraco Heartcore](https://umbraco.com/products/umbraco-heartcore/) with Blazor.
 * [BlazorGrpcWebCodeFirst](https://github.com/hakenr/BlazorGrpcWebCodeFirst) - ![last commit](https://img.shields.io/github/last-commit/hakenr/BlazorGrpcWebCodeFirst?style=flat-square&cacheSeconds=86000) Sample project that demonstrates how you can use gRPC-Web with Blazor WebAssembly hosted on ASP.NET Core. Publish and consume your services without having to create .proto files - with the code-first approach.
+* [SignalR CLR](https://github.com/slorello89/SignalRClr) - ![last commit](https://img.shields.io/github/last-commit/slorello89/SignalRClr?style=flat-square&cacheSeconds=86400) This is a simple example of using SignalR and Blazor WebAssembly together to eliminate the need for any JavaScript when handling server event's. [Blog post](https://slorello.com/posts/signalr-without-javascript-using-blazor-webassembly) about this sample.
 ### Logging
 * [Logging.Samples](https://github.com/akovac35/Logging.Samples) - ![last-commit](https://img.shields.io/github/last-commit/akovac35/Logging.Samples?style=flat-square&cacheSeconds=86000) Samples for .NET Core and ASP.NET Core logging using various logger frameworks.
 ### Machine Learning
@@ -464,6 +459,7 @@ To get started with Blazor, follow the instructions in the [Blazor Get Started](
 * [Archives](https://github.com/AdrienTorris/awesome-blazor/tree/master/Archives) - [2019](https://github.com/AdrienTorris/awesome-blazor/blob/master/Archives/2019.md#videos), [2018](https://github.com/AdrienTorris/awesome-blazor/blob/master/Archives/2018.md#videos), [2017](https://github.com/AdrienTorris/awesome-blazor/blob/master/Archives/2017.md#videos).
 
 ## Articles
+* [SignalR without Javascript, the Promise of Blazor](https://slorello.com/posts/signalr-without-javascript-using-blazor-webassembly) - July 18, 2020 - SignalR has always had one major flaw: to use it, you needed to use JavaScript. But with the dawn of Blazor, this age of compromise is over. We can manage all of the data transfers between our servers and clients straight out of CLR types! [Source code](https://github.com/slorello89/SignalRClr) ![stars](https://img.shields.io/github/stars/slorello89/SignalRClr?style=flat-square&cacheSeconds=604800) ![last commit](https://img.shields.io/github/last-commit/slorello89/SignalRClr?style=flat-square&cacheSeconds=86400).
 * [New experimental Razor editor for Visual Studio](https://devblogs.microsoft.com/aspnet/new-experimental-razor-editor-for-visual-studio/) - July 15, 2020 - With the release of Visual Studio 2019 16.7 Preview 4, you can now try out our new experimental Razor editor for local development with MVC, Razor Pages, and Blazor.
 * [Blazor and Dragons: How to consume gRPC-web from Blazor](https://dev.to/mizrael/blazor-and-dragons-how-to-consume-grpc-web-from-blazor-5d59) - July 14, 2020 - Blazor and Dragons: how to consume gRPC-web from Blazor.
 * [How to Build a CORS Proxy for Client-side Blazor](https://darnton.co.nz/2020/07/13/cors-proxy-for-client-side-blazor/) - July 13, 2020 - How to Build a CORS Proxy for Client-side Blazor.
