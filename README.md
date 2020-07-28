@@ -10,19 +10,12 @@ Contributions are always welcome! Please take a look at the [contribution guidel
 If you need to search on this list you can try this great website: [Awesome Blazor Browser](https://jsakamoto.github.io/awesome-blazor-browser/).
 Thanks @jsakamoto for this! [Source code](https://github.com/jsakamoto/awesome-blazor-browser) ![stars](https://img.shields.io/github/stars/jsakamoto/awesome-blazor-browser?style=flat-square&cacheSeconds=604800) ![last commit](https://img.shields.io/github/last-commit/jsakamoto/awesome-blazor-browser?style=flat-square&cacheSeconds=86400).
 
-## Annoucement: "ASP.NET Core Updates in .NET 5 Preview 7" (July 21, 2020).
-- [.NET 5 Preview 7 is now available](https://devblogs.microsoft.com/aspnet/asp-net-core-updates-in-net-5-preview-7/) and is ready for evaluation. Here’s what’s new in this release:
-   * Blazor WebAssembly apps now target .NET 5
-   * Updated debugging requirements for Blazor WebAssembly
-   * Blazor accessibility improvements
-   * Blazor performance improvements
-   * and more.
-- Release post: [devblogs.microsoft.com/aspnet/asp-net-core-updates-in-net-5-preview-7](https://devblogs.microsoft.com/aspnet/asp-net-core-updates-in-net-5-preview-7/).
-
-## Annoucement: "Visual Studio 16.7 Preview 4" (July 16, 2020).
-[<img src="https://pbs.twimg.com/media/EdpGo5lX0AAWj7t?format=png&name=large" align="center" width="100%">](https://msft.it/6018TWPvo)
-- With the release of #VS2019 16.7 Preview 4, you can now try out the new experimental Razor editor for local development with MVC, Razor Pages, and Blazor. See what that means for you and how to give it a try:  [msft.it/6018TWPvo](https://msft.it/6018TWPvo).
-- Note that the Visual Studio 2019 16.7 Preview 5 is released: [visualstudio.microsoft.com](https://visualstudio.microsoft.com/vs/preview/).
+## Annoucement: "ASP.NET Community Standup" (July 28, 2020).
+[<img src="https://pbs.twimg.com/media/Ed6murDUYAIwUqq?format=png&name=medium" align="center" width="100%">](https://dotnet.microsoft.com/platform/community/standup)
+- We've got a fun show scheduled for this week’s #ASPNET Community Standup: Migrating from Web Forms to Blazor with @csharpfritz
+- Tuesday | July 28
+- 10:00 AM Pacific | 17:00 UTC
+- Live/Replay: [live.dot.net](https://live.dot.net) or [Twitch](https://twitch.tv/visualstudio).
 
 ## Contents
 * [Introduction](#introduction)
