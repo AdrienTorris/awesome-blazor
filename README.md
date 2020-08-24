@@ -10,13 +10,6 @@ Contributions are always welcome! Please take a look at the [contribution guidel
 If you need to search on this list you can try this great website: [Awesome Blazor Browser](https://jsakamoto.github.io/awesome-blazor-browser/).
 Thanks @jsakamoto for this! [Source code](https://github.com/jsakamoto/awesome-blazor-browser) ![stars](https://img.shields.io/github/stars/jsakamoto/awesome-blazor-browser?style=flat-square&cacheSeconds=604800) ![last commit](https://img.shields.io/github/last-commit/jsakamoto/awesome-blazor-browser?style=flat-square&cacheSeconds=86400).
 
-## Annoucement: "ASP.NET Community Standup" (July 28, 2020).
-[<img src="https://pbs.twimg.com/media/Ed6murDUYAIwUqq?format=png&name=medium" align="center" width="100%">](https://dotnet.microsoft.com/platform/community/standup)
-- We've got a fun show scheduled for this week’s #ASPNET Community Standup: Migrating from Web Forms to Blazor with @csharpfritz
-- Tuesday | July 28
-- 10:00 AM Pacific | 17:00 UTC
-- Live/Replay: [live.dot.net](https://live.dot.net) or [Twitch](https://twitch.tv/visualstudio).
-
 ## Contents
 * [Introduction](#introduction)
 * [General](#general)
