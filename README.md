@@ -10,6 +10,13 @@ Contributions are always welcome! Please take a look at the [contribution guidel
 If you need to search on this list you can try this great website: [Awesome Blazor Browser](https://jsakamoto.github.io/awesome-blazor-browser/).
 Thanks @jsakamoto for this! [Source code](https://github.com/jsakamoto/awesome-blazor-browser) ![stars](https://img.shields.io/github/stars/jsakamoto/awesome-blazor-browser?style=flat-square&cacheSeconds=604800) ![last commit](https://img.shields.io/github/last-commit/jsakamoto/awesome-blazor-browser?style=flat-square&cacheSeconds=86400).
 
+## Event: "ASP.NET Community Standup: Razor Tooling" (August 25, 2020).
+[<img src="https://pbs.twimg.com/media/EgORdKBUcAEyoGt?format=jpg&name=medium" align="center" width="100%">](https://dotnet.microsoft.com/platform/community/standup)
+- Get an update from the team that builds Razor tooling, with some demos for Visual Studio, Visual Studio Code, LiveShare, debugging, and more.
+- August 25. 10:00 AM Pacific | 17:00 UTC
+- Live/Replay: [live.dot.net](https://live.dot.net), [Twitch](https://twitch.tv/visualstudio) or [YouTube](https://www.youtube.com/watch?v=nci0ZMoGcLM&list=PL1rZQsJPBU2St9-Mz1Kaa7rofciyrwWVx&index=5).
+- [Community links](https://www.theurlist.com/aspnet-standup-2020-08-25).
+
 ## Contents
 * [Introduction](#introduction)
 * [General](#general)
