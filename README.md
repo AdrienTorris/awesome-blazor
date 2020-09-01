@@ -257,7 +257,7 @@ To get started with Blazor, follow the instructions in the [Blazor Get Started](
 * [BlazorDateRangePicker](https://github.com/jdtcn/BlazorDateRangePicker) - ![stars](https://img.shields.io/github/stars/jdtcn/BlazorDateRangePicker?style=flat-square&cacheSeconds=604800) ![last commit](https://img.shields.io/github/last-commit/jdtcn/BlazorDateRangePicker?style=flat-square&cacheSeconds=86400) A date range picker component library for Blazor. [Demo](https://BlazorDateRangePicker.azurewebsites.net/).
 #### Maps
 * [BlazorGoogleMaps](https://github.com/rungwiroon/BlazorGoogleMaps) - ![GitHub stars](https://img.shields.io/github/stars/rungwiroon/BlazorGoogleMaps?style=flat-square&cacheSeconds=604800) ![last commit](https://img.shields.io/github/last-commit/rungwiroon/BlazorGoogleMaps?style=flat-square&cacheSeconds=86400) Blazor interop for GoogleMap library.
-### Markdowns
+#### Markdowns
 * [RazorComponents.Markdown](https://github.com/StardustDL/RazorComponents.Markdown) - ![last commit](https://img.shields.io/github/last-commit/StardustDL/RazorComponents.Markdown?style=flat-square&cacheSeconds=86400) A razor component for Markdown rendering which supports LaTeX, Mermaid diagram, code highlighting and extensions based on Markdig.
 * [Blazor Markdown](https://github.com/georgemathieson/blazor-markdown) - ![last_commit](https://img.shields.io/github/last-commit/georgemathieson/blazor-markdown?style=flat-square&cacheSeconds=86400) A Blazor Markdown component that enables you to include Markdown files in your server-side Blazor apps.
 #### Modal, Toast & Notifications
