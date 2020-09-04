@@ -10,13 +10,6 @@ Contributions are always welcome! Please take a look at the [contribution guidel
 If you need to search on this list you can try this great website: [Awesome Blazor Browser](https://jsakamoto.github.io/awesome-blazor-browser/).
 Thanks @jsakamoto for this! [Source code](https://github.com/jsakamoto/awesome-blazor-browser) ![stars](https://img.shields.io/github/stars/jsakamoto/awesome-blazor-browser?style=flat-square&cacheSeconds=604800) ![last commit](https://img.shields.io/github/last-commit/jsakamoto/awesome-blazor-browser?style=flat-square&cacheSeconds=86400).
 
-## Event: "ASP.NET Community Standup: Razor Tooling" (August 25, 2020).
-[<img src="https://pbs.twimg.com/media/EgORdKBUcAEyoGt?format=jpg&name=medium" align="center" width="100%">](https://dotnet.microsoft.com/platform/community/standup)
-- Get an update from the team that builds Razor tooling, with some demos for Visual Studio, Visual Studio Code, LiveShare, debugging, and more.
-- August 25. 10:00 AM Pacific | 17:00 UTC
-- Live/Replay: [live.dot.net](https://live.dot.net), [Twitch](https://twitch.tv/visualstudio) or [YouTube](https://www.youtube.com/watch?v=nci0ZMoGcLM&list=PL1rZQsJPBU2St9-Mz1Kaa7rofciyrwWVx&index=5).
-- [Community links](https://www.theurlist.com/aspnet-standup-2020-08-25).
-
 ## Contents
 * [Introduction](#introduction)
 * [General](#general)
@@ -504,6 +497,7 @@ To get started with Blazor, follow the instructions in the [Blazor Get Started](
 * [Archives](https://github.com/AdrienTorris/awesome-blazor/tree/master/Archives) - [2019](https://github.com/AdrienTorris/awesome-blazor/blob/master/Archives/2019.md#videos), [2018](https://github.com/AdrienTorris/awesome-blazor/blob/master/Archives/2018.md#videos), [2017](https://github.com/AdrienTorris/awesome-blazor/blob/master/Archives/2017.md#videos).
 
 ## Articles
+* [.NET 5 Now 'Feature Complete' with Preview 8, Go Live Release Candidates Up Next](https://visualstudiomagazine.com/articles/2020/08/26/net-5-preview-8.aspx) - August 26, 2020 - .NET 5 Now 'Feature Complete' with Preview 8, Go Live Release Candidates Up Next on Visual Studio Magazine.
 * [Showing a confirm dialog before doing an action in Blazor](https://www.meziantou.net/showing-a-confirm-dialog-before-doing-an-action-in-blazor.htm) - August 26, 2020 - Showing a confirm dialog before doing an action in Blazor.
 * [ASP.NET Core updates in .NET 5 Preview 8](https://devblogs.microsoft.com/aspnet/asp-net-core-updates-in-net-5-preview-8/) - August 25, 2020 - .NET 5 Preview 8 is now available and is ready for evaluation. Here’s what’s new in this release: CSS isolation for Blazor components, Lazy loading in Blazor WebAssembly, Updated Blazor WebAssembly globalization support, New InputRadio Blazor component, Set UI focus in Blazor apps, Influencing the HTML head in Blazor apps, IAsyncDisposable for Blazor components, Control Blazor component instantiation and much more.
 * [Announcing .NET 5.0 Preview 8](https://devblogs.microsoft.com/dotnet/announcing-net-5-0-preview-8/) - August 25, 2020 - Today, we are releasing .NET 5.0 Preview 8. The .NET 5.0 release is now “feature complete”, meaning that very nearly all features are in their final form (with the exception of bug fixes still to come). Preview 8 is, appropriately, the last preview. We plan on releasing two go-live release candidates before the final .NET 5.0 release in November. This post describes a selection of features across the .NET 5.0 release.
