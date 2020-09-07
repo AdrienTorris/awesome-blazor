@@ -31,4 +31,4 @@
 | **Toggle** | ? | ? | ? | ? | ? | ? | ? | ? | ? | ? | ? | [Toggle](https://www.syncfusion.com/blazor-components/blazor-toggle-switch-button) | ? | ? |
 | **Modal** | ? | ? | ? | ? | ? | ? | ? | ? | ? | ? | ? | [Modal](https://www.syncfusion.com/blazor-components/blazor-modal-dialog) | ? | ? |
 | **Tooltip** | ? | ? | ? | ? | ? | ? | ? | ? | ? | ? | ? | [Tooltip](https://www.syncfusion.com/blazor-components/blazor-tooltip) | ? | ? |
-| **Other** | ? | ? | ? | ? | ? | ? | ? | ? | ? | ? | ? | [Others](https://www.syncfusion.com/blazor-components) | ? | ? |
+| **Other** | ? | ? | ? | ? | ? | ? | ? | ? | ? | ? | ? | [Other 60+ components](https://www.syncfusion.com/blazor-components) | ? | ? |
