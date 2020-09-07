@@ -9,18 +9,18 @@
 | **Demo** | [Demo](https://www.matblazor.com/) | [Docs as Demo](https://ant-design-blazor.github.io/) | [Bootstrap Demo](https://bootstrapdemo.blazorise.com/), [Bulma Demo](https://bulmademo.blazorise.com/), [AntDesign Demo](https://antdesigndemo.blazorise.com/), [Material Demo](https://materialdemo.blazorise.com/) | [Demo](https://chanan.github.io/BlazorStrap/) | [Demo](https://razor.radzen.com/) | [Dashboard Demo](https://skclusive.github.io/Skclusive.Blazor.Samples/Dashboard/), [Components](https://skclusive.github.io/Skclusive.Material.Docs/) |  N/A | N/A | [Client-side demo (WebAssembly)](https://www.blazorfluentui.net/), [Server-side demo (SignalR)](https://blazorfluentui.azurewebsites.net/) | N/A | N/A | [Demo](https://blazor.syncfusion.com/demos/) | N/A | N/A |
 | **CSS framework** | Material | Ant Design | Many | Bootstrap | ? | Material | ? | ? | ? | Material | ? | Many [(doc)](https://blazor.syncfusion.com/documentation/appearance/theme/) | ? | ? |
 | **Components** | ? | ? | ? | ? | ? | ? | ? | ? | ? | ? | ? | [Blazor UI & DataViz Components](https://blazor.syncfusion.com/) | ? | ? |
-| **Data Grid** | ? | ? | ? | ? | ? | ? | ? | ? | ? | ? | ? | [Data Grid](https://www.syncfusion.com/blazor-components/blazor-datagrid) | ? | ? |
+| **Data Grid** | ? | ? | ? | ? | ? | ? | ? | ? | ? | ? | ? | [DataGrid](https://www.syncfusion.com/blazor-components/blazor-datagrid) | ? | ? |
 | **Charts** | ? | ? | ? | ? | ? | ? | ? | ? | ? | ? | ? | [Charts](https://www.syncfusion.com/blazor-components/blazor-charts) | ? | ? |
 | **Maps** | ? | ? | ? | ? | ? | ? | ? | ? | ? | ? | ? | [Maps](https://www.syncfusion.com/blazor-components/blazor-maps) | ? | ? |
 | **Calendar** | ? | ? | ? | ? | ? | ? | ? | ? | ? | ? | ? | [Calendar](https://www.syncfusion.com/blazor-components/blazor-calendar) | ? | ? |
 | **Autocomplete** | ? | ? | ? | ? | ? | ? | ? | ? | ? | ? | ? | [AutoComplete](https://www.syncfusion.com/blazor-components/blazor-autocomplete) | ? | ? |
-| **Dropdown** | ? | ? | ? | ? | ? | ? | ? | ? | ? | ? | ? | [Dropdown Menu](https://www.syncfusion.com/blazor-components/blazor-dropdown-menu), [DropDown List](https://www.syncfusion.com/blazor-components/blazor-dropdown-list), [MultiSelect DropDown](https://www.syncfusion.com/blazor-components/blazor-multiselect-dropdown) | ? | ? |
-| **Combobox** | ? | ? | ? | ? | ? | ? | ? | ? | ? | ? | ? | [Combobox](https://www.syncfusion.com/blazor-components/blazor-combobox) | ? | ? |
+| **Dropdown** | ? | ? | ? | ? | ? | ? | ? | ? | ? | ? | ? | [Dropdown Menu](https://www.syncfusion.com/blazor-components/blazor-dropdown-menu), [Dropdown List](https://www.syncfusion.com/blazor-components/blazor-dropdown-list), [MultiSelect DropDown](https://www.syncfusion.com/blazor-components/blazor-multiselect-dropdown) | ? | ? |
+| **Combobox** | ? | ? | ? | ? | ? | ? | ? | ? | ? | ? | ? | [ComboBox](https://www.syncfusion.com/blazor-components/blazor-combobox) | ? | ? |
 | **Accordion** | ? | ? | ? | ? | ? | ? | ? | ? | ? | ? | ? | [Accordion](https://www.syncfusion.com/blazor-components/blazor-accordion) | ? | ? |
 | **Sidebar** | ? | ? | ? | ? | ? | ? | ? | ? | ? | ? | ? | [Sidebar](https://www.syncfusion.com/blazor-components/blazor-sidebar) | ? | ? |
 | **Tabs** | ? | ? | ? | ? | ? | ? | ? | ? | ? | ? | ? | [Tabs](https://www.syncfusion.com/blazor-components/blazor-tabs) | ? | ? |
-| **Treeview** | ? | ? | ? | ? | ? | ? | ? | ? | ? | ? | ? | [Treeview](https://www.syncfusion.com/blazor-components/blazor-treeview) | ? | ? |
-| **Progressbar** | ? | ? | ? | ? | ? | ? | ? | ? | ? | ? | ? | [Progressbar](https://www.syncfusion.com/blazor-components/blazor-progressbar) | ? | ? |
+| **Treeview** | ? | ? | ? | ? | ? | ? | ? | ? | ? | ? | ? | [TreeView](https://www.syncfusion.com/blazor-components/blazor-treeview) | ? | ? |
+| **Progressbar** | ? | ? | ? | ? | ? | ? | ? | ? | ? | ? | ? | [Progress Bar](https://www.syncfusion.com/blazor-components/blazor-progressbar) | ? | ? |
 | **Toast** | ? | ? | ? | ? | ? | ? | ? | ? | ? | ? | ? | [Toast](https://www.syncfusion.com/blazor-components/blazor-toast) | ? | ? |
 | **Spinner** | ? | ? | ? | ? | ? | ? | ? | ? | ? | ? | ? | [Spinner](https://blazor.syncfusion.com/demos/spinner/) | ? | ? |
 | **Textbox** | ? | ? | ? | ? | ? | ? | ? | ? | ? | ? | ? | [TextBox](https://www.syncfusion.com/blazor-components/blazor-textbox) | ? | ? |
@@ -28,7 +28,7 @@
 | **Radio Button** | ? | ? | ? | ? | ? | ? | ? | ? | ? | ? | ? | [Radio Button](https://www.syncfusion.com/blazor-components/blazor-radio-button) | ? | ? |
 | **Checkbox** | ? | ? | ? | ? | ? | ? | ? | ? | ? | ? | ? | [Checkbox](https://www.syncfusion.com/blazor-components/blazor-checkbox) | ? | ? |
 | **Slider** | ? | ? | ? | ? | ? | ? | ? | ? | ? | ? | ? | [Slider](https://www.syncfusion.com/blazor-components/blazor-range-slider) | ? | ? |
-| **Toggle** | ? | ? | ? | ? | ? | ? | ? | ? | ? | ? | ? | [Toggle](https://www.syncfusion.com/blazor-components/blazor-toggle-switch-button) | ? | ? |
-| **Modal** | ? | ? | ? | ? | ? | ? | ? | ? | ? | ? | ? | [Modal](https://www.syncfusion.com/blazor-components/blazor-modal-dialog) | ? | ? |
+| **Toggle** | ? | ? | ? | ? | ? | ? | ? | ? | ? | ? | ? | [Toggle Switch Button](https://www.syncfusion.com/blazor-components/blazor-toggle-switch-button) | ? | ? |
+| **Modal** | ? | ? | ? | ? | ? | ? | ? | ? | ? | ? | ? | [Dialog](https://www.syncfusion.com/blazor-components/blazor-modal-dialog) | ? | ? |
 | **Tooltip** | ? | ? | ? | ? | ? | ? | ? | ? | ? | ? | ? | [Tooltip](https://www.syncfusion.com/blazor-components/blazor-tooltip) | ? | ? |
 | **Other** | ? | ? | ? | ? | ? | ? | ? | ? | ? | ? | ? | [Other 60+ components](https://www.syncfusion.com/blazor-components) | ? | ? |
