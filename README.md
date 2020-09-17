@@ -10,9 +10,11 @@ Contributions are always welcome! Please take a look at the [contribution guidel
 If you need to search on this list you can try this great website: [Awesome Blazor Browser](https://jsakamoto.github.io/awesome-blazor-browser/).
 Thanks @jsakamoto for this! [Source code](https://github.com/jsakamoto/awesome-blazor-browser) ![stars](https://img.shields.io/github/stars/jsakamoto/awesome-blazor-browser?style=flat-square&cacheSeconds=604800) ![last commit](https://img.shields.io/github/last-commit/jsakamoto/awesome-blazor-browser?style=flat-square&cacheSeconds=86400).
 
-## Event: "Blazor Development Sprint" (September 10, 2020).
-[<img src="https://user-images.githubusercontent.com/1857993/89742998-c75b1f80-da53-11ea-86e0-c441f71c0f80.png" align="center" width="100%">](https://github.com/dotnet/aspnetcore/wiki/Blazor-Development-Sprints)
-- The next Blazor development sprint will be held on September 10th, 2020. Download this [calendar](https://drive.google.com/file/d/1Q2YyM4a2TaLytTWq0IA2B1eQQxIS_XgJ/view) file to add upcoming sprints to your calendar.
+## Event: "Blazor WASM & ML.NET with .NET 5" (September 23, 2020).
+[<img src="https://i.ytimg.com/vi/HBEGPANJnr4/mqdefault_live.jpg" align="center" width="100%">](https://dotnet.microsoft.com/platform/community/standup)
+- Machine Learning ASP.NET Community Standup: Learn how you can use .NET 5 and ML.NET to add machine learning to Blazor WASM apps.
+- Live / Replay links: [YouTube](https://www.youtube.com/watch?v=HBEGPANJnr4&list=PL1rZQsJPBU2St9-Mz1Kaa7rofciyrwWVx&index=0), [ASP.NET Community Sandup website](https://dotnet.microsoft.com/platform/community/standup).
+- Community links: [theurlist.com](https://www.theurlist.com/mlnet-standup-2020-09-23).
 
 ## Contents
 * [Introduction](#introduction)
