@@ -519,6 +519,7 @@ To get started with Blazor, follow the instructions in the [Blazor Get Started](
 * [Archives](https://github.com/AdrienTorris/awesome-blazor/tree/master/Archives) - [2019](https://github.com/AdrienTorris/awesome-blazor/blob/master/Archives/2019.md#videos), [2018](https://github.com/AdrienTorris/awesome-blazor/blob/master/Archives/2018.md#videos), [2017](https://github.com/AdrienTorris/awesome-blazor/blob/master/Archives/2017.md#videos).
 
 ## Articles
+* [Azure Static Web Apps with .NET and Blazor](https://devblogs.microsoft.com/aspnet/azure-static-web-apps-with-blazor/) - September 22, 2020 - Azure Static Web Apps with .NET and Blazor, on the ASP.NET blog.
 * [Run EF Core Queries on SQL Server From Blazor WebAssembly](https://blog.jeremylikness.com/blog/run-efcore-queries-against-sql-from-blazor-webassembly/) - September 20, 2020 - Run EF Core Queries on SQL Server From Blazor WebAssembly. What if I could write a LINQ query on a client the same way I would on a server, and execute it remotely with minimal configuration, setup, ritual and ceremony?
 * [Calling public methods on Blazor component from another component](https://www.meziantou.net/calling-public-methods-on-blazor-component-from-another-component.htm) - September 18, 2020 - Calling public methods on Blazor component from another component.
 * [CSS isolation in Blazor](https://www.meziantou.net/css-isolation-in-blazor.htm) - September 16, 2020 - CSS isolation in Blazor.
