@@ -14,7 +14,7 @@ Thanks @jsakamoto for this! [Source code](https://github.com/jsakamoto/awesome-b
 [<img src="https://pbs.twimg.com/media/EicC74YWkAAGVtn?format=jpg&name=medium" align="center" width="100%">](https://www.telerik.com/devreach/online/agenda-monday#sessions)
 - Ed Charbeneau wants to break free from JavaScript! Join him as he chats with and builds a magic Blazor app with industry experts like Daniel Roth, Jeremy Likness, Chris Sainty and Corey Weathers. Remember, live pair-coding means there will be laughter, the presenters themselves might get stumped and there will be ample opportunity for you to engage!
 - Live / Replay links: [Twitch](https://twitch.tv/CodeItLive).
-- Website: [telerik.com/devreach](https://www.telerik.com/devreach/online/agenda-monday#sessions).
+- Find them: [telerik.com/devreach](https://www.telerik.com/devreach/online/agenda-monday#sessions) or [Twitter](https://twitter.com/devreach).
 - Trailer: [YouTube](https://www.youtube.com/watch?v=aATf1Vob6l4&feature=emb_title).
 
 ## Event: ".NET 5 updates" (September 29, 2020).
