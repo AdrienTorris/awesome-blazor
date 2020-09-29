@@ -10,11 +10,11 @@ Contributions are always welcome! Please take a look at the [contribution guidel
 If you need to search on this list you can try this great website: [Awesome Blazor Browser](https://jsakamoto.github.io/awesome-blazor-browser/).
 Thanks @jsakamoto for this! [Source code](https://github.com/jsakamoto/awesome-blazor-browser) ![stars](https://img.shields.io/github/stars/jsakamoto/awesome-blazor-browser?style=flat-square&cacheSeconds=604800) ![last commit](https://img.shields.io/github/last-commit/jsakamoto/awesome-blazor-browser?style=flat-square&cacheSeconds=86400).
 
-## Event: "Blazor WASM & ML.NET with .NET 5" (September 23, 2020).
+## Event: ".NET 5 updates" (September 29, 2020).
 [<img src="https://pbs.twimg.com/media/EiGvwX3WsAA7Qh-?format=jpg&name=medium" align="center" width="100%">](https://dotnet.microsoft.com/platform/community/standup)
-- Machine Learning ASP.NET Community Standup: Learn how you can use .NET 5 and ML.NET to add machine learning to Blazor WASM apps.
+- Updates, demos, and live Q&A with Scott Hunter!
 - Live / Replay links: [YouTube](https://www.youtube.com/watch?v=HBEGPANJnr4&list=PL1rZQsJPBU2St9-Mz1Kaa7rofciyrwWVx&index=0), [ASP.NET Community Sandup website](https://dotnet.microsoft.com/platform/community/standup).
-- Community links: [theurlist.com](https://www.theurlist.com/mlnet-standup-2020-09-23).
+- Community links: [theurlist.com](https://www.theurlist.com/aspnet-standup-2020-09-29).
 
 ## Contents
 * [Introduction](#introduction)
