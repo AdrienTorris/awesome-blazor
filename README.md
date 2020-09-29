@@ -10,6 +10,13 @@ Contributions are always welcome! Please take a look at the [contribution guidel
 If you need to search on this list you can try this great website: [Awesome Blazor Browser](https://jsakamoto.github.io/awesome-blazor-browser/).
 Thanks @jsakamoto for this! [Source code](https://github.com/jsakamoto/awesome-blazor-browser) ![stars](https://img.shields.io/github/stars/jsakamoto/awesome-blazor-browser?style=flat-square&cacheSeconds=604800) ![last commit](https://img.shields.io/github/last-commit/jsakamoto/awesome-blazor-browser?style=flat-square&cacheSeconds=86400).
 
+## Event: "Blazor" @DevReach 2.0 (October 19, 2020).
+[<img src="https://pbs.twimg.com/media/EicC74YWkAAGVtn?format=jpg&name=medium" align="center" width="100%">](https://www.telerik.com/devreach/online/agenda-monday#sessions)
+- Ed Charbeneau wants to break free from JavaScript! Join him as he chats with and builds a magic Blazor app with industry experts like Daniel Roth, Jeremy Likness, Chris Sainty and Corey Weathers. Remember, live pair-coding means there will be laughter, the presenters themselves might get stumped and there will be ample opportunity for you to engage!
+- Live / Replay links: [Twitch](https://twitch.tv/CodeItLive).
+- Website: [telerik.com/devreach](https://www.telerik.com/devreach/online/agenda-monday#sessions).
+- Trailer: [YouTube](https://www.youtube.com/watch?v=aATf1Vob6l4&feature=emb_title).
+
 ## Event: ".NET 5 updates" (September 29, 2020).
 [<img src="https://pbs.twimg.com/media/EjCKzUcVoAAvaOI?format=jpg&name=large" align="center" width="100%">](https://dotnet.microsoft.com/platform/community/standup)
 - Updates, demos, and live Q&A with Scott Hunter!
