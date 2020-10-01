@@ -17,6 +17,17 @@ Thanks @jsakamoto for this! [Source code](https://github.com/jsakamoto/awesome-b
 - Find them: [telerik.com/devreach](https://www.telerik.com/devreach/online/agenda-monday#sessions) or [Twitter](https://twitter.com/devreach).
 - Trailer: [YouTube](https://www.youtube.com/watch?v=aATf1Vob6l4&feature=emb_title).
 
+## Event: "Building The .NET Docs Show - Blazor App" (October 13, 2020).
+- The .NET Docs Show website built using ASP.NET Core Blazor, with server-side rendering and companion technology SignalR that updates the app in real-time. Join Microsoft’s own David Pine, the architect and developer of the site as he shares all the internal details of the project. See behind the scenes, dig into the source code and the development effort involved - learn about Blazor, ASP.NET Core, C# 8, SignalR, and Azure in this in-depth look with Microsoft developer relations.
+- Speaker: David Pine
+- Live / Replay links: [Twitch](https://www.twitch.tv/thedotnetdocs).
+- Event on [Meetup](https://www.meetup.com/fr-FR/Wisconsin-Net-Users-Group/events/263682671).
+
+## Event: "Blazor WebAssembly vs Angular Client Side Shootout" (October 6, 2020)
+- Which of these two powerful client-side technologies should you choose for your next project? Learn the strengths and weaknesses of Blazor WebAssembly vs. Angular as Lee experienced them while building typershark.io, a multi-player game in Blazor. Lee will delve into how Blazor works, demo it, then compare and contrast it with Angular across 10 distinct categories to give you the skills to pick the right technology for your next project.
+- Speaker: Lee Richardson
+- Event on [Meetup](https://www.meetup.com/fr-FR/CMAP-Online/events/273505146).
+
 ## Event: ".NET 5 updates" (September 29, 2020).
 [<img src="https://pbs.twimg.com/media/EjCKzUcVoAAvaOI?format=jpg&name=large" align="center" width="100%">](https://dotnet.microsoft.com/platform/community/standup)
 - Updates, demos, and live Q&A with Scott Hunter!
