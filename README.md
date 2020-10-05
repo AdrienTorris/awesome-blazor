@@ -545,6 +545,7 @@ To get started with Blazor, follow the instructions in the [Blazor Get Started](
 * [Archives](https://github.com/AdrienTorris/awesome-blazor/tree/master/Archives) - [2019](https://github.com/AdrienTorris/awesome-blazor/blob/master/Archives/2019.md#videos), [2018](https://github.com/AdrienTorris/awesome-blazor/blob/master/Archives/2018.md#videos), [2017](https://github.com/AdrienTorris/awesome-blazor/blob/master/Archives/2017.md#videos).
 
 ## Articles
+* [When does Blazor decide to render your UI?](https://jonhilton.net/when-does-blazor-render-your-ui) - October 3, 2020 - When does Blazor decide to render your UI?
 * [Render diagrams on the fly in your Blazor apps](https://jonhilton.net/blazor-diagrams/) - October 1, 2020 - Render diagrams on the fly in your Blazor apps.
 * [Blazor vs. Silverlight: Is Blazor Silverlight 2.0?](https://www.claudiobernasconi.ch/2020/09/29/blazor-vs-silverlight-is-blazor-silverlight-2/) - September 29, 2020 - Blazor vs. Silverlight: Is Blazor Silverlight 2.0?
 * [Streaming an HTTP response in Blazor WebAssembly](https://www.meziantou.net/streaming-an-http-response-in-blazor-webassembly.htm) - September 28, 2020 - Streaming an HTTP response in Blazor WebAssembly.
