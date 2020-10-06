@@ -28,11 +28,11 @@ Thanks @jsakamoto for this! [Source code](https://github.com/jsakamoto/awesome-b
 - Speaker: Lee Richardson
 - Event on [Meetup](https://www.meetup.com/fr-FR/CMAP-Online/events/273505146).
 
-## Event: ".NET 5 updates" (September 29, 2020).
-[<img src="https://pbs.twimg.com/media/EjCKzUcVoAAvaOI?format=jpg&name=large" align="center" width="100%">](https://dotnet.microsoft.com/platform/community/standup)
-- Updates, demos, and live Q&A with Scott Hunter!
-- Live / Replay links: [YouTube](https://www.youtube.com/watch?v=HBEGPANJnr4&list=PL1rZQsJPBU2St9-Mz1Kaa7rofciyrwWVx&index=0), [ASP.NET Community Sandup website](https://dotnet.microsoft.com/platform/community/standup).
-- Community links: [theurlist.com](https://www.theurlist.com/aspnet-standup-2020-09-29).
+## Event: "Azure Static Web Apps with .NET and Blazor" (October 6, 2020).
+[<img src="https://i.ytimg.com/vi/8xsp6Z_HjIg/mqdefault_live.jpg" align="center" width="100%">](https://dotnet.microsoft.com/platform/community/standup)
+- Azure Static Web Apps now has first-class support for Blazor WebAssembly and .NET Functions in preview, available in all supported regions. We'll have some fun new demos from Anthony Chu, live Q&A, community links and updates, and more!
+- Live / Replay links: [YouTube](https://www.youtube.com/watch?v=8xsp6Z_HjIg&list=PL1rZQsJPBU2St9-Mz1Kaa7rofciyrwWVx&index=0), [ASP.NET Community Sandup website](https://dotnet.microsoft.com/platform/community/standup).
+- Community links: [theurlist.com](https://www.theurlist.com/aspnet-standup-2020-10-06).
 
 ## Contents
 * [Introduction](#introduction)
