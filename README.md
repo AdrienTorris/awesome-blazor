@@ -10,6 +10,11 @@ Contributions are always welcome! Please take a look at the [contribution guidel
 If you need to search on this list you can try this great website: [Awesome Blazor Browser](https://jsakamoto.github.io/awesome-blazor-browser/).
 Thanks @jsakamoto for this! [Source code](https://github.com/jsakamoto/awesome-blazor-browser) ![stars](https://img.shields.io/github/stars/jsakamoto/awesome-blazor-browser?style=flat-square&cacheSeconds=604800) ![last commit](https://img.shields.io/github/last-commit/jsakamoto/awesome-blazor-browser?style=flat-square&cacheSeconds=86400).
 
+## Event: ".NET Conf" .NET 5 launch (November 10-12, 2020).
+[<img src="https://pbs.twimg.com/media/Ejz45zVXYAMGN5s?format=jpg&name=medium" align="center" width="100%">](https://www.dotnetconf.net/)
+- .NET Conf is a free, three-day, virtual developer event co-organized by the .NET community and Microsoft. This year .NET 5.0 will launch at .NET Conf 2020! Come celebrate and learn about the new release. We're also celebrating our 10th anniversary and we're working on a few more surprises. You won't want to miss this one. 
+- [Agenda](https://www.dotnetconf.net/agenda).
+
 ## Event: "Blazor" @DevReach 2.0 (October 19, 2020).
 [<img src="https://pbs.twimg.com/media/EicC74YWkAAGVtn?format=jpg&name=medium" align="center" width="100%">](https://www.telerik.com/devreach/online/agenda-monday#sessions)
 - Ed Charbeneau wants to break free from JavaScript! Join him as he chats with and builds a magic Blazor app with industry experts like Daniel Roth, Jeremy Likness, Chris Sainty and Corey Weathers. Remember, live pair-coding means there will be laughter, the presenters themselves might get stumped and there will be ample opportunity for you to engage!
@@ -22,17 +27,6 @@ Thanks @jsakamoto for this! [Source code](https://github.com/jsakamoto/awesome-b
 - Speaker: David Pine
 - Live / Replay links: [Twitch](https://www.twitch.tv/thedotnetdocs).
 - Event on [Meetup](https://www.meetup.com/fr-FR/Wisconsin-Net-Users-Group/events/263682671).
-
-## Event: "Blazor WebAssembly vs Angular Client Side Shootout" (October 6, 2020)
-- Which of these two powerful client-side technologies should you choose for your next project? Learn the strengths and weaknesses of Blazor WebAssembly vs. Angular as Lee experienced them while building typershark.io, a multi-player game in Blazor. Lee will delve into how Blazor works, demo it, then compare and contrast it with Angular across 10 distinct categories to give you the skills to pick the right technology for your next project.
-- Speaker: Lee Richardson
-- Event on [Meetup](https://www.meetup.com/fr-FR/CMAP-Online/events/273505146).
-
-## Event: "Azure Static Web Apps with .NET and Blazor" (October 6, 2020).
-[<img src="https://i.ytimg.com/vi/8xsp6Z_HjIg/mqdefault_live.jpg" align="center" width="100%">](https://dotnet.microsoft.com/platform/community/standup)
-- Azure Static Web Apps now has first-class support for Blazor WebAssembly and .NET Functions in preview, available in all supported regions. We'll have some fun new demos from Anthony Chu, live Q&A, community links and updates, and more!
-- Live / Replay links: [YouTube](https://www.youtube.com/watch?v=8xsp6Z_HjIg&list=PL1rZQsJPBU2St9-Mz1Kaa7rofciyrwWVx&index=0), [ASP.NET Community Sandup website](https://dotnet.microsoft.com/platform/community/standup).
-- Community links: [theurlist.com](https://www.theurlist.com/aspnet-standup-2020-10-06).
 
 ## Contents
 * [Introduction](#introduction)
