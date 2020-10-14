@@ -22,12 +22,6 @@ Thanks @jsakamoto for this! [Source code](https://github.com/jsakamoto/awesome-b
 - Find them: [telerik.com/devreach](https://www.telerik.com/devreach/online/agenda-monday#sessions) or [Twitter](https://twitter.com/devreach).
 - Trailer: [YouTube](https://www.youtube.com/watch?v=aATf1Vob6l4&feature=emb_title).
 
-## Event: "Building The .NET Docs Show - Blazor App" (October 13, 2020).
-- The .NET Docs Show website built using ASP.NET Core Blazor, with server-side rendering and companion technology SignalR that updates the app in real-time. Join Microsoft’s own David Pine, the architect and developer of the site as he shares all the internal details of the project. See behind the scenes, dig into the source code and the development effort involved - learn about Blazor, ASP.NET Core, C# 8, SignalR, and Azure in this in-depth look with Microsoft developer relations.
-- Speaker: David Pine
-- Live / Replay links: [Twitch](https://www.twitch.tv/thedotnetdocs).
-- Event on [Meetup](https://www.meetup.com/fr-FR/Wisconsin-Net-Users-Group/events/263682671).
-
 ## Contents
 * [Introduction](#introduction)
 * [General](#general)
