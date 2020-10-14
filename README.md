@@ -22,6 +22,12 @@ Thanks @jsakamoto for this! [Source code](https://github.com/jsakamoto/awesome-b
 - Find them: [telerik.com/devreach](https://www.telerik.com/devreach/online/agenda-monday#sessions) or [Twitter](https://twitter.com/devreach).
 - Trailer: [YouTube](https://www.youtube.com/watch?v=aATf1Vob6l4&feature=emb_title).
 
+## Event: ".NET 6 planning for ASP.NET Core" (October 13, 2020).
+[<img src="https://pbs.twimg.com/media/EkKYmPTVkAA09Ns?format=jpg&name=medium" align="center" width="100%">](https://dotnet.microsoft.com/platform/community/standup)
+- The ASP.NET team is actively working on .NET 6 planning and would like your help! Come chat with the team as they review the backlog for possible focus areas for the next release.
+- Live / Replay links: [YouTube](https://www.youtube.com/watch?v=euM0GtPpbyc&list=PL1rZQsJPBU2St9-Mz1Kaa7rofciyrwWVx&index=1).
+- [Community links](https://www.theurlist.com/aspnet-standup-2020-10-13).
+
 ## Contents
 * [Introduction](#introduction)
 * [General](#general)
