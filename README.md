@@ -15,19 +15,6 @@ Thanks @jsakamoto for this! [Source code](https://github.com/jsakamoto/awesome-b
 - .NET Conf is a free, three-day, virtual developer event co-organized by the .NET community and Microsoft. This year .NET 5.0 will launch at .NET Conf 2020! Come celebrate and learn about the new release. We're also celebrating our 10th anniversary and we're working on a few more surprises. You won't want to miss this one. 
 - [Agenda](https://www.dotnetconf.net/agenda).
 
-## Event: "Blazor" @DevReach 2.0 (October 19, 2020).
-[<img src="https://pbs.twimg.com/media/EicC74YWkAAGVtn?format=jpg&name=medium" align="center" width="100%">](https://www.telerik.com/devreach/online/agenda-monday#sessions)
-- Ed Charbeneau wants to break free from JavaScript! Join him as he chats with and builds a magic Blazor app with industry experts like Daniel Roth, Jeremy Likness, Chris Sainty and Corey Weathers. Remember, live pair-coding means there will be laughter, the presenters themselves might get stumped and there will be ample opportunity for you to engage!
-- Live / Replay links: [Twitch](https://twitch.tv/CodeItLive).
-- Find them: [telerik.com/devreach](https://www.telerik.com/devreach/online/agenda-monday#sessions) or [Twitter](https://twitter.com/devreach).
-- Trailer: [YouTube](https://www.youtube.com/watch?v=aATf1Vob6l4&feature=emb_title).
-
-## Event: ".NET 6 planning for ASP.NET Core" (October 13, 2020).
-[<img src="https://pbs.twimg.com/media/EkKYmPTVkAA09Ns?format=jpg&name=medium" align="center" width="100%">](https://dotnet.microsoft.com/platform/community/standup)
-- The ASP.NET team is actively working on .NET 6 planning and would like your help! Come chat with the team as they review the backlog for possible focus areas for the next release.
-- Live / Replay links: [YouTube](https://www.youtube.com/watch?v=euM0GtPpbyc&list=PL1rZQsJPBU2St9-Mz1Kaa7rofciyrwWVx&index=1).
-- [Community links](https://www.theurlist.com/aspnet-standup-2020-10-13).
-
 ## Contents
 * [Introduction](#introduction)
 * [General](#general)
