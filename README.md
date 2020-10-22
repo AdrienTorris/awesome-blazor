@@ -10,6 +10,11 @@ Contributions are always welcome! Please take a look at the [contribution guidel
 If you need to search on this list you can try this great website: [Awesome Blazor Browser](https://jsakamoto.github.io/awesome-blazor-browser/).
 Thanks @jsakamoto for this! [Source code](https://github.com/jsakamoto/awesome-blazor-browser) ![stars](https://img.shields.io/github/stars/jsakamoto/awesome-blazor-browser?style=flat-square&cacheSeconds=604800) ![last commit](https://img.shields.io/github/last-commit/jsakamoto/awesome-blazor-browser?style=flat-square&cacheSeconds=86400).
 
+## Event: "Blazor & Comet ☄️ for Native Mobile Apps" (October 26, 2020).
+[<img src="https://i.ytimg.com/vi/lzVZSKcC-oY/maxresdefault.jpg?v=5f887c36" align="center" width="100%">](https://www.youtube.com/watch?v=lzVZSKcC-oY&list=PLdo4fOcmZ0oWiLr2zVqfdsJjttPsBi-q4&index=1)
+- The .NET Docs Show - Blazor & Comet ☄️ for Native Mobile Apps with Sam Basu. Sam Basu from Telerik joins the panel to show us how to use Blazor and Comet in native mobile apps!
+- Live / Replay links: [YouTube](https://www.youtube.com/watch?v=lzVZSKcC-oY&list=PLdo4fOcmZ0oWiLr2zVqfdsJjttPsBi-q4&index=1), [.NET Live](https://dotnet.microsoft.com/live).
+
 ## Event: ".NET Conf" .NET 5 launch (November 10-12, 2020).
 [<img src="https://pbs.twimg.com/media/Ejz45zVXYAMGN5s?format=jpg&name=medium" align="center" width="100%">](https://www.dotnetconf.net/)
 - .NET Conf is a free, three-day, virtual developer event co-organized by the .NET community and Microsoft. This year .NET 5.0 will launch at .NET Conf 2020! Come celebrate and learn about the new release. We're also celebrating our 10th anniversary and we're working on a few more surprises. You won't want to miss this one. 
