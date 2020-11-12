@@ -14,6 +14,7 @@ Thanks @jsakamoto for this! [Source code](https://github.com/jsakamoto/awesome-b
 [<img src="https://pbs.twimg.com/media/Ejz45zVXYAMGN5s?format=jpg&name=medium" align="center" width="100%">](https://www.dotnetconf.net/)
 - .NET Conf is a free, three-day, virtual developer event co-organized by the .NET community and Microsoft. This year .NET 5.0 will launch at .NET Conf 2020! Come celebrate and learn about the new release. We're also celebrating our 10th anniversary and we're working on a few more surprises. You won't want to miss this one. 
 - [Agenda](https://www.dotnetconf.net/agenda).
+- Replay on [YouTube](https://www.youtube.com/dotnet).
 
 ## Contents
 * [Introduction](#introduction)
