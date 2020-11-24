@@ -10,17 +10,6 @@ Contributions are always welcome! Please take a look at the [contribution guidel
 If you need to search on this list you can try this great website: [Awesome Blazor Browser](https://jsakamoto.github.io/awesome-blazor-browser/).
 Thanks @jsakamoto for this! [Source code](https://github.com/jsakamoto/awesome-blazor-browser) ![stars](https://img.shields.io/github/stars/jsakamoto/awesome-blazor-browser?style=flat-square&cacheSeconds=604800) ![last commit](https://img.shields.io/github/last-commit/jsakamoto/awesome-blazor-browser?style=flat-square&cacheSeconds=86400).
 
-## Event: "Unit Testing Blazor with bUnit" (November 17, 2020).
-[<img src="https://i.ytimg.com/vi/LjGCPaP8DH8/maxresdefault.jpg?v=5fad81e3" align="center" width="100%">](https://dotnet.microsoft.com/platform/community/standup)
-- Unit Testing Blazor with bUnit, with Egil Hansen and Safia Abdalla.
-- Watch on [YouTube](https://www.youtube.com/watch?v=LjGCPaP8DH8).
-
-## Event: ".NET Conf" .NET 5 launch (November 10-12, 2020).
-[<img src="https://pbs.twimg.com/media/Ejz45zVXYAMGN5s?format=jpg&name=medium" align="center" width="100%">](https://www.dotnetconf.net/)
-- .NET Conf is a free, three-day, virtual developer event co-organized by the .NET community and Microsoft. This year .NET 5.0 will launch at .NET Conf 2020! Come celebrate and learn about the new release. We're also celebrating our 10th anniversary and we're working on a few more surprises. You won't want to miss this one. 
-- [Agenda](https://www.dotnetconf.net/agenda).
-- Replay on [YouTube](https://www.youtube.com/dotnet).
-
 ## Contents
 * [Introduction](#introduction)
 * [General](#general)
@@ -396,7 +385,10 @@ To get started with Blazor, follow the instructions in the [Blazor Get Started](
 * [Generators.Blazor](https://github.com/excubo-ag/Generators.Blazor) - ![last commit](https://img.shields.io/github/last-commit/excubo-ag/Generators.Blazor?style=flat-square&cacheSeconds=86400) Generators.Blazor is a source generator for improving performance in Blazor. The project also contains analyzers to detect common issues in Blazor apps.
 
 ## Videos
-* [.NET Conf 2020: Days 2 and 3, full video](https://www.youtube.com/watch?v=Uq4qyHi3sYM) - November 11-12, 2020 - Full video of the two last days of the [.NET Conf 2020](https://www.dotnetconf.net).
+* [Blazor: .NET 5 JavaScript interop modules revisited](https://www.twitch.tv/videos/809561739) - ![duration](https://img.shields.io/badge/Duration:%20-151%20min-%230094FF?style=flat-square&cacheSeconds=maxAge&logo=twitch) November 20, 2020 - Blazor: .NET 5 JavaScript interop modules revisited, by Ed Charbeneau. 
+* [Blazor: .NET 5 JavaScript interop modules](https://www.twitch.tv/videos/801598151) - ![duration](https://img.shields.io/badge/Duration:%20-95%20min-%230094FF?style=flat-square&cacheSeconds=maxAge&logo=twitch) November 20, 2020 - Blazor: .NET 5 JavaScript interop modules, by Ed Charbeneau.
+* [Modern Web Development with Blazor & .NET 5](https://www.youtube.com/watch?v=CEjqhTGrqDY) - ![duration](https://img.shields.io/badge/Duration:%20-29%20min-%230094FF?style=flat-square&cacheSeconds=maxAge&logo=youtube) November 10, 2020 - Blazor isn't just for new apps! Blazor in .NET 5 is integrated seamlessly with ASP.NET Core to enable modern full stack web development with .NET. In this session we'll show you how you can use Blazor and ASP.NET Core together to add rich client-side interactivity to both new and existing apps. You'll learn how to use Blazor components from your existing MVC views and Razor Pages, handle server-side prerendering, setup authentication & authorization, improve load time performance, and then deploy your app into production.
+* [A talk for trailblazers: Blazor in .NET 5](https://www.youtube.com/watch?v=Nag6u5TxjIA) - ![duration](https://img.shields.io/badge/Duration:%20-30%20min-%230094FF?style=flat-square&cacheSeconds=maxAge&logo=youtube) November 10, 2020 - Wondering what's in store for Blazor in .NET 5? Wonder no more! This talk features the latest and greatest features to arrive in Blazor as part of .NET 5. From improved APIs for working with the browser to CSS isolation to a variety of performance improvements, you'll leave this presentation with rundown of everything you'll be able to do in the latest version of Blazor. 
 * [.NET Conf 2020: Day 1, full video](https://www.youtube.com/watch?v=mS6ykjdOVRg) - ![duration](https://img.shields.io/badge/Duration:%20-695%20min-%230094FF?style=flat-square&cacheSeconds=maxAge&logo=youtube) November 10, 2020 - Full video of the first day of the [.NET Conf 2020](https://www.dotnetconf.net).
 * [Blazor + Xamarin == WHOA!](https://www.youtube.com/watch?v=Y0bEAy6yxMQ&list=PLdo4fOcmZ0oX-DBuRG4u58ZTAJgBAeQ-t&index=3) - ![duration](https://img.shields.io/badge/Duration:%20-70%20min-%230094FF?style=flat-square&cacheSeconds=maxAge&logo=youtube) November 5, 2020 - Xamarin Community Standup - Blazor + Xamarin == WHOA! with Eilon Lipton. Join the Xamarin Team as they discuss the latest and greatest for Xamarin. This week we sit down with Eilon Lipton to discuss the latest in the Mobile Blazor Bindings.
 * [Blazor Train: Basic Authentication and Authorization](https://www.youtube.com/watch?v=mbNFscKBsy8&feature=youtu.be) - November 02, 2020 - Carl shows you how to use ASP.NET Core Identity for basic authentication and authorization using a SQL Server.
