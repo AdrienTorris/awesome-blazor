@@ -345,7 +345,6 @@ To get started with Blazor, follow the instructions in the [Blazor Get Started](
 * [Blazor Hotkeys](https://github.com/jsakamoto/Toolbelt.Blazor.Hotkeys) - A library to provide configuration-centric keyboard shortcuts for Blazor.
 * [BlazorRealm](https://dworthen.github.io/BlazorRealm/docs/quickstart.html) - Redux state management for Blazor.
 * [Blazor.LocalFiles](https://github.com/jburman/W8lessLabs.Blazor.LocalFiles) - Open files in your browser and load into Blazor.
-* [Rudder](https://github.com/kjeske/rudder) - ![last commit](https://img.shields.io/github/last-commit/kjeske/rudder?style=flat-square&cacheSeconds=86400) Efficient state container for Blazor with concepts similar to the ones in redux, including reducers and sagas.
 * [Blazor.SpeechSynthesis](https://github.com/jsakamoto/Toolbelt.Blazor.SpeechSynthesis) - ![last commit](https://img.shields.io/github/last-commit/jsakamoto/Toolbelt.Blazor.SpeechSynthesis?style=flat-square&cacheSeconds=86400) A library to provide Speech Synthesis API access for Blazor.
 * [Blazor BarCode](https://barcoderesource.com/blazorbarcode.shtml) &ndash; A barcode library for Blazor using barcode fonts.
 * [BlazorState.Redux](https://github.com/BerserkerDotNet/BlazorState.Redux) - ![last commit](https://img.shields.io/github/last-commit/BerserkerDotNet/BlazorState.Redux?style=flat-square&cacheSeconds=86400) Develop Blazor apps with Redux.
