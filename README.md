@@ -10,6 +10,13 @@ Contributions are always welcome! Please take a look at the [contribution guidel
 If you need to search on this list you can try this great website: [Awesome Blazor Browser](https://jsakamoto.github.io/awesome-blazor-browser/).
 Thanks @jsakamoto for this! [Source code](https://github.com/jsakamoto/awesome-blazor-browser) ![stars](https://img.shields.io/github/stars/jsakamoto/awesome-blazor-browser?style=flat-square&cacheSeconds=604800) ![last commit](https://img.shields.io/github/last-commit/jsakamoto/awesome-blazor-browser?style=flat-square&cacheSeconds=86400).
 
+## Event: "Blazor Week" (November 30 - December 4, 2020).
+[<img src="https://pbs.twimg.com/media/En2jPNgWMAI6zrd?format=jpg&name=medium" align="center" width="100%">](https://www.twitch.tv/baldbeardedbuilder)
+- Learning #Blazor from scratch from amazing guests
+- Building an open-source app for a non-profit
+- Give away prizes like a Surface Go
+- Watch on [Twitch](https://www.twitch.tv/baldbeardedbuilder).
+
 ## Contents
 * [Introduction](#introduction)
 * [General](#general)
