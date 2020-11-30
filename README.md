@@ -12,7 +12,7 @@ Thanks @jsakamoto for this! [Source code](https://github.com/jsakamoto/awesome-b
 
 ## Event: "Blazor Week" (November 30 - December 4, 2020).
 [<img src="https://pbs.twimg.com/media/En2jPNgWMAI6zrd?format=jpg&name=medium" align="center" width="100%">](https://www.twitch.tv/baldbeardedbuilder)
-- Learning #Blazor from scratch from amazing guests
+- Learning Blazor from scratch from amazing guests
 - Building an open-source app for a non-profit
 - Give away prizes like a Surface Go
 - Watch on [Twitch](https://www.twitch.tv/baldbeardedbuilder).
