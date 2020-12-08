@@ -10,6 +10,12 @@ Contributions are always welcome! Please take a look at the [contribution guidel
 If you need to search on this list you can try this great website: [Awesome Blazor Browser](https://jsakamoto.github.io/awesome-blazor-browser/).
 Thanks @jsakamoto for this! [Source code](https://github.com/jsakamoto/awesome-blazor-browser) ![stars](https://img.shields.io/github/stars/jsakamoto/awesome-blazor-browser?style=flat-square&cacheSeconds=604800) ![last commit](https://img.shields.io/github/last-commit/jsakamoto/awesome-blazor-browser?style=flat-square&cacheSeconds=86400).
 
+## Event: "Material Design in Blazor" (December 8, 2020).
+[<img src="https://pbs.twimg.com/media/Eoq7PtkVQAElHgg?format=jpg&name=medium" align="center" width="100%">](https://dotnet.microsoft.com/live)
+- ASP.NET Community Standup: Material Design in Blazor with Material.Blazor.
+- We sit with Simon Ziegler and Mark Stega of Material.Blazor to discuss the project, Material.Blazor, a Material design component library for Blazor.
+- Live: [live.dot.net](https://dotnet.microsoft.com/live), [YouTube](https://youtu.be/yzLDvQ-bOw8).
+
 ## Event: "Blazor testing using bUnit - or something something testing Blazor" (December 10, 2020).
 [<img src="https://secure.meetupstatic.com/photos/event/d/2/0/5/highres_493793765.jpeg" align="center" width="100%">](https://www.meetup.com/fr-FR/CodingAfterWork/events/274968367)
 - Testing Blazor components doesn't have to be hard. In fact, it can be as easy and simple as testing POCOs. In this talk we will cover what testing options there are for Blazor components, and then live code (test) the open-source project Blazm’s grid component.
