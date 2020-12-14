@@ -10,18 +10,6 @@ Contributions are always welcome! Please take a look at the [contribution guidel
 If you need to search on this list you can try this great website: [Awesome Blazor Browser](https://jsakamoto.github.io/awesome-blazor-browser/).
 Thanks @jsakamoto for this! [Source code](https://github.com/jsakamoto/awesome-blazor-browser) ![stars](https://img.shields.io/github/stars/jsakamoto/awesome-blazor-browser?style=flat-square&cacheSeconds=604800) ![last commit](https://img.shields.io/github/last-commit/jsakamoto/awesome-blazor-browser?style=flat-square&cacheSeconds=86400).
 
-## Event: "Blazor testing using bUnit - or something something testing Blazor" (December 10, 2020).
-[<img src="https://secure.meetupstatic.com/photos/event/d/2/0/5/highres_493793765.jpeg" align="center" width="100%">](https://www.meetup.com/fr-FR/CodingAfterWork/events/274968367)
-- Testing Blazor components doesn't have to be hard. In fact, it can be as easy and simple as testing POCOs. In this talk we will cover what testing options there are for Blazor components, and then live code (test) the open-source project Blazm’s grid component.
-- Meetup's link: https://www.meetup.com/fr-FR/CodingAfterWork/events/274968367
-
-## Event: "Blazor Week" (November 30 - December 4, 2020).
-[<img src="https://pbs.twimg.com/media/En2jPNgWMAI6zrd?format=jpg&name=medium" align="center" width="100%">](https://www.twitch.tv/baldbeardedbuilder)
-- Learning Blazor from scratch from amazing guests
-- Building an open-source app for a non-profit
-- Give away prizes like a Surface Go
-- Watch on [Twitch](https://www.twitch.tv/baldbeardedbuilder).
-
 ## Contents
 * [Introduction](#introduction)
 * [General](#general)
@@ -550,6 +538,7 @@ To get started with Blazor, follow the instructions in the [Blazor Get Started](
 * [Archives](https://github.com/AdrienTorris/awesome-blazor/tree/master/Archives) - [2020](https://github.com/AdrienTorris/awesome-blazor/blob/master/Archives/2020.md#videos), [2019](https://github.com/AdrienTorris/awesome-blazor/blob/master/Archives/2019.md#videos), [2018](https://github.com/AdrienTorris/awesome-blazor/blob/master/Archives/2018.md#videos), [2017](https://github.com/AdrienTorris/awesome-blazor/blob/master/Archives/2017.md#videos).
 
 ## Articles
+* [Polly and Blazor, Part 1 – Simple Wait and Retry](https://nodogmablog.bryanhogan.net/2020/12/polly-and-blazor-part-1-simple-wait-and-retry/) - December 8, 2020 - Polly and Blazor, Part 1 – Simple Wait and Retry.
 * [Blazor WebAssembly (client-side) with AOT and SkiaSharp](https://platform.uno/blog/blazor-webassembly-client-side-with-aot-and-skiasharp/) - December 4, 2020 - Blazor WebAssembly (client-side) with AOT and SkiaSharp, by Uno Platform. [Live sample](https://blazor-aot.platform.uno/).
 * [How to Pass Arguments to Your onclick Functions in Blazor](https://www.telerik.com/blogs/how-to-pass-arguments-to-your-onclick-functions-blazor) - December 3, 2020 - It's straightforward to wire up event handlers to HTML events like onClick in your Blazor components, but how can you pass additional information and different types of arguments?
 * [Blazor Updates in .NET 5](https://www.codemag.com/article/2010102) - December 1, 2020 - Blazor Updates in .NET 5 by Daniel Roth on [Code Magazine](https://www.codemag.com/Magazine/Issue/DotNet5).
