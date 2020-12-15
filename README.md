@@ -541,6 +541,7 @@ To get started with Blazor, follow the instructions in the [Blazor Get Started](
 
 ## Articles
 * [10 Blazor Features You Probably Didn't Know](https://www.telerik.com/blogs/10-blazor-features-you-probably-didnt-know) - December 15, 2020 - As a relatively new framework, there's probably a lot you don't know about Blazor yet. Here are 10 great features about Blazor you should know.
+* [Exploring Blazor Mobile Bindings](https://www.telerik.com/blogs/exploring-blazor-mobile-bindings) - December 13, 2020 - It's time to probe the promise of Blazor Mobile Bindings enticing web developers to come build mobile apps.
 * [Polly and Blazor, Part 1 – Simple Wait and Retry](https://nodogmablog.bryanhogan.net/2020/12/polly-and-blazor-part-1-simple-wait-and-retry/) - December 8, 2020 - Polly and Blazor, Part 1 – Simple Wait and Retry.
 * [Blazor WebAssembly (client-side) with AOT and SkiaSharp](https://platform.uno/blog/blazor-webassembly-client-side-with-aot-and-skiasharp/) - December 4, 2020 - Blazor WebAssembly (client-side) with AOT and SkiaSharp, by Uno Platform. [Live sample](https://blazor-aot.platform.uno/).
 * [How to Pass Arguments to Your onclick Functions in Blazor](https://www.telerik.com/blogs/how-to-pass-arguments-to-your-onclick-functions-blazor) - December 3, 2020 - It's straightforward to wire up event handlers to HTML events like onClick in your Blazor components, but how can you pass additional information and different types of arguments?
