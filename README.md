@@ -10,6 +10,11 @@ Contributions are always welcome! Please take a look at the [contribution guidel
 If you need to search on this list you can try this great website: [Awesome Blazor Browser](https://jsakamoto.github.io/awesome-blazor-browser/).
 Thanks @jsakamoto for this! [Source code](https://github.com/jsakamoto/awesome-blazor-browser) ![stars](https://img.shields.io/github/stars/jsakamoto/awesome-blazor-browser?style=flat-square&cacheSeconds=604800) ![last commit](https://img.shields.io/github/last-commit/jsakamoto/awesome-blazor-browser?style=flat-square&cacheSeconds=86400).
 
+## Event: ".NET Frontend Day" (January 8, 2021).
+[<img src="https://www.dotnet-frontend.com/logo.jpg" align="center" width="60%">](https://www.dotnet-frontend.com/)
+- A full day online, with focus on building frontend applications using .NET.
+- .NET Frontend Day is a community organized conference.
+
 ## Contents
 * [Introduction](#introduction)
 * [General](#general)
