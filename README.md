@@ -17,7 +17,7 @@ Thanks @jsakamoto for this! [Source code](https://github.com/jsakamoto/awesome-b
 - 10:00 AM Pacific | 18:00 UTC 
 - Live: [live.dot.net](https://dotnet.microsoft.com/live), [YouTube](https://www.youtube.com/watch?v=5enEE3BBGJM&feature=emb_title).
 
-## Event: ".NET Frontend Day" (January 8, 2021).
+## Event: ".NET Frontend Day" (January 28, 2021).
 [<img src="https://www.dotnet-frontend.com/logo.jpg" align="center" width="60%">](https://www.dotnet-frontend.com/)
 - A full day online, with focus on building frontend applications using .NET.
 - .NET Frontend Day is a community organized conference.
