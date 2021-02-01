@@ -10,19 +10,6 @@ Contributions are always welcome! Please take a look at the [contribution guidel
 If you need to search on this list you can try this great website: [Awesome Blazor Browser](https://jsakamoto.github.io/awesome-blazor-browser/).
 Thanks @jsakamoto for this! [Source code](https://github.com/jsakamoto/awesome-blazor-browser) ![stars](https://img.shields.io/github/stars/jsakamoto/awesome-blazor-browser?style=flat-square&cacheSeconds=604800) ![last commit](https://img.shields.io/github/last-commit/jsakamoto/awesome-blazor-browser?style=flat-square&cacheSeconds=86400).
 
-## Event: "State of .NET - Blazor Web Development with .NET 5" (January 27, 2021).
-- [State of .NET - Blazor Web Development with .NET 5](https://codemag.com/Training/Detail/4da66ecb-88b9-45e9-ae53-329657d71384), with Markus Egger.
-- Start time: 1:00pm Eastern / 12:00pm Central.
-- Duration: 75 minutes (60 minute presentation, 15 minute Q&A).
-- We've created a series of State of .NET online events each focusing on a specific .NET topic. This installment covers Microsoft Blazor web development with .NET 5. Join Markus Egger (EPS Software President, Chief Software Architect and Microsoft Regional Director) as he continues our online series with his “State of Blazor” presentation.
-- Note: Only registered attendees will receive the live stream URL the morning of the event via email.
-- [Register here](https://codemag.com/Training/Detail/4da66ecb-88b9-45e9-ae53-329657d71384).
-
-## Event: ".NET Frontend Day" (January 28, 2021).
-[<img src="https://www.dotnet-frontend.com/logo.jpg" align="center" width="60%">](https://www.dotnet-frontend.com/)
-- A full day online, with focus on building frontend applications using .NET.
-- .NET Frontend Day is a community organized conference.
-
 ## Contents
 * [Introduction](#introduction)
 * [General](#general)
