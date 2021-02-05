@@ -409,7 +409,7 @@ To get started with Blazor, follow the instructions in the [Blazor Get Started](
 * [Generators.Blazor](https://github.com/excubo-ag/Generators.Blazor) - ![last commit](https://img.shields.io/github/last-commit/excubo-ag/Generators.Blazor?style=flat-square&cacheSeconds=86400) Generators.Blazor is a source generator for improving performance in Blazor. The project also contains analyzers to detect common issues in Blazor apps.
 
 ## Videos
-* [Blazor Power Hour: FAQ show #1](https://www.twitch.tv/videos/899338170) - ![duration](https://img.shields.io/badge/Duration:%20-53%20min-%230094FF?style=flat-square&cacheSeconds=maxAge&logo=twitch) February 03, 2021 - Blazor Power Hour: FAQ show #1, with ed Charbeneau.
+* [Blazor Power Hour: FAQ show #1](https://www.twitch.tv/videos/899338170) - ![duration](https://img.shields.io/badge/Duration:%20-53%20min-%230094FF?style=flat-square&cacheSeconds=maxAge&logo=twitch) February 03, 2021 - Blazor Power Hour: FAQ show 1, with ed Charbeneau.
 * [Blazor Train: Ask the Engineer](https://www.youtube.com/watch?v=SRxMP-cx2vQ&feature=youtu.be) - January 29, 2021 - Carl Franklin answers your questions and solves your Blazor puzzlers.
 * [BlazQ (Learn to code)](https://www.twitch.tv/videos/892241139) - January 29, 2021 - ![duration](https://img.shields.io/badge/Duration:%20-129%20min-%230094FF?style=flat-square&cacheSeconds=maxAge&logo=twitch) Develop a quiz application with Blazor.
 * [.NET Frontend day 2021](https://www.youtube.com/watch?v=P-DSBDLnFmc) - January 28, 2021 - ![duration](https://img.shields.io/badge/Duration:%20-381%20min-%230094FF?style=flat-square&cacheSeconds=maxAge&logo=youtube) .NET Frontend Day 2021 sessions.
