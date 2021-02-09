@@ -10,6 +10,13 @@ Contributions are always welcome! Please take a look at the [contribution guidel
 If you need to search on this list you can try this great website: [Awesome Blazor Browser](https://jsakamoto.github.io/awesome-blazor-browser/).
 Thanks @jsakamoto for this! [Source code](https://github.com/jsakamoto/awesome-blazor-browser) ![stars](https://img.shields.io/github/stars/jsakamoto/awesome-blazor-browser?style=flat-square&cacheSeconds=604800) ![last commit](https://img.shields.io/github/last-commit/jsakamoto/awesome-blazor-browser?style=flat-square&cacheSeconds=86400).
 
+## Event: "A conversation with Chris Sainty" (February 9, 2021).
+[<img src="https://pbs.twimg.com/media/EtvGnCnU0AM3Gha?format=jpg&name=medium" align="center" width="100%">](https://dotnet.microsoft.com/live)
+- ASP.NET Community Standup: A conversation with Chris Sainty.
+- In this standup, we chat with Blazor aficionado and open source community member Chris Sainty about Blazor, his open source work, and more.
+- 10:00 AM Pacific | 18:00 UTC 
+- Live: [live.dot.net](https://dotnet.microsoft.com/live), [YouTube](https://youtu.be/v8UWYwAhKZA).
+
 ## Contents
 * [Introduction](#introduction)
 * [General](#general)
