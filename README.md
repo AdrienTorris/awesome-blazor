@@ -63,6 +63,7 @@ To get started with Blazor, follow the instructions in the [Blazor Get Started](
 * [Introduction to ASP.NET Core](https://docs.microsoft.com/aspnet/core/) - Introduction to ASP.NET Core.
 * [Workshop](https://github.com/dotnet-presentations/blazor-workshop/) - ![GitHub stars](https://img.shields.io/github/stars/dotnet-presentations/blazor-workshop?style=flat-square&cacheSeconds=604800&logo=microsoft) ![last commit](https://img.shields.io/github/last-commit/aspnet/Blazor?style=flat-square&cacheSeconds=86400) Build a complete Blazor app and learn about the various Blazor framework features along the way.
 * [Blazor WebAssembly performance best practices](https://docs.microsoft.com/aspnet/core/blazor/webassembly-performance-best-practices) - ASP.NET Core Blazor WebAssembly performance best practices, by Pranav Krishnamoorthy and Steve Sanderson. 
+* [themesof.net](https://themesof.net/) - .NET 6 planning process.
 
 ## Sample Projects
 ### Authentication
