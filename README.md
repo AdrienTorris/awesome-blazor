@@ -199,6 +199,7 @@ To get started with Blazor, follow the instructions in the [Blazor Get Started](
 
 ## Tutorials
 * [Blazor workshop](https://github.com/dotnet-presentations/blazor-workshop/) - ![GitHub stars](https://img.shields.io/github/stars/dotnet-presentations/blazor-workshop?style=flat-square&cacheSeconds=604800&logo=microsoft) Blazor app building workshop by [.NET Foundation](https://www.dotnetfoundation.org/), Blazzing Pizza.
+* [Build a Blazor 'Copy to Clipboard' component with a Markdown editor](https://daveabrock.com/2021/02/18/copy-to-clipboard-markdown-editor) - February 18, 2021 - Let's build a 'Copy to Clipboard' component, where we can copy Markdown content to the clipboard.
 * [Blazor on Desktop](https://www.telerik.com/blogs/blazor-on-desktop) - February 17, 2021 - This post explores how to make Blazor web apps run on Desktop.
 * [Using source generators to generate a menu component in a Blazor app](https://andrewlock.net/using-source-generators-to-generate-a-nav-component-in-a-blazor-app) - February 16, 2021 - Using source generators to generate a menu component in a Blazor app.
 * [The tablet app – part 1](https://mac-digital.blog/2021/02/12/the-tablet-app-part-1/) - February 12, 2021 - Making an espresso machine smart, with .NET and Mobile Blazor Bindings.
