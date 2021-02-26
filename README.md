@@ -10,6 +10,13 @@ Contributions are always welcome! Please take a look at the [contribution guidel
 If you need to search on this list you can try this great website: [Awesome Blazor Browser](https://jsakamoto.github.io/awesome-blazor-browser/).
 Thanks @jsakamoto for this! [Source code](https://github.com/jsakamoto/awesome-blazor-browser) ![stars](https://img.shields.io/github/stars/jsakamoto/awesome-blazor-browser?style=flat-square&cacheSeconds=604800) ![last commit](https://img.shields.io/github/last-commit/jsakamoto/awesome-blazor-browser?style=flat-square&cacheSeconds=86400).
 
+## Event: ".NET Conf 2021 - Focus on Windows" (February 25, 2021).
+[<img src="https://pbs.twimg.com/media/Et5WaeSXEAYNoZU?format=jpg&name=medium" align="center" width="100%">](https://focus.dotnetconf.net/)
+- .NET Conf 2021 - Focus on Windows.
+- Join us for a day of live stream sessions as we focus on Windows: upgrading WPF & Windows Forms apps, leveraging cloud services from client apps,the future of native device dev in .NET 6 and more.
+- Live: [dotnetconf.net](https://focus.dotnetconf.net/).
+- Replay: [YouTube](https://www.youtube.com/watch?v=mZRNjixZEMg).
+
 ## Contents
 * [Introduction](#introduction)
 * [General](#general)
@@ -26,13 +33,6 @@ Thanks @jsakamoto for this! [Source code](https://github.com/jsakamoto/awesome-b
 * [Courses](#courses)
 * [Community](#community)
 * [Other Languages](#other-languages)
-
-## Event: ".NET Conf 2021 - Focus on Windows" (February 25, 2021).
-[<img src="https://pbs.twimg.com/media/Et5WaeSXEAYNoZU?format=jpg&name=medium" align="center" width="100%">](https://focus.dotnetconf.net/)
-- .NET Conf 2021 - Focus on Windows.
-- Join us for a day of live stream sessions as we focus on Windows: upgrading WPF & Windows Forms apps, leveraging cloud services from client apps,the future of native device dev in .NET 6 and more.
-- Live: [dotnetconf.net](https://focus.dotnetconf.net/).
-- Replay: [YouTube](https://www.youtube.com/watch?v=mZRNjixZEMg).
 
 ## Introduction
 
