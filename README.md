@@ -907,7 +907,7 @@ To get started with Blazor, follow the instructions in the [Blazor Get Started](
 * [Awesome Blazor on Twitter](https://twitter.com/awesomeblazor) - This repository's Twitter feed.
 * [Gitter](https://gitter.im/aspnet/Blazor) - Blazor discussion on Gitter.
 * [Learn Blazor](https://learn-blazor.com/) - Community documentation on Blazor.
-* [LightSwitch Help Website](https://lightswitchhelpwebsite.com/Blog/tabid/61/tagid/66/Blazor.aspx) - Blogs and code samples primarily covering server-side Blazor (Razor Components).
+* [Blazor Help Website](https://blazorhelpwebsite.com/) - Blogs and code samples primarily covering server-side Blazor.
 * [Practical samples of Blazor](https://github.com/dodyg/practical-aspnetcore/tree/master/projects/blazor) - Practical samples of Blazor.
 * [Practical samples of Blazor Server-Side](https://github.com/dodyg/practical-aspnetcore/tree/master/projects/blazor-ss) - Practical samples of Blazor Server-Side.
 * [Stack Overflow](https://stackoverflow.com/questions/tagged/blazor) - Blazor questions feed on Stack Overflow.
