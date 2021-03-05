@@ -604,6 +604,7 @@ To get started with Blazor, follow the instructions in the [Blazor Get Started](
 * [Blazor Layout Components](https://edcharbeneau.com/blazor-layout-components/) - February 22, 2021 - Blazor Layout Components, by Ed Charbeneau.
 * [ASP.NET Core updates in .NET 6 Preview 1](https://devblogs.microsoft.com/aspnet/asp-net-core-updates-in-net-6-preview-1/) - February 17, 2021 - ASP.NET Core updates in .NET 6 Preview 1.
 * [Announcing .NET 6 Preview 1](https://devblogs.microsoft.com/dotnet/announcing-net-6-preview-1/) - February 17, 2021 - Announcing .NET 6 Preview 1.
+* [Blazor on Desktop](https://www.telerik.com/blogs/blazor-on-desktop) - February 17, 2021 - Blazor on Desktop. This article explores how to make Blazor web apps run on Desktop.
 * [Blazor Component Testing](https://edcharbeneau.com/Blazor-Component-Testing/) - February 16, 2021 - Blazor Component Testing, by Ed Charbeneau.
 * [Blash: Twitter Dashboard Using Blazor Wasm, Web API, SignalR & Twitter API (Part 1)](https://www.roundthecode.com/dotnet/blazor/blash-twitter-dashboard-using-blazor-web-api-signalr-twitter-api) - February 5, 2021 - Blash: Twitter Dashboard Using Blazor Wasm, Web API, SignalR & Twitter API (Part 1), by Round The Code.
 * [.NET 6 Desktop Dev Options: WPF, WinForms, UWP, .NET MAUI, Blazor ...](https://visualstudiomagazine.com/articles/2021/02/03/net-6-desktop.aspx) - February 3, 2021 - .NET 6 Desktop Dev Options: WPF, WinForms, UWP, .NET MAUI, Blazor ...
