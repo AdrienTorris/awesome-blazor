@@ -600,6 +600,7 @@ To get started with Blazor, follow the instructions in the [Blazor Get Started](
 
 ## Articles
 * [ASP.NET Core docs: What's new for February 1, 2021 - February 28, 2021](https://docs.microsoft.com/en-us/aspnet/core/whats-new/2021-02?view=aspnetcore-5.0) - March 3, 2021 - Welcome to what's new in the ASP.NET Core docs from February 1, 2021 through February 28, 2021. This article lists some of the major changes to docs during this period.
+* [Razor Pages has Components too don't you know](https://jonhilton.net/razor-pages-components/) - March 2, 2021 - Razor Pages has Components too don't you know.
 * [Blazor hosting models - mind map](https://twitter.com/konradkokosa/status/1365321620219396100) - February 26, 2021 - Blazor hosting models - mind map update after .NET 6 preview 1 announcement by Konrad Kokosa on Twitter.
 * [Blazor Layout Components](https://edcharbeneau.com/blazor-layout-components/) - February 22, 2021 - Blazor Layout Components, by Ed Charbeneau.
 * [ASP.NET Core updates in .NET 6 Preview 1](https://devblogs.microsoft.com/aspnet/asp-net-core-updates-in-net-6-preview-1/) - February 17, 2021 - ASP.NET Core updates in .NET 6 Preview 1.
