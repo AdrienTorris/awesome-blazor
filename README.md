@@ -10,12 +10,11 @@ Contributions are always welcome! Please take a look at the [contribution guidel
 If you need to search on this list you can try this great website: [Awesome Blazor Browser](https://jsakamoto.github.io/awesome-blazor-browser/).
 Thanks @jsakamoto for this! [Source code](https://github.com/jsakamoto/awesome-blazor-browser) ![stars](https://img.shields.io/github/stars/jsakamoto/awesome-blazor-browser?style=flat-square&cacheSeconds=604800) ![last commit](https://img.shields.io/github/last-commit/jsakamoto/awesome-blazor-browser?style=flat-square&cacheSeconds=86400).
 
-## Event: ".NET Conf 2021 - Focus on Windows" (February 25, 2021).
-[<img src="https://pbs.twimg.com/media/Et5WaeSXEAYNoZU?format=jpg&name=medium" align="center" width="100%">](https://focus.dotnetconf.net/)
-- .NET Conf 2021 - Focus on Windows.
-- Join us for a day of live stream sessions as we focus on Windows: upgrading WPF & Windows Forms apps, leveraging cloud services from client apps,the future of native device dev in .NET 6 and more.
-- Live: [dotnetconf.net](https://focus.dotnetconf.net/).
-- Replay: [YouTube](https://www.youtube.com/watch?v=mZRNjixZEMg).
+## Event: "How to contribute to Blazor" (March 9, 2021).
+[<img src="https://pbs.twimg.com/media/Ev_iXtgVkAYCNB5?format=jpg&name=medium" align="center" width="100%">](https://focus.dotnetconf.net/)
+- "How to contribute to Blazor"'s ASP.NET Community Standup.
+- Tuesday | Mar 9, 10:00 AM Pacific | 18:00 UTC 
+- Live: [live.dot.net](https://dotnet.microsoft.com/live).
 
 ## Contents
 * [Introduction](#introduction)
@@ -601,6 +600,7 @@ To get started with Blazor, follow the instructions in the [Blazor Get Started](
 * [Archives](https://github.com/AdrienTorris/awesome-blazor/tree/master/Archives) - [2020](https://github.com/AdrienTorris/awesome-blazor/blob/master/Archives/2020.md#videos), [2019](https://github.com/AdrienTorris/awesome-blazor/blob/master/Archives/2019.md#videos), [2018](https://github.com/AdrienTorris/awesome-blazor/blob/master/Archives/2018.md#videos), [2017](https://github.com/AdrienTorris/awesome-blazor/blob/master/Archives/2017.md#videos).
 
 ## Articles
+* [Securing Blazor Web Assembly using cookies](https://damienbod.com/2021/03/08/securing-blazor-web-assembly-using-cookies/) - March 8, 2021 - Securing Blazor Web Assembly using cookies. [Source code](https://github.com/damienbod/AzureADAuthRazorUiServiceApiCertificate/tree/main/BlazorBff) ![stars](https://img.shields.io/github/stars/damienbod/AzureADAuthRazorUiServiceApiCertificate?style=flat-square&cacheSeconds=604800) ![last commit](https://img.shields.io/github/last-commit/damienbod/AzureADAuthRazorUiServiceApiCertificate?style=flat-square&cacheSeconds=86400).
 * [ASP.NET Core docs: What's new for February 1, 2021 - February 28, 2021](https://docs.microsoft.com/en-us/aspnet/core/whats-new/2021-02?view=aspnetcore-5.0) - March 3, 2021 - Welcome to what's new in the ASP.NET Core docs from February 1, 2021 through February 28, 2021. This article lists some of the major changes to docs during this period.
 * [Razor Pages has Components too don't you know](https://jonhilton.net/razor-pages-components/) - March 2, 2021 - Razor Pages has Components too don't you know.
 * [Blazor hosting models - mind map](https://twitter.com/konradkokosa/status/1365321620219396100) - February 26, 2021 - Blazor hosting models - mind map update after .NET 6 preview 1 announcement by Konrad Kokosa on Twitter.
