@@ -11,7 +11,7 @@ If you need to search on this list you can try this great website: [Awesome Blaz
 Thanks @jsakamoto for this! [Source code](https://github.com/jsakamoto/awesome-blazor-browser) ![stars](https://img.shields.io/github/stars/jsakamoto/awesome-blazor-browser?style=flat-square&cacheSeconds=604800) ![last commit](https://img.shields.io/github/last-commit/jsakamoto/awesome-blazor-browser?style=flat-square&cacheSeconds=86400).
 
 ## Event: "How to contribute to Blazor" (March 9, 2021).
-[<img src="https://pbs.twimg.com/media/Ev_iXtgVkAYCNB5?format=jpg&name=medium" align="center" width="100%">](https://focus.dotnetconf.net/)
+[<img src="https://pbs.twimg.com/media/Ev_iXtgVkAYCNB5?format=jpg&name=medium" align="center" width="100%">](https://dotnet.microsoft.com/live)
 - "How to contribute to Blazor"'s ASP.NET Community Standup.
 - Tuesday | Mar 9, 10:00 AM Pacific | 18:00 UTC 
 - Live: [live.dot.net](https://dotnet.microsoft.com/live).
