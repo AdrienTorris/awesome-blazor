@@ -13,8 +13,9 @@ Thanks @jsakamoto for this! [Source code](https://github.com/jsakamoto/awesome-b
 ## Event: "How to contribute to Blazor" (March 9, 2021).
 [<img src="https://pbs.twimg.com/media/Ev_iXtgVkAYCNB5?format=jpg&name=medium" align="center" width="100%">](https://dotnet.microsoft.com/live)
 - "How to contribute to Blazor"'s ASP.NET Community Standup.
+- In this edition of the Blazor community standup, join Blazor devs Safia and Pranav as they guide you through contributing to the Blazor codebase. From building the codebase to navigating our repo structure, we'll cover everything you need to know to make a code contribution to Blazor.
 - Tuesday | Mar 9, 10:00 AM Pacific | 18:00 UTC 
-- Live: [live.dot.net](https://dotnet.microsoft.com/live).
+- Live & Replay: [live.dot.net](https://dotnet.microsoft.com/live), [YouTube](https://www.youtube.com/watch?v=gRg0xxK8L6w&list=PLdo4fOcmZ0oX-DBuRG4u58ZTAJgBAeQ-t&index=2).
 
 ## Contents
 * [Introduction](#introduction)
