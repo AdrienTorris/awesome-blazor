@@ -10,11 +10,6 @@ Contributions are always welcome! Please take a look at the [contribution guidel
 If you need to search on this list you can try this great website: [Awesome Blazor Browser](https://jsakamoto.github.io/awesome-blazor-browser/).
 Thanks @jsakamoto for this! [Source code](https://github.com/jsakamoto/awesome-blazor-browser) ![stars](https://img.shields.io/github/stars/jsakamoto/awesome-blazor-browser?style=flat-square&cacheSeconds=604800) ![last commit](https://img.shields.io/github/last-commit/jsakamoto/awesome-blazor-browser?style=flat-square&cacheSeconds=86400).
 
-## Survey: "The state of .NET" (until March 31, 2021).
-[<img src="https://pbs.twimg.com/media/Expp5jpXMAEUUKa?format=jpg&name=medium" align="center" width="100%">](https://dotnetfoundation.org/about/survey)
-- Please help us improve the #dotnet ecosystem by sharing your thoughts and ideas with us. Please share with your followers!
-- [Survey](https://dotnetfoundation.org/about/survey).
-
 ## Contents
 * [Introduction](#introduction)
 * [General](#general)
