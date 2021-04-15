@@ -869,6 +869,7 @@ To get started with Blazor, follow the instructions in the [Blazor Get Started](
 * [Visual Studio Code](https://code.visualstudio.com/) - Visual Studio Code, free, open source and cross-platform code editor.
 
 ## Books
+* [ASP.NET Core Blazor 5.0: Blazor WebAssembly und Blazor Server: Moderne Single-Page-Web-Applications mit .NET, C# und Visual Studio](https://www.amazon.de/exec/obidos/ASIN/393427935X/itvisions-21) - German book on Blazor (Published September 15, 2020 with montly Updates).
 * [Blazor Revealed](https://www.apress.com/gp/book/9781484243428) - Blazor Revealed, Building Web Applications in .NET(Published February, 2019).
 * [Blazor Quick Start Guide: Build web applications using Blazor, EF Core, and SQL Server](https://www.amazon.in/gp/product/178934414X/ref=awesome_blazor) - Blazor Quick Start Guide: Build web applications using Blazor, EF Core, and SQL Server (Published October 31, 2018).
 
