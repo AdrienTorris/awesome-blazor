@@ -10,11 +10,10 @@ Contributions are always welcome! Please take a look at the [contribution guidel
 If you need to search on this list you can try this great website: [Awesome Blazor Browser](https://jsakamoto.github.io/awesome-blazor-browser/).
 Thanks @jsakamoto for this! [Source code](https://github.com/jsakamoto/awesome-blazor-browser) ![stars](https://img.shields.io/github/stars/jsakamoto/awesome-blazor-browser?style=flat-square&cacheSeconds=604800) ![last commit](https://img.shields.io/github/last-commit/jsakamoto/awesome-blazor-browser?style=flat-square&cacheSeconds=86400).
 
-## ASP.NET Core Community Standup: "ASP.NET Core updates in .NET 6" (April 20, 2021).
-[<img src="https://pbs.twimg.com/media/EzXvEMmVkAApGxk?format=jpg&name=medium" align="center" width="100%">](https://dotnet.microsoft.com/live)
-- There are a lot of exciting new features for ASP.NET Core developers in .NET 6! Come hear all about it from Daniel Roth, and ask your questions live in the chat.
-- Featuring: Daniel Roth.
-- [live.dot.net](https://dotnet.microsoft.com/live).
+## Blazor Day 2021 (June 17, 2021).
+[<img src="https://pbs.twimg.com/media/E0PBdjWXMAA9uRu?format=jpg&name=medium" align="center" width="100%">](https://blazorday.net/)
+- Free online conf about Blazor. After hitting more than 10K live viewers for its 1st edition, BlazorDay comes back. With more Blazor rock stars, even more fun and more ... Blazor love.
+- [blazorday.net](https://blazorday.net/).
 
 ## Contents
 * [Introduction](#introduction)
