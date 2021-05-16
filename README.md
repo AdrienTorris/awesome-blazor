@@ -149,6 +149,8 @@ To get started with Blazor, follow the instructions in the [Blazor Get Started](
 * [BlazorChifoumi](https://github.com/aboudoux/BlazorChifoumi) - ![last-commit](https://img.shields.io/github/last-commit/aboudoux/BlazorChifoumi?style=flat-square&cacheSeconds=86400) Exploring machine learning with a Chifoumi game.
 ### Mobile
 * [Mobile Blazor Bindings](https://aka.ms/mobileblazorbindings) - Experimental Mobile Blazor Bindings - Build native mobile apps with Blazor.
+### Rapid Development Framework
+* [WTM](https://github.com/dotnetcore/WTM) - ![stars](https://img.shields.io/github/stars/dotnetcore/wtm?style=flat-square&cacheSeconds=604800) ![last commit](https://img.shields.io/github/last-commit/dotnetcore/wtm?style=flat-square&cacheSeconds=86400) A development framework based on .NetCore and EF, it supports Blazor, Vue, React and LayUI with one click code generation for CRUD, Import/Export, etc [WebSite](https://wtmdoc.walkingtec.cn).
 ### ToDos
 * [Minimal ToDo by David Fowler](https://github.com/davidfowl/Todos/tree/davidfowl/todo-blazor/TodoBlazor) - ![stars](https://img.shields.io/github/stars/davidfowl/Todos?style=flat-square&cacheSeconds=604800) ![last commit](https://img.shields.io/github/last-commit/davidfowl/Todos?style=flat-square&cacheSeconds=86400) Minimal ToDo backend API implementation by David Fowler from Microsoft.
 * [Bolero.TodoMVC](https://github.com/fsbolero/TodoMVC) - ![GitHub stars](https://img.shields.io/github/stars/fsbolero/TodoMVC?style=flat-square&cacheSeconds=604800) ![GitHub stars](https://img.shields.io/github/last-commit/fsbolero/TodoMVC?style=flat-square&cacheSeconds=86400) A TodoMVC clone using Bolero.
