@@ -67,7 +67,7 @@ To get started with Blazor, follow the instructions in the [Blazor Get Started](
 * [themesof.net](https://themesof.net/) - .NET 6 planning process.
 
 ## Templates
-* [Blazor Hero](https://github.com/blazorhero/CleanArchitecture) - ![stars](https://img.shields.io/github/stars/blazorhero/CleanArchitecture?style=flat-square) ![last commit](https://img.shields.io/github/last-commit/blazorhero/CleanArchitecture?style=flat-square) - Clean Architecture Solution Template for Blazor WebAssembly 5.0 built with MudBlazor Components. This project will make your Blazor Learning Process much easier than you anticipate. Blazor Hero is meant to be an Enterprise Level Boilerplate, which comes free of cost, completely open sourced. [Read the Quick Start Guide here](https://codewithmukesh.com/blog/blazor-hero-quick-start-guide/).
+* [Blazor Hero](https://github.com/blazorhero/CleanArchitecture) - ![stars](https://img.shields.io/github/stars/blazorhero/CleanArchitecture?style=flat-square) ![last commit](https://img.shields.io/github/last-commit/blazorhero/CleanArchitecture?style=flat-square) - Clean Architecture Solution Template for Blazor WebAssembly built with MudBlazor Components. This project will make your Blazor Learning Process much easier than you anticipate. Blazor Hero is meant to be an Enterprise Level Boilerplate, which comes free of cost, completely open sourced. [Read the Quick Start Guide here](https://codewithmukesh.com/blog/blazor-hero-quick-start-guide/).
 
 ## Sample Projects
 ### Authentication
