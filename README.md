@@ -20,7 +20,7 @@ Thanks @jsakamoto for this! [Source code](https://github.com/jsakamoto/awesome-b
 ## Contents
 * [Introduction](#introduction)
 * [General](#general)
-* [Solution Templates](#solution-templates)
+* [Templates](#templates)
 * [Sample Projects](#sample-projects)
 * [Tutorials](#tutorials)
 * [Libraries & Extensions](#libraries--extensions)
