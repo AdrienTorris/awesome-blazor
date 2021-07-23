@@ -41,6 +41,8 @@ More information on the [official Blazor website](https://blazor.net).
 
 To get started with Blazor, follow the instructions in the [Blazor Get Started](https://docs.microsoft.com/aspnet/core/blazor/get-started) documentation.
 
+Doing the [Build a web app with Blazor](https://docs.microsoft.com/en-us/learn/modules/build-blazor-webassembly-visual-studio-code/) learning session on Microsoft Learn can also be a good idea.
+
 ## General
 * [ASP.NET Blog's archives](https://devblogs.microsoft.com/aspnet/category/blazor/) - Archives of the ASP.NET blog about Blazor.
 * [Blazor](https://dotnet.microsoft.com/apps/aspnet/web-apps/client) - Official website of Blazor, from Microsoft.
