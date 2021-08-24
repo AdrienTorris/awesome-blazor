@@ -28,6 +28,12 @@ Thanks @jsakamoto for this! [Source code](https://github.com/jsakamoto/awesome-b
 * [Community](#community)
 * [Other Languages](#other-languages)
 
+## Micro Frontends with Blazor, in The .NET Docs Show (August 30, 2021).
+[<img src="https://dotnetdocs.dev/default-thumb.png" align="center" width="100%">](https://dotnetdocs.dev/)
+- Micro Frontends with Blazor, in The .NET Docs Show.
+- Join Florian Rappl @FlorianRappl , along with hosts Luis Quintanilla, Cam Soper, Maira Wenzel for a captivating conversation about .NET.
+- [dotnetdocs.dev](https://dotnetdocs.dev/).
+
 ## Introduction
 
 ### What is Blazor?
