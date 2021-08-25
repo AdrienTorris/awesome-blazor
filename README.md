@@ -778,10 +778,10 @@ Doing the [Build a web app with Blazor](https://docs.microsoft.com/en-us/learn/m
 
 ## Books
 * [Blazor WebAssembly by Example](https://www.amazon.com/Blazor-WebAssembly-Example-project-based-building-ebook/dp/B095X7FH6M) - Blazor WebAssembly by Example: A project-based guide to building web apps with .NET, Blazor WebAssembly, and C# (1st edition published the July 9th, 2021).
+* [Blazor in Action](https://www.manning.com/books/blazor-in-action) - An example-driven guide to building reusable UI components and web frontends—all with Blazor, C#, and .NET. (Manning Early Access Program began October 2020).
 * [Microsoft Blazor: Building Web Applications in .NET](https://www.amazon.com/Microsoft-Blazor-Building-Applications-NET/dp/1484259270/ref=pd_sbs_2/144-0745230-5007239?pd_rd_w=LPinn&pf_rd_p=3676f086-9496-4fd7-8490-77cf7f43f846&pf_rd_r=V7CQTYC0W8RZAVPVVXA1&pd_rd_r=b34ab9d9-09dd-4eca-9207-f56311bde8d2&pd_rd_wg=9V1tA&pd_rd_i=1484259270&psc=1) - Microsoft Blazor: Building Web Applications in .NET (Second edition published in May 2020).
 * [Blazor Revealed](https://www.apress.com/gp/book/9781484243428) - Blazor Revealed, Building Web Applications in .NET (Published February, 2019).
 * [Blazor Quick Start Guide: Build web applications using Blazor, EF Core, and SQL Server](https://www.amazon.in/gp/product/178934414X/ref=awesome_blazor) - Blazor Quick Start Guide: Build web applications using Blazor, EF Core, and SQL Server (Published October 31, 2018).
-* [Blazor in Action](https://www.manning.com/books/blazor-in-action) - An example-driven guide to building reusable UI components and web frontends—all with Blazor, C#, and .NET. (Manning Early Access Program began October 2020).
 
 ## E-Books
 * [Blazor WebAssembly Succinctly](https://www.syncfusion.com/ebooks/blazor_webassembly_succinctly) - August 31, 2020 - Blazor is a framework for creating SPA webpages with either client-side or server-side architectures, using Razor technology written with the C# language. Because client-side Blazor with WebAssembly executes entirely on a user's browser, it’s very fast for many applications. In Blazor WebAssembly Succinctly, Michael Washington will take readers through the core elements of Blazor and then explore additional features by building a sample application. Free e-book.
