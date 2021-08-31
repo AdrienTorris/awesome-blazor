@@ -28,11 +28,10 @@ Thanks @jsakamoto for this! [Source code](https://github.com/jsakamoto/awesome-b
 * [Community](#community)
 * [Other Languages](#other-languages)
 
-## Micro Frontends with Blazor, in The .NET Docs Show (August 30, 2021).
-[<img src="https://dotnetdocs.dev/default-thumb.png" align="center" width="100%">](https://dotnetdocs.dev/)
-- Micro Frontends with Blazor, in The .NET Docs Show.
-- Join Florian Rappl @FlorianRappl , along with hosts Luis Quintanilla, Cam Soper, Maira Wenzel for a captivating conversation about .NET.
-- [dotnetdocs.dev](https://dotnetdocs.dev/).
+## .NET Conf 2021 (November 9-11, 2021).
+[<img src="https://pbs.twimg.com/media/E-H5An4X0AAQY3u?format=png&name=900x900" align="center" width="100%">](https://www.dotnetconf.net/)
+- .NET Conf is a free, three-day, virtual developer event that celebrates the major releases of the .NET development platform. It is co-organized by the .NET community and Microsoft, and sponsored by the .NET Foundation and our ecosystem partners. Come celebrate and learn about what you can do with .NET 6. 
+- [dotnetconf.net](https://www.dotnetconf.net/).
 
 ## Introduction
 
@@ -416,6 +415,7 @@ Doing the [Build a web app with Blazor](https://docs.microsoft.com/en-us/learn/m
 * [BlazorZXingJs](https://github.com/kattunga/BlazorZXingJs) - ![last commit](https://img.shields.io/github/last-commit/kattunga/BlazorZXingJs?style=flat-square&cacheSeconds=86400) Barcode/QRCode Reader and QRCode writer components. This is a Blazor wrapper around zxing-js library. It supports variety of barcode and 2d code types.
 
 ## Videos
+* [bUnit and .NET 6](https://www.twitch.tv/videos/1133985552) - ![duration](https://img.shields.io/badge/Duration:%20-93%20min-%230094FF?style=flat-square&cacheSeconds=maxAge&logo=twitch) August 30, 2021 - bUnit and .NET 6 with Egil Hansen in The Not Invented Here Show.
 * [Blazor ListView Component](https://www.youtube.com/watch?v=vRbMU8IanCQ) - ![duration](https://img.shields.io/badge/Duration:%20-59%20min-%230094FF?style=flat-square&cacheSeconds=maxAge&logo=youtube) August 27, 2021 - In this Blazor Components session, Fahad Mullaji aka @Curious Drive walks us through the various functionalities of the Telerik UI for Blazor ListView component. He explores the multiple List templates, focusing on the Header template which allows adding custom Blazor components, and footer template which shows the number of items in the list.
 * [The .NET Docs Show - Blazor component testing with bUnit](https://www.youtube.com/watch?v=JtyVBbcVplY) - ![duration](https://img.shields.io/badge/Duration:%20-62%20min-%230094FF?style=flat-square&cacheSeconds=maxAge&logo=youtube) August 23, 2021 - A new UI framework like Blazor means new unit testing scenarios! In this week's episode, community MVP Egil Hansen shows us bUnit, a unit testing library for Blazor components.
 * [Getting Started with Blazor Components](https://www.youtube.com/watch?v=gZVGwFa-L1s) - ![duration](https://img.shields.io/badge/Duration:%20-74%20min-%230094FF?style=flat-square&cacheSeconds=maxAge&logo=youtube) August 26, 2021 - Join the amazing Fahad Mullaji a.k.a @Curious Drive in his "Getting Started with Telerik UI for Blazor" journey. In this video, he goes through five of the most practical and frequently used components – TextBox, DropDownList, AutoComplete, MultiSelect, and CheckBox.
