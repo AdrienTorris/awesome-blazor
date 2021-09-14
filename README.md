@@ -28,6 +28,11 @@ Thanks @jsakamoto for this! [Source code](https://github.com/jsakamoto/awesome-b
 * [Community](#community)
 * [Other Languages](#other-languages)
 
+## ASP.NET Community Standup - Blazor in .NET 6 RC1 (September 14, 2021).
+[<img src="https://pbs.twimg.com/media/E_L4IIBVgAUJJOp?format=jpg&name=medium" align="center" width="100%">](https://live.dot.net/)
+- Find out what's new in Blazor in .NET 6 RC1. 
+- [live.dot.net](https://dotnet.microsoft.com/live), [YouTube](https://www.youtube.com/watch?v=cpt0Ljs35YA&list=PLdo4fOcmZ0oX-DBuRG4u58ZTAJgBAeQ-t&index=1).
+
 ## .NET Conf 2021 (November 9-11, 2021).
 [<img src="https://pbs.twimg.com/media/E-H5An4X0AAQY3u?format=png&name=900x900" align="center" width="100%">](https://www.dotnetconf.net/)
 - .NET Conf is a free, three-day, virtual developer event that celebrates the major releases of the .NET development platform. It is co-organized by the .NET community and Microsoft, and sponsored by the .NET Foundation and our ecosystem partners. Come celebrate and learn about what you can do with .NET 6. 
