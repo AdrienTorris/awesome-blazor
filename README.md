@@ -28,11 +28,6 @@ Thanks @jsakamoto for this! [Source code](https://github.com/jsakamoto/awesome-b
 * [Community](#community)
 * [Other Languages](#other-languages)
 
-## ASP.NET Community Standup - Blazor in .NET 6 RC1 (September 14, 2021).
-[<img src="https://pbs.twimg.com/media/E_L4IIBVgAUJJOp?format=jpg&name=medium" align="center" width="100%">](https://live.dot.net/)
-- Find out what's new in Blazor in .NET 6 RC1. 
-- [live.dot.net](https://dotnet.microsoft.com/live), [YouTube](https://www.youtube.com/watch?v=cpt0Ljs35YA&list=PLdo4fOcmZ0oX-DBuRG4u58ZTAJgBAeQ-t&index=1).
-
 ## .NET Conf 2021 (November 9-11, 2021).
 [<img src="https://pbs.twimg.com/media/E-H5An4X0AAQY3u?format=png&name=900x900" align="center" width="100%">](https://www.dotnetconf.net/)
 - .NET Conf is a free, three-day, virtual developer event that celebrates the major releases of the .NET development platform. It is co-organized by the .NET community and Microsoft, and sponsored by the .NET Foundation and our ecosystem partners. Come celebrate and learn about what you can do with .NET 6. 
@@ -580,6 +575,8 @@ Doing the [Build a web app with Blazor](https://docs.microsoft.com/en-us/learn/m
 * [Archives](https://github.com/AdrienTorris/awesome-blazor/tree/master/Archives) - [2020](https://github.com/AdrienTorris/awesome-blazor/blob/master/Archives/2020.md#videos), [2019](https://github.com/AdrienTorris/awesome-blazor/blob/master/Archives/2019.md#videos), [2018](https://github.com/AdrienTorris/awesome-blazor/blob/master/Archives/2018.md#videos), [2017](https://github.com/AdrienTorris/awesome-blazor/blob/master/Archives/2017.md#videos).
 
 ## Articles
+* [Custom deployment layout for Blazor WebAssembly apps](https://devblogs.microsoft.com/aspnet/custom-deployment-layout-for-blazor-webassembly-apps/) - September 28, 2021 - Custom deployment layout for Blazor WebAssembly apps.
+* [Blazor updates for .NET 6 using Visual Studio 2022](https://www.roundthecode.com/dotnet/blazor/blazor-updates-dotnet-6-visual-studio-2022) - September 16, 2021 - Blazor updates for .NET 6 using Visual Studio 2022.
 * [ASP.NET Core updates in .NET 6 Release Candidate 1](https://devblogs.microsoft.com/aspnet/asp-net-core-updates-in-net-6-rc-1/) - September 14, 2021 - .NET 6 Release Candidate 1 (RC1) is now available and includes many great new improvements to ASP.NET Core.
 * [BabylonJS and Blazor - Simple Game State](https://codyanhorn.tech/blog/babylonjs-and-blazor-simple-game-state) - September 2, 2021 - Build a simple game with BabylonJS and Blazor. [Source code](https://github.com/canhorn/BabylonJS.Blazor.Game.Tutorial/tree/step/03_Simple-Game-State) ![stars](https://img.shields.io/github/stars/canhorn/BabylonJS.Blazor.Game.Tutorial?style=flat-square&cacheSeconds=604800) ![last commit](https://img.shields.io/github/last-commit/canhorn/BabylonJS.Blazor.Game.Tutorial?style=flat-square&cacheSeconds=86400). [Demo](https://babylonjsblazorstep03.z19.web.core.windows.net/).
 * [So Why Doesn't Microsoft Provide Its Own Blazor Component Library?](https://visualstudiomagazine.com/articles/2021/08/13/blazor-components.aspx) - August 13, 2021 - Did you ever wonder why Microsoft doesn't provide a component library for Blazor, its red-hot ASP.NET Core framework for creating web apps primarily with C# instead of JavaScript?
