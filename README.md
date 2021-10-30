@@ -33,6 +33,11 @@ Thanks @jsakamoto for this! [Source code](https://github.com/jsakamoto/awesome-b
 - .NET Conf is a free, three-day, virtual developer event that celebrates the major releases of the .NET development platform. It is co-organized by the .NET community and Microsoft, and sponsored by the .NET Foundation and our ecosystem partners. Come celebrate and learn about what you can do with .NET 6. 
 - [dotnetconf.net](https://www.dotnetconf.net/).
 
+## Enterprise-grade Blazor apps with .NET 6 @ the .NET Conf 2021 (November 9, 10am).
+[<img src="https://pbs.twimg.com/media/FC3vCrAWUAUsVJL?format=png&name=small" align="center" width="100%">](https://www.dotnetconf.net/)
+- With Dan Roth.
+- [dotnetconf.net](https://www.dotnetconf.net/).
+
 ## Introduction
 
 ### What is Blazor?
