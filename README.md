@@ -38,6 +38,11 @@ Thanks @jsakamoto for this! [Source code](https://github.com/jsakamoto/awesome-b
 - With Dan Roth.
 - [dotnetconf.net](https://www.dotnetconf.net/).
 
+## Build cross-platform native apps with .NET MAUI and Blazor @ the .NET Conf 2021 (November 9, 3:30pm).
+[<img src="https://pbs.twimg.com/media/FDCNNXDXIAI8Stc?format=jpg&name=small" align="center" width="100%">](https://www.dotnetconf.net/)
+- In this session you'll learn to use existing Blazor web components and get the power of native apps, or supercharge your existing native apps with the power and reach of Blazor.
+- [dotnetconf.net](https://www.dotnetconf.net/).
+
 ## Introduction
 
 ### What is Blazor?
