@@ -17,6 +17,7 @@ Thanks @jsakamoto for this! [Source code](https://github.com/jsakamoto/awesome-b
 * [Sample Projects](#sample-projects)
 * [Tutorials](#tutorials)
 * [Libraries & Extensions](#libraries--extensions)
+* [Real-life applications](#real-world-applications)
 * [Videos](#videos)
 * [Articles](#articles)
 * [Podcasts](#podcasts)
@@ -440,6 +441,9 @@ Doing the [Build a web app with Blazor](https://docs.microsoft.com/en-us/learn/m
 * [EventHorizon Blazor TypeScript Interop Generator](https://github.com/canhorn/EventHorizon.Blazor.TypeScript.Interop.Generator) - ![last commit](https://img.shields.io/github/last-commit/canhorn/EventHorizon.Blazor.TypeScript.Interop.Generator?style=flat-square&cacheSeconds=86400) This project takes in a TypeScript type definition file and creates a .NET Core project that will work with the provided Interop abstraction project.
 * [Generators.Blazor](https://github.com/excubo-ag/Generators.Blazor) - ![last commit](https://img.shields.io/github/last-commit/excubo-ag/Generators.Blazor?style=flat-square&cacheSeconds=86400) Generators.Blazor is a source generator for improving performance in Blazor. The project also contains analyzers to detect common issues in Blazor apps.
 * [BlazorZXingJs](https://github.com/kattunga/BlazorZXingJs) - ![last commit](https://img.shields.io/github/last-commit/kattunga/BlazorZXingJs?style=flat-square&cacheSeconds=86400) Barcode/QRCode Reader and QRCode writer components. This is a Blazor wrapper around zxing-js library. It supports variety of barcode and 2d code types.
+
+## [Real-world applications]
+* [Try .NET](https://github.com/dotnet/try) - ![GitHub stars](https://img.shields.io/github/stars/dotnet/try?style=flat-square&cacheSeconds=604800) ![last commit](https://img.shields.io/github/last-commit/dotnet/try?style=flat-square&cacheSeconds=86400) Try .NET provides developers and content authors with tools to create interactive experiences.
 
 ## Videos
 * [ASP.NET Community Standup - Blazor Native Interop with SkiaSharp](https://www.youtube.com/watch?v=lVWQkpcVEWQ&list=PLdo4fOcmZ0oX-DBuRG4u58ZTAJgBAeQ-t&index=2) - ![duration](https://img.shields.io/badge/Duration:%20-91%20min-%230094FF?style=flat-square&cacheSeconds=maxAge&logo=youtube) October 26, 2021 - [SkiaSharp](https://github.com/mono/SkiaSharp) is a cross-platform 2D graphics API for .NET platforms based on Google's Skia Graphics Library. It provides a comprehensive 2D API that can be used across mobile, server and desktop models to render images. In this edition of the Blazor community standup learn more about SkiaSharp, from Matthew Leibowitz. [Community links](https://www.theurlist.com/blazor_community_standup_october_2021).
