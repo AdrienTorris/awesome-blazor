@@ -17,7 +17,7 @@ Thanks @jsakamoto for this! [Source code](https://github.com/jsakamoto/awesome-b
 * [Sample Projects](#sample-projects)
 * [Tutorials](#tutorials)
 * [Libraries & Extensions](#libraries--extensions)
-* [Real-life applications](#real-world-applications)
+* [Real-World applications](#real-world-applications)
 * [Videos](#videos)
 * [Articles](#articles)
 * [Podcasts](#podcasts)
@@ -442,7 +442,7 @@ Doing the [Build a web app with Blazor](https://docs.microsoft.com/en-us/learn/m
 * [Generators.Blazor](https://github.com/excubo-ag/Generators.Blazor) - ![last commit](https://img.shields.io/github/last-commit/excubo-ag/Generators.Blazor?style=flat-square&cacheSeconds=86400) Generators.Blazor is a source generator for improving performance in Blazor. The project also contains analyzers to detect common issues in Blazor apps.
 * [BlazorZXingJs](https://github.com/kattunga/BlazorZXingJs) - ![last commit](https://img.shields.io/github/last-commit/kattunga/BlazorZXingJs?style=flat-square&cacheSeconds=86400) Barcode/QRCode Reader and QRCode writer components. This is a Blazor wrapper around zxing-js library. It supports variety of barcode and 2d code types.
 
-## [Real-world applications]
+## Real-World applications
 * [Try .NET](https://github.com/dotnet/try) - ![GitHub stars](https://img.shields.io/github/stars/dotnet/try?style=flat-square&cacheSeconds=604800) ![last commit](https://img.shields.io/github/last-commit/dotnet/try?style=flat-square&cacheSeconds=86400) Try .NET provides developers and content authors with tools to create interactive experiences.
 
 ## Videos
