@@ -44,6 +44,11 @@ Thanks @jsakamoto for this! [Source code](https://github.com/jsakamoto/awesome-b
 - In this session you'll learn to use existing Blazor web components and get the power of native apps, or supercharge your existing native apps with the power and reach of Blazor.
 - [dotnetconf.net](https://www.dotnetconf.net/).
 
+## Next-generation Blazor components with .NET 6 @ the .NET Conf 2021 (November 9, 2:00pm).
+[<img src="https://pbs.twimg.com/media/FDWyMnzUYBQLBEN?format=jpg&name=small" align="center" width="100%">](https://www.dotnetconf.net/)
+- Blazor in .NET 6 enables building powerful and flexible web UI components. This session looks at new improvements to the Blazor component model; required component parameters, JavaScript initializers, and static web assets.
+- [dotnetconf.net](https://www.dotnetconf.net/).
+
 ## Introduction
 
 ### What is Blazor?
