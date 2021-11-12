@@ -29,26 +29,6 @@ Thanks @jsakamoto for this! [Source code](https://github.com/jsakamoto/awesome-b
 * [Community](#community)
 * [Other Languages](#other-languages)
 
-## .NET Conf 2021 (November 9-11, 2021).
-[<img src="https://pbs.twimg.com/media/E-H5An4X0AAQY3u?format=png&name=900x900" align="center" width="100%">](https://www.dotnetconf.net/)
-- .NET Conf is a free, three-day, virtual developer event that celebrates the major releases of the .NET development platform. It is co-organized by the .NET community and Microsoft, and sponsored by the .NET Foundation and our ecosystem partners. Come celebrate and learn about what you can do with .NET 6. 
-- [dotnetconf.net](https://www.dotnetconf.net/).
-
-## Enterprise-grade Blazor apps with .NET 6 @ the .NET Conf 2021 (November 9, 10am).
-[<img src="https://pbs.twimg.com/media/FC3vCrAWUAUsVJL?format=png&name=small" align="center" width="100%">](https://www.dotnetconf.net/)
-- With Dan Roth.
-- [dotnetconf.net](https://www.dotnetconf.net/).
-
-## Build cross-platform native apps with .NET MAUI and Blazor @ the .NET Conf 2021 (November 9, 3:30pm).
-[<img src="https://pbs.twimg.com/media/FDCNNXDXIAI8Stc?format=jpg&name=small" align="center" width="100%">](https://www.dotnetconf.net/)
-- In this session you'll learn to use existing Blazor web components and get the power of native apps, or supercharge your existing native apps with the power and reach of Blazor.
-- [dotnetconf.net](https://www.dotnetconf.net/).
-
-## Next-generation Blazor components with .NET 6 @ the .NET Conf 2021 (November 9, 2:00pm).
-[<img src="https://pbs.twimg.com/media/FDWyMnzUYBQLBEN?format=jpg&name=small" align="center" width="100%">](https://www.dotnetconf.net/)
-- Blazor in .NET 6 enables building powerful and flexible web UI components. This session looks at new improvements to the Blazor component model; required component parameters, JavaScript initializers, and static web assets.
-- [dotnetconf.net](https://www.dotnetconf.net/).
-
 ## Introduction
 
 ### What is Blazor?
@@ -451,6 +431,10 @@ Doing the [Build a web app with Blazor](https://docs.microsoft.com/en-us/learn/m
 * [Try .NET](https://github.com/dotnet/try) - ![GitHub stars](https://img.shields.io/github/stars/dotnet/try?style=flat-square&cacheSeconds=604800) ![last commit](https://img.shields.io/github/last-commit/dotnet/try?style=flat-square&cacheSeconds=86400) Try .NET provides developers and content authors with tools to create interactive experiences.
 
 ## Videos
+* [Full-stack .NET with Blazor WebAssembly and Azure Static Web Apps](https://www.youtube.com/watch?v=RZhEScjKVHE) - ![duration](https://img.shields.io/badge/Duration:%20-27%20min-%230094FF?style=flat-square&cacheSeconds=maxAge&logo=youtube) November 11, 2021 - With automatic global distribution, custom domains, and free SSL certificates, Azure Static Web Apps has everything you need to deploy modern web applications with serverless APIs. Join us to learn all about how to deploy Blazor WebAssembly apps with .NET Azure Functions to Azure Static Web Apps.
+* [Enterprise-grade Blazor apps with .NET 6](https://www.youtube.com/watch?v=GKu-vRxOWr8) - ![duration](https://img.shields.io/badge/Duration:%20-30%20min-%230094FF?style=flat-square&cacheSeconds=maxAge&logo=youtube) November 10, 2021 - Blazor in [.NET 6](https://get.dot.net/6) gives you the functionality you need to build real world apps of any size and complexity. In this session we'll look at the new Blazor features in .NET 6 for practical web app development. We'll look at the new support for Hot Reload, error boundaries, state preservation during prerendering, faster file uploads, query string handling, adding page metadata, and integrating Blazor components into existing JavaScript based apps.
+* [New Blazor WebAssembly capabilities in .NET 6](https://www.youtube.com/watch?v=kesUNeBZ1Os) - ![duration](https://img.shields.io/badge/Duration:%20-29%20min-%230094FF?style=flat-square&cacheSeconds=maxAge&logo=youtube) November 10, 2021 - With [.NET 6](https://get.dot.net/6), the underlying .NET WebAssembly runtime supports entirely new kinds of functionality, and can be faster and more productive than ever before. "Native dependencies" enables embedding libraries from other tech stacks (e.g., a C/C++ database engine, or a Rust media processor). AOT compilation brings truly near-native performance to your .NET code in the browser, and the new build toolchain can now strip out unused native code to ship significantly smaller bundles. This talk explores how you can build new kinds of web apps, while having a more enjoyable and productive experience via instant hot reload and a better Razor editor.
+* [Next-generation Blazor components with .NET 6](https://www.youtube.com/watch?v=p77UumvZCNM) - ![duration](https://img.shields.io/badge/Duration:%20-31%20min-%230094FF?style=flat-square&cacheSeconds=maxAge&logo=youtube) November 10, 2021 - Blazor in [.NET 6](https://get.dot.net/6) enables building even more powerful and flexible web UI components. In this session we'll look at the new improvements to the Blazor component model, including required component parameters, generic type inference from ancestor components, JavaScript initializers, and handling of static web assets.
 * [ASP.NET Community Standup - Blazor Native Interop with SkiaSharp](https://www.youtube.com/watch?v=lVWQkpcVEWQ&list=PLdo4fOcmZ0oX-DBuRG4u58ZTAJgBAeQ-t&index=2) - ![duration](https://img.shields.io/badge/Duration:%20-91%20min-%230094FF?style=flat-square&cacheSeconds=maxAge&logo=youtube) October 26, 2021 - [SkiaSharp](https://github.com/mono/SkiaSharp) is a cross-platform 2D graphics API for .NET platforms based on Google's Skia Graphics Library. It provides a comprehensive 2D API that can be used across mobile, server and desktop models to render images. In this edition of the Blazor community standup learn more about SkiaSharp, from Matthew Leibowitz. [Community links](https://www.theurlist.com/blazor_community_standup_october_2021).
 * [Web Wednesday: Creating full stack web apps with Blazor](https://www.youtube.com/watch?v=C9WSloRSiIc) - ![duration](https://img.shields.io/badge/Duration:%20-60%20min-%230094FF?style=flat-square&cacheSeconds=maxAge&logo=youtube) October 21, 2021 - Blazor provides an alternative option for building rich client-side web applications using .NET instead of JavaScript. The core of this framework is based on components, similar to JavaScript frameworks like Vue or React. In this session, we'll take a look at how this component model works.
 * [ASP.NET Community Standup - Exploring MudBlazor](https://www.youtube.com/watch?v=GtLIpITqznA&list=PLdo4fOcmZ0oX-DBuRG4u58ZTAJgBAeQ-t&index=5) - ![duration](https://img.shields.io/badge/Duration:%20-76%20min-%230094FF?style=flat-square&cacheSeconds=maxAge&logo=youtube) October 12, 2021 - In this edition of the Blazor community standup learn more about [MudBlazor](https://github.com/MudBlazor/MudBlazor), a Material Design framework for Blazor with co-creators Jonny Larsson & Meinrad Recheis. [Community links](https://www.theurlist.com/blazor_community_standup_october).
