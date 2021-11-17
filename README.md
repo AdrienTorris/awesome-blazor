@@ -29,6 +29,12 @@ Thanks @jsakamoto for this! [Source code](https://github.com/jsakamoto/awesome-b
 * [Community](#community)
 * [Other Languages](#other-languages)
 
+## .NET Conf 2021 (November 9-11, 2021).
+[<img src="https://pbs.twimg.com/media/E-H5An4X0AAQY3u?format=png&name=900x900" align="center" width="100%">](https://www.dotnetconf.net/)
+- .NET Conf is a free, three-day, virtual developer event that celebrates the major releases of the .NET development platform. It is co-organized by the .NET community and Microsoft, and sponsored by the .NET Foundation and our ecosystem partners. Come celebrate and learn about what you can do with [.NET 6](https://get.dot.net/6). 
+- Website: [dotnetconf.net](https://www.dotnetconf.net/).
+- Replay: [YouTube's playlist](https://www.youtube.com/playlist?list=PLdo4fOcmZ0oVFtp9MDEBNbA2sSqYvXSXO).
+
 ## Introduction
 
 ### What is Blazor?
