@@ -29,6 +29,13 @@ Thanks @jsakamoto for this! [Source code](https://github.com/jsakamoto/awesome-b
 * [Community](#community)
 * [Other Languages](#other-languages)
 
+## .NET Conf & Visual Studio 2022 After Party - Q&A (December 16, 2021).
+[<img src="https://pbs.twimg.com/media/FGatfEpXoAYg20v?format=jpg&name=medium" align="center" width="100%">](https://www.dotnetconf.net/)
+- Submit your questions for the #dotNETConf & Visual Studio 2022 After Party Q&A to #dotNET6 and #VS2022 have experts answer LIVE on [@LearnTV](https://twitter.com/LearnTV). Submit questions by 5PM PT today and [register for free](https://docs.microsoft.com/en-us/events/learntv/dotnet-vs2022-dec-2021/): https://msft.it/6013k70fv
+- December 16, 2021 | 8:30 AM - 10:00 AM PST
+- [Learn TV](https://docs.microsoft.com/en-us/learn/tv/).
+- [aka.ms/dotnetvsafterparty](https://docs.microsoft.com/en-us/events/learntv/dotnet-vs2022-dec-2021/).
+
 ## Introduction
 
 ### What is Blazor?
