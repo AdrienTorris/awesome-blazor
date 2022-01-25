@@ -29,6 +29,12 @@ Thanks @jsakamoto for this! [Source code](https://github.com/jsakamoto/awesome-b
 * [Community](#community)
 * [Other Languages](#other-languages)
 
+## C# Corner .NET Conference 2022 (January 24-26, 2022).
+[<img src="https://pbs.twimg.com/media/FJ3XkM4aQAIiInk?format=jpg&name=medium" align="center" width="100%">](https://dotnetconference.com/)
+- Several session about Blazor, check out the [schedule](https://dotnetconference.com/).
+- January 24-26, 2022
+- [Conference website](https://dotnetconference.com/).
+
 ## Introduction
 
 ### What is Blazor?
