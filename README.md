@@ -618,6 +618,7 @@ Doing the [Build a web app with Blazor](https://docs.microsoft.com/en-us/learn/m
 * [DevApps.be's podcast #44](http://devapps.be/podcast/blazor-webassembly/) - [French] DevApps.be's podcast #44: "Blazor et WebAssembly vont-ils tuer JavaScript ?".
 * [DevApps.be's podcast #47](http://devapps.be/podcast/47-typescript-uno-angular-docfx/) - [French] DevApps.be's podcast #47: "Actualités : TypeScript, Uno, Angular, DocFX, Database".
 * [Modern web apps with Blazor](https://media.aspitalia.com/events/VS2019-Blazor.media) - [Italian] Video about Blazor.
+* [Blazor Developer Italiani](https://blazordev.it/) - [Italian] Italian Blazor community website with useful articles and events.
 * [Playlist - Programando en Blazor](https://www.youtube.com/playlist?list=PL0kIvpOlieSNdIPZbn-mO15YIjRHY2wI9) - [Spanish] Series of videos about Blazor.
 * [Insights from the oracle](http://blog.ppedv.de/?tag=Blazor) - [German] Blog about Blazor.
 * [ASP.NET Core Blazor 5.0: Blazor WebAssembly und Blazor Server: Moderne Single-Page-Web-Applications mit .NET, C# und Visual Studio](https://www.amazon.de/exec/obidos/ASIN/393427935X/itvisions-21) - German book on Blazor (Published September 15, 2020 with montly Updates).
