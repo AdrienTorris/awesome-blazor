@@ -29,12 +29,6 @@ Thanks @jsakamoto for this! [Source code](https://github.com/jsakamoto/awesome-b
 * [Community](#community)
 * [Other Languages](#other-languages)
 
-## Let's build an app with .NET MAUI and Blazor - ASP.NET Community Standup (May 17, 2022).
-[<img src="https://pbs.twimg.com/media/FS57LOGVsAEBMkA?format=jpg&name=4096x4096" align="center" width="100%">](https://live.dot.net)
-- Let's build an app with .NET MAUI and Blazor.
-- May 17, 2022
-- [live.dot.net](https://live.dot.net).
-
 ## Microsoft Build 2022 (May 24-26, 2022).
 [<img src="https://pbs.twimg.com/media/FSfMMcFWYAAi4Mm?format=jpg&name=medium" align="center" width="100%">](https://mybuild.microsoft.com)
 - Come together at Microsoft Build May 24–26 2022, to explore the latest innovations in code and application development—and to gain insights from peers and experts from around the world.
