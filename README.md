@@ -29,13 +29,6 @@ Thanks @jsakamoto for this! [Source code](https://github.com/jsakamoto/awesome-b
 * [Community](#community)
 * [Other Languages](#other-languages)
 
-## Microsoft Build 2022 (May 24-26, 2022).
-[<img src="https://pbs.twimg.com/media/FSfMMcFWYAAi4Mm?format=jpg&name=medium" align="center" width="100%">](https://mybuild.microsoft.com)
-- Come together at Microsoft Build May 24–26 2022, to explore the latest innovations in code and application development—and to gain insights from peers and experts from around the world.
-- Let’s innovate without compromise, develop creatively, and build the next generation of apps—welcome to Microsoft Build.
-- May 24-26, 2022
-- [mybuild.microsoft.com](https://mybuild.microsoft.com/).
-
 ## Introduction
 
 ### What is Blazor?
