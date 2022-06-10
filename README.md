@@ -614,6 +614,7 @@ Doing the [Build a web app with Blazor](https://docs.microsoft.com/en-us/learn/m
 * [Visual Studio Code](https://code.visualstudio.com/) - Visual Studio Code, free, open source and cross-platform code editor.
 
 ## Books
+* [Learning Blazor](https://learning.oreilly.com/library/view/learning-blazor/9781098113230) - Build Single-Page Apps with WebAssembly and C# (By David Pine via O'Reilly Early Release February 3rd, 2022).
 * [Microsoft Blazor: Building Web Applications in .NET 6 and Beyond](https://www.amazon.com/Microsoft-Blazor-Building-Applications-Beyond/dp/1484278445) - A practical and hands-on approach to learning Blazor using .NET 6. (3rd ed. edition (December 8, 2021).
 * [Blazor WebAssembly by Example](https://www.amazon.com/Blazor-WebAssembly-Example-project-based-building-ebook/dp/B095X7FH6M) - Blazor WebAssembly by Example: A project-based guide to building web apps with .NET, Blazor WebAssembly, and C# (1st edition published the July 9th, 2021).
 * [Blazor in Action](https://www.manning.com/books/blazor-in-action) - An example-driven guide to building reusable UI components and web frontends—all with Blazor, C#, and .NET. (Manning Early Access Program began October 2020).
