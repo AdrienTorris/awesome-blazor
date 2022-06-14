@@ -498,6 +498,7 @@ Doing the [Build a web app with Blazor](https://docs.microsoft.com/en-us/learn/m
 * [Archives](https://github.com/AdrienTorris/awesome-blazor/tree/master/Archives) - [2020](https://github.com/AdrienTorris/awesome-blazor/blob/master/Archives/2020.md#videos), [2019](https://github.com/AdrienTorris/awesome-blazor/blob/master/Archives/2019.md#videos), [2018](https://github.com/AdrienTorris/awesome-blazor/blob/master/Archives/2018.md#videos), [2017](https://github.com/AdrienTorris/awesome-blazor/blob/master/Archives/2017.md#videos).
 
 ## Articles
+* [A Full-Stack Web App Using Blazor WebAssembly and GraphQL: Part 3](https://www.syncfusion.com/blogs/post/a-full-stack-web-app-using-blazor-webassembly-and-graphql-part-3.aspx) - June 8, 2022 - A Full-Stack Web App Using Blazor WebAssembly and GraphQL: Part 3. [Part 1](https://www.syncfusion.com/blogs/post/a-full-stack-web-app-using-blazor-webassembly-and-graphql-part-1.aspx).
 * [ASP.NET Core updates in .NET 7 Preview 4](https://devblogs.microsoft.com/dotnet/asp-net-core-updates-in-dotnet-7-preview-4) - May 10, 2022 - .NET 7 Preview 4 is now available and includes many great new improvements to ASP.NET Core. Article by Dan Roth from Microsoft.
 * [Q&A: Deep Dive on Blazor](https://visualstudiomagazine.com/articles/2022/05/09/qa-blazor-deep-dive.aspx) - May 9, 2022 - Q&A: Deep Dive on Blazor, on Visual Studio Magazine.
 * [Syncfusion Essential Studio Release Enhances .NET MAUI, WinUI, Blazor and More](https://visualstudiomagazine.com/articles/2022/05/06/syncfusion-v1.aspx) - May 6, 2022 - Syncfusion Essential Studio Release Enhances .NET MAUI, WinUI, Blazor and More, on Visual Studio Magazine.
@@ -505,6 +506,7 @@ Doing the [Build a web app with Blazor](https://docs.microsoft.com/en-us/learn/m
 * [Mastering Blazor - Part 1: DOM Integration](https://dev.to/florianrappl/mastering-blazor-part-1-dom-integration-5591) - March 31, 2022 - Mastering Blazor - Part 1: DOM Integration.
 * [Conditional Blazor Styles (without the if statements)](https://jonhilton.net/conditional-blazor-css/) - March 24, 2022 - Conditional Blazor Styles (without the if statements).
 * [Securing a Blazor WebAssembly Hosted Apps with Azure Active Directory](https://dev.to/kasuken/securing-a-blazor-webassembly-hosted-apps-with-azure-active-directory-part-1-382d) - March 18, 2022 - Securing a Blazor WebAssembly Hosted Apps with Azure Active Directory. [Part 2](https://dev.to/kasuken/securing-a-blazor-webassembly-hosted-apps-with-azure-active-directory-part-2-1ppd).
+* [A Full-Stack Web App Using Blazor WebAssembly and GraphQL: Part 1](https://www.syncfusion.com/blogs/post/a-full-stack-web-app-using-blazor-webassembly-and-graphql-part-1.aspx) - February 17, 2022 - This article shows how to create a full-stack web application using Blazor WebAssembly and GraphQL with SQL Server as our database.
 * [What's Coming for Blazor Hybrid in .NET 7](https://visualstudiomagazine.com/articles/2022/02/10/blazor-hybrid-net-7.aspx) - February 10, 2022 - What's Coming for Blazor Hybrid in .NET 7, Visual Studio Magazine.
 * [Use Tailwind's new JIT mode when developing Blazor applications](https://jonhilton.net/tailwind3-blazor/) - January 19, 2022 - Use Tailwind's new JIT mode when developing Blazor applications.
 * [Umbraco 9 & Blazor WebAssembly Starterkit on GitHub](https://cornehoskam.com/posts/umbraco-9-blazor-webassembly-starterkit-on-github) - November 24, 2021 - A simple starter site for Umbraco v9, making use of Blazor WebAssembly with Tailwind CSS/UI. A project that I use to play around and experiment with Umbraco 9, Blazor WebAssembly, TailwindCSS, the Block List Editor, and several other concepts. [Source code](https://github.com/cornehoskam/Umbraco9-Blazor-Starterkit) ![stars](https://img.shields.io/github/stars/cornehoskam/Umbraco9-Blazor-Starterkit?style=flat-square&cacheSeconds=604800) ![last commit](https://img.shields.io/github/last-commit/cornehoskam/Umbraco9-Blazor-Starterkit?style=flat-square&cacheSeconds=86400).
@@ -661,9 +663,9 @@ Doing the [Build a web app with Blazor](https://docs.microsoft.com/en-us/learn/m
 ## Other Languages
 * [Blaze of Code](https://blazeofcode.com/) - [Portuguese] Blog about Blazor.
 * [Blazor.ru](https://blazor.ru/) - [Russian] Old official documentation website translated in Russian.
-* [DevApps.be's podcast #44](http://devapps.be/podcast/blazor-webassembly/) - :france: [French] DevApps.be's podcast #44: "Blazor et WebAssembly vont-ils tuer JavaScript ?".
+* [DevApps.be's podcast #44](http://devapps.be/podcast/blazor-webassembly/) - [French] DevApps.be's podcast #44: "Blazor et WebAssembly vont-ils tuer JavaScript ?".
 * [DevApps.be's podcast #47](http://devapps.be/podcast/47-typescript-uno-angular-docfx/) - [French] DevApps.be's podcast #47: "Actualités : TypeScript, Uno, Angular, DocFX, Database".
-* [Modern web apps with Blazor](https://media.aspitalia.com/events/VS2019-Blazor.media) - :italy: [Italian] Video about Blazor.
+* [Modern web apps with Blazor](https://media.aspitalia.com/events/VS2019-Blazor.media) - [Italian] Video about Blazor.
 * [Blazor Developer Italiani](https://blazordev.it/) - [Italian] Italian Blazor community website with useful articles and events.
 * [Playlist - Programando en Blazor](https://www.youtube.com/playlist?list=PL0kIvpOlieSNdIPZbn-mO15YIjRHY2wI9) - [Spanish] Series of videos about Blazor.
 * [Insights from the oracle](http://blog.ppedv.de/?tag=Blazor) - [German] Blog about Blazor.
