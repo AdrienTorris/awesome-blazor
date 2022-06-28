@@ -661,6 +661,7 @@ Doing the [Build a web app with Blazor](https://docs.microsoft.com/en-us/learn/m
   
 ## Community
 * [Awesome Blazor on Twitter](https://twitter.com/awesomeblazor) - This repository's Twitter feed.
+* [Discord](https://discord.com/channels/732297728826277939/732297874062311424) - Blazor channel on the DotNetEvolution discord server.
 * [Gitter](https://gitter.im/aspnet/Blazor) - Blazor discussion on Gitter.
 * [Learn Blazor](https://learn-blazor.com/) - Community documentation on Blazor.
 * [Blazor Help Website](https://blazorhelpwebsite.com/) - Blogs and code samples primarily covering server-side Blazor.
