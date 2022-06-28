@@ -666,6 +666,7 @@ Doing the [Build a web app with Blazor](https://docs.microsoft.com/en-us/learn/m
 * [Blazor Help Website](https://blazorhelpwebsite.com/) - Blogs and code samples primarily covering server-side Blazor.
 * [Practical samples of Blazor](https://github.com/dodyg/practical-aspnetcore/tree/master/projects/blazor) - Practical samples of Blazor.
 * [Practical samples of Blazor Server-Side](https://github.com/dodyg/practical-aspnetcore/tree/master/projects/blazor-ss) - Practical samples of Blazor Server-Side.
+* [Reddit](https://www.reddit.com/r/Blazor/) - Blazor subreddit.
 * [Stack Overflow](https://stackoverflow.com/questions/tagged/blazor) - Blazor questions feed on Stack Overflow.
 * [Twitter](https://twitter.com/hashtag/blazor) - Hashtag on Twitter.
 * [WebAssemblyMan](https://www.webassemblyman.com/) - Man page for Blazor and WebAssembly.
