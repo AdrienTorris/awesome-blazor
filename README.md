@@ -29,6 +29,13 @@ Thanks @jsakamoto for this! [Source code](https://github.com/jsakamoto/awesome-b
 * [Community](#community)
 * [Other Languages](#other-languages)
 
+## Flavors of State Management with Blazor WebAssembly - ASP.NET Community Standup (July 12, 2022).
+[<img src="https://i.ytimg.com/vi/ovgNl_ck22w/maxresdefault.jpg?v=62bb6f44" align="center" width="100%">](https://dotnet.microsoft.com/en-us/live/community-standup)
+- In this session, I will cover the simple state management flavours and then progress towards something more tasty like the Redux pattern. We will see what there is to like and dislike about each flavour. Next, we will take a step back and determine the appropriate seasoning of state management to pair with our application. You will leave this session having sampled all the wonderful flavours and be able to make great decisions to have the best development experience.
+- July 12, 2022.
+- [Community links](https://www.theurlist.com/blazor_community_standup_july_2022)
+- [ASP.NET Community Standup](https://dotnet.microsoft.com/en-us/live/community-standup), [YouTube](https://www.youtube.com/watch?v=ovgNl_ck22w&list=PLdo4fOcmZ0oX-DBuRG4u58ZTAJgBAeQ-t&index=3).
+
 ## Introduction
 
 ### What is Blazor?
