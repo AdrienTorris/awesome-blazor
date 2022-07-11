@@ -36,6 +36,11 @@ Thanks @jsakamoto for this! [Source code](https://github.com/jsakamoto/awesome-b
 - [Community links](https://www.theurlist.com/blazor_community_standup_july_2022)
 - [ASP.NET Community Standup](https://dotnet.microsoft.com/en-us/live/community-standup), [YouTube](https://www.youtube.com/watch?v=ovgNl_ck22w&list=PLdo4fOcmZ0oX-DBuRG4u58ZTAJgBAeQ-t&index=3).
 
+## Blazor Hybrid - .NET beginner series (July 28, 2022).
+[<img src="https://i.ytimg.com/vi/ovgNl_ck22w/maxresdefault.jpg?v=62bb6f44" align="center" width="100%">](https://www.youtube.com/watch?v=iI058EA_maE)
+- In this month’s .NET beginner series, learn how to blend desktop and mobile native client frameworks with .NET and Blazor! We'll get you up to speed with building .NET MAUI apps that can take advantage of native capabilities, using your web skills.
+- Watch on [YouTube](https://www.youtube.com/watch?v=iI058EA_maE).
+
 ## Introduction
 
 ### What is Blazor?
