@@ -29,13 +29,6 @@ Thanks @jsakamoto for this! [Source code](https://github.com/jsakamoto/awesome-b
 * [Community](#community)
 * [Other Languages](#other-languages)
 
-## Flavors of State Management with Blazor WebAssembly - ASP.NET Community Standup (July 12, 2022).
-[<img src="https://i.ytimg.com/vi/ovgNl_ck22w/maxresdefault.jpg?v=62bb6f44" align="center" width="100%">](https://dotnet.microsoft.com/en-us/live/community-standup)
-- In this session, I will cover the simple state management flavours and then progress towards something more tasty like the Redux pattern. We will see what there is to like and dislike about each flavour. Next, we will take a step back and determine the appropriate seasoning of state management to pair with our application. You will leave this session having sampled all the wonderful flavours and be able to make great decisions to have the best development experience.
-- July 12, 2022.
-- [Community links](https://www.theurlist.com/blazor_community_standup_july_2022)
-- [ASP.NET Community Standup](https://dotnet.microsoft.com/en-us/live/community-standup), [YouTube](https://www.youtube.com/watch?v=ovgNl_ck22w&list=PLdo4fOcmZ0oX-DBuRG4u58ZTAJgBAeQ-t&index=3).
-
 ## Blazor Hybrid - .NET beginner series (July 28, 2022).
 [<img src="https://i.ytimg.com/vi/iI058EA_maE/maxresdefault.jpg?v=62c5f798" align="center" width="100%">](https://www.youtube.com/watch?v=iI058EA_maE)
 - In this month’s .NET beginner series, learn how to blend desktop and mobile native client frameworks with .NET and Blazor! We'll get you up to speed with building .NET MAUI apps that can take advantage of native capabilities, using your web skills.
@@ -523,6 +516,7 @@ Doing the [Build a web app with Blazor](https://docs.microsoft.com/en-us/learn/m
 * [Archives](https://github.com/AdrienTorris/awesome-blazor/tree/master/Archives) - [2020](https://github.com/AdrienTorris/awesome-blazor/blob/master/Archives/2020.md#videos), [2019](https://github.com/AdrienTorris/awesome-blazor/blob/master/Archives/2019.md#videos), [2018](https://github.com/AdrienTorris/awesome-blazor/blob/master/Archives/2018.md#videos), [2017](https://github.com/AdrienTorris/awesome-blazor/blob/master/Archives/2017.md#videos).
 
 ## Articles
+* [Blazor Sticker Giveaway](https://dev.to/dotnet/blazor-sticker-giveaway-try-the-new-blazor-guide-in-visual-studio-4c8b) - July 15, 2022 - Try the new Blazor Guide in Visual Studio. Read on to learn about how to give it a try and for a chance to receive a sticker.
 * [ASP.NET Core updates in .NET 7 Preview 6](https://devblogs.microsoft.com/dotnet/asp-net-core-updates-in-dotnet-7-preview-6/) - July 12, 2022 - .NET 7 Preview 6 is now available and includes many great new improvements to ASP.NET Core. Blazor custom elements no longer experimental, experimental QuickGrid component for Blazor, System.Security.Cryptography support on WebAssembly, empty Blazor project templates and more. For more details on the ASP.NET Core work planned for .NET 7 see the full [ASP.NET Core roadmap for .NET 7](https://aka.ms/aspnet/roadmap) on GitHub.
 * [Uno Platform Does WebAssembly Threading Months Ahead of .NET 7](https://visualstudiomagazine.com/articles/2022/06/29/uno-platform-4-4.aspx) - June 29, 2022 - Uno Platform Does WebAssembly Threading Months Ahead of .NET 7, by David Ramel for Visual Studio Magazine.
 * [3 reasons why I've created yet another library for the downloading on Blazor apps](https://dev.to/j_sakamoto/3-reasons-why-ive-created-yet-another-library-for-the-downloading-on-blazor-apps-2cpk) - June 29, 2022 - 3 reasons why I've created yet another library for the downloading on Blazor apps.
