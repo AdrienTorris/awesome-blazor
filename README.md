@@ -521,6 +521,8 @@ Doing the [Build a web app with Blazor](https://docs.microsoft.com/en-us/learn/m
 * [Archives](https://github.com/AdrienTorris/awesome-blazor/tree/master/Archives) - [2020](https://github.com/AdrienTorris/awesome-blazor/blob/master/Archives/2020.md#videos), [2019](https://github.com/AdrienTorris/awesome-blazor/blob/master/Archives/2019.md#videos), [2018](https://github.com/AdrienTorris/awesome-blazor/blob/master/Archives/2018.md#videos), [2017](https://github.com/AdrienTorris/awesome-blazor/blob/master/Archives/2017.md#videos).
 
 ## Articles
+* [Oqtane 3.1.4 Released](https://www.oqtane.org/blog/!/49/oqtane-3-1-4-released) - July 27, 2022 - The 3.1.4 release is primarily focused on stabilization. This includes a variety of performance optimizations, user experience improvements, and localization enhancements.
+* [ClassFly UI - XAML vs Blazor - Part 1 - XAML](https://kymphillpotts.com/maui-ui-july.html) - July 23, 2022 - This serie of article compares the approaches of XAML vs Blazor. The same application will be create using XAML and Blazor to discover the pros and cons. The part 1 focuses on XAML. 
 * [Share Blazor components using dependency injection](https://engstromjimmy.com/post/2022-07-21-ShareBlazorComponentsUsingDi) - July 19, 2022 - Share Blazor components using dependency injection.
 * [Using IAsyncEnumerable in a Razor component](https://www.meziantou.net/using-iasyncenumerable-in-a-razor-component.htm) - July 18, 2022 - Using IAsyncEnumerable in a Razor component.
 * [Blazor Sticker Giveaway](https://dev.to/dotnet/blazor-sticker-giveaway-try-the-new-blazor-guide-in-visual-studio-4c8b) - July 15, 2022 - Try the new Blazor Guide in Visual Studio. Read on to learn about how to give it a try and for a chance to receive a sticker.
