@@ -30,7 +30,7 @@ Thanks @jsakamoto for this! [Source code](https://github.com/jsakamoto/awesome-b
 * [Other Languages](#other-languages)
 
 ## Blazor in .NET 7 - .NET Community Standup (August 23, 2022).
-[<img src="[https://i.ytimg.com/vi/iI058EA_maE/maxresdefault.jpg?v=62c5f798](https://pbs.twimg.com/media/FayhpIkVUAEPAGC?format=jpg&name=small)" align="center" width="100%">](https://www.youtube.com/watch?v=iI058EA_maE)
+[<img src="https://pbs.twimg.com/media/FayhpIkVUAEPAGC?format=jpg&name=small" align="center" width="100%">](https://dotnet.microsoft.com/en-us/live)
 - Overview of Blazor in .NET 7.
 - With Daniel Roth, Jon Galloway, Mackinnon Buck and Tanay Parikh.
 - Watch on [live.dot.net](https://dotnet.microsoft.com/en-us/live) or [YouTube](https://www.youtube.com/watch?v=mDKvgpD8YM0&feature=emb_imp_woyt).
