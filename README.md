@@ -29,10 +29,11 @@ Thanks @jsakamoto for this! [Source code](https://github.com/jsakamoto/awesome-b
 * [Community](#community)
 * [Other Languages](#other-languages)
 
-## Blazor Hybrid - .NET beginner series (July 28, 2022).
-[<img src="https://i.ytimg.com/vi/iI058EA_maE/maxresdefault.jpg?v=62c5f798" align="center" width="100%">](https://www.youtube.com/watch?v=iI058EA_maE)
-- In this month’s .NET beginner series, learn how to blend desktop and mobile native client frameworks with .NET and Blazor! We'll get you up to speed with building .NET MAUI apps that can take advantage of native capabilities, using your web skills.
-- Watch on [YouTube](https://www.youtube.com/watch?v=iI058EA_maE).
+## Blazor in .NET 7 - .NET Community Standup (August 23, 2022).
+[<img src="[https://i.ytimg.com/vi/iI058EA_maE/maxresdefault.jpg?v=62c5f798](https://pbs.twimg.com/media/FayhpIkVUAEPAGC?format=jpg&name=small)" align="center" width="100%">](https://www.youtube.com/watch?v=iI058EA_maE)
+- Overview of Blazor in .NET 7.
+- With Daniel Roth, Jon Galloway, Mackinnon Buck and Tanay Parikh.
+- Watch on [live.dot.net](https://dotnet.microsoft.com/en-us/live) or [YouTube](https://www.youtube.com/watch?v=mDKvgpD8YM0&feature=emb_imp_woyt).
 
 ## Introduction
 
@@ -398,6 +399,7 @@ Doing the [Build a web app with Blazor](https://docs.microsoft.com/en-us/learn/m
 * [Try .NET](https://github.com/dotnet/try) - ![GitHub stars](https://img.shields.io/github/stars/dotnet/try?style=flat-square&cacheSeconds=604800) ![last commit](https://img.shields.io/github/last-commit/dotnet/try?style=flat-square&cacheSeconds=86400) Try .NET provides developers and content authors with tools to create interactive experiences.
 
 ## Videos
+* [Blazor in .NET 7 - .NET Community Standup](https://www.youtube.com/watch?v=mDKvgpD8YM0&feature=emb_imp_woyt) - August 23, 2022 - Overview of Blazor in .NET 7 with Daniel Roth, Jon Galloway, Mackinnon Buck and Tanay Parikh.
 * [Implementing Main Page Headers in Blazor](https://www.youtube.com/watch?v=YAgMdsdWzAc) - ![duration](https://img.shields.io/badge/Duration:%20-101%20min-%230094FF?style=flat-square&cacheSeconds=maxAge&logo=youtube) July 18, 2022 - In this session, Josh and I are back again to continue building a decentralizaed social media platform in the open-source space. This session in particular we will be discussing, designing and implementing a main page header in Blazor using SharpStyles.
 * [Blazor: Flavors of State Management with Blazor WebAssembly](https://www.youtube.com/watch?v=ovgNl_ck22w) - ![duration](https://img.shields.io/badge/Duration:%20-85%20min-%230094FF?style=flat-square&cacheSeconds=maxAge&logo=youtube) July 12, 2022 - ASP.NET Community Standup - Blazor: Flavors of State Management with Blazor WebAssembly. Working with Blazor WebAssembly applications we often overlook the importance of appropriate state management. Without a good understanding and the right strategy, our applications can end up polluted with components that behave badly and we end up regretting the bad choices.- This session covers the simple state management flavours and then progress towards something more tasty like the Redux pattern. We will see what there is to like and dislike about each flavour. Next, we will take a step back and determine the appropriate seasoning of state management to pair with our application. You will leave this session having sampled all the wonderful flavours and be able to make great decisions to have the best development experience. [Community links](https://www.theurlist.com/blazor_community_standup_july_2022).
 * [Securing Blazor & Web APIs with AAD](https://www.youtube.com/watch?v=wYptdN-P5zU) - ![duration](https://img.shields.io/badge/Duration:%20-30%20min-%230094FF?style=flat-square&cacheSeconds=maxAge&logo=youtube) July 11, 2022 - This video shows how to secure your Blazor application and a Web API using Azure Active Directory (AAD).
