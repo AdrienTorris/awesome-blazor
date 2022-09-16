@@ -29,11 +29,10 @@ Thanks @jsakamoto for this! [Source code](https://github.com/jsakamoto/awesome-b
 * [Community](#community)
 * [Other Languages](#other-languages)
 
-## Blazor in .NET 7, part 2 - .NET Community Standup (September 13, 2022).
-[<img src="https://pbs.twimg.com/media/FcfURZOXEAAGvc1?format=jpg&name=small" align="center" width="100%">](https://dotnet.microsoft.com/en-us/live)
-- Overview of Blazor in .NET 7, part 2.
-- With Daniel Roth, Pavel Savara, Jon Galloway, Tanay Parikh, and Thays Grazia.
-- Watch on [live.dot.net](https://dotnet.microsoft.com/en-us/live) or [YouTube](https://www.youtube.com/watch?v=-ZSscIhQaRk&feature=emb_imp_woyt).
+## .NET Conf - .NET 7 launch! (November 8-10, 2022).
+[<img src="https://pbs.twimg.com/media/Fcx-SGnXEAEs0Q6?format=jpg&name=medium" align="center" width="100%">](https://dotnet.microsoft.com/en-us/live)
+- .NET Conf is a free, three-day, virtual developer event that celebrates the major releases of the .NET development platform. It is co-organized by the .NET community and Microsoft, and sponsored by the .NET Foundation and our ecosystem partners. Come celebrate and learn about what you can do with .NET 7. 
+- More info on [dotnetconf.net](https://www.dotnetconf.net/&utm_source=github).
 
 ## Introduction
 
