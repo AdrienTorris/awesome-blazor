@@ -69,6 +69,7 @@ Doing the [Build a web app with Blazor](https://docs.microsoft.com/en-us/learn/m
 * [Blazor WebAssembly performance best practices](https://docs.microsoft.com/aspnet/core/blazor/webassembly-performance-best-practices) - ASP.NET Core Blazor WebAssembly performance best practices, by Pranav Krishnamoorthy and Steve Sanderson. 
 * [themesof.net](https://themesof.net/) - .NET 6 planning process.
 * [30 seconds of Blazor](https://www.30secondsofblazor.net/) - Collection of useful snippets, inspired by the popular 30 seconds of JavaScript and React.
+* [Hack System](https://github.com/CuteLeon/HackSystem) - ![last commit](https://img.shields.io/github/last-commit/cuteleon/hacksystem?style=flat-square&cacheSeconds=86400) A virtual desktop system (Hack System) based on ASP.NET Core and Blazor WebAssembly. Support to design and implement your programs and execute it in Hack System!
 
 ## Templates
 * [Blazor Hero](https://github.com/blazorhero/CleanArchitecture) - ![stars](https://img.shields.io/github/stars/blazorhero/CleanArchitecture?style=flat-square) ![last commit](https://img.shields.io/github/last-commit/blazorhero/CleanArchitecture?style=flat-square) - Clean Architecture Solution Template for Blazor WebAssembly built with MudBlazor Components. This project will make your Blazor Learning Process much easier than you anticipate. Blazor Hero is meant to be an Enterprise Level Boilerplate, which comes free of cost, completely open sourced. [Read the Quick Start Guide here](https://codewithmukesh.com/blog/blazor-hero-quick-start-guide/).
