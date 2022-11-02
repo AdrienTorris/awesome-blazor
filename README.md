@@ -723,6 +723,7 @@ Doing the [Build a web app with Blazor](https://docs.microsoft.com/en-us/learn/m
 ## Community
 * [Awesome Blazor on Twitter](https://twitter.com/awesomeblazor) - This repository's Twitter feed.
 * [Gitter](https://gitter.im/aspnet/Blazor) - Blazor discussion on Gitter.
+* [I Love DotNet](https://github.com/ILoveDotNet/ilovedotnet) - ![stars](https://img.shields.io/github/stars/ilovedotnet/ilovedotnet?style=flat-square) ![last commit](https://img.shields.io/github/last-commit/ilovedotnet/ilovedotnet?style=flat-square) - This is a .NET knowledge sharing platform with live demos crafted by developers for developers with love using .NET Blazor. [ilovedotnet.org](https://www.ilovedotnet.org).
 * [Learn Blazor](https://learn-blazor.com/) - Community documentation on Blazor.
 * [Blazor Help Website](https://blazorhelpwebsite.com/) - Blogs and code samples primarily covering server-side Blazor.
 * [Practical samples of Blazor](https://github.com/dodyg/practical-aspnetcore/tree/master/projects/blazor) - Practical samples of Blazor.
