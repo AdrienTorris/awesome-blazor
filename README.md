@@ -36,6 +36,17 @@ Thanks @jsakamoto for this! [Source code](https://github.com/jsakamoto/awesome-b
 - .NET Conf is a free, three-day, virtual developer event that celebrates the major releases of the .NET development platform. It is co-organized by the .NET community and Microsoft, and sponsored by the .NET Foundation and our ecosystem partners. Come celebrate and learn about what you can do with .NET 7. 
 - More info on [dotnetconf.net](https://www.dotnetconf.net/&utm_source=github).
 
+## .NET Conf session - Blazor in .NET 7 (November 8, 2022).
+[<img src="https://pbs.twimg.com/media/FhDuRhuXkAA_9IC?format=jpg&name=4096x4096" align="center" width="100%">](https://dotnet.microsoft.com/en-us/live)
+- Live-streaming: What's new for Blazor in .NET 7
+- Now at #dotNETConf, @stevensanderson gives us a look at the new support for custom elements, improved data binding, handling location changing events, dynamic authentication requests, and more!
+
+## .NET Conf session - Create native desktop & mobile apps using web skills in Blazor Hybrid (November 8, 2022).
+[<img src="https://pbs.twimg.com/media/FhEy8LGWYAANMGr?format=jpg&name=4096x4096" align="center" width="100%">](https://dotnet.microsoft.com/en-us/live)
+- Live-streaming for App Devs: Create native desktop & mobile apps using web skills in Blazor Hybrid
+- @original_ejl and @JamesMontemagno join #dotNETConf to discuss building world-class apps with native API access with .NET MAUI and Blazor Hybrid.
+
+
 ## Introduction
 
 ### What is Blazor?
@@ -539,6 +550,7 @@ Doing the [Build a web app with Blazor](https://docs.microsoft.com/en-us/learn/m
 * [Archives](https://github.com/AdrienTorris/awesome-blazor/tree/master/Archives) - [2020](https://github.com/AdrienTorris/awesome-blazor/blob/master/Archives/2020.md#videos), [2019](https://github.com/AdrienTorris/awesome-blazor/blob/master/Archives/2019.md#videos), [2018](https://github.com/AdrienTorris/awesome-blazor/blob/master/Archives/2018.md#videos), [2017](https://github.com/AdrienTorris/awesome-blazor/blob/master/Archives/2017.md#videos).
 
 ## Articles
+* [Release: Blazorise 1.1.3](https://blazorise.com/news/release-notes/113) - November 8, 2022 - This Blazorise version was supposed to be just a minor maintenance release. Instead, we got a few relatively large features and announcements, with .NET 7 support. 
 * [Containerized Blazor: Microsoft Ponders New Client-Side Hosting](https://visualstudiomagazine.com/articles/2022/11/02/blazor-docker.aspx) - November 2, 2022 - Microsoft is exploring built-in container support for client-side Blazor WebAssembly apps. Article on Visual Studio Magazine.
 * [Resize images before uploading in Blazor Web Assembly](https://www.mikesdotnetting.com/article/361/resize-images-before-uploading-in-blazor-web-assembly) - October 31, 2022 - Resize images before uploading in Blazor Web Assembly.
 * [Experimenting with .NET 7, WASM, and WASI on Docker](https://laurentkempe.com/2022/10/31/experimenting-with-dotnet-7-wasm-and-wasi-on-docker/) - October 31, 2022 - On October 24th, Docker announced the support of WASM and WASI in a new technical preview release. This articles tries it out and sees how it works with .NET 7.
