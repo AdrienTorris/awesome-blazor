@@ -29,6 +29,11 @@ Thanks @jsakamoto for this! [Source code](https://github.com/jsakamoto/awesome-b
 * [Community](#community)
 * [Other Languages](#other-languages)
 
+## Are you ready for Build 2023? (May 23-25, 2023).
+[<img src="https://pbs.twimg.com/media/FvItY-MWABM33yX?format=jpg&name=medium" align="center" width="100%">](https://devblogs.microsoft.com/dotnet/microsoft-build-2023-and-dotnet/)
+- Get an overview of some of the .NET sessions and live Q&A coming to #MSBuild this year.
+- May 23-25, 2023
+
 ## Introduction
 
 ### What is Blazor?
@@ -400,6 +405,7 @@ Doing the [Build a web app with Blazor](https://docs.microsoft.com/en-us/learn/m
 * [Archives](https://github.com/AdrienTorris/awesome-blazor/tree/master/Archives) - [2021](https://github.com/AdrienTorris/awesome-blazor/blob/master/Archives/2021.md#videos), [2020](https://github.com/AdrienTorris/awesome-blazor/blob/master/Archives/2020.md#videos), [2019](https://github.com/AdrienTorris/awesome-blazor/blob/master/Archives/2019.md#videos), [2018](https://github.com/AdrienTorris/awesome-blazor/blob/master/Archives/2018.md#videos), [2017](https://github.com/AdrienTorris/awesome-blazor/blob/master/Archives/2017.md#videos).
 
 ## Articles
+* [Join the .NET Team at Microsoft Build 2023](https://devblogs.microsoft.com/dotnet/microsoft-build-2023-and-dotnet/) - April 24, 2023 - Are you ready for Build 2023? Microsoft’s premier developer conference is just around the corner, and there are several exciting .NET sessions that you won’t want to miss.
 * [State Hasn't Changed? Why and when Blazor components re-render](https://jonhilton.net/blazor-rendering/) - April 12, 2023 - Sooner or later, as you build out your Blazor UI, you’re going to hit a situation where your component isn’t re-rendering when you expect it to.
 * [ASP.NET Core updates in .NET 8 Preview 3](https://devblogs.microsoft.com/dotnet/improvements-auth-identity-aspnetcore-8/) - April 11, 2023 - ASP.NET Core updates in .NET 8 Preview 3. Here’s a summary of what’s new in this preview release: Server-side rendering with Blazor, Render Razor components outside of ASP.NET Core, Sections support in Blazor, Monitor Blazor Server circuit activity, SIMD enabled by default for Blazor WebAssembly apps and more. See the [ASP.NET Core roadmap for .NET 8](https://github.com/dotnet/aspnetcore/issues/44984).
 * [How to Build Fast and Reusable Blazor Code](https://visualstudiomagazine.com/articles/2023/04/03/blazor-qa.aspx) - April 3, 2023 - Microsoft even offers a Build reusable components with Blazor learning module that shows how to build a Razor class library that contains Blazor components, package a Razor class library for use in other Blazor applications, and reference a Razor class library in a Blazor application and use its components. Author: Jeffrey T. Fritz.
