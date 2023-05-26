@@ -415,6 +415,7 @@ Doing the [Build a web app with Blazor](https://docs.microsoft.com/en-us/learn/m
 
 ## Articles
 * [Good (Blazor) Components are... ?](https://jonhilton.net/good-blazor-components/) - May 23, 2023 - Components, done “right” carry tremendous potential to speed up your web development, and make ongoing maintenance (and development) of your apps much easier. But, like any tool, it all depends how you use it.
+* [ASP.NET Core updates in .NET 8 Preview 4](https://devblogs.microsoft.com/dotnet/asp-net-core-updates-in-dotnet-8-preview-4/) - May 16, 2023 - .NET 8 Preview 4 is now available and includes many great new improvements to ASP.NET Core. Streaming rendering with Blazor components, Handling form posts with Blazor SSR, Route to named elements in Blazor, Webcil packaging for Blazor WebAssembly apps and more.
 * [Big Changes Coming for Blazor in .NET 8](https://www.telerik.com/blogs/big-changes-coming-blazor-dotnet-8) - May 16, 2023 - .NET 8 is shaping up to be a significant release for Blazor, and there’s one big reason why.
 * [BurnRate is fueling revenue success with Blazor](https://dotnet.microsoft.com/en-us/platform/customers/burnrate) - May, 2023 - [Customer success case](https://dotnet.microsoft.com/en-us/platform/customers) with BurnRate.
 * [Join the .NET Team at Microsoft Build 2023](https://devblogs.microsoft.com/dotnet/microsoft-build-2023-and-dotnet/) - April 24, 2023 - Are you ready for Build 2023? Microsoft’s premier developer conference is just around the corner, and there are several exciting .NET sessions that you won’t want to miss.
