@@ -29,12 +29,6 @@ Thanks @jsakamoto for this! [Source code](https://github.com/jsakamoto/awesome-b
 * [Community](#community)
 * [Other Languages](#other-languages)
 
-## Are you ready for Build 2023? (May 23-25, 2023).
-[<img src="https://pbs.twimg.com/media/FvItY-MWABM33yX?format=jpg&name=medium" align="center" width="100%">](https://devblogs.microsoft.com/dotnet/microsoft-build-2023-and-dotnet/)
-- Get an overview of some of the .NET sessions and live Q&A coming to #MSBuild this year.
-- May 23-25, 2023
-- Sessions : [build.microsoft.com](https://build.microsoft.com/en-US/sessions?filter=additionalTrack%2FlogicalValue%3E.NET)
-
 ## Introduction
 
 ### What is Blazor?
