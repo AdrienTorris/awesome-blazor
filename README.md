@@ -35,6 +35,11 @@ Thanks @jsakamoto for this! [Source code](https://github.com/jsakamoto/awesome-b
 - .NET Conf has been a virtual event since the beginning, and this year we’re celebrating our 13th online conference. We always strive to create a world class, engaging, virtual experience for all our attendees no matter where they are. Over the years we've expanded our content and our reach. We now draw over 100 thousand live viewers and sponsor hundreds of local events around the world. 
 - More info on [dotnetconf.net](https://www.dotnetconf.net/?utm_source=awesome-blazor&utm_medium=github).
 
+## ASP.NET COMMUNITY STANDUP - New Blazor updates in .NET 8 RC2 (October 10, 2023).
+[<img src="https://i.ytimg.com/vi/C2y9tXcbweg/mqdefault_live.jpg" align="center" width="100%">](https://www.dotnetconf.net/?utm_source=awesome-blazor&utm_medium=github)
+- Join us to learn about what Blazor has to offer in .NET 8 RC2! We'll also be addressing some of your questions about Blazor from the last community standup.
+- More info on [dotnet.microsoft.com](https://www.youtube.com/watch?v=C2y9tXcbweg&list=PLdo4fOcmZ0oX-DBuRG4u58ZTAJgBAeQ-t&index=2).
+
 ## Introduction
 
 ### What is Blazor?
