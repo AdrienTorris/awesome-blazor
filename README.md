@@ -30,15 +30,11 @@ Thanks @jsakamoto for this! [Source code](https://github.com/jsakamoto/awesome-b
 * [Community](#community)
 * [Other Languages](#other-languages)
 
-## .NET Conf 2023 (November 14-16, 2023).
-[<img src="https://pbs.twimg.com/media/F56yqMVWYAg-LTA?format=jpg&name=medium" align="center" width="100%">](https://www.dotnetconf.net/?utm_source=awesome-blazor&utm_medium=github)
-- .NET Conf has been a virtual event since the beginning, and this year we’re celebrating our 13th online conference. We always strive to create a world class, engaging, virtual experience for all our attendees no matter where they are. Over the years we've expanded our content and our reach. We now draw over 100 thousand live viewers and sponsor hundreds of local events around the world. 
-- More info on [dotnetconf.net](https://www.dotnetconf.net/?utm_source=awesome-blazor&utm_medium=github).
-
-## ASP.NET COMMUNITY STANDUP - New Blazor updates in .NET 8 RC2 (October 10, 2023).
-[<img src="https://i.ytimg.com/vi/C2y9tXcbweg/mqdefault_live.jpg" align="center" width="100%">](https://www.youtube.com/watch?v=C2y9tXcbweg&list=PLdo4fOcmZ0oX-DBuRG4u58ZTAJgBAeQ-t&index=2)
-- Join us to learn about what Blazor has to offer in .NET 8 RC2! We'll also be addressing some of your questions about Blazor from the last community standup.
-- More info on [dotnet.microsoft.com](https://www.youtube.com/watch?v=C2y9tXcbweg&list=PLdo4fOcmZ0oX-DBuRG4u58ZTAJgBAeQ-t&index=2).
+## ASP.NET COMMUNITY STANDUP - ASP.NET Community Standup - Blazor Experiments + eShop Q&A (December 12, 2023).
+[<img src="https://i.ytimg.com/vi/fkDSaIti_KU/maxresdefault.jpg?v=656e63e2" align="center" width="100%">](https://www.youtube.com/watch?v=fkDSaIti_KU)
+- In this session, we will show you some experimental ideas for Blazor and .NET+WASI and answer your questions about the .NET eShop Blazor App.
+- Featuring: Steve Sanderson (@stevensanderson), Jon Galloway (@jongalloway), Mackinnon Buck (@MackinnonBuck).
+- Live on [YouTube](https://www.youtube.com/watch?v=fkDSaIti_KU).
 
 ## Introduction
 
@@ -355,6 +351,7 @@ Doing the [Build a web app with Blazor](https://docs.microsoft.com/en-us/learn/m
 * [Try .NET](https://github.com/dotnet/try) - ![GitHub stars](https://img.shields.io/github/stars/dotnet/try?style=flat-square&cacheSeconds=604800) ![last commit](https://img.shields.io/github/last-commit/dotnet/try?style=flat-square&cacheSeconds=86400) Try .NET provides developers and content authors with tools to create interactive experiences.
 
 ## Videos
+* [ASP.NET Community Standup - Blazor Experiments + eShop Q&A](https://www.youtube.com/watch?v=fkDSaIti_KU) - December 12, 2023 - In this session, we will show you some experimental ideas for Blazor and .NET+WASI and answer your questions about the .NET eShop Blazor App. [Community links](https://www.theurlist.com/blazor-standup-2023-12).
 * [.NET Conf: Integrating Blazor with existing .NET web apps](https://www.youtube.com/watch?v=dE-XCUVCkkE) - ![duration](https://img.shields.io/badge/Duration:%20-30%20min-%230094FF?style=flat-square&cacheSeconds=maxAge&logo=youtube) November 18, 2023 - ASP.NET's RazorComponent model is intuitive and brings productivity to web development. In this session we'll learn how RazorComponents aren't just for Blazor apps and how we can integrate the best part of Blazor with existing ASP.NET applications using: Razor Pages, MVC, and even other front-end technologies.
 * [.NET Conf: Building beautiful Blazor apps with Tailwind CSS](https://www.youtube.com/watch?v=QIdedo8iI4Y) - ![duration](https://img.shields.io/badge/Duration:%20-39%20min-%230094FF?style=flat-square&cacheSeconds=maxAge&logo=youtube) November 18, 2023 - Tailwind CSS has been growing in popularity for some time. It’s fast becoming one of the top frameworks to use when styling applications. It offers a different approach to the traditional frameworks like Bootstrap—utility based styling. Rather than using prebuilt components—which result in your application looking like a lot of others on the web—you can tailor your design by applying small focused CSS classes resulting in a unique style for your app. In this code focused talk, you will learn how to bring the power of Tailwind CSS to your Blazor applications. We’ll start off with a brief introduction to Tailwind. Then we’ll get into some code and see how we can integrate Tailwind with Blazor. For the rest of the time, we’ll explore the various features of Tailwind and see just how beautiful we can make our Blazor app.
 * [.NET Conf: Blazor Puzzles and Answers](https://www.youtube.com/watch?v=fxGEVS2Gcyo) - ![duration](https://img.shields.io/badge/Duration:%20-25%20min-%230094FF?style=flat-square&cacheSeconds=maxAge&logo=youtube) November 18, 2023 - The Blazor Puzzle podcast team of Carl Franklin and Jeff Fritz have a collection of puzzles and brain-teasers for you in this code-focused session about the latest features of the Blazor framework. We'll fix bugs, build cool features, and even write a unit test or two.
