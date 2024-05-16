@@ -30,12 +30,6 @@ Thanks @jsakamoto for this! [Source code](https://github.com/jsakamoto/awesome-b
 * [Community](#community)
 * [Other Languages](#other-languages)
 
-## ASP.NET COMMUNITY STANDUP - ASP.NET Community Standup - Blazor Experiments + eShop Q&A (December 12, 2023).
-[<img src="https://i.ytimg.com/vi/fkDSaIti_KU/maxresdefault.jpg?v=656e63e2" align="center" width="100%">](https://www.youtube.com/watch?v=fkDSaIti_KU)
-- In this session, we will show you some experimental ideas for Blazor and .NET+WASI and answer your questions about the .NET eShop Blazor App.
-- Featuring: Steve Sanderson (@stevensanderson), Jon Galloway (@jongalloway), Mackinnon Buck (@MackinnonBuck).
-- Live on [YouTube](https://www.youtube.com/watch?v=fkDSaIti_KU).
-
 ## Introduction
 
 ### What is Blazor?
