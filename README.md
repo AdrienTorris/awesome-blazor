@@ -30,10 +30,6 @@ Thanks @jsakamoto for this! [Source code](https://github.com/jsakamoto/awesome-b
 * [Community](#community)
 * [Other Languages](#other-languages)
 
-## Build 2024 (May 21-23, 2024).
-[<img src="https://pbs.twimg.com/media/GOCP-m-XoAEDXVu?format=jpg&name=medium" align="center" width="100%">](https://build.microsoft.com/)
-- [build.microsoft.com](https://build.microsoft.com/).
-
 ## Introduction
 
 ### What is Blazor?
