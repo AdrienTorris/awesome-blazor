@@ -357,6 +357,7 @@ Doing the [Build a web app with Blazor](https://docs.microsoft.com/en-us/learn/m
 
 ## Real-World applications
 * [Try .NET](https://github.com/dotnet/try) - ![GitHub stars](https://img.shields.io/github/stars/dotnet/try?style=flat-square&cacheSeconds=604800) ![last commit](https://img.shields.io/github/last-commit/dotnet/try?style=flat-square&cacheSeconds=86400) Try .NET provides developers and content authors with tools to create interactive experiences.
+* [FairPlayCombined](https://github.com/pticostaricags/FairPlayCombined) - ![GitHub stars](https://img.shields.io/github/stars/pticostaricags/FairPlayCombined?style=flat-square&cacheSeconds=604800) ![last commit](https://img.shields.io/github/last-commit/pticostaricags/FairPlayCombined?style=flat-square&cacheSeconds=86400) The FairPlay platform is a set of pre-built customizable solutions created with Blazor.
 
 ## Videos
 * [ASP.NET Community Standup - Using GraphQL to enhance Blazor apps](https://www.youtube.com/watch?v=ubX-a6_V_ao) - July 9, 2024 - ![duration](https://img.shields.io/badge/Duration:%20-67%20min-%230094FF?style=flat-square&cacheSeconds=maxAge&logo=youtube) Let's dive into why GraphQL is a compelling choice for API queries and how to integrate it with Blazor. In this session, we'll enhance a Blazor app by incorporating GraphQL and using QuickGrid to present the data.
