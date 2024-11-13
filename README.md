@@ -10,6 +10,11 @@ Contributions are always welcome! Please take a look at the [contribution guidel
 If you need to search on this list you can try this great website: [Awesome Blazor Browser](https://jsakamoto.github.io/awesome-blazor-browser/).
 Thanks @jsakamoto for this! [Source code](https://github.com/jsakamoto/awesome-blazor-browser) ![stars](https://img.shields.io/github/stars/jsakamoto/awesome-blazor-browser?style=flat-square&cacheSeconds=604800) ![last commit](https://img.shields.io/github/last-commit/jsakamoto/awesome-blazor-browser?style=flat-square&cacheSeconds=86400).
 
+## .NET Conf 2024 (November 12-14, 2024).
+[<img src="https://pbs.twimg.com/profile_banners/757891106/1728575047/1500x500" align="center" width="100%">](https://www.dotnetconf.net/?utm_source=awesome-blazor&utm_medium=github)
+- Celebrate and learn about what you can do with .NET 9 at the biggest .NET virtual event.
+- More info on [dotnetconf.net](https://www.dotnetconf.net/?utm_source=awesome-blazor&utm_medium=github).
+
 ## Contents
 * [Introduction](#introduction)
 * [General](#general)
