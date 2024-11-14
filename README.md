@@ -363,6 +363,7 @@ Doing the [Build a web app with Blazor](https://docs.microsoft.com/en-us/learn/m
 
 ## Real-World applications
 * [Try .NET](https://github.com/dotnet/try) - ![GitHub stars](https://img.shields.io/github/stars/dotnet/try?style=flat-square&cacheSeconds=604800) ![last commit](https://img.shields.io/github/last-commit/dotnet/try?style=flat-square&cacheSeconds=86400) Try .NET provides developers and content authors with tools to create interactive experiences.
+* [FairPlayCombined](https://github.com/pticostaricags/FairPlayCombined) - ![GitHub stars](https://img.shields.io/github/stars/pticostaricags/FairPlayCombined?style=flat-square&cacheSeconds=604800) ![last commit](https://img.shields.io/github/last-commit/pticostaricags/FairPlayCombined?style=flat-square&cacheSeconds=86400) The FairPlay platform is a set of pre-built customizable solutions created with Blazor.
 
 ## Videos
 * [What's New for ASP.NET Core & Blazor in .NET 9](https://www.youtube.com/watch?v=2xXc1hNwp0o) - November 14, 2024 - ![duration](https://img.shields.io/badge/Duration:%20-40%20min-%230094FF?style=flat-square&cacheSeconds=maxAge&logo=youtube) Find out about all the new features coming to ASP.NET Core & Blazor for web developers in .NET 9.
