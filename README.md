@@ -59,7 +59,7 @@ Doing the [Build a web app with Blazor](https://docs.microsoft.com/en-us/learn/m
 * [Blazor University](http://blazor-university.com/) - Unofficial documentation website.
 * [Demo](https://blazor-demo.github.io/) - Official basic demo website.
 * [Documentation](https://docs.microsoft.com/aspnet/core/blazor) - Official documentation, by Microsoft.
-* [eShopOnBlazor](https://github.com/dotnet-architecture/eShopOnBlazor) - ![GitHub stars](https://img.shields.io/github/stars/dotnet-architecture/eShopOnBlazor?style=flat-square&cacheSeconds=604800&logo=microsoft) ![last commit](https://img.shields.io/github/last-commit/dotnet-architecture/eShopOnBlazor?style=flat-square&cacheSeconds=86400) Migration of a traditional ASP.NET Web Forms app to Blazor, sample by Microsoft Architecture.
+* [eShopOnBlazor](https://github.com/dotnet/eShop) - ![GitHub stars](https://img.shields.io/github/stars/dotnet/eShop?style=flat-square&cacheSeconds=604800&logo=microsoft) ![last commit](https://img.shields.io/github/last-commit/dotnet/eShop?style=flat-square&cacheSeconds=86400) Migration of a traditional ASP.NET Web Forms app to Blazor, sample by Microsoft Architecture.
 * [FAQ](https://github.com/aspnet/Blazor/wiki/FAQ) - FAQ.
 * [GitHub repository](https://github.com/dotnet/aspnetcore) - ![GitHub stars](https://img.shields.io/github/stars/dotnet/aspnetcore?style=flat-square&cacheSeconds=604800&logo=microsoft) ![last commit](https://img.shields.io/github/last-commit/dotnet/aspnetcore?style=flat-square&cacheSeconds=86400) The official Blazor repository (which is the ASP.NET Core repository).
 * ['Hello World' sample](https://github.com/dodyg/practical-aspnetcore/tree/master/projects/blazor) - 'Hello World' sample.
