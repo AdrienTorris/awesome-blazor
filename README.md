@@ -476,6 +476,7 @@ Doing the [Build a web app with Blazor](https://docs.microsoft.com/en-us/learn/m
 * [Tracetool](https://github.com/capslock66/Tracetool#Blazor-client--server) - ![GitHub stars](https://img.shields.io/github/stars/capslock66/Tracetool?style=flat-square&cacheSeconds=604800) ![GitHub last commit](https://img.shields.io/github/last-commit/capslock66/Tracetool?style=flat-square&cacheSeconds=86400) Tracetool viewer, client Api for Dotnet, Java, Javasvript, C++ , Python, Delphi.
 * [Visual Studio](https://www.visualstudio.com/vs/preview) - Latest preview of Visual Studio.
 * [Visual Studio Code](https://code.visualstudio.com/) - Visual Studio Code, free, open source and cross-platform code editor.
+* [Instruct UI](https://instructui.com/) - Create ASP.NET Core Blazor UI from text description or screenshots. Currently supports UI generation in MudBlazor, Bootstrap, and Tailwind CSS. ([See example generations](https://instructui.com/community))
 
 ## Books
 * [Learning Blazor](https://learning.oreilly.com/library/view/learning-blazor/9781098113230) - Build Single-Page Apps with WebAssembly and C# (By David Pine via O'Reilly Early Release February 3rd, 2022).
